@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 9:44 2019/08/18
+! 最終更新 13:42 2019/08/18
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -834,8 +834,7 @@ drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
 	||ura-akiba.jp^$subdocument
 ||nhentai.net/api/
 ||nuvidp.com^$domain=nuvid.com
-||nijie.info/dmm/
-	||pic*.nijie.info/banner/
+||nijie.net/*/banner/
 ||news-postseven.com/script/inner_banner.js
 ||okwave.jp/ajax_qamatch
 ||p.dmm.co*/p/*/bnr
@@ -1528,8 +1527,7 @@ navitime.co.jp###under-advertisement
 news.mixi.jp##.adsenseBannerArea
 nicofinder.net###video-ichiba
 nikkansports.com##[id^="sideAd"]
-nijie.info###inter_background
-nijie.info##[class*="tieup_"]
+nijie.info,horne.red##[class*="tieup_"]
 nikkansports.com##.adBECOME
 northwood.blog60.fc2.com###menu1Block > .menuBlockBase:first-child
 npn.co.jp###arata5
@@ -2435,7 +2433,7 @@ live2.nicovideo.jp#@#[id*="-ad-"]:not(html):not(body)
 	!検索結果
 live.nicovideo.jp#@#[id$="-ad"]:not(html):not(body)
 	!タグ登録できない
-nijie.info#@#[id$="-ad"]:not(html):not(body)
+nijie.info,horne.red#@#[id$="-ad"]:not(html):not(body)
 	! 動画見れない
 openload.co#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
 openload.co#@#[class$="-ad"]:not(html):not(body)
