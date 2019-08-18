@@ -2559,6 +2559,7 @@ xvideos.com##script:contains(checkVideoAds)
 youporn.com##script:contains(ChromePopMouseDownHandler)
 
 	!遅延対策
+47news.jp##^script:has-text(a,s,y,n,c,h,i,d,e)
 alphapolis.co.jp##^script:has-text(a,s,y,n,c,h,i,d,e)
 mangabox.me##^script:has-text(a,s,y,n,c,h,i,d,e)
 nikkansports.com##^script:has-text(a,s,y,n,c,h,i,d,e)
