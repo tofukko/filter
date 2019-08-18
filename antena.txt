@@ -1,0 +1,826 @@
+[Adblock Plus 2.0]
+
+! Title: antenablocklistzanteiban
+! Homepage: tofukko.r.ribbon.to/abp.html
+!
+! 最終更新 20:08 2018/03/03
+
+!/pickup.php?
+
+/headline.$subdocument
+/headline_$subdocument
+/headline1.$subdocument
+/headline2.$subdocument
+/headline3.$subdocument
+/headline4.$subdocument
+/headline5.$subdocument
+/headline6.$subdocument
+/headline7.$subdocument
+/headline8.$subdocument
+/headline9.$subdocument
+/rss.$subdocument
+/rss-$subdocument
+/rss_$subdocument
+/rss/*$subdocument
+/rss1.$subdocument
+/rss2.$subdocument
+/rss3.$subdocument
+/rss4.$subdocument
+_rss.$subdocument
+_rss1.$subdocument
+_rss2.$subdocument
+_rss3.$subdocument
+_rss4.$subdocument
+
+/blogroll_
+/blogroll-
+.com/js/kotei
+/popular_article
+
+||adult-rss.com^$third-party
+||blog-feed.net^$third-party
+||garss.jp^$third-party
+||garss.tv^$third-party
+||goodmediator.net^$third-party
+||linkwithin.com^$third-party
+||permalink-system.com^$third-party
+||rankc1.apserver.net^$third-party
+||rss-loader.com^$third-party
+||tanganrss.com^$third-party
+
+
+||ant7.info^$third-party
+||antenna-san.net^$third-party
+||antennach.com^$third-party
+||antennash.com^$third-party
+||antennasync.me^$third-party
+||matome-ch.com^$third-party
+||r-18.org^$third-party
+
+
+||blogroll.livedoor.net^
+||blozoo.*/locktool/
+||blozoo.*/rsstool/
+||feed.mikle.com^
+||livedoor.jp/plugin/ldblog_rss_plugin.js
+||livedoor.jp/plugin/popular_articles_with_image_plugin.js?
+||livedoor.jp/js/related_articles.js
+||st.shinobi.jp^
+||rcm.shinobi.jp^
+
+###rss
+###rss0
+###rss1
+###rss2
+##[id^="rss-"]:not(html):not(body)
+##[id^="rss_"]:not(html):not(body)
+##[id*="-rss-"]:not(html):not(body)
+##[id$="-rss"]:not(html):not(body)
+##[id$="_rss"]:not(html):not(body)
+
+##.rss
+##.rss0
+##.rss1
+##.rss2
+##[class^="rss-"]:not(html):not(body)
+##[class^="rss_"]:not(html):not(body)
+##[class*="-rss-"]:not(html):not(body)
+##[class$="-rss"]:not(html):not(body)
+##[class$="_rss"]:not(html):not(body)
+
+##[class^="blogroll-"]:not(html):not(body)
+##[class^="blogroll_"]:not(html):not(body)
+##[class^="headline-"]:not(html):not(body)
+##[class^="headline_"]:not(html):not(body)
+##.popularArticlesWithImage
+
+blog.livedoor.jp##[src="http://blog.livedoor.jp/aoba_f/settings/ad.js"] ~ #wrapper #pickrightcon
+blog.livedoor.jp##[src="http://blog.livedoor.jp/aoba_f/settings/ad.js"] ~ #wrapper [class^="rss"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/hibinanchara/settings/ad.js"] ~ #container div[style="margin:0px;padding:0px;"][align="center"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/jyoushiki43/settings/ad.js"] ~ #container #RSSbox
+blog.livedoor.jp##[src="http://blog.livedoor.jp/kaikaihanno/settings/ad.js"] ~ #container .headrss
+blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap [class^="entry_box"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap a[href^="https://goo.gl/"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap a[href^="http://bit.ly/"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/nwknews/settings/header.js"] ~ #container TABLE[summary="<%blog_name>"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/ringotomomin/js/sitejack.js"] ~ .wrap.cf A[href^="https://goo.gl/"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/ringotomomin/js/sitejack.js"] ~ .wrap.cf #RSS001
+
+2chcopipe.com##[class^="entry_box"]
+akb48mato.com###main_waku2
+alfalfalfa.com###popular_imagert
+beelzeboulxxx.com##.article-body ASIDE
+beelzeboulxxx.com##.article-body-more > *:not([class^="t_"])
+bipblog.com###main_center > .main_center_block:first-child
+burusoku-vip.com##.article-body-more:last-child > div:first-child
+digital-thread.com##.top-contents-pickup
+digital-thread.com##[class^="article-news"]
+digital-thread.com##[class$="-headline"]
+drdinl.com##.pc-page-only
+fxya.blog129.fc2.com##[id^="pickup"]
+heartlife-matome.com##.arttop
+honwaka2ch.livedoor.biz##.google-user-ad-728 + div + div
+hosyusokuhou.jp##[id^="head"]:not(#headerinner)
+hosyusokuhou.jp##.abanner
+huyosoku.com##[id$="-feed"]
+kanasoku.info###headline
+kemono-friendsch.com##[class^="waku"]
+kichimama.com##.ifram
+kyuukaiou.ldblog.jp##.rssbox
+mashlife.doorblog.jp##[class^="koteigazo"]
+matome-tarou.ldblog.jp###j_rss
+minnanohimatubushi.2chblog.jp##[id^="RSS-"]
+minnanohimatubushi.2chblog.jp##[class^="PR"]
+minnanohimatubushi.2chblog.jp##.article-body-more > A + BR
+minnanohimatubushi.2chblog.jp##.article-body-more > BR + A
+news30over.com##.topbox
+news4wide.livedoor.biz###niee
+news4vip.livedoor.biz##.article-body-more > DIV:first-child
+news4vip.livedoor.biz##A[onclick^="javascript:"]
+newsoku.blog##.text-pc
+nanj-world.blog.jp###second-header
+nijitoraware.com##.imgrss2
+nomusoku.blomaga.jp###links-third
+nomusoku.blomaga.jp##.rssfeed
+okashinahitobito.net##.logbox
+oniyomediary.com###more > div:not(.t_h):not(.t_b)
+oniyomediary.com##a[href^="http://bit.ly/"]
+openworldnews.net###headline
+pokemon-goh.doorblog.jp###more > .t_b:first-child
+pokemon-goh.doorblog.jp##a[href^="https://goo.gl/"]
+res2ch.net###content > [class^="header"]
+scienceplus2ch.com##a[href^="https://goo.gl/"]
+scienceplus2ch.com##a[href^="http://bit.ly/"]
+squallchannel.com##.article-body-more > DIV:first-child
+squallchannel.com##.shi_antena
+squallchannel.com##[class^="rss"]
+syurabattle.com##.fixed-link
+tamasoku.blog35.fc2.com##DIV[style="background-color: #ffffff;border: 1px solid #000000;margin: 0px 0px 25px 0px;padding: 14px 8px 20px;"]
+tamasoku.blog35.fc2.com##[class$="_space_box"]
+tokuteishimasuta.com###headlinewrap
+uwakich.com###more > br:first-child + div
+vippers.jp###topRss
+vipsister23.com###more ~ BLOCKQUOTE
+vipsister23.com##[id^="share"]
+warotanikki.com##[class*="head"]
+workingnews.blog117.fc2.com###mainBlock > div + .free_area
+zch-vip.com##.headline_out
+
+
+||blog.livedoor.jp/goldennews/js/rssheader.html
+||blog.livedoor.jp/hibinanchara/hibirss
+||blog.livedoor.jp/love120331/rss
+||blog.livedoor.jp/misopan_news/$subdocument
+||blog.livedoor.jp/news_aru/pickup.htm
+||blog.livedoor.jp/pawapuro_kouryaku/$subdocument
+||blog.livedoor.jp/ringotomomin/archives/ent_kijinaka.js
+||blog.livedoor.jp/robosoku/$subdocument
+||blog.livedoor.jp/rock1963roll/pride_rss
+
+||fc2.com/b/a/n/bandai11/$subdocument
+||fc2.com/t/o/a/toanewsplus/$subdocument
+
+||blacknews.sakura.ne.jp^$domain=vipsister23.com
+||buffaloesmatome.blomaga.jp/rss
+||eegg.dip.jp/rssline
+||himasoku.com^$subdocument
+||insyoku.livedoor.biz/insyoku_rss
+||kijonikki.net^$script
+||kojikisokuhou.com^$subdocument
+||kyuukaiou.ldblog.jp^$subdocument
+||majikichi.com/js/cm_
+||majikichi.com/js/matomeja_entry.js
+||majikichi.com/js/rt_rank_widget
+||majikichi.com/js/rad_head_
+||matome-tarou.ldblog.jp^$subdocument
+||mindhack2ch.com/js
+||mudainodocument.com/headline8.html
+||news4wide.livedoor.biz^$subdocument
+||nogizaka-46bunno1.blog.jp^$subdocument
+||otanew.jp/rsstop.html
+||s2-log.com/SideImageLink
+||seesaa.net/image/burusoku-headline-mein.html$domain=burusoku-vip.com
+||sutekinakijo.com/js/kijinaka
+||sutekinakijo.com/js/kotei
+||tsubamesoku.blog.jp^$subdocument
+||waranote.livedoor.biz^$subdocument
+||zch-vip.com/js/
+
+! /*============ antenna ============*/
+
+! /* 2blo.net */
+##a[href*="2blo.net"]
+
+! /* 2chnavi */
+##a[href*="2chnavi.net"]
+
+! /* 2chNode */
+##a[href*="2chnode.com"]
+
+! /* 2chアンテナ */
+##a[href*="www.2ch-antenna.net"]
+
+! /* 2chアンテナしんぶん */
+##a[href*="www.animetheworld.com/2ch"]
+
+! /* 2chファインダー */
+##a[href*="2chfinder.com"]
+
+! /* 2chブログあんてな */
+##a[href*="2ch.diveluck.com"]
+
+! /* 2chまとめ */
+##a[href*="2ch.まとめ.gaasuu.com"]
+
+! /* 2chまとめAnteNavi!! */
+##a[href*="antenavi.net"]
+
+! /* 2chまとめMix */
+##a[href*="jdrop.net"]
+
+! /* 2chまとめアンテナ */
+##a[href*="2chrss.com"]
+
+! /* 2chまとめインデックス */
+##a[href*="matomeindex.com"]
+
+! /* 2chまとめちゃんねる */
+##a[href*="matome-ch.com"]
+
+! /* 2chまとめのまとめMM */
+##a[href*="2chmatome2.jp"]
+
+! /* 2chまとめヘッドライン */
+##a[href*="2ch-matome.com"]
+
+! /* 2chまとまと */
+##a[href*="2ch-matomato.com"]
+
+! /* 2GET */
+##a[href*="get2ch.net"]
+
+! /* 2ちゃんてな */
+##a[href*="2ch-antenna.com"]
+
+! /* ２ちゃんマップ */
+##a[href*="2chmap.com"]
+
+! /* 2ちゃんねるまとめ マニアクス【2MM】 */
+##a[href*="2ch-m.info"]
+
+! /* 2ちゃんねるまとめサイトのまとめ */
+##a[href*="labo.tv/2chnews"]
+
+! /* 2ちゃんねるまとめのまとめ */
+##a[href*="2chmm.com"]
+
+! /* 2ちゃんねるまとめるまとめ */
+##a[href*="2chmatomeru.info"]
+
+! /* ANT */
+##a[href*="ant-ant.net"]
+
+! /* Best Trend News */
+##a[href*="besttrendnews.net"]
+
+! /* Best Trend News */
+##a[href*="blog.livedoor.jp/best_trend_news"]
+
+! /* ErogBox */
+##a[href*="erogbox.com"]
+
+! /* Fast2chまとめヘッドライン */
+##a[href*="fast2ch.dip.jp"]
+
+! /* Girinio.jp */
+##a[href*="girinio.jp"]
+
+! /* j-antenna */
+##a[href*="www.j-antenna.com"]
+
+! /* J民アンテナ */
+##a[href*="nanjmin.net"]
+
+! /* likevideo.jp */
+##a[href*="likevideo.jp"]
+
+! /* LogPo! 2ch（ログポ2ちゃん） */
+##a[href*="2ch.logpo.jp"]
+
+! /* matomatome */
+##a[href*="matomatome.com"]
+
+! /* matomeja */
+##a[href*="matomeja.jp"]
+
+! /* MeeTreeアンテナ */
+##a[href*="mt-antenna.info"]
+
+! /* MEGA NEWS LAUNCHER */
+##a[href*="dariusnews.blog11.fc2.com"]
+
+! /* Mix News Japan */
+##a[href*="pspcolonys.blog129.fc2.com"]
+
+! /* NEWS CHANNEL */
+##a[href*="news-channel.doorblog.jp"]
+
+! /* NEWS CHOICE */
+##a[href*="news-choice.net"]
+
+! /* NewsLog */
+##a[href*="newslogfc2.blog.fc2.com"]
+
+! /* NewsPod */
+##a[href*="news-pod.net"]
+
+! /* NEWS PICK UP */
+##a[href*="newspickup.com"]
+
+! /* NEWS SELECT */
+##a[href*="news-select.net"]
+
+! /* News人 */
+##a[href*="newser.cc"]
+
+! /* PINK速報 */
+##a[href*="blog.livedoor.jp/imgpink"]
+
+! /* Rotco - アンテナサイト */
+##a[href*="rotco.jp"]
+
+! /* The 3rd */
+##a[href*="the-3rd.net"]
+
+! /* VIPあんてな 2chまとめサイト */
+##a[href*="2ch-matome.net"]
+
+! /* V速NEWS */
+##a[href*="vipper774.blog115.fc2.com"]
+
+! /* watch@2チャンネル */
+##a[href*="watch2ch.2chblog.jp"]
+
+! /* web2ちゃんねる */
+##a[href*="120.hp2.jp"]
+
+! /* XEX NEWS */
+##a[href*="blog.livedoor.jp/xexnews"]
+
+! /* ああああんてな */
+##a[href*="aaa-n.com"]
+
+! /* アテナあんてな */
+##a[href*="athena.sakuratan.com"]
+
+! /* アナグロあんてな */
+##a[href*="anaguro.yanen.org"]
+
+! /* アフォニュース */
+##a[href*="afoafodayo.blog84.fc2.com"]
+
+! /* アプリNews24 */
+##a[href*="applinews24.com"]
+
+! /* あるみら！ */
+##a[href*="arumira.com"]
+
+! /* アンテナch */
+##a[href*="antch.net"]
+
+! /* アンテなう！ */
+##a[href*="antenow.com"]
+
+! /* アンテナシェア */
+##a[href*="www.antennash.com"]
+
+! /* アンテナちゃん */
+##a[href*="antennachan.com"]
+
+! /* アンテナバンク */
+##a[href*="antennabank.com"]
+
+! /* アンテナメーカー */
+##a[href*=".antenam."]
+##a[href*=".a-antenam."]
+
+! /* アンテナ速報 */
+##a[href*="a.anipo.jp"]
+
+! /* あんだーぐらうんど */
+##a[href*="undergroundsokuhou.blog95.fc2.com"]
+
+! /* いーあんてな(#ﾟｗﾟ) */
+##a[href*="ii-antenna.net"]
+
+! /* 異世界とらふぃっく！ */
+##a[href*="isekaitraffic.livedoor.biz"]
+
+! /* イマシアン */
+##a[href*="www.imashian.com"]
+
+! /* いわしアンテナ >°))))彡 */
+##a[href*="iwashi.biz"]
+
+! /* インモラル */
+##a[href*="immoral.jp"]
+
+! /* ウェブニュー */
+##a[href*="webnew.net"]
+
+! /* ウホウホあんてな */
+##a[href*="uhouho2ch.com"]
+
+! /* エロブログにゅーす */
+##a[href*="eroblognews.doorblog.jp"]
+
+! /* エロ王の動画まとめ */
+##a[href*=edogan.com"]
+
+! /* エロ王の動画まとめ */
+##a[href*=ero-king.com"]
+
+! /* えろかわちゃん！ */
+##a[href*="ero-kawa.com"]
+
+! /* エログル */
+##a[href*="erogle-av.com"]
+
+! /* エロ動画アンテナ */
+##a[href*="eroantenna.com"]
+
+! /* エロ動画検索OMEKO */
+##a[href*="omeko.pink"]
+
+! /* エロモン */
+##a[href*="eromon.blue"]
+||eromon.blue^
+
+! /* おいしいアンテナ */
+##a[href*="a.moog.me"]
+
+! /* オタジャパン */
+##a[href*="otajapan.com"]
+
+! /* オマエラアンテナ */
+##a[href*="omaera.orz.hm"]
+
+! /* おまとめ */
+##a[href*="0matome.com"]
+
+! /* おまとめん.com */
+##a[href*="omatomen.com"]
+
+! /* おるつアンテナ orz */
+##a[href*="orzantenna.is-mine.net"]
+
+! /* 俺のあんてな */
+##a[href*="www.antena-2ch.net"]
+
+! /* オワタあんてな */
+##a[href*="pllp.info"]
+##a[href*="owata-net.com"]
+
+! /* オワタあんてな */
+##a[href*="owata.chann.net"]
+
+! /* ガールズリーダー */
+##a[href*="girlsreader.com"]
+
+! /* がっくしアンテナorz */
+##a[href*="gakkushi.com"]
+
+! /* ガッてな */
+##a[href*="ga-t.net"]
+
+! /* 勝つるあんてな！ */
+##a[href*="katuru.com"]
+
+! /* カナ速あんてな（RC） */
+##a[href*="kanasoku.s130.coreserver.jp"]
+
+! /* カレーにつけるパンってナンだっけ？ */
+##a[href*="net77777.blog77.fc2.com"]
+
+! /* ギコにゅー(,,ﾟДﾟ) - 2chまとめアンテナサイト */
+##a[href*="giko-news.com/"]
+
+! /* 記事しま.com */
+##a[href*="2ch.kijishima.com"]
+
+! /* キタコレ(ﾟ∀ﾟ)！！ - 2chまとめアンテナサイト */
+##a[href*="kita-kore.com"]
+
+! /* キチママまとめアンテナ */
+##a[href*="a-matome.com"]
+
+! /* キャベツアンテナ */
+##a[href*="cabbage2ch.com"]
+
+! /* 究極最終兵器2ndWeapon */
+##a[href*="kyuusai2nd.net"]
+
+! /* きょうびのニュース */
+##a[href*="kyoubi-news.com"]
+
+! /* キャノンアンテナ */
+##a[href*="http://kanone.biz"]
+
+! /* ぐるぐるログ */
+##a[href*="gurugurulog.com"]
+
+! /* 激安特価板ブログ */
+##a[href*="tokkaban.com"]
+
+! /* この●●クソワロタｗｗｗ */
+##a[href*="konowaro.net"]
+
+! /* ごはんはおかずだよ */
+##a[href*="ninikou.blog135.fc2.com"]
+
+! /* こゆいあんてな2ch('A`) */
+##a[href*="hagurechubo2chmatome.blog116.fc2.com"]
+
+! /* サムネでアンテナ */
+##a[href*="2chアンテナ.com"]
+
+! /* しぃアンテナ(*ﾟーﾟ) */
+##a[href*="2ch-c.net"]
+
+! /* 至宝記事倉庫 */
+##a[href*="blog.livedoor.jp/jokyjoky"]
+
+! /* しまむらアンテナ */
+##a[href*="shimamurakun.net"]
+
+! /* シャキンあんてな（｀・ω・´） */
+##a[href*="www.shakin.jp"]
+
+! /* 情報屋さん。 */
+~jyouhouya3.net##a[href*="jyouhouya3.net"]
+
+! /* ショボンあんてな（´・ω・｀） */
+##a[href*="www.shobon.jp"]
+
+! /* 紳士協定 */
+##a[href*="media-shelf.net/gentleman"]
+
+! /* スオミネイト */
+##a[href*="suomi-neito.com"]
+
+! /* スマートフォンアンテナ */
+##a[href*="sp-antenna.com"]
+
+! /* センミリＧ（仮） */
+##a[href*="1000mg.sblo.jp"]
+
+! /* だめぽアンテナ */
+##a[href*="moudamepo.com"]
+
+! /* 他力本願 */
+##a[href*="www.tarikin.net"]
+
+! /* ち～た～アンテナ */
+##a[href*="cheetah-antenna.net"]
+
+! /* ちくアンテナ */
+##a[href*="chiku-antena.com"]
+
+! /* ちょいエロ★家庭用ゲーム */
+##a[href*="tyoierogame.blog75.fc2.com"]
+
+! /* チラアンテナ(つд・ ) */
+##a[href*="2ch.anything-navi.net"]
+
+! /* つーアンテナ(*ﾟ∀ﾟ) */
+##a[href*="2ch-2.net"]
+
+! /* ついてな */
+##a[href*="twitenna.jp"]
+
+! /* つくるよあんてな */
+##a[href*="www.tukuruyoantena.com"]
+
+! /* デジタルニュースミックス */
+##a[href*="digital-mixnews.com"]
+
+! /* なんJオールスターズ */
+##a[href*="nanjallstars.net"]
+
+! /* なんでもちゃんねる */
+##a[href*="taison1224.doorblog.jp"]
+
+! /* てんぷアンテナ */
+##a[href*="iii.main.jp/tmpantenna"]
+
+! /* 動画ナビあんてな */
+##a[href*="antenna.i-like-movie.net"]
+
+! /* 動画エロタレスト */
+##a[href*="eroterest.net"]
+||eroterest.net^
+||eroimg.net^
+
+! /* とろたまヘッドライン */
+##a[href*="headline.mtfj.net"]
+
+! /* なび風呂 */
+##a[href*="navi-blog.com"]
+
+! /* ナントカアンテナ */
+##a[href*=".nantoka-antenna.com"]
+
+! /* ニコニコしようよ */
+##a[href*="chun888.blog6.fc2.com"]
+
+! /* にちゃんねるまとめ */
+##a[href*="2chmatome.sakura.ne.jp"]
+
+! /* (=ﾟ-ﾟ)ニャンアンテナ */
+##a[href*="mae7.com"]
+
+! /* にゃんてな！ */
+##a[href*="nyan.eggtree.net"]
+
+! /* にゅーすAtoZ */
+##a[href*="netaatoz.blog21.fc2.com"]
+
+! /* にゅーすなう！ */
+##a[href*="newsnow-2ch.com"]
+
+! /* ニュース星３つ！ */
+##a[href*="news-three-stars.net"]
+
+! /* にゅーぷる */
+##a[href*="newpuru.doorblog.jp"]
+
+! /* にゅーもふ */
+##a[href*="newmofu.doorblog.jp"]
+
+! /* にゅーれす */
+##a[href*="newresu1.blog.fc2.com"]
+
+! /* にゅーおた */
+! /* にゅーやく */
+! /* にゅーえろ */
+##a[href*="newota.blog.fc2.com/"]
+##a[href*="newyaku.blog.fc2.com/"]
+##a[href*="newero1.blog.fc2.com"]
+
+! /* ヌルポあんてな */
+##a[href*="nullpoantenna.com"]
+
+! /* ねらーアンテナ */
+##a[href*="2channeler.com"]
+
+! /* のーアンテナ(ﾟAﾟ* ) */
+##a[href*="2ch-n.net"]
+
+! /* ハニトラフニトラ */
+##a[href*="honey-tiger.ldblog.jp"]
+
+! /* はんでろ */
+##a[href*="handero.net"]
+
+! /* はいよるc⌒っﾟДﾟ)っこんとん */
+##a[href*="www.konton.info"]
+
+! /* ハジマタあんてな＼(^o^)／ */
+##a[href*="headline.noob.jp"]
+
+! /* ハリコのとら */
+##a[href*="www.harikonotora.net"]
+
+! /* 暇人(´・д・｀)あんてな */
+##a[href*="himazinsnow2ch.blog.shinobi.jp"]
+
+! /* 暇つぶしアンテナ */
+##a[href*="killing-time.biz"]
+
+! /* ブーンあんてな */
+##a[href*="boon.s349.xrea.com"]
+
+! /* ふるえるあんてな | ((((;゜Д゜))) */
+##a[href*="antena.m-yellow.com"]
+
+! /* ぶろにゅー */
+##a[href*="blog-news.doorblog.jp"]
+
+! /* プロ野球・なんJまとめアンテナ */
+##a[href*="nanj.an-matome.com"]
+
+! /* ふんがーアンテナ (っ｀ω´ｃ) */
+##a[href*="funger-antena.info"]
+
+! /* ヘミ猫あんてな */
+##a[href*="hemine.co"]
+
+! /* 棒読みあんてな */
+##a[href*="bouyomi.jp"]
+
+! /* まじかるニュース */
+##a[href*="blog.livedoor.jp/magicalnews"]
+
+! /* まとにゅー！ */
+##a[href*="matonew.doorblog.jp"]
+
+! /* まとめα */
+##a[href*="matome-alpha.com"]
+
+! /* まとめあ(BETA2) */
+##a[href*="matomea.net"]
+
+! /* まとめアンティーナ */
+##a[href*="antiina.com"]
+
+! /* まとめアンテナ(´∀｀) */
+##a[href*="2ch-m.net"]
+
+! /* まとめがね */
+##a[href*="matomegane.com"]
+
+! /* まとめサイト速報＋ */
+##a[href*="matome-plus.com"]
+
+! /* まとめたった速報ｗｗｗ */
+##a[href*="blog.livedoor.jp/matometatta"]
+
+! /* まとめたった速報ｗｗｗ */
+##a[href*="matometatta-news.net"]
+
+! /* まとめちゃんねる */
+##a[href*="matomech.com"]
+
+! /* まとめニュース */
+##a[href*="www.cobwebs.jp"]
+
+! /* まとめニュース速報 */
+##a[href*="www.まとめニュース.com"]
+
+! /* まとめのミシュラン */
+##a[href*="matomechau.com"]
+
+! /* まとめブログアンテナ */
+##a[href*="matome-blog.jp"]
+
+! /* まとめブログアンテナ */
+##a[href*="rss.harikonotora.net"]
+
+! /* まとめの杜 */
+##a[href*="matomenomori.net"]
+
+! /* まとめん */
+##a[href*="matomen.com"]
+
+! /* まるごとアンテナ(*´ω｀*) */
+##a[href*="marugoto-antenna.com"]
+
+! /* マルチメディアNEWS */
+##a[href*="multi-media.doorblog.jp"]
+
+! /* みんなのAnteNNa */
+##a[href*="min-tenna.com"]
+
+! /* メリーニュース */
+##a[href*="merry-news.com"]
+
+! /* [も] もくじちゃんねる */
+##a[href*="mokuji.chbox.jp"]
+
+! /* もしもしアンテナEX(ﾟωﾟ) */
+##a[href*="mosi2ch.net"]
+
+! /* モナーアンテナ( ´∀｀) */
+##a[href*="mona-antenna.com"]
+
+! /* やまだアンテナ 【2chまとめ】 */
+##a[href*="blog-antenna.com"]
+
+! /* やるリンク改 */
+##a[href*="yarulink.warotamaker2.com"]
+
+! /* やる夫アンテナ(べーた) */
+##a[href*="yaruo-antenna.sakura.ne.jp"]
+
+! /* ライフあんてなJ( 'ｰ`)し */
+##a[href*="lifeantenna.com"]
+
+! /* ろっとアンテナ（β） */
+##a[href*="aerial.deko8.jp"]
+
+! /* わくてか！-2ちゃんねるまとめのまとめアンテナ */
+##a[href*="wk-tk.net"]
+
+! /* ワニアンテナ */
+##a[href*="waniantenna.com"]
+
+! /* ワロタあんてな */
+##a[href*="matomeantena.com"]
+
+! /* ワロタちゃんねる */
+##a[href*="warotach.com"]
+
+
+
+
+
