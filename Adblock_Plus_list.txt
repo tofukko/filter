@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 21:18 2019/08/18
+! 最終更新 7:52 2019/08/19
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -74,9 +74,12 @@ _ad.html|
 -ad.js$domain=~sh.st|~facebook.com
 _ad.js
 /ad.php?
-_ad.php?
-!||futalog.com/if_ad.php?
-!||imgbako.com/if_ad.php?
+	!閉鎖してた
+	!||futalog.com/if_ad.php?
+	!||imgbako.com/if_ad.php?
+	
+	!||himado.in/player_ad.php
+_ad.php^
 /ad1.
 /ad2.
 /ad3.
@@ -793,7 +796,6 @@ drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||hentai-foundry.com/themes/default/js/activebar.js
-||himado.in/player_ad.php
 ||horne.red/banner/
 ||i-bbs.sijex.net/js/jquery.scrollfollow.js
 ||imagebam.com/files/index2.php
@@ -1458,22 +1460,6 @@ hentai-foundry.com##main > center
 hentai-only.com##.force-foreground.alert.alert-link.alert-dismissible
 himado.in###cmCanvas
 imagis.jp,costype.net##.topadv
-imgbako.com##[href="../index.php"] + br + table > tbody > tr > td[width="300"]
-futalog.com##[href="../index.php"] + br + table > tbody > tr > td[width="305"]
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(2)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(5)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(8)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(11)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(38)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(41)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(44)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(61)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(64)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(67)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(114)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(117)
-imgbako.com,futalog.com##body > table[border="0"]:nth-of-type(120)
-imgbako.com,futalog.com##body > table[border="0"]:last-of-type:not([cellspacing="0"])
 inoreader.com##.inno_dialog_modal
 inoreader.com##.inno_dialog_modal_overlay
 inside-games.jp###keyword
