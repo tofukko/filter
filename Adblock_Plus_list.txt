@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 7:52 2019/08/19
+! 最終更新 8:00 2019/08/19
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -865,8 +865,8 @@ drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
 ||toukoucity.to/js/digi
 ||toukoucity.to/siteimg/digi/dmmt$domain=toukoucity.to
 ||tokyo-porn-tube.com/media/player/ads_
-||tsumanne.net/amz/
-||tsumanne.net/rakutensearch.php?
+||tsumanne.net/maniax.js
+||tsumanne.net/sa/src/sa.js
 ||twitter.com/i/videoads/
 ||undernavi.com^$domain=adbkm.com
 ||uraaka-joshi.com/pr$subdocument
@@ -1564,8 +1564,7 @@ tinami.com###banner_view
 togetter.com###amazon_reco_box
 tokyo-tube.com##.banner-base
 tsumanne.net###amazon
-tsumanne.net###inputurl + p
-tsumanne.net###rakutenac
+tsumanne.net###cm
 twitter.com##.modal-overlay
 twitter.com##.promoted-tweet
 twitter.com##.promoted-tweet-heading
