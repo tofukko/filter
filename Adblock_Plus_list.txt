@@ -11,18 +11,13 @@
 	!||animemerchant.com^$third-party
 	!||auctions.c.yimg.jp^$third-party,domain=~yahoo.co.jp|~aucfan.com|~coneco.net
 	!||bk1.jp^$third-party
-||dgpot.com^$third-party,domain=~dgpot.com
-||digiket.com^$third-party
-||digiket.net^$third-party,domain=~digiket.com
 	!||dmm.co.jp^$third-party,domain=~dmm.com
 	!||dmm.com^$third-party,domain=~dmm.co.jp
 	!||dl-market.com^$third-party
 	!||dlmarket.jp^$third-party
 	!||dlsite.com^$third-party,domain=~dlsite.net
 	!||dlsite.jp^$third-party,domain=~dlsite.net|~dlsite.com|~nijie.info|~horne.red
-||e-nls.com^$third-party
 	!||eic-book.com^$third-party
-||getchu.com^$third-party
 	!||gyut.to^$third-party
 	!||gyutto.co$third-party
 	!||gyutto.jp^$third-party
@@ -31,9 +26,14 @@
 	!||japanet.co.jp^$third-party
 	!||melonbooks.com^$third-party,domain=~pixiv.net
 	!||play-asia.com^$third-party
-||r18.com^$third-party,domain=~japanhub.net
 	!||thumbnail.image.rakuten.co.jp^$domain=~rakuten.co.jp|~kakaku.com
 	!||zero-animation.net^$third-party
+||dgpot.com^$third-party,domain=~dgpot.com
+||digiket.com^$third-party
+||digiket.net^$third-party,domain=~digiket.com
+||e-nls.com^$third-party
+||getchu.com^$third-party
+||r18.com^$third-party,domain=~japanhub.net
 !-------ここまで-------!
 
 ||d2swpuhpwp3khd.cloudfront.net^
