@@ -775,6 +775,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
 ||dmm.co.jp^$domain=exploader.net
 ||e-typing.ne.jp/app/ad_
+||eegg.fun/ad_html/
 ||eegg.fun/iframe/
 ||eegg.fun/js/
 ||egone.org/js/amazon_
@@ -1691,7 +1692,6 @@ alphapolis.co.jp##.jack-tng-button
 artemisweb.jp###active_overlay
 artemisweb.jp##body > center:first-child
 artemisweb.jp##body > center:last-of-type:has(a[href="http://doga-search.artemisweb.jp/"])
-artemisweb.jp##body > center:last-of-type:-abp-has(a[href="http://doga-search.artemisweb.jp/"])
 
 !------------angelfire.com------------!
 angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
