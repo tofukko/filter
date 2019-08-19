@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 10:02 2019/08/19
+! 最終更新 11:53 2019/08/19
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1098,7 +1098,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||geotg.jp^$third-party
 ||geovisite.com^$third-party
 ||getclicky.com^$third-party
-||google-analytics.com^$third-party
 ||himitsuya.jp^$third-party
 ||histats.com^$third-party
 ||host-tracker.com^$third-party
@@ -1217,7 +1216,9 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||deqwas.net^
 ||disqus.com/stats.html
 ||dw-eu.com.com^
-||googletagmanager.com/gtm.js?$third-party
+||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager.com/gtm.js
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js
 ||gpr.hu/pr.pr?
 ||itgear.jp*/ax.js
 ||just-now.net/a?k=
