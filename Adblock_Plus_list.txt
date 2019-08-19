@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 11:56 2019/08/19
+! 最終更新 16:02 2019/08/19
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -775,8 +775,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
 ||dmm.co.jp^$domain=exploader.net
 ||e-typing.ne.jp/app/ad_
-||eegg.dip.jp/iframe/
-||eegg.dip.jp/js/
+||eegg.fun/iframe/
+||eegg.fun/js/
 ||egone.org/js/amazon_
 ||exploader.net/images/nls/
 	! 2017/07/16 動画見れないらしいがこれで見れるらしい
@@ -1442,6 +1442,7 @@ e0166.blog89.fc2.com###side > .module:nth-of-type(3)
 easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 exploader.net###nls
+exploader.net##[href^="https://www.dmm.co.jp/"],[href^="http://www.dmm.co.jp/"]
 favolog.org###side > div:first-child
 feedly.com##.modal-overlay
 freesoft.tvbok.com###left_box3
