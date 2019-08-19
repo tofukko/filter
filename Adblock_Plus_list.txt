@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 16:02 2019/08/19
+! 最終更新 0:16 2019/08/20
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -775,7 +775,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
 ||dmm.co.jp^$domain=exploader.net
 ||e-typing.ne.jp/app/ad_
-||eegg.fun/ad_html/
 ||eegg.fun/iframe/
 ||eegg.fun/js/
 ||egone.org/js/amazon_
@@ -1498,6 +1497,11 @@ mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
 mainichi.jp##.ArticleAdKW
 matome.naver.jp###yads_pc_overlay
+medibang.com##.mdbnAdBlock
+medibang.com##.mdModal
+	!mobile
+medibang.com##.mfp-ready
+medibang.com##.viewer-bottomBanner
 mmm.me###imadv
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
@@ -1687,6 +1691,7 @@ alphapolis.co.jp##.jack-tng-button
 artemisweb.jp###active_overlay
 artemisweb.jp##body > center:first-child
 artemisweb.jp##body > center:last-of-type:has(a[href="http://doga-search.artemisweb.jp/"])
+artemisweb.jp##body > center:last-of-type:-abp-has(a[href="http://doga-search.artemisweb.jp/"])
 
 !------------angelfire.com------------!
 angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
