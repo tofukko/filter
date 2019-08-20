@@ -1464,7 +1464,6 @@ google.com,google.co.jp###\5f Ltg
 www.google.co.jp##TABLE[cellpadding="0"][style="border: 1px solid #369"]
 hentai-foundry.com##main > center
 hentai-only.com##.force-foreground.alert.alert-link.alert-dismissible
-himado.in###cmCanvas
 imagis.jp,costype.net##.topadv
 inoreader.com##.inno_dialog_modal
 inoreader.com##.inno_dialog_modal_overlay
