@@ -5,7 +5,9 @@
 !
 ! 最終更新 20:08 2018/03/03
 
-!/pickup.php?
+
+!お知らせ本文
+nijie.info,horne.red#@#[class^="headline_"]:not(html):not(body)
 
 /headline.$subdocument
 /headline_$subdocument
