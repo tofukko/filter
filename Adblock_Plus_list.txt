@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 20:21 2019/08/20
+! 最終更新 13:16 2019/08/21
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -60,7 +60,7 @@ _728x90_
 _728x90.
 /728_90.
 _728_90.
-/A-affiliate2/*
+	!/A-affiliate2/*
 /aamsz=
 /acc_random=
 /ad/images/*
@@ -87,7 +87,7 @@ _ad.php^
 /adframe.
 /adframe/*
 ?adid=
-/adparser.js
+	!/adparser.js
 /adparts/*
 !動画見れない css
 /adplayer.$domain=~share-videos.se
@@ -96,8 +96,8 @@ _ad.php^
 !真っ白
 !広告s同画像消
 _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
-/ads.php
-_ads.php
+	!/ads.php
+	!_ads.php
 /ads?
 /ads2.
 /adsense.
@@ -123,8 +123,7 @@ _ads.php
 /img/ad-
 /img/ad_
 /img/ads/*
-/img/adv/*
-/image/ad/*
+	/image/ad/*
 /image/affiliate/*
 /images/ad/*
 /images/ad_
@@ -137,15 +136,15 @@ _ads.php
 /js/ads_
 /js.ng/site=
 /koukoku/*
-/linkshare/*
-/overture/*
-/overture.
-/overture_
-/peel.js
-/parts/ad/*
+	!/linkshare/*
+	!/overture/*
+	!/overture.
+	!/overture_
+	!/peel.js
+	!/parts/ad/*
 /pop.js|
 /popunder.$domain=~openload.co
-.swf?clickTAG=
+	!.swf?clickTAG=
 /www/delivery/*
 	!/afr.php?
 	!/ajs.php?
@@ -358,6 +357,7 @@ _ads.php
 ||pagoda301.com^$third-party
 ||peer39.net^$third-party
 ||pgmediaserve.com^$third-party
+||pinpointdmp.com^$third-party
 ||pompass.net^$third-party
 ||pop6.com^$third-party
 ||ppc-direct.com^$third-party
@@ -887,8 +887,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||zdnet.com/parts/frame/ad_
 
 !------------------------解析------------------------!
-/__tm3k.js
-/__utm.
+	!/__tm3k.js
+	!/__utm.
 !nico サムネ消える
 !dl-xvideos.com サムネ
 /1x1.gif$domain=~nicovideo.jp|~dl-x.com|~nlab.itmedia.co.jp
@@ -938,11 +938,11 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /beacon.$domain=~amazon.com|~amazon.co.jp|~jp.autoblog.com|~dreevee.com|~engadget.com|~rma-api.gravity.com
 /beacon_
 /beacon?
-/bmv10.js
-/bmv11.js
-/bmv12.js
-/bmv13.js
-/bmv13_9sp.js
+	!/bmv10.js
+	!/bmv11.js
+	!/bmv12.js
+	!/bmv13.js
+	!/bmv13_9sp.js
 /chartbeat.js
 /clickheat.js
 /co_tag.php?
@@ -1245,6 +1245,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||afpbb.com^*/c.gif?
 ||analysis1.sbs-blog.com^
 ||analytics.cocolog-nifty.com^
+||analytics.edgekey.net^
 ||analyzer.wox.cc^
 ||analyzer2.curecos.com^
 ||ax.xrea.com^
@@ -1350,6 +1351,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##a[href*="infotop.jp/click.php?"]
 ##a[href*="/traffic.php?"]
 
+##a[href^="https://a.popin.cc/popin_redirect/redirect?"]
 ##a[href*="ac.ebis.ne.jp/tr_set.php?"]
 ##a[href*="accesstrade.net/at/"]
 ##a[href*="accesstrade.net/sp/"]
@@ -1464,6 +1466,7 @@ google.com,google.co.jp###\5f Ltg
 www.google.co.jp##TABLE[cellpadding="0"][style="border: 1px solid #369"]
 hentai-foundry.com##main > center
 hentai-only.com##.force-foreground.alert.alert-link.alert-dismissible
+himado.in###cmCanvas
 imagis.jp,costype.net##.topadv
 inoreader.com##.inno_dialog_modal
 inoreader.com##.inno_dialog_modal_overlay
@@ -2514,6 +2517,7 @@ thisav.com#@#[id$="_ad"]:not(html):not(body)
 ||amoad.com^$third-party
 ||aspm.jp^$third-party
 ||astrsk.net^$third-party
+||bannerfarm.aolp.jp^$third-party
 ||caprofitx.com^$third-party
 ||focas.jp^$third-party
 ||formulas.jp^$third-party
