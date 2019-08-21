@@ -346,6 +346,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||next-channel.com^$third-party
 ||nsk-sys.com^$third-party
 ||octopuspop.com^$third-party
+||og-affiliate.com^$third-party
 ||omany.tv^$third-party
 ||online-dn.com^$third-party
 ||openx.$third-party
