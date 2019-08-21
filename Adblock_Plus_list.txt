@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 17:23 2019/08/21
+! 最終更新 20:39 2019/08/21
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1603,6 +1603,9 @@ xtube.akicompany.com##.col-xs-12:nth-last-of-type(1)
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(2)
 xvideo-jp.com###dmmad
 xvideo-jp.com##.p-articleDMM
+xvideo-jp.com##.p-dmmad
+xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
+xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 yu.to##style + script[language="JavaScript"] + div[align="center"]
 
 !------------aol-----------------!
@@ -1696,6 +1699,7 @@ alphapolis.co.jp##.jack-tng-button
 artemisweb.jp###active_overlay
 artemisweb.jp##body > center:first-child
 artemisweb.jp##body > center:last-of-type:has(a[href="http://doga-search.artemisweb.jp/"])
+artemisweb.jp#?#body > center:last-of-type:-abp-has(a[href="http://doga-search.artemisweb.jp/"])
 
 !------------angelfire.com------------!
 angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
