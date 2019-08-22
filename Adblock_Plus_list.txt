@@ -2313,6 +2313,8 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js
 	!ロックされたときとか
 @@||twitter.com/account/access?
+	!動画見れない
+@@||tsyndicate.com/sdk/v1/n.js
 	! 動画見れない
 @@||vidoza.net/js/ads.js$domain=vidoza.net
 @@||vidoza.net/js/pop.js$domain=vidoza.net
@@ -2551,6 +2553,7 @@ thisav.com#@#[id$="_ad"]:not(html):not(body)
 
 clipconverter.cc##+js(abort-current-inline-script, Math, zfgloaded)
 ero-video.net##script:contains(showPopUpBanner)
+hpjav.tv##+js(abort-on-property-read, VAST)
 rapidvideo.com##script:contains(window)
 redtube.com##script:contains(var rAb=)
 redtube.com##script:contains(tj_ads)
