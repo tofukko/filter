@@ -461,6 +461,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||4uvjosuc.com^$third-party
 ||8ipztcc1.com^$third-party
 ||aaddcount.com^$third-party
+||acloudvideos.com^$third-party
 ||adcash.com^$third-party
 ||adglare.net^$third-party
 ||admedia.com^$third-party
@@ -478,6 +479,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||adxpansion.com^$third-party
 ||adzerk.net^$third-party
 ||agomwefq.com^$third-party
+||avfay.com^$third-party
 ||awempire.com^$third-party
 ||awemwh.com^$third-party
 ||bebi.com^$third-party
@@ -760,7 +762,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||ashemaletube.com/ast/www/*.min.js?url=
 ||ashemaletube.com/banner-iframe/
 ||atas.io^$domain=toukoucity.to
-||avfay.com^$domain=jav.work
 ||blog.seesaa.jp/js/banner.js
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
