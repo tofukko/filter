@@ -1548,7 +1548,7 @@ oekakies.com##table[cellpadding="2"][border="1"]
 oekakies.com##table[cellspacing="3"][border="0"]
 okwave.jp##.big_bnr
 otakomu.jp##a[href*="amazon"]
-parupunte.net##DIV[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]
+parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has(a[href^="https://www.amazon.co"])
 ppp.atbbs.jp##td[style="width:800px;border:solid 0px #000;text-align:center;padding:5px;"]
 projectdesign.jp###base-register
 pya.cc##.netaMain__banner
