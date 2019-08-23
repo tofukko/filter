@@ -1556,15 +1556,10 @@ r.binb.jp###adp
 rbbtoday.com###adHeader
 rbbtoday.com###headerMiddleRight
 rbbtoday.com##.adArticleSidetile
-ribbon.to##body > p[align="center"]:last-of-type:not(:first-child)
-ribbon.to##body > p[align="center"]:nth-last-of-type(2)
-ribbon.to##body > br:last-of-type
-ribbon.to##p[align="center"] > a[rel="nofollow"]
-ribbon.to##a[target="freecre"]
-ribbon.to##a[target="g"]
-ribbon.to##a[target="t"]
-ribbon.to##a[target="pt"]
-ribbon.to##a[tareget="rdn"]
+ribbon.to##p[align="center"]:has([tareget="rdn"])
+ribbon.to##p[align="center"]:has([href^="http://ribbon.to/ribbon_link.php?"])
+ribbon.to##p[align="center"]:-abp-has([tareget="rdn"])
+ribbon.to##p[align="center"]:-abp-has([href^="http://ribbon.to/ribbon_link.php?"])
 sankakucomplex.com##[class^="adbmodal-"]
 search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
