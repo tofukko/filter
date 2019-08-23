@@ -1558,8 +1558,8 @@ rbbtoday.com###headerMiddleRight
 rbbtoday.com##.adArticleSidetile
 ribbon.to##p[align="center"]:has([tareget="rdn"])
 ribbon.to##p[align="center"]:has([href^="http://ribbon.to/ribbon_link.php?"])
-ribbon.to##p[align="center"]:-abp-has([tareget="rdn"])
-ribbon.to##p[align="center"]:-abp-has([href^="http://ribbon.to/ribbon_link.php?"])
+ribbon.to#?#p[align="center"]:-abp-has([tareget="rdn"])
+ribbon.to#?#p[align="center"]:-abp-has([href^="http://ribbon.to/ribbon_link.php?"])
 sankakucomplex.com##[class^="adbmodal-"]
 search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
