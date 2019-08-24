@@ -1249,7 +1249,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||access*.utamap.com^
 ||access.news.mynavi.jp^
 ||ack.mynv.jp^$domain=mynavi.jp
-||afpbb.com^*/c.gif?
 ||analysis1.sbs-blog.com^
 ||analytics.cocolog-nifty.com^
 ||analytics.edgekey.net^
@@ -1420,6 +1419,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 2ch.vet##.thead-dark
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
+afpbb.com##.bnr
 asageifuzoku.com###search
 asageifuzoku.com##.pickup
 asageifuzoku.com##.update.dmm
