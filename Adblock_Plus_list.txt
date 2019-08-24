@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 22:45 2019/08/22
+! 最終更新 15:22 2019/08/22
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -40,6 +40,16 @@
 !share-videos.se
 !tokyomotion.net
 
+!2019/07/25 終了予定 2019年9月末
+cavelis.net###market_area
+cavelis.net##[id^="amazon_"]
+cavelis.net##.rectangle_area
+
+!2019/06/17 サイトの管理終了 閉鎖時期未定
+temp.emotionflow.com##.IllustDetailLeft > DIV:first-child
+temp.emotionflow.com##.IllustDetailRight > DIV:last-child
+temp.emotionflow.com##.ContentsWorkLeft > DIV:not(.IllustThumb)
+temp.emotionflow.com##.ContentsRight > DIV:last-child
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -364,6 +374,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||ppc-direct.com^$third-party
 ||primecaster.net^$third-party
 ||proparm.jp^$third-party
+||pushance.com^$third-party
 ||quant.jp^$third-party
 ||r-ad.ne.jp^$third-party
 ||rakuword.com^$third-party
@@ -1434,9 +1445,6 @@ basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-chil
 bing.com##[class^="b_ad"]
 biz-journal.jp###adAmazon
 buttobi.net##div[style="position: relative; z-index:255;"]
-cavelis.net###market_area
-cavelis.net##[id^="amazon_"]
-cavelis.net##.rectangle_area
 chart.sekai-kabuka.com###aswift_0_expand
 coliss.com###sponsors
 coliss.com###sponsorsTop
@@ -1616,11 +1624,6 @@ yu.to##style + script[language="JavaScript"] + div[align="center"]
 ||b.engadget.com^
 ||engadget.com/traffic/
 
-!------------tegaki-------------!
-temp.emotionflow.com##.IllustDetailLeft > DIV:first-child
-temp.emotionflow.com##.IllustDetailRight > DIV:last-child
-temp.emotionflow.com##.ContentsWorkLeft > DIV:not(.IllustThumb)
-temp.emotionflow.com##.ContentsRight > DIV:last-child
 
 !------------dmm-------------!
 ||dmm.ad-s.org^$third-party
