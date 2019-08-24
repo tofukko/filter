@@ -1432,8 +1432,7 @@ b.hatena.ne.jp##[data-track-section="related_product"]
 b9dm.com###ad4
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bing.com##[class^="b_ad"]
-biz-journal.jp##[id^="adEntry"]
-biz-journal.jp###forYouRecommend
+biz-journal.jp###adAmazon
 buttobi.net##div[style="position: relative; z-index:255;"]
 cavelis.net###market_area
 cavelis.net##[id^="amazon_"]
