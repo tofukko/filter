@@ -1415,8 +1415,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 
 141tube.com###adultwarningmask
-2ch.vet###search_results ~ center > [href^="http://line.me/"] ~ [href^="https://"]
-2ch.vet##.thead-dark
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
