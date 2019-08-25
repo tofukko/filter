@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 13:46 2019/08/25
+! 最終更新 16:08 2019/08/25
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2295,6 +2295,25 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
 @@||fwmrm.net/crossdomain.xml$object_subrequest
+	!多い
+@@||google.com^$generichide
+@@||google.co.jp^$generichide
+	!検索結果動画部分
+	!google.co.jp,google.com#@#[class$="Ad"]:not(html):not(body)
+	!通知設定辺り
+	!calendar.google.com#@#[class$="Ad"]:not(html):not(body)
+	!ヘッダー 検索バー
+	!news.google.com#@#[class$="Ad"]:not(html):not(body)
+	!メール一覧
+	!inbox.google.com#@#.ad
+	!新規作成ボックスが消える
+	!mail.google.com#@#.AD
+	!本文
+	!mail.google.com#@#.ads
+	!カラーパレッド
+	!mail.google.com#@#[class$="Ad"]:not(html):not(body)
+	!投稿欄
+	!plus.google.com#@#[class$="Ad"]:not(html):not(body)
 	!カード画像
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
@@ -2388,28 +2407,6 @@ eiga.com#@#[id$="_ad"]:not(html):not(body)
 etymonline.com#@#[class$="Ad"]:not(html):not(body)
 	!動画消える NGCだけ？ https://freshlive.tv/ngc/156675
 freshlive.tv#@#[class$="Ad"]:not(html):not(body)
-	!動画見れない
-gogoanime.to#@#[class$="-ads"]:not(html):not(body)
-
-	!多い
-@@||google.com^$generichide
-@@||google.co.jp^$generichide
-	!検索結果動画部分
-	!google.co.jp,google.com#@#[class$="Ad"]:not(html):not(body)
-	!通知設定辺り
-	!calendar.google.com#@#[class$="Ad"]:not(html):not(body)
-	!ヘッダー 検索バー
-	!news.google.com#@#[class$="Ad"]:not(html):not(body)
-	!メール一覧
-	!inbox.google.com#@#.ad
-	!新規作成ボックスが消える
-	!mail.google.com#@#.AD
-	!本文
-	!mail.google.com#@#.ads
-	!カラーパレッド
-	!mail.google.com#@#[class$="Ad"]:not(html):not(body)
-	!投稿欄
-	!plus.google.com#@#[class$="Ad"]:not(html):not(body)
 	!画像消え https://gyazo.com/c6dbfd4f056d5bfd8ed1db25c1e66f4d
 gyazo.com#@#[class$="-ad"]:not(html):not(body)
 	!左側
