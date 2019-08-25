@@ -1356,6 +1356,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##.adv
 ##.advertisement
 ##.vjs-poster
+!wix.com
+###WIX_ADS
 
 ##[id^="ad-"]:not(html):not(body)
 	! #ad_table fc2ブログ管理画面 > 画像高速表示の設定
