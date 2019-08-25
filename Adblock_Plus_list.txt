@@ -529,6 +529,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||popadscdn.net^$third-party
 ||popcash.net^$third-party
 ||popmyads.com^$third-party
+||prebid.org^$third-party
 ||projectwonderful.com^$third-party
 ||prscripts.com^$third-party
 ||puhtml.com^$third-party
