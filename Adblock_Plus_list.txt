@@ -2046,20 +2046,12 @@ youtube.com##.pyv-afc-ads-inner
 ||dailymotion.com*/masscast/
 ||dailymotion.com/logger/
 
-!------------animenova---------------!
-##.jhasvdjhas
-!×ボタン押さないと1分しか見れない
-!###addivwrapper_0
-||byzoo.org^$third-party
-
 !------------pandora---------------!
-
 ||pandora.tv/_adv_img/
 
 ||prism.pandora.tv^
 ||pandora.tv/viewChk2?
 channel.pandora.tv##.pm_wrap
-
 
 !------------dtiblog------------!
 ||dtiserv.com^$third-party
