@@ -531,6 +531,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||popmyads.com^$third-party
 ||prebid.org^$third-party
 ||projectwonderful.com^$third-party
+||propellerclick.com^$third-party
 ||prscripts.com^$third-party
 ||puhtml.com^$third-party
 ||puserving.com^$third-party
