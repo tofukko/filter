@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 9:12 2019/08/25
+! 最終更新 10:12 2019/08/25
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -611,19 +611,35 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||etahub.com^$third-party
 ||phncdn.com/stattracker-
 ###pb_block
-	!pornhub
+
+
+!pornhub
 ||phncdn.com/www-static/js/ph-tracking.js?
 ||phncdn.com/www-static/js/htmlPauseRoll/
 pornhub.com###main-container > [id] > [class]:first-child
 pornhub.com##.video-wrapper > #player + [class]
 pornhub.com##script:inject(set-constant.js, page_params.holiday_promo, true)
-	!redtube
+pornhub.com##^script:has-text(tj_ads)
+pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
+*$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com
+
+!redtube
 ||redtube.com/_status/
 redtube.com###content_container > .show_page_modals + div
 redtube.com###video_right_col
-	!xtube.com
+redtube.com##^script:has-text(var rAb=)
+redtube.com##^script:has-text(tj_ads)
+
+!xtube.com
 ||3gporn.biz^$third-party
 xtube.com##.col-xs-24.col-xl-8 > div:first-child
+
+!youporn.com
+youporn.com###adblock_1
+
+!tube8.com
+tube8.com##^script:has-text(adblock)
+tube8.com###catFishBanner
 
 !----porntrex network
 ||fd7qz88ckd.com^
@@ -639,6 +655,8 @@ xtube.com##.col-xs-24.col-xl-8 > div:first-child
 hclips.com,hotmovs.com,txxx.com,upornia.com,vjav.com#@#[class$="-ads"]:not(html):not(body)
 
 txxx.com###myElement + DIV
+txxx.com##^script:has-text(ad_sub)
+
 vjav.com###undervideo
 
 !-----SPANKWIRE
@@ -656,8 +674,8 @@ extremetube.com#@#[class$="-ads"]:not(html):not(body)
 
 xhamster.com##.adVideo
 xhamster.com##.sponsorBottom
-
 xhamster.com##.avdo.fr
+xhamster.com##^script:has-text(dataPopUnder)
 
 !-----------xvideos.com
 ||xvideos.com/in.php?
@@ -673,13 +691,14 @@ xhamster.com##.avdo.fr
 xvideos.com###video-sponsor-links
 xvideos.com##.sponsor_popup
 xvideos.com##.sponsor-popup
+xvideos.com##^script:has-text(checkVideoAds)
 
 !-----------openload.co
 ||cloudflare.com/cdn-cgi/nexp/$domain=openload.co
 ||openload.co/assets/js/license.5.js
 
 openload.co###videooverlay
-openload.co##script:contains(popAdsLoaded)
+openload.co##^script:has-text(popAdsLoaded)
 
 !-----------avgle.com
 $third-party,popup,domain=avgle.com
@@ -720,6 +739,13 @@ heavy-r.com##.hd-ban
 ||pornhost.com/*.php
 
 ||fapdu.com/desktop_popup.
+
+
+
+
+hpjav.tv##+js(abort-on-property-read, VAST)
+vidoza.net##^script:has-text($('.pvr'))
+
 
 !------------drtuber
 ||drtuber.com/player_right_ads_
@@ -1616,6 +1642,10 @@ xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 yu.to##style + script[language="JavaScript"] + div[align="center"]
 
+
+
+
+
 !------------aol-----------------!
 
 !画像が見れない http://japanese.engadget.com/galleries/
@@ -1663,7 +1693,7 @@ $script,third-party,domain=kissanime.ru
 
 ||rapidvideo.com/tube-skin-retina-for-videojs-6/bin/video-js-6.2.0/ie8/videojs-ie8.min.js
 ||rapidvideo.com/js/jquery.min.js
-rapidvideo.com##script:contains(window)
+rapidvideo.com##^script:has-text(window)
 
 kissanime.ru###adsIfrme7
 kissanime.ru##.clear2
@@ -2092,9 +2122,8 @@ channel.pandora.tv##.pm_wrap
 !------------ero-video.net------------!
 |http://$third-party,domain=ero-video.net
 |https://$third-party,domain=ero-video.net
-||ero-video.net/js/popups.js?
-||dtiserv2.com^$popup
 ||ero-video.net/advert/*
+ero-video.net##^script:has-text(showPopUpBanner)
 
 !------------minnano-av.com------------!
 !----------- minnano-anime.com/
@@ -2541,22 +2570,3 @@ thisav.com#@#[id$="_ad"]:not(html):not(body)
 ||ad1-click.com^$domain=fc2.com
 ||sp-a.gree.net/g/u.html?
 
-
-!uBO
-*$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com
-
-clipconverter.cc##+js(abort-current-inline-script, Math, zfgloaded)
-ero-video.net##script:contains(showPopUpBanner)
-hpjav.tv##+js(abort-on-property-read, VAST)
-rapidvideo.com##script:contains(window)
-redtube.com##script:contains(var rAb=)
-redtube.com##script:contains(tj_ads)
-openload.co##script:contains(popAdsLoaded)
-pornhub.com##script:contains(tj_ads)
-pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
-tube8.*##script:contains(adblock)
-txxx.com##script:contains(ad_sub)
-xhamster.com##script:contains(dataPopUnder)
-vidoza.net##script:contains($('.pvr'))
-xvideos.com##script:contains(checkVideoAds)
-youporn.com##script:contains(ChromePopMouseDownHandler)
