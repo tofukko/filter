@@ -2237,12 +2237,6 @@ pirori2ch.com##.box162
 !やらおん
 ||mmmzy.jp^$third-party
 
-!ワロニキ
-$domain=warotanikki.com,third-party
-@@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js$domain=warotanikki.com
-@@||youtube.com/embed/*$domain=warotanikki.com
-warotanikki.com##.external[rel="nofollow"]
-
 !キニ速
 ||blog.livedoor.jp/kinisoku/$subdocument
 
@@ -2569,4 +2563,3 @@ thisav.com#@#[id$="_ad"]:not(html):not(body)
 ||amazonaws.com/ad-arata/$domain=fc2.com
 ||ad1-click.com^$domain=fc2.com
 ||sp-a.gree.net/g/u.html?
-
