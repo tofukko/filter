@@ -580,29 +580,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||popads.net^$popup
 ||r18.com$popup
 
-!----third-party
-||antena-maker.nekotool.com
-||auone-net.jp/~$image,third-party
-||banners.itunes.apple.com^
-||bbchat.tv^*/bannar/
-||bitflyer.jp/Images/Affiliate/
-||coincheck.com/images/affiliates/
-||dietnavi.com/pc/banner/
-||googlesyndication.com/pagead/
-||gunosy.com/adnet/
-||idea-unlimited.com/adsimg/
-||imagefreak*.com^
-||imasdk.googleapis.com^$third-party
-||javhd.com/sb/$third-party
-||mgstage.com/afscript/
-||mkd777.net/pd/
-||pagead2.googlesyndication.com^
-||partner*.become.co.jp^
-||rdp.pro.ne.jp^$third-party
-!http://latexcapacity.com/
-||latexbizarramb.info^
-
-
 !-----pornhubnetwork
 
 !共通
@@ -611,7 +588,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||etahub.com^$third-party
 ||phncdn.com/stattracker-
 ###pb_block
-
 
 !pornhub
 ||phncdn.com/www-static/js/ph-tracking.js?
@@ -645,7 +621,6 @@ tube8.com###catFishBanner
 ||fd7qz88ckd.com^
 @@||porntrex.com^$generichide
 @@||gounlimited.to/js/pop.js
-
 
 !-----TXXX Network
 ||com^*?z=*&sub=$~third-party
@@ -762,6 +737,30 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 !gelbooru
 	!antiadblock
 @@||gelbooru.com/ads.js
+
+
+!----third-party
+||antena-maker.nekotool.com
+||auone-net.jp/~$image,third-party
+||banners.itunes.apple.com^
+||bbchat.tv^*/bannar/
+||bitflyer.jp/Images/Affiliate/
+||coincheck.com/images/affiliates/
+||dietnavi.com/pc/banner/
+||googlesyndication.com/pagead/
+||gunosy.com/adnet/
+||idea-unlimited.com/adsimg/
+||imagefreak*.com^
+||imasdk.googleapis.com^$third-party
+||javhd.com/sb/$third-party
+||mgstage.com/afscript/
+||mkd777.net/pd/
+||pagead2.googlesyndication.com^
+||partner*.become.co.jp^
+||pos.baidu.com^
+||rdp.pro.ne.jp^$third-party
+!http://latexcapacity.com/
+||latexbizarramb.info^
 
 
 .com^$script,third-party,domain=hitomi.la
@@ -2233,9 +2232,6 @@ pirori2ch.com##.box162
 ||blog.livedoor.jp/rbkyn844/ftp/amazon.html
 !暇りん
 ||himajinlp.net
-
-!やらおん
-||mmmzy.jp^$third-party
 
 !キニ速
 ||blog.livedoor.jp/kinisoku/$subdocument
