@@ -2205,9 +2205,6 @@ neetetsu.com##.article-over
 blog.livedoor.jp##[data-text$=":ニュー速VIPブログ"] + SCRIPT + .blogbody > #article_amazon_links
 blog.livedoor.jp##A[href*="dmm.co.jp"][href*="/a2aaaeaaiiia-001"]
 
-!nww2 http://nw2.blog112.fc2.com/
-||nw2.babyblue.jp^
-
 !ハター報
 ||itoman.doorblog.jp^
 ||blog.livedoor.jp/hamusoku*/amazon
