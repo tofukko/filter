@@ -1525,7 +1525,7 @@ jp-xvideos.info##[style="width:750px;margin: 0 auto; overflow:hidden;"] + div + 
 jp-xvideos.info##.movie_list.clearfix + .movie_list.clearfix
 jpidols.tv##body > b
 jugem.jp##.UBH_new
-jyouhouya3.net##A[href*="amazon.co"]
+jyouhouya3.net##a[href*="amazon.co"]
 kakaku.com###listingPr
 kakaku.com###yAuctionBox
 kakaku.com##.listPR
@@ -2175,8 +2175,7 @@ figsoku.net##.ama > .ssm:last-child
 figsoku.net##.gad
 
 !α波
-||alfalfalfa.com/*.js|
-@@||blogmaterial.nicoblomaga.jp/material/279/js/comment.js?$domain=alfalfalfa.com
+||blogmaterial.nicoblomaga.jp/material/279/SP300x250-$script,domain=alfalfalfa.com
 
 !妹 http://vipsister23.com/
 ||vipsister23.com/randamad
@@ -2193,17 +2192,8 @@ kanasoku.info##.cent_top
 !金時 http://blog.livedoor.jp/goldennews/
 blog.livedoor.jp##[src="http://blog.livedoor.jp/goldennews/settings/ad.js"] + script + #header + #wrapper > #main-column > .kiziue > a[href*="amazon.co.jp"]
 
-!二徹 http://neetetsu.com/
-|http://$third-party,domain=neetetsu.com,~stylesheet
-@@||blogimg.jp/neetetsu84-newslog2ch/imgs/$domain=neetetsu.com
-||neetetsu.com/RSS/
-neetetsu.com##.sidebody2 img
-neetetsu.com##.head_rss + br + center > table
-neetetsu.com##.article-over
-
 !ニュー速日P
-blog.livedoor.jp##[data-text$=":ニュー速VIPブログ"] + SCRIPT + .blogbody > #article_amazon_links
-blog.livedoor.jp##A[href*="dmm.co.jp"][href*="/a2aaaeaaiiia-001"]
+blog.livedoor.jp##a[href*="dmm.co.jp"][href*="/a2aaaeaaiiia-001"]
 
 !ハター報
 ||itoman.doorblog.jp^
@@ -2216,19 +2206,7 @@ esuteru.com##a[href^="http://www.amazon.co.jp"]
 !働くモノ http://workingnews.blog117.fc2.com/
 ||fc2.com/w/o/r/workingnews/meerkat_side_double_js2.js
 workingnews.blog117.fc2.com##.amatable_wrap
-workingnews.blog117.fc2.com##div.boxright
 workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
-
-!ぴろり http://pirori2ch.com/
-||pirori2ch.com/entry-ad
-||pirori2ch.com/ama
-||pirori2ch.com/entry-amazon.html
-pirori2ch.com##.box162
-
-!暇つぶし
-||blog.livedoor.jp/rbkyn844/ftp/amazon.html
-!暇りん
-||himajinlp.net
 
 !キニ速
 ||blog.livedoor.jp/kinisoku/$subdocument
