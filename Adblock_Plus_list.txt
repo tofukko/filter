@@ -2221,13 +2221,6 @@ workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 ||blog.livelog.biz/script/js/hrz_sp
 blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT + DIV + .container #article-over
 
-! http://brow2ing.doorblog.jp/
-||blog.livelog.biz/script/js/bbb_sp01.js
-
-##a[href*="free-video-movie.com"]
-##a[href*="grassw.com"]
-
-
 !--------ホワイトリスト--------!
 	!動画シーク
 @@||2mdn.net/instream/html5/ima3.js$domain=tver.jp
