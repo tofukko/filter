@@ -1455,6 +1455,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 
 
+1000mg.jp###text-92
+1000mg.jp###text-62
 141tube.com###adultwarningmask
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
