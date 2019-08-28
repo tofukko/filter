@@ -1684,9 +1684,7 @@ yu.to##style + script[language="JavaScript"] + div[align="center"]
 ||2chan.net/bin/uucount.php
 
 !-----------kiss-------------!
-
 $script,third-party,domain=kissanime.ru
-
 
 ||fingahvf.top^$third-party
 ||propellerads.com^$third-party
@@ -1726,14 +1724,12 @@ animeflv.ru##+js(set-constant.js, check_adblock, true)
 
 !------------alphapolis------------!
 ||s3-ap-northeast-1.amazonaws.com/seedapp-script/adloader.js
-||alphapolis.co.jp/img/upload/jack/tng-bg.jpg
-alphapolis.co.jp##.jack-tng-button
+alphapolis.co.jp###TopLayer
 
 !------------artemis------------!
 
 ||live.fc2.com/liveBlogParts.php$subdocument,domain=artemisweb.jp
 ||club-xxx.net/index.php$subdocument,domain=artemisweb.jp
-
 artemisweb.jp###active_overlay
 artemisweb.jp##body > center:first-child
 artemisweb.jp##body > center:last-of-type:has(a[href="http://doga-search.artemisweb.jp/"])
