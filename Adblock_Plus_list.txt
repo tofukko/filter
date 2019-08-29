@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 16:15 2019/08/27
+! 最終更新 21:47 2019/08/27
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -39,6 +39,12 @@
 ||d2swpuhpwp3khd.cloudfront.net^
 !share-videos.se
 !tokyomotion.net
+
+!2019/08/29 終了予定 2019年12月15日
+||yimg.jp/images/*300_60$domain=blogs.yahoo.co.jp
+||yimg.jp/images/blog/smartphone/v2/img/bnr_
+blogs.yahoo.co.jp###bottomAdBannerArea + div + div[style="width:950px;margin:0 auto 10px;"]
+blogs.yahoo.co.jp##.interestMatchWrap
 
 !2019/07/25 終了予定 2019年9月末
 cavelis.net###market_area
@@ -1751,10 +1757,6 @@ tok2.com###tok2_footer
 
 !------------yahoo------------!
 
-!ジオシティーズ消滅
-!||bc.geocities.yahoo.co.jp^
-!||bc-geocities.yahoo.co.jp^
-
 !お礼コメントが出来なくなる
 /yads.$domain=~okwave.jp
 ||ov.yahoo.co.jp^
@@ -1762,8 +1764,6 @@ tok2.com###tok2_footer
 ||yeas.yahoo.co.jp^
 ||shopping.yahooapis.jp/ShoppingWebService/
 ||yimg.jp/bdv/
-||yimg.jp/images/*300_60$domain=blogs.yahoo.co.jp
-||yimg.jp/images/blog/smartphone/v2/img/bnr_
 
 !top枠が残る 2018/04/30
 yahoo.co.jp###brandpanel
@@ -1771,8 +1771,6 @@ yahoo.co.jp###brandpanel
 !GYAOとか動画前広告
 ||adserver-apne.tidaltv.com
 
-blogs.yahoo.co.jp###bottomAdBannerArea + div + div[style="width:950px;margin:0 auto 10px;"]
-blogs.yahoo.co.jp##.interestMatchWrap
 games.yahoo.co.jp##.jack
 search.yahoo.co.jp##.ss
 ||analytics.yahoo.co
