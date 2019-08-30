@@ -1666,6 +1666,12 @@ yu.to##style + script[language="JavaScript"] + div[align="center"]
 ||b.engadget.com^
 ||engadget.com/traffic/
 
+!--------bookwalker.jp-----------!
+||c.bookwalker.jp^*_banner/
+||c.bookwalker.jp^*/bnr_
+||c.bookwalker.jp^*/bnr-
+bookwalker.jp###bnrSec
+bookwalker.jp##.side-deals
 
 !------------dmm-------------!
 ||dmm.ad-s.org^$third-party
