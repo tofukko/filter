@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 13:33 2019/09/06
+! 最終更新 18:19 2019/09/06
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1303,11 +1303,11 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||analyzer2.curecos.com^
 ||ax.xrea.com^
 ||bc.nhk.jp^
-||bing.com/fd/ls/
+	!動画見れない
+||bing.com/fd/ls/$~ping
 ||blog.ocn.ne.jp/ac.php
 ||blogos.com/common/js/kotzen.analytics.js?
 ||bunshun.jp/oo/
-||c.bing.com^
 ||c.microsoft.com^
 ||cnn.co.jp/js/aclick.js
 ||cnn.co.jp/js/ga_social_tracking.js
@@ -1482,7 +1482,7 @@ atwiki.jp##[id^="advp"]
 atwiki.jp##div[style="width: 160px;height:600px"]
 b9dm.com###ad4
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
-bing.com##[class^="b_ad"]
+bing.com###b_results > [class^="b_"]:not(.b_algo):not(.b_ans):not(.b_pag):not(.b_msg)
 biz-journal.jp###adAmazon
 buttobi.net##div[style="position: relative; z-index:255;"]
 chart.sekai-kabuka.com###aswift_0_expand
@@ -2243,7 +2243,6 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 	!動画見れ
 @@||asianclub.tv^$generichide
 @@||bc.geocities.yahoo.co.jp/js/bbs/
-@@||bing.com/fd/ls/*$ping
 	!できない
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
 	!商品タブの切替が出来ない
