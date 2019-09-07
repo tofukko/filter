@@ -875,6 +875,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||maid.to^$domain=ribbon.to
 ||majo.co.jp/jwd.js$domain=ribbon.to
 ||majo.co.jp/alpc.js$domain=ribbon.to
+	||vinhoverde.sakura.ne.jp$domain=ribbon.to
 ||mangamura.org/showads.js
 ||mangaz.com/virgo/adv/
 ||match.seesaa.jp^
