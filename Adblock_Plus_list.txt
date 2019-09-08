@@ -1614,7 +1614,7 @@ search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
-seesaa.net,seesaawiki.jp###seesaa-bnr
+seesaa.net,seesaawiki.jp,blog.so-net.ne.jp###seesaa-bnr
 jbbs.shitaraba.net###footer-menu + br + table + hr + table[width="640"][cellspacing="2"][cellpadding="2"]
 sound.jp###adfloat
 sponichi.co.jp###relation-block
