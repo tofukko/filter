@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 18:19 2019/09/06
+! 最終更新 16:19 2019/09/08
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -881,6 +881,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||match.seesaa.jp^
 ||medibang.com/viewer/fixedAds/
 ||mgstage.com/js/mgs_Widget.js?
+||mhometheater.com$inline-script
+	||envortudrqy.com
 ||mixi.jp^*/adnetwork/
 ||mmmzy.jp^$domain=adbkm.com
 ||muvc.com/winopen.js$domain=muvc.net
@@ -1556,6 +1558,7 @@ medibang.com##.mdModal
 	!mobile
 medibang.com##.mfp-ready
 medibang.com##.viewer-bottomBanner
+mhometheater.com##[href^="https://airw.net/"],[href^="http://blogrank.toremaga.com/"],[href^="https://blogranking.fc2.com/"],[href^="https://blog.with2.net/"]
 mmm.me###imadv
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
@@ -1685,6 +1688,9 @@ bookwalker.jp##.side-deals
 ||dmm.com/af/
 	!ブログパーツ
 ||dmm.com/photo/blog-parts/*&affiliate_id=
+
+||dmm.co*/js/banner_placement.js?affiliate_id=
+||dmm.co*/js/placement.js
 ##a[href*="dmm.ad-s.org"]
 
 !------------futaba-------------!
