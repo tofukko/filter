@@ -1558,7 +1558,7 @@ medibang.com##.mdModal
 	!mobile
 medibang.com##.mfp-ready
 medibang.com##.viewer-bottomBanner
-mhometheater.com##[href^="https://airw.net/"],[href^="http://blogrank.toremaga.com/"],[href^="https://blogranking.fc2.com/"],[href^="https://blog.with2.net/"]
+mhometheater.com##[href^="https://airw.net/"]:not(:first-child),[href^="http://blogrank.toremaga.com/"],[href^="https://blogranking.fc2.com/"],[href^="https://blog.with2.net/"]
 mmm.me###imadv
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
