@@ -711,8 +711,6 @@ javbuz.com##.player-ads-bottom
 javhub.net###r18_banner
 japanhub.net###r18
 
-||javfor.me/iframe-as1.html
-||javfor.me/images/r18$image
 ||javhub.net/video_ads.html
 
 ||heavy-r.com/ilove/bananas.php
