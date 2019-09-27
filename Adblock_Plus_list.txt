@@ -77,6 +77,16 @@ _728x90.
 /728_90.
 _728_90.
 	!/A-affiliate2/*
+	!/adparser.js
+	!/ads.php
+	!_ads.php
+	!/linkshare/*
+	!/overture/*
+	!/overture.
+	!/overture_
+	!/peel.js
+	!/parts/ad/*
+	!.swf?clickTAG=
 /aamsz=
 /acc_random=
 /ad/images/*
@@ -90,10 +100,6 @@ _ad.html|
 -ad.js$domain=~sh.st|~facebook.com
 _ad.js
 /ad.php?
-	!閉鎖してた
-	!||futalog.com/if_ad.php?
-	!||imgbako.com/if_ad.php?
-	
 	!||himado.in/player_ad.php
 _ad.php^
 /ad1.
@@ -103,7 +109,6 @@ _ad.php^
 /adframe.
 /adframe/*
 ?adid=
-	!/adparser.js
 /adparts/*
 !動画見れない css
 /adplayer.$domain=~share-videos.se
@@ -112,8 +117,6 @@ _ad.php^
 !真っ白
 !広告s同画像消
 _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
-	!/ads.php
-	!_ads.php
 /ads?
 /ads2.
 /adsense.
@@ -152,15 +155,8 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 /js/ads_
 /js.ng/site=
 /koukoku/*
-	!/linkshare/*
-	!/overture/*
-	!/overture.
-	!/overture_
-	!/peel.js
-	!/parts/ad/*
 /pop.js|
 /popunder.$domain=~openload.co
-	!.swf?clickTAG=
 /www/delivery/*
 	!/afr.php?
 	!/ajs.php?
@@ -988,11 +984,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /beacon.$domain=~amazon.com|~amazon.co.jp|~jp.autoblog.com|~dreevee.com|~engadget.com|~rma-api.gravity.com
 /beacon_
 /beacon?
-	!/bmv10.js
-	!/bmv11.js
-	!/bmv12.js
-	!/bmv13.js
-	!/bmv13_9sp.js
 /chartbeat.js
 /clickheat.js
 /co_tag.php?
