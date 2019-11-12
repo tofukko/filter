@@ -52,10 +52,11 @@ cavelis.net##[id^="amazon_"]
 cavelis.net##.rectangle_area
 
 !2019/06/17 サイトの管理終了 閉鎖時期未定
-temp.emotionflow.com##.IllustDetailLeft > DIV:first-child
-temp.emotionflow.com##.IllustDetailRight > DIV:last-child
-temp.emotionflow.com##.ContentsWorkLeft > DIV:not(.IllustThumb)
-temp.emotionflow.com##.ContentsRight > DIV:last-child
+!2019/11/12 無効
+!temp.emotionflow.com##.IllustDetailLeft > DIV:first-child
+!temp.emotionflow.com##.IllustDetailRight > DIV:last-child
+!temp.emotionflow.com##.ContentsWorkLeft > DIV:not(.IllustThumb)
+!temp.emotionflow.com##.ContentsRight > DIV:last-child
 
 !----------------------------広告----------------------------!
 /300x250.
