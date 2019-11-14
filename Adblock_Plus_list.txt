@@ -1700,6 +1700,7 @@ $script,third-party,domain=kissanime.ru
 rapidvideo.com##^script:has-text(window)
 
 kissanime.ru###adsIfrme7
+kissanime.ru###divFloatLeft
 kissanime.ru##.clear2
 kissanime.ru##.divCloseBut
 kissanime.ru##[style="width:920px;"]
