@@ -602,7 +602,6 @@ pornhub.com##.video-wrapper > #player + [class]
 pornhub.com##script:inject(set-constant.js, page_params.holiday_promo, true)
 pornhub.com##^script:has-text(tj_ads)
 pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
-*$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com
 
 !redtube
 ||redtube.com/_status/
