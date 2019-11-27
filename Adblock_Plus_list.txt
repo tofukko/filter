@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2019/11/20 20:32
+! 最終更新 2019/11/27 13:33
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -57,6 +57,9 @@ cavelis.net##.rectangle_area
 !temp.emotionflow.com##.IllustDetailRight > DIV:last-child
 !temp.emotionflow.com##.ContentsWorkLeft > DIV:not(.IllustThumb)
 !temp.emotionflow.com##.ContentsRight > DIV:last-child
+
+!2019/11/27 タグの部分 たまたま引っ掛かった
+pixiv.net#@#[class$="Ads"]:not(html):not(body)
 
 !----------------------------広告----------------------------!
 /300x250.
