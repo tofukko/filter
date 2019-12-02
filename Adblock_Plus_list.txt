@@ -58,9 +58,6 @@ cavelis.net##.rectangle_area
 !temp.emotionflow.com##.ContentsWorkLeft > DIV:not(.IllustThumb)
 !temp.emotionflow.com##.ContentsRight > DIV:last-child
 
-!2019/11/27 タグの部分 たまたま引っ掛かった
-pixiv.net#@#[class$="Ads"]:not(html):not(body)
-
 !----------------------------広告----------------------------!
 /300x250.
 /300x250_
