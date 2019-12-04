@@ -2281,7 +2281,7 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 	! https://www.mlb.com/rangers/schedule/
 @@||mlb.com^$generichide
 	! 動画見れない
-@@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=www3.nhk.or.jp
+@@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
 @@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
 	!検索関係
 @@||ntv.co.jp/ad-navi/ga/$domain=ntv.co.jp
