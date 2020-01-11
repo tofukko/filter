@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/01/05 23:11
+! 最終更新  2020/01/11 13:30
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1012,10 +1012,11 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /log_view.gif?
 /log2.php?
 /log4.cgi?
+!2020/01/11 外した
 ! bbc.co.uk音出ない
 ! dropbox.com　リンク取得後縮小画像が見えない
 ! radiko.jp 上部メニューが出ない
-/logger.js$domain=~bbc.co.uk|~bbc.com|~dropbox.com|~radiko.jp
+! /logger.js$domain=~bbc.co.uk|~bbc.com|~dropbox.com|~radiko.jp
 /logking.cgi?
 /logset.cgi?
 /logwrite.cgi?
@@ -2467,6 +2468,8 @@ webmail.auone-net.jp#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
 wiimk2.net#@#.advertisement
 	! 他のもガッツリ行くけど仕方ない http://www.paw.hi-ho.ne.jp/milbesos/apldl.shtml
 www.paw.hi-ho.ne.jp#@#[class^="ad_"]:not(html):not(body)
+	! float
+yakkun.com##.ad + div:style(clear:both)
 	!top
 youtube.com#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
 
