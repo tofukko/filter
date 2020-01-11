@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/01/11 13:30
+! 最終更新  2020/01/11 19:00
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -759,6 +759,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /link.js$domain=iqoo.me|masutabe.info
 
 
+|https://$script,third-party,domain=fembed.com
 |https://$script,third-party,domain=rapidvideo.com
 |https://$script,third-party,domain=asianclub.tv
 |https://$script,third-party,domain=jpidols.tv
@@ -1688,7 +1689,6 @@ $script,third-party,domain=kissanime.ru
 ||rotumal.com^$third-party
 ||wranjeon.xyz^
 ||adqy6rzwcs.com^
-||fembed.com^
 
 ||rapidvideo.com/tube-skin-retina-for-videojs-6/bin/video-js-6.2.0/ie8/videojs-ie8.min.js
 ||rapidvideo.com/js/jquery.min.js
@@ -2296,6 +2296,8 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 @@||pointservice.com^$generichide
 	!動画見れ
 @@||popads.net/pop.js$domain=jav4.me
+	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
+@@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 @@||rd.yahoo.co.jp/jpr_sports/sumo_pickup/$image,domain=sports.yahoo.co.jp
 	!申し込みランキング
 @@||rtoaster.jp/Rtoaster.js$domain=3ple.jp
@@ -2304,6 +2306,8 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 @@||share-videos.se^$generichide
 	!TOP 総合ランキング
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js
+	!サムネイルが表示されない
+@@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
 	!ロックされたときとか
 @@||twitter.com/account/access?
 	!動画見れない
