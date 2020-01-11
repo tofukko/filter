@@ -759,7 +759,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /link.js$domain=iqoo.me|masutabe.info
 
 
-|https://$script,third-party,domain=fembed.com
 |https://$script,third-party,domain=rapidvideo.com
 |https://$script,third-party,domain=asianclub.tv
 |https://$script,third-party,domain=jpidols.tv
