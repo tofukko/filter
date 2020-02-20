@@ -162,6 +162,7 @@ tamasoku.blog35.fc2.com##[class$="_space_box"]
 tokuteishimasuta.com###headlinewrap
 uwakich.com###more > br:first-child + div
 vippers.jp###topRss
+vippers.jp##.include1,.include2
 vipsister23.com###more ~ BLOCKQUOTE
 vipsister23.com##[id^="share"]
 warotanikki.com##[class*="head"]
