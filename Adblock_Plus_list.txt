@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/01/11 19:00
+! 最終更新  2020/02/20 17:10
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -931,7 +931,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!/__utm.
 !nico サムネ消える
 !dl-xvideos.com サムネ
-/1x1.gif$domain=~nicovideo.jp|~dl-x.com|~nlab.itmedia.co.jp
+!mognavi.jp 画像消え
+/1x1.gif$domain=~nicovideo.jp|~dl-x.com|~mognavi.jp|~nlab.itmedia.co.jp
 /ac.php?
 /acc.cgi?
 /acc.php?
@@ -1026,7 +1027,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /mag.js
 /mrlitelogger.
 /omn-js/*
-/omniture/*
+/omniture/*$domain=~order.my.rakuten.co.jp
 /omniture_
 /php-stats.js.php
 /piwik.js
@@ -2391,6 +2392,8 @@ lab.kiki-verb.com#@#[id^="ads_"]:not(html):not(body)
 	!top body直下
 linguee.jp#@#[class^="ad_"]:not(html):not(body)
 linguee.jp#@#[class*=" ad_"]:not(html):not(body):not(.ad_distance)
+	!全部
+linux-setting.tokyo#@#[class$="-ads"]:not(html):not(body)
 	!住所検索 > 住所
 mapion.co.jp#@#.ad
 	!カラーコードが消える
