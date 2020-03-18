@@ -1615,7 +1615,6 @@ tsumanne.net###cm
 twitter.com##.modal-overlay
 twitter.com##.promoted-tweet
 twitter.com##.promoted-tweet-heading
-twitter.com##div:not([class]):not([style]) div.css-1dbjc4n div:has-text(プロモーション)
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
