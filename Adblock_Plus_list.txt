@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/06/17 12:22
+! 最終更新 2020/07/02 9:21
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1358,8 +1358,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##[id$="_ad"]:not(html):not(body)
 ##[id$="-ads"]:not(html):not(body)
 ##[id$="_ads"]:not(html):not(body)
-##[id$="Ad"]:not(html):not(body)
-##[id$="Ads"]:not(html):not(body)
 ##[id*="-ad-"]:not(html):not(body)
 ##[id*="_ad_"]:not(html):not(body)
 ##[class^="ad-"]:not(html):not(body)
@@ -1371,8 +1369,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##[class$="_ad"]:not(html):not(body):not(.p_no_ad)
 ##[class$="-ads"]:not(html):not(body)
 ##[class$="_ads"]:not(html):not(body)
-##[class$="Ad"]:not(html):not(body)
-##[class$="Ads"]:not(html):not(body)
 	! .ad_distance http://www.paw.hi-ho.ne.jp/milbesos/apldl.shtml
 ##[class*=" ad_"]:not(html):not(body):not(.ad_distance)
 ##[class*="-ad "]:not(html):not(body)
@@ -2252,22 +2248,6 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 	!多い
 @@||google.com^$generichide
 @@||google.co.jp^$generichide
-	!検索結果動画部分
-	!google.co.jp,google.com#@#[class$="Ad"]:not(html):not(body)
-	!通知設定辺り
-	!calendar.google.com#@#[class$="Ad"]:not(html):not(body)
-	!ヘッダー 検索バー
-	!news.google.com#@#[class$="Ad"]:not(html):not(body)
-	!メール一覧
-	!inbox.google.com#@#.ad
-	!新規作成ボックスが消える
-	!mail.google.com#@#.AD
-	!本文
-	!mail.google.com#@#.ads
-	!カラーパレッド
-	!mail.google.com#@#[class$="Ad"]:not(html):not(body)
-	!投稿欄
-	!plus.google.com#@#[class$="Ad"]:not(html):not(body)
 	!カード画像
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
@@ -2328,8 +2308,6 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 @@||hydra-media.cursecdn.com/minecraft-ja.gamepedia.com/*/Beacon$image,domain=minecraft-ja.gamepedia.com
 @@||atwikiimg.com/www26.atwiki.jp/minecraft/*/beacon.png$image,domain=www26.atwiki.jp
 
-	!top番組一覧
-abema.tv#@#[class$="Ad"]:not(html):not(body)
 	!http://www.ad-toshiba.jp/ad/media/122
 ad-toshiba.jp#@#[class^="ad-"]:not(html):not(body)
 ad-toshiba.jp#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
@@ -2361,10 +2339,6 @@ cookpad.com#@#[id^="ad_"]:not(html):not(body):not(#ad_table)
 cookpad.com#@#[id*="_ad_"]:not(html):not(body)
 	!top崩れる
 eiga.com#@#[id$="_ad"]:not(html):not(body)
-	!検索結果
-etymonline.com#@#[class$="Ad"]:not(html):not(body)
-	!動画消える NGCだけ？ https://freshlive.tv/ngc/156675
-freshlive.tv#@#[class$="Ad"]:not(html):not(body)
 	!画像消え https://gyazo.com/c6dbfd4f056d5bfd8ed1db25c1e66f4d
 gyazo.com#@#[class$="-ad"]:not(html):not(body)
 	!左側
@@ -2433,14 +2407,10 @@ nijie.info,horne.red#@#[id$="-ad"]:not(html):not(body)
 	! 動画見れない
 openload.co#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
 openload.co#@#[class$="-ad"]:not(html):not(body)
-	!http://optifine.net/downloads ミラー先が消える
-optifine.net#@#[class$="Ads"]:not(html):not(body)
 	! http://www.paw.hi-ho.ne.jp/milbesos/apldl.shtml
 paw.hi-ho.ne.jp#@#[class^="ad_"]:not(html):not(body)
 	!本文
 pcgamingwiki.com#@#[class$="-ads"]:not(html):not(body)
-	!閲覧数あたり
-www.pixiv.net#@#[class$="Ad"]:not(html):not(body)
 	!右側サイドバー全部
 qanda.rakuten.ne.jp#@#[id*="_ad_"]:not(html):not(body)
 	!エントリーパッケージ云々
@@ -2455,8 +2425,6 @@ sai-zen-sen.jp#@#[class$="-ad"]:not(html):not(body)
 sankei.com#@#[class*="_ad_"]:not(html):not(body)
 	!変なの出る
 sekai-kabuka.com#@#.adsbygoogle
-	!記事見れない
-seikeidenron.jp#@#[class$="Ads"]:not(html):not(body)
 	!検索結果 urlが消える
 startpage.com#@#[class^="ads_"]:not(html):not(body)
 	!検索次へ 
