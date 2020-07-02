@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/02 9:21
+! 最終更新 2020/07/02 10:00
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -44,6 +44,10 @@
 cavelis.net###market_area
 cavelis.net##[id^="amazon_"]
 cavelis.net##.rectangle_area
+
+!2020/07/02 終了予定 2020/09/30
+matome.naver.jp###yads_pc_overlay
+||lcs.naver.jp^
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -1266,7 +1270,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||onesignal.com/webPushAnalytics|
 ||sea.pakapeko.com^
 ||seg.sharethis.com^
-||shblog.jp/analysis/
 ||stats.wp.com^
 ||suteki-tool.com/al
 ||suteki-tool.com/pr
@@ -1305,7 +1308,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||ismedia.jp/oo/
 ||kadokawagakugei.com/js/ga2.js
 ||kooss.com/cgi-usr/accl/lkz.cgi?
-||lcs.naver.jp^
 ||log.yaplog.jp^
 ||mainichi.jp/js/an.js
 ||milmil.cc/sys/asiato.cgi?
@@ -1432,7 +1434,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 !----dlsite
 ~dlsite.com,~dlsite.net##.plugin-freearea a[href*="dlsite.co"]
 ~dlsite.com,~dlsite.net##.sidewrapper a[href*="dlsite.co"]
-~dlsite.com,~dlsite.net##a[href^="http://www.dlsite.com/"][href*="http%3A%2F%2Fwww.dlsite.com%2F"]
+~dlsite.com,~dlsite.net##a[href^="https://www.dlsite.com/"][href*="https%3A%2F%2Fwww.dlsite.com%2F"]
 !----楽天
 ##.plugin-freearea a[href*="afl.rakuten.co.jp"]
 ##.sidewrapper a[href*="afl.rakuten.co.jp"]
@@ -1528,7 +1530,6 @@ mangaz.com###scroll-adv
 mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
 mainichi.jp##.ArticleAdKW
-matome.naver.jp###yads_pc_overlay
 medibang.com##.mdbnAdBlock
 medibang.com##.mdModal
 	!mobile
@@ -2248,6 +2249,22 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 	!多い
 @@||google.com^$generichide
 @@||google.co.jp^$generichide
+	!検索結果動画部分
+	!google.co.jp,google.com#@#[class$="Ad"]:not(html):not(body)
+	!通知設定辺り
+	!calendar.google.com#@#[class$="Ad"]:not(html):not(body)
+	!ヘッダー 検索バー
+	!news.google.com#@#[class$="Ad"]:not(html):not(body)
+	!メール一覧
+	!inbox.google.com#@#.ad
+	!新規作成ボックスが消える
+	!mail.google.com#@#.AD
+	!本文
+	!mail.google.com#@#.ads
+	!カラーパレッド
+	!mail.google.com#@#[class$="Ad"]:not(html):not(body)
+	!投稿欄
+	!plus.google.com#@#[class$="Ad"]:not(html):not(body)
 	!カード画像
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
