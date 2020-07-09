@@ -1607,6 +1607,7 @@ togetter.com###amazon_reco_box
 tokyo-tube.com##.banner-base
 tsumanne.net###amazon
 tsumanne.net###cm
+twilog.org##[style^="height:250px"]
 twitter.com##.modal-overlay
 twitter.com##.promoted-tweet
 twitter.com##.promoted-tweet-heading
