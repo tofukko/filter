@@ -2471,6 +2471,17 @@ www.paw.hi-ho.ne.jp#@#[class^="ad_"]:not(html):not(body)
 yakkun.com##.ad + div:style(clear:both)
 	!top
 youtube.com#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
+! 全消し
+ds-b.jp#@#[class^="ad-"]:not(html):not(body)
+ds-b.jp#@#[id^="ad-"]:not(html):not(body)
+! 動画消してしまう
+! https://k.sina.com.cn/article_1801710007_m6b63e9b703300snbe.html?from=ent&subch=oent
+sina.com.cn#@#[class*="-ad "]:not(html):not(body)
+javxxx.me#@#[class$="-ads"]:not(html):not(body)
+! ほぼ全消し
+latimes.com#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
+! 検索結果全消し
+shop-list.com#@#[class*="_ad_"]:not(html):not(body)
 
 
 !-------------------anti adblock-------------------------!
