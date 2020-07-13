@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/12 12:24
+! 最終更新 2020/07/14 8:55
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1374,7 +1374,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##[class$="_ads"]:not(html):not(body)
 	! .ad_distance http://www.paw.hi-ho.ne.jp/milbesos/apldl.shtml
 ##[class*=" ad_"]:not(html):not(body):not(.ad_distance)
-##[class*="-ad "]:not(html):not(body)
+	! vjs-ad  動画消える
+##[class*="-ad "]:not(html):not(body):not([class*="vjs-"])
 	! vjs-ad- 動画消える → http://videojs.com/
 	!			https://www.brightcove.com/
 ##[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
@@ -2357,6 +2358,9 @@ comicride.jp#@##sub a[href*="amazon.co.jp"]
 cookpad.com#@##ad
 cookpad.com#@#[id^="ad_"]:not(html):not(body):not(#ad_table)
 cookpad.com#@#[id*="_ad_"]:not(html):not(body)
+	!全消し
+ds-b.jp#@#[id^="ad-"]:not(html):not(body)
+ds-b.jp#@#[class^="ad-"]:not(html):not(body)
 	!top崩れる
 eiga.com#@#[id$="_ad"]:not(html):not(body)
 	!画像消え https://gyazo.com/c6dbfd4f056d5bfd8ed1db25c1e66f4d
@@ -2383,10 +2387,14 @@ huffingtonpost.jp#@#[class^="ad_"]:not(html):not(body)
 inoreader.com#@#[id^="ad_"]:not(html):not(body):not(#ad_table)
 	!検索結果 URL
 ixquick.com#@#[class^="ads_"]:not(html):not(body)
+	!動画消える
+javxxx.me#@#[class$="-ads"]:not(html):not(body)
 	!本文
 jp.wsj.com#@#[id$="_ads"]:not(html):not(body)
 	!実行ボタン
 lab.kiki-verb.com#@#[id^="ads_"]:not(html):not(body)
+	!ほぼ全消し
+latimes.com#@#[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
 	!top body直下
 linguee.jp#@#[class^="ad_"]:not(html):not(body)
 linguee.jp#@#[class*=" ad_"]:not(html):not(body):not(.ad_distance)
@@ -2438,13 +2446,15 @@ qanda.rakuten.ne.jp#@#[id*="_ad_"]:not(html):not(body)
 mobile.rakuten.co.jp#@#a[href*="ac.ebis.ne.jp/tr_set.php?"]
 	!記事本文
 rollingstonejapan.com#@#[class$="-ad"]:not(html):not(body)
-	!一部画像が消える
-sai-zen-sen.jp#@#[class*="-ad "]:not(html):not(body)
+	!ツイ4 漫画 一部画像が消える
+sai-zen-sen.jp#@#[class*="-ad "]:not(html):not(body):not([class*="vjs-"])
 sai-zen-sen.jp#@#[class$="-ad"]:not(html):not(body)
 	!記事内画像が消える
 sankei.com#@#[class*="_ad_"]:not(html):not(body)
 	!変なの出る
 sekai-kabuka.com#@#.adsbygoogle
+	!検索結果消える
+shop-list.com#@#[class*="_ad_"]:not(html):not(body)
 	!検索結果 urlが消える
 startpage.com#@#[class^="ads_"]:not(html):not(body)
 	!検索次へ 
