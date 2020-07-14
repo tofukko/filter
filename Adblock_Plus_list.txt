@@ -2390,8 +2390,6 @@ huffingtonpost.jp#@#[class^="ad_"]:not(html):not(body)
 inoreader.com#@#[id^="ad_"]:not(html):not(body):not(#ad_table)
 	!検索結果 URL
 ixquick.com#@#[class^="ads_"]:not(html):not(body)
-	!動画消える
-javxxx.me#@#[class$="-ads"]:not(html):not(body)
 	!本文
 jp.wsj.com#@#[id$="_ads"]:not(html):not(body)
 	!実行ボタン
