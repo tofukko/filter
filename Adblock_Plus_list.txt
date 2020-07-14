@@ -698,6 +698,9 @@ japanhub.net###r18
 
 ||javhub.net/video_ads.html
 
+javxxx.me###player_3x2_container
+@@||javxxx.me^$generichide
+
 ||heavy-r.com/ilove/bananas.php
 heavy-r.com###overlayVid
 heavy-r.com##.hd-ban
