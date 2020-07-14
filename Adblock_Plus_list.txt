@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/14 10:10
+! 最終更新 2020/07/14 10:53
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -686,6 +686,14 @@ avgle.com##+js(nowebrtc.js)
 avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
 
 
+!-----------javxxx.me
+video.javxxx.me###player_3x2_container
+hentai4.me##+js(window.open-defuser)
+hentai4.me##+js(set, clientSide.adbDetect, null)
+*/player/plugins/vast-*.js$script
+@@||javxxx.me^$generichide
+
+
 ||jqueryserve.com^$domain=spankwire.com
 
 
@@ -698,8 +706,6 @@ japanhub.net###r18
 
 ||javhub.net/video_ads.html
 
-javxxx.me###player_3x2_container
-@@||javxxx.me^$generichide
 
 ||heavy-r.com/ilove/bananas.php
 heavy-r.com###overlayVid
@@ -708,8 +714,6 @@ heavy-r.com##.hd-ban
 ||pornhost.com/*.php
 
 ||fapdu.com/desktop_popup.
-
-
 
 
 hpjav.tv##+js(abort-on-property-read, VAST)
