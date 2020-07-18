@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/18 14:32
+! 最終更新 2020/07/18 21:52
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -200,6 +200,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 
 |http://ad.
 |https://ad.
+|https://ad-
 
 ||ads.
 
@@ -236,6 +237,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||adresult.jp^$third-party
 ||ads-tool.$third-party
 ||adserver.$third-party
+||adsrvr.org^$third-party
 ||adsymptotic.com$third-party
 ||adtdp.com^$third-party
 ||adtune.jp^$third-party
@@ -370,10 +372,12 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||ppc-direct.com^$third-party
 ||primecaster.net^$third-party
 ||proparm.jp^$third-party
+||pubmatic.com^$third-party
 ||pushance.com^$third-party
 ||quant.jp^$third-party
 ||r-ad.ne.jp^$third-party
 ||rakuword.com^$third-party
+||realvu.net^$third-party
 ||rentracks.jp^$third-party
 ||rightsnetwork.net^$third-party
 ||rossoad.com^$third-party
@@ -1488,6 +1492,7 @@ easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 exploader.net###nls
 exploader.net##[href^="https://www.dmm.co.jp/"],[href^="http://www.dmm.co.jp/"]
+fandom.com##[class^="aff-unit__"]
 favolog.org###side > div:first-child
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
