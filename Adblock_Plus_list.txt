@@ -40,11 +40,6 @@
 !share-videos.se
 !tokyomotion.net
 
-!2019/07/25 終了予定 2019年9月末
-cavelis.net###market_area
-cavelis.net##[id^="amazon_"]
-cavelis.net##.rectangle_area
-
 !2020/07/02 終了予定 2020/09/30
 matome.naver.jp###yads_pc_overlay
 ||lcs.naver.jp^
