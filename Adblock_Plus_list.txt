@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/23 18:59
+! 最終更新 2020/07/23 19：37
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -894,9 +894,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||relart.fresheye.com^
 ||ribbon.to/alpc.js
 ||ribbon.to/rw.php
-||sanspo.com^*/adsence_
+||sankei2ad.durasite.net^
 ||savevideo.me/ads-fallback/
-||sea-saw.com^$domain=2dbook.com
 ||seesaa.jp/frame/
 ||share-videos.se/js/pjs.js
 	||admesia.com^$third-party
@@ -909,7 +908,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	||browsers.support^
 	||zlgokeby.com^
 	||wzismevwhqixlq.com^
-||aj1198.online^$domain=tokyomotion.net
+||ad999.biz^$domain=tokyomotion.net
 ||toukoucity.to/js/digi
 ||toukoucity.to/siteimg/digi/dmmt$domain=toukoucity.to
 ||tokyo-porn-tube.com/media/player/ads_
@@ -924,12 +923,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||westatic.com/jsad/$domain=weblio.jp
 ||wikiwiki.jp^*/ads_cus.js
 ||woopie.jp^*/banner/
-||xbooru.com/ex.js?
-||xbooru.com/x/
-||xfantasy.tv/static/ad/
-||xvideos-field5.com/rrjs/
-||yaplog.jp^*/pr.js
-||yaplog.jp/static/js/pc_blog_ad_
 ||zdnet.com/parts/frame/ad_
 
 !------------------------解析------------------------!
