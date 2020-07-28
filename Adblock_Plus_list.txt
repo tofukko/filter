@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/28 15:29
+! 最終更新 2020/07/28 19:27
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1079,8 +1079,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /ywa.js
 
 ||2-only.page.ne.jp^$third-party
-! gyao プレイヤー消える
-||2mdn.net^$third-party,domain=~gyao.yahoo.co.jp
 ||2o7.net^$third-party
 ||33across.com^$third-party
 ||3939kaiseki.com^$third-party
@@ -1739,6 +1737,8 @@ yahoo.co.jp###brandpanel
 !GYAOとか動画前広告
 ||adserver-apne.tidaltv.com
 
+
+auctions.yahoo.co.jp##.ss
 games.yahoo.co.jp##.jack
 search.yahoo.co.jp##.Ad
 
@@ -2206,8 +2206,6 @@ workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT + DIV + .container #article-over
 
 !--------ホワイトリスト--------!
-	!動画シーク
-@@||2mdn.net/instream/html5/ima3.js$domain=tver.jp
 	!動画未練
 @@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
 	!動画見れない
@@ -2259,6 +2257,8 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 	!画像とか
 @@||images-na.ssl-images-amazon.com^$domain=imdb.com
 @@||media-amazon.com^$domain=imdb.com
+	!ゲームできない
+@@||imasdk.googleapis.com^$domain=games.wkb.jp
 	!動画
 @@||javpm.com^$generichide
 @@||jsgoal.jp/_parts/googlead.html?
@@ -2344,6 +2344,10 @@ ds-b.jp#@#[id^="ad-"]:not(html):not(body)
 ds-b.jp#@#[class^="ad-"]:not(html):not(body)
 	!top崩れる
 eiga.com#@#[id$="_ad"]:not(html):not(body)
+	!anti adblock
+games.wkb.jp##+js(set, gWkbAdVert, true)
+games.wkb.jp##+js(set, noblock, true)
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
 	!画像消え https://gyazo.com/c6dbfd4f056d5bfd8ed1db25c1e66f4d
 gyazo.com#@#[class$="-ad"]:not(html):not(body)
 	!左側
