@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/29　17:19
+! 最終更新 2020/07/29　19:31
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -134,8 +134,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 /images/ad/*
 /images/ad_
 /images/ads/*
-! mapion.co.jp 地図が出てこない
-/js/ad_$domain=~mapion.co.jp
+/js/ad_
 /js/ad/*
 /js/ads.
 /js/ads-
@@ -870,7 +869,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||majo.co.jp/jwd.js$domain=ribbon.to
 ||majo.co.jp/alpc.js$domain=ribbon.to
 	||vinhoverde.sakura.ne.jp$domain=ribbon.to
-||mangamura.org/showads.js
+||mapion.co.jp*/adOverture/
+||mapion.co.jp*/js/vl1.
 ||mangaz.com/virgo/adv/
 ||match.seesaa.jp^
 ||medibang.com/viewer/fixedAds/
@@ -1818,18 +1818,6 @@ excite.co.jp###sideSource.box01
 ||microad.net^$domain=news.biglobe.ne.jp
 ||ad-api-v01.uliza.jp^$domain=news.biglobe.ne.jp
 ||news.biglobe.ne.jp/img/bn/$domain=news.biglobe.ne.jp
-
-!------------mapion--------------!
-||mapion.co.jp*/adOverture/
-||mapion.co.jp/f/common/js/MeasureClickAd.js
-||mapion.co.jp*/js/vl1.
-
-!news
-mapion.co.jp##[id$="Banner"]
-
-!map
-mapion.co.jp###WF_ListFooter
-mapion.co.jp###WF_ListHeader
 
 !--------------msn----------------!
 
