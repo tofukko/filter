@@ -329,13 +329,14 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||logly.co.jp^$third-party
 ||ltassrv.com^$third-party
 ||m-n-j.com^$third-party
+||ma-jin.jp^$third-party
+||macromill.com^$third-party
 ||media.net^$third-party
 ||media6degrees.com^$third-party
 ||medleyads.com^$third-party
 ||mmaaxx.com^$third-party
 ||microad.jp^$third-party
 ||microad.net^$third-party
-||macromill.com^$third-party
 ||mediagra.com^$third-party
 ||mediaplex.com^$third-party
 ||moshimo.com^$third-party
@@ -767,7 +768,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 .com^$script,third-party,domain=hitomi.la
 /kok/*$domain=movie.eroterest.net
-/link.js$domain=iqoo.me|masutabe.info
+/link.js$domain=iqoo.me
 
 
 |https://$script,third-party,domain=rapidvideo.com
@@ -843,7 +844,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||hentai-foundry.com/themes/default/js/activebar.js
-||hitomi.la/tIongEnSEsCe26.js
 ||horne.red/banner/
 ||i-bbs.sijex.net/js/jquery.scrollfollow.js
 ||imagebam.com/files/index2.php
@@ -859,7 +859,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||kakaku.k-img.com^*/ad/
 ||kidslink.jp/cgi-bin/esb/main.cgi?
 ||kidslink.jp^*/dummy.html
-||kienizer.com/adv/
 ||koepota.jp/js/amazon.js
 ||komachi.yomiuri.co.jp/scripts/g_connect.js
 ||kooss.com/*.htm$subdocument
