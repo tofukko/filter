@@ -1575,7 +1575,6 @@ storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 streamin.to##a[href*=".com/analytics/"]
 streamin.to##[style^="z-index: 2000;"]
-syosetu.com##.koukoku_728
 tegaki.pipa.jp##.AdX300x250
 tinami.com###banner_view
 togetter.com###amazon_reco_box
