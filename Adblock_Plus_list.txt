@@ -770,6 +770,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||pagead2.googlesyndication.com^
 ||partner*.become.co.jp^
 ||pos.baidu.com^
+||realsrv.com^
 ||rdp.pro.ne.jp^$third-party
 !http://latexcapacity.com/
 ||latexbizarramb.info^
