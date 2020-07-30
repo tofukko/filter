@@ -44,6 +44,12 @@
 matome.naver.jp###yads_pc_overlay
 ||lcs.naver.jp^
 
+!2020/07/30 ？
+||atas.io^$domain=toukoucity.to
+||toukoucity.to/js/digi
+||toukoucity.to/siteimg/digi/dmmt$domain=toukoucity.to
+||tokyo-porn-tube.com/media/player/ads_
+
 !----------------------------広告----------------------------!
 /300x250.
 /300x250_
@@ -292,6 +298,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||fastclick.net^$third-party
 ||find-a.jp^$third-party
 ||fmpub.net^$third-party
+||fourmtagservices.com^$third-party
 ||fout.jp^$third-party
 ||free-video-movie.com^$third-party
 ||fun9.net^$third-party
@@ -803,7 +810,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
 ||asg.to/ad/
-||atas.io^$domain=toukoucity.to
 ||blog.seesaa.jp/js/banner.js
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
@@ -889,12 +895,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||nhentai.net/api/
 ||nuvidp.com^$domain=nuvid.com
 ||nijie.net/*/banner/
-||news-postseven.com/script/inner_banner.js
-||okwave.jp/ajax_qamatch
-||p.dmm.co*/p/*/bnr
-||padotown.net/js/set_keywords.js
-||padotown.net/js/show_keywords
-||phileweb.com/js/top_banner.js
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
 ||relart.fresheye.com^
@@ -915,9 +915,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	||zlgokeby.com^
 	||wzismevwhqixlq.com^
 ||ad999.biz^$domain=tokyomotion.net
-||toukoucity.to/js/digi
-||toukoucity.to/siteimg/digi/dmmt$domain=toukoucity.to
-||tokyo-porn-tube.com/media/player/ads_
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||twitter.com/i/videoads/
@@ -926,10 +923,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||wav.tv/support/adFrame?
-||westatic.com/jsad/$domain=weblio.jp
-||wikiwiki.jp^*/ads_cus.js
 ||woopie.jp^*/banner/
-||zdnet.com/parts/frame/ad_
 
 !------------------------解析------------------------!
 	!/__tm3k.js
