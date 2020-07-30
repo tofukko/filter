@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/29　19:31
+! 最終更新 2020/07/30 14:28
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -177,6 +177,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 .co/ads/
 .com/ad/
 .com/ads/
+.com/ads-
 .eu/ads/
 .fr/ads/
 .gs/ads/
@@ -542,6 +543,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||speednetwork14.com^$third-party
 ||spotxchange.com^$third-party
 ||superfastcdn.com^$third-party
+||tapad.com^$third-party
 ||teads.tv^$third-party
 ||toponclick.com^$third-party
 ||tororango.com^$third-party
