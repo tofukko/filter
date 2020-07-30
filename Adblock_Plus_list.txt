@@ -49,6 +49,8 @@ matome.naver.jp###yads_pc_overlay
 ||toukoucity.to/js/digi
 ||toukoucity.to/siteimg/digi/dmmt$domain=toukoucity.to
 ||tokyo-porn-tube.com/media/player/ads_
+adultlog.net,btblog.jp##.story_box:first-child
+adultlog.net,btblog.jp##td.inside
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -1441,8 +1443,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##.side a[href*="item.rakuten.co.jp/"]
 
 
-adultlog.net,btblog.jp##.story_box:first-child
-adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
