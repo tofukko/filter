@@ -51,6 +51,7 @@ matome.naver.jp###yads_pc_overlay
 ||tokyo-porn-tube.com/media/player/ads_
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
+yu.to##style + script[language="JavaScript"] + div[align="center"]
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -1609,8 +1610,6 @@ xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
-yu.to##style + script[language="JavaScript"] + div[align="center"]
-
 
 
 
