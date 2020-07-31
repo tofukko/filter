@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/30 23:25
+! 最終更新 2020/07/31 11:48
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1602,7 +1602,8 @@ weblio.jp##.RktnUl
 weblio.jp##.sideBxStGyEst
 weblio.jp##.ydnSwCls
 ! 朝目新聞
-www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] > table[cellspacing="0"][cellpadding="0"] a[href*="amazon.co.jp/"]
+www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
+www.ne.jp##a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(1)
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(2)
 xvideo-jp.com###dmmad
