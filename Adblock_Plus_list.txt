@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/07/31 11:48
+! 最終更新 2020/07/31 13:31
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1652,12 +1652,7 @@ xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 
 !-----------kiss-------------!
 $script,third-party,domain=kissanime.ru
-
-||fingahvf.top^$third-party
-||propellerads.com^$third-party
-||rotumal.com^$third-party
-||wranjeon.xyz^
-||adqy6rzwcs.com^
+||kissanime.ru^$subdocument,first-party
 
 ||rapidvideo.com/tube-skin-retina-for-videojs-6/bin/video-js-6.2.0/ie8/videojs-ie8.min.js
 ||rapidvideo.com/js/jquery.min.js
@@ -1670,15 +1665,10 @@ kissanime.ru##.divCloseBut
 kissanime.ru##[style="width:920px;"]
 kissanime.ru##[style^="border-color: #4e4e4e !important; position: relative;"]
 
-@@||kissanime.ru/ads/
-
 kissanime.ru##+js(setTimeout-defuser.js, /YANMKABFYWRW|YANABWEKA/)
 kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
 kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-kissanime.pro##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-kissanime.*##+js(kissanime-defuser.js)
 kissanime.*##+js(set-constant.js, check_adblock, true)
-||kissanime.ru^$subdocument,first-party
 @@||static.animecdn.stream/themes/vast/videojs.ads.min.js$script,domain=kissanime.ac
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kissanime.ac
 
