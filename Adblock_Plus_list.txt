@@ -1346,6 +1346,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##.adsense
 ##.adv
 ##.advertisement
+
+##._popIn_recommend_article_ad
 	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
 ###seesaa-bnr
 ##.vjs-poster
@@ -1382,6 +1384,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
 ##[class*="_ad_"]:not(html):not(body)
 
+##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[style*="width:728px;"][style*="height:90px;"]
 
@@ -1389,7 +1392,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##a[href*="infotop.jp/click.php?"]
 ##a[href*="/traffic.php?"]
 
-##a[href^="https://a.popin.cc/popin_redirect/redirect?"]
 ##a[href*="ac.ebis.ne.jp/tr_set.php?"]
 ##a[href*="accesstrade.net/at/"]
 ##a[href*="accesstrade.net/sp/"]
