@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/01 13:07
+! 最終更新 2020/08/01 15:07
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -227,7 +227,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||adapf.com^$third-party
 ||adbrite.com^$third-party
 ||addeluxe.jp^$third-party
-||adimg.net^$third-party
 ||adingo.jp$third-party
 ||adjust-net.jp^$third-party
 ||adjustnetwork.com^$third-party
@@ -286,7 +285,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||criteo.com^$third-party
 ||criteo.net^$third-party
 ||cyber-traffic.net^$third-party
-||cyberwing.co.jp^$third-party
 ||d-064.com^$third-party
 ||devo.jp^$third-party
 ||dl-rms.com^$third-party
@@ -320,7 +318,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||infolinks.com^$third-party
 ||infotop.$third-party
 ||insightexpressai.com^$third-party
-||iogous.com^$third-party
 ||j-a-net.jp^$third-party
 ||jsadapi.com^$third-party
 ||juicyads.com^$third-party
@@ -356,7 +353,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||mttag.com^$third-party
 ||musicgate.$third-party
 ||my-affiliate.com^$third-party
-||next-channel.com^$third-party
 ||nsk-sys.com^$third-party
 ||octopuspop.com^$third-party
 ||og-affiliate.com^$third-party
@@ -411,7 +407,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||store-mix.com^$third-party
 ||sublimestore.jp^$third-party
 ||taboola.com^$third-party
-||tacoda.net^$third-party
 ||taggyad.jp^$third-party
 ||tagtoru.tokyo^$third-party
 ||tapone.jp^$third-party
@@ -525,7 +520,6 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||m2pub.com^$third-party
 ||madadsmedia.com^$third-party
 ||mgid.com^$third-party
-||nex8.net^$third-party
 ||nxcount.com^$third-party
 ||oclaserver.com^$third-party
 ||oclasrv.com^$third-party
@@ -735,7 +729,6 @@ vidoza.net##^script:has-text($('.pvr'))
 ashemaletube.com##.ads-block-rightside
 ashemaletube.com##.video-end-overlay
 ashemaletube.com##+js(aopr, open)
-ashemaletube.com##+js(set, popunder, noopFunc)
 
 !------------drtuber
 ||drtuber.com/player_right_ads_
@@ -774,7 +767,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||partner*.become.co.jp^
 ||pos.baidu.com^
 ||realsrv.com^
-||rdp.pro.ne.jp^$third-party
 !http://latexcapacity.com/
 ||latexbizarramb.info^
 
@@ -838,6 +830,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||eegg.fun/js/
 ||egone.org/js/amazon_
 ||exploader.net/images/nls/
+||estar.jp/page/ad/
 	! 2017/07/16 動画見れないらしいがこれで見れるらしい
 ||fod.fujitv.co.jp/pc/image/wbhjfr/
 ||fod.fujitv.co.jp/mz/*
@@ -1150,7 +1143,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||imrworldwide.com^$third-party
 ||infoscan.jp^$third-party
 ||inpros.net^$third-party
-||japanmetrix.jp^$third-party
 ||jscount.com^$third-party
 ||juicer.cc^$third-party
 ||just-now.net^$third-party
@@ -1174,7 +1166,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||openstat.net^$third-party
 ||optimizely.com^$third-party
 ||outbrain.com^$third-party
-||owldata.com^$third-party
 ||owneriq.net^$third-party
 ||pagerank.$third-party
 ||pr-icon.com^$third-party
@@ -1250,7 +1241,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||analyzer1.digidigi.jp^
 ||aol.com/ping?
 ||aqtracker.com^
-||b.grvcdn.com^
 ||blogtool.jp/log/a.js
 ||blogtoy.net/add_log?
 ||blozoo.info/js/inouttool/blogparts.js
@@ -1398,7 +1388,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##a[href*="accesstrade.net/sp/"]
 ##a[href*="affiliate.fc2.com/cgi-bin/click.cgi?"]
 ##a[href*="bannerbridge.net/click"]
-##a[href*="clcount.com"]
 ##a[href*="click.duga.jp/"]
 ##a[href*="click.dtiserv2.com"]
 ##a[href*="click.linksynergy.com"]:not([href*="&type=2"]):not([href*="&type=3"]):not([href*="=http%3A%2F%2F"]):not([href*="=http%253A%252F%252F"])
@@ -1521,6 +1510,7 @@ mangaz.com###scroll-adv
 mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
 mainichi.jp##.ArticleAdKW
+magnet-novels.com##.adBox
 medibang.com##.mdbnAdBlock
 medibang.com##.mdModal
 	!mobile
@@ -1577,6 +1567,8 @@ ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
 ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
 ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
 sankakucomplex.com##[class^="adbmodal-"]
+scraiv.com###main_inner + .max-600
+scraiv.com###main_inner:style(height: unset !important;)
 search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
 sekkaku.net##[summary="AD"]
@@ -1630,11 +1622,9 @@ xvideo-jp.com##.p-dmmad
 xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 
-
-
 !------------alphapolis------------!
 ||s3-ap-northeast-1.amazonaws.com/seedapp-script/adloader.js
-alphapolis.co.jp###TopLayer
+alphapolis.co.jp##.wrapper ~ #TopLayer
 
 !------------angelfire.com------------!
 angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
@@ -1842,7 +1832,6 @@ recipe.rakuten.co.jp##.rightNaviBanner
 recipe.rakuten.co.jp##.subContentsLink
 
 !------------livedoor------------!
-||unthem.com^$third-party
 ||gsspcln.jp^
 ||coppedex.com^
 ||multiquicks.net^
@@ -2470,19 +2459,14 @@ thisav.com#@#[id$="_ad"]:not(html):not(body)
 ||genieedmp.com^$third-party
 ||i-mobile.co.jp^$third-party
 ||ktai.pw^$third-party
-||lead-ad.jp^$third-party
-||media-rep.com^$third-party
 ||moba8.net^$third-party
 ||nend.net^$third-party
 ||smartad-analytics.info^$third-party
 ||speead.jp^$third-party
-||trax-ad.jp^$third-party
 ||unitedblades.co.jp^$third-party
-||user.in.net^$third-party
 ||yicha.jp^$third-party
 ||z-profit.com^$third-party
 ||zucks.net$third-party
 
 ||amazonaws.com/ad-arata/$domain=fc2.com
-||ad1-click.com^$domain=fc2.com
 ||sp-a.gree.net/g/u.html?
