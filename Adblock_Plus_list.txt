@@ -1498,6 +1498,7 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="amazon.co"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="accesstrade.net/sp/"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
+kakuyomu.jp##[class^="widget-ad-"]
 kakaku.com###listingPr
 kakaku.com###yAuctionBox
 kakaku.com##.listPR
@@ -1506,6 +1507,7 @@ kakaku.com##.prTitle
 horne.red###main-right > .left_column > .tieup_rand_block
 lifehacker.jp##.amazonSec01
 lifehacker.jp###pc_AmazonSalesArea
+maho.jp##.Ad
 mangaz.com###scroll-adv
 mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
@@ -1517,6 +1519,8 @@ medibang.com##.mdModal
 medibang.com##.mfp-ready
 medibang.com##.viewer-bottomBanner
 mhometheater.com##[href^="https://airw.net/"]:not(:first-child),[href^="http://blogrank.toremaga.com/"],[href^="https://blogranking.fc2.com/"],[href^="https://blog.with2.net/"]
+mimizun.com##.ad300x250
+mimizun.com###thread:style( position: relative; top: -90px; left: -312px; )
 mmm.me###imadv
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
