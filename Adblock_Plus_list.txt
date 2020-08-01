@@ -2023,8 +2023,10 @@ ameblo.jp##a[alt0="BlogAffiliate"]
 ||youtube.com/player_204?
 ||youtube.com/ptracking?
 ||s.youtube.com^
+youtube.com###masthead-ad
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
 youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 
 !再生履歴
