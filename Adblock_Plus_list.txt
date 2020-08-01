@@ -1534,6 +1534,8 @@ moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.bigbanner
 muvc.net##body > div[align="right"]:last-of-type
 nlab.itmedia.co.jp###globalHeader
+novelup.plus##.ad-pc
+novelup.plus##.ad-sp
 nyaa.se###main div[style^="float:left;"]
 nyaa.se###main > div:nth-of-type(2)
 natalie.mu##.NA_ad300x250
