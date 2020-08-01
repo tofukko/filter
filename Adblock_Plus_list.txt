@@ -1355,34 +1355,35 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!wix.com
 ###WIX_ADS
 
-##[id^="ad-"]:not(html):not(body)
-	! #ad_table fc2ブログ管理画面 > 画像高速表示の設定
-##[id^="ad_"]:not(html):not(body):not(#ad_table)
-##[id^="ads-"]:not(html):not(body)
-##[id^="ads_"]:not(html):not(body)
-##[id$="-ad"]:not(html):not(body)
-##[id$="_ad"]:not(html):not(body)
-##[id$="-ads"]:not(html):not(body)
-##[id$="_ads"]:not(html):not(body)
-##[id*="-ad-"]:not(html):not(body)
-##[id*="_ad_"]:not(html):not(body)
-##[class^="ad-"]:not(html):not(body)
-##[class^="ad_"]:not(html):not(body)
-##[class^="ads-"]:not(html):not(body)
-##[class^="ads_"]:not(html):not(body)
-##[class$="-ad"]:not(html):not(body)
-	! .p_no_ad fc2ブログ コメント送信後、確認フォーム
-##[class$="_ad"]:not(html):not(body):not(.p_no_ad)
-##[class$="-ads"]:not(html):not(body)
-##[class$="_ads"]:not(html):not(body)
-	! .ad_distance http://www.paw.hi-ho.ne.jp/milbesos/apldl.shtml
-##[class*=" ad_"]:not(html):not(body):not(.ad_distance)
-	! vjs-ad  動画消える
-##[class*="-ad "]:not(html):not(body):not([class*="vjs-"])
-	! vjs-ad- 動画消える → http://videojs.com/
-	!			https://www.brightcove.com/
-##[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
-##[class*="_ad_"]:not(html):not(body)
+! (☝ ՞ਊ ՞)☝
+!##[id^="ad-"]:not(html):not(body)
+!	! #ad_table fc2ブログ管理画面 > 画像高速表示の設定
+!##[id^="ad_"]:not(html):not(body):not(#ad_table)
+!##[id^="ads-"]:not(html):not(body)
+!##[id^="ads_"]:not(html):not(body)
+!##[id$="-ad"]:not(html):not(body)
+!##[id$="_ad"]:not(html):not(body)
+!##[id$="-ads"]:not(html):not(body)
+!##[id$="_ads"]:not(html):not(body)
+!##[id*="-ad-"]:not(html):not(body)
+!##[id*="_ad_"]:not(html):not(body)
+!##[class^="ad-"]:not(html):not(body)
+!##[class^="ad_"]:not(html):not(body)
+!##[class^="ads-"]:not(html):not(body)
+!##[class^="ads_"]:not(html):not(body)
+!##[class$="-ad"]:not(html):not(body)
+!	! .p_no_ad fc2ブログ コメント送信後、確認フォーム
+!##[class$="_ad"]:not(html):not(body):not(.p_no_ad)
+!##[class$="-ads"]:not(html):not(body)
+!##[class$="_ads"]:not(html):not(body)
+!	! .ad_distance http://www.paw.hi-ho.ne.jp/milbesos/apldl.shtml
+!##[class*=" ad_"]:not(html):not(body):not(.ad_distance)
+!	! vjs-ad  動画消える
+!##[class*="-ad "]:not(html):not(body):not([class*="vjs-"])
+!	! vjs-ad- 動画消える → http://videojs.com/
+!	!			https://www.brightcove.com/
+!##[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
+!##[class*="_ad_"]:not(html):not(body)
 
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
