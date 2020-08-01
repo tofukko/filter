@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/01 15:07
+! 最終更新 2020/08/01 17:53
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -511,6 +511,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||freewebfonts.org^$third-party
 ||globaltraffico.com^$third-party
 ||gwallet.com^$third-party
+||hellobar.com^$third-party
 ||ie8eamus.com^$third-party
 ||iwanttodeliver.com^$third-party
 ||jlist.com^$third-party
@@ -539,6 +540,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||pvclouds.com^$third-party
 ||revcontent.com^$third-party
 ||revivestar.com^$third-party
+||rollbar.com^$third-party
 ||runative-syndicate.com^$third-party
 ||sancdn.net^$third-party
 ||seethisinaction.com^$third-party
@@ -1227,6 +1229,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||f-tra.com^$third-party
 ||hanaprop.com^$third-party
 ||mathtag.com^$third-party
+||mixpanel.com^$third-party
+||mxpnl.com^$third-party
 ||newrelic.com^$third-party
 ||remarketingpixel.com^$third-party
 ||toplist.cz^$third-party
@@ -1528,6 +1532,7 @@ moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.bigbanner
 muvc.net##body > div[align="right"]:last-of-type
 nlab.itmedia.co.jp###globalHeader
+no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
 novelup.plus##.ad-pc
 novelup.plus##.ad-sp
 nyaa.se###main div[style^="float:left;"]
