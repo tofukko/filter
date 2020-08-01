@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/01 12:20
+! 最終更新 2020/08/01 13:07
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1459,6 +1459,8 @@ basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-chil
 bing.com###b_results > [class^="b_"]:not(.b_algo):not(.b_ans):not(.b_pag):not(.b_msg)
 bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "Ad"))
 bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "広告"))
+bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "Ad"))
+bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "広告"))
 buttobi.net##div[style="position: relative; z-index:255;"]
 chart.sekai-kabuka.com###aswift_0_expand
 coliss.com###sponsors
@@ -1503,6 +1505,9 @@ jugem.jp##.UBH_new
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="amazon.co"])
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="accesstrade.net/sp/"])
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="px.a8.net/svt/ejp?"])
+jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="amazon.co"])
+jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="accesstrade.net/sp/"])
+jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 kakaku.com###listingPr
 kakaku.com###yAuctionBox
@@ -1560,6 +1565,7 @@ parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: lef
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net##div:has( > iframe:not([src]))
+pixiv.net#?#div:-abp-has( > iframe:not([src]))
 projectdesign.jp###base-register
 	!https://hobbyjapan.co.jp/comic/series/
 r.binb.jp###adp
@@ -1584,6 +1590,7 @@ streamin.to##a[href*=".com/analytics/"]
 streamin.to##[style^="z-index: 2000;"]
 tegaki.pipa.jp##.AdX300x250
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
+teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tinami.com###banner_view
 togetter.com###amazon_reco_box
 tokyo-tube.com##.banner-base
@@ -1594,6 +1601,7 @@ twitter.com##.modal-overlay
 twitter.com##.promoted-tweet
 twitter.com##.promoted-tweet-heading
 twitter.com##div[data-testid="primaryColumn"] h1[aria-level="1"] + div > div:first-child > div:first-child > div:has(path[d^="M20.75 2H3.25C2.007"])
+twitter.com#?#div[data-testid="primaryColumn"] h1[aria-level="1"] + div > div:first-child > div:first-child > div:-abp-has(path[d^="M20.75 2H3.25C2.007"])
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
@@ -1610,6 +1618,7 @@ weblio.jp##.sideBxStGyEst
 weblio.jp##.ydnSwCls
 ! 朝目新聞
 www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
+www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
 www.ne.jp##a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(1)
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(2)
