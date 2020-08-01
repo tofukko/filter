@@ -1383,6 +1383,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[style*="width:728px;"][style*="height:90px;"]
+##[style*="width: 728px;"][style*="height: 90px;"]
 
 ##a[href*="http://ad."]
 ##a[href*="infotop.jp/click.php?"]
