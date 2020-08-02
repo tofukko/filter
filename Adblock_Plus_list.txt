@@ -1358,6 +1358,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ###ads
 ###adsense
 ##.ad
+##.ad-area
 	!seiga.nicovideo.jp logsoku等
 ##.ad_area
 ##.ad-body
@@ -1372,7 +1373,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##.advertisement
 
 ##._popIn_recommend_article_ad
-!microad
+	!microad
 ##.c-ad
 ###geniee_overlay_outer
 	!seesaablog
@@ -1585,6 +1586,7 @@ pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net##div:has( > iframe:not([src]))
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
 pointdream.jp###geniee_overray_base
+prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
 	!https://hobbyjapan.co.jp/comic/series/
 r.binb.jp###adp
@@ -1736,6 +1738,7 @@ blog.goo.ne.jp###mod-goo-recommends
 ||log000.goo.ne.jp^
 
 !-----------hatena-----------!
+!はてなブログProにも出るんだろうか？有料版で独自ドメインを取り広告を非表示にせず更新が滞ってるブログを見つけられないからわからない
 hateblo.jp##.sleeping-ads
 hatenanews.com##.ads-250
 a.hatena.ne.jp##.side-ad
