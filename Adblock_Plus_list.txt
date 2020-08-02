@@ -1342,6 +1342,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##.advertisement
 
 ##._popIn_recommend_article_ad
+###geniee_overlay_outer
 	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
 ###seesaa-bnr
 ##.vjs-poster
@@ -1461,6 +1462,8 @@ chart.sekai-kabuka.com###aswift_0_expand
 coliss.com###sponsors
 coliss.com###sponsorsTop
 dl8x.com##[class^="dx-banner-"]
+dl-x.com##._ad
+dl-x.com##.vip-center
 e-typing.ne.jp##[class^="ad"][class*="00"]
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
@@ -1510,6 +1513,7 @@ kakaku.com###yAuctionBox
 kakaku.com##.listPR
 kakaku.com##.prBn
 kakaku.com##.prTitle
+kotobank.jp##.pc-iframe-ad
 horne.red###main-right > .left_column > .tieup_rand_block
 lifehacker.jp##.amazonSec01
 lifehacker.jp###pc_AmazonSalesArea
@@ -1571,6 +1575,7 @@ parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: le
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net##div:has( > iframe:not([src]))
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
+pointdream.jp###geniee_overray_base
 projectdesign.jp###base-register
 	!https://hobbyjapan.co.jp/comic/series/
 r.binb.jp###adp
