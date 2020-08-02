@@ -112,7 +112,7 @@ _ad.php^
 /ads.js
 !真っ白
 !広告s同画像消
-_ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
+_ads.js
 /ads?
 /ads2.
 /adsense.
@@ -150,8 +150,12 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 /js/ads_
 /js.ng/site=
 /koukoku/*
+/prebid.$domain=~prebid.org
+/prebid/*
+/prebid-
+/prebid?
 /pop.js|
-/popunder.$domain=~openload.co
+/popunder.
 /www/delivery/*
 	!/afr.php?
 	!/ajs.php?
@@ -358,8 +362,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||og-affiliate.com^$third-party
 ||omany.tv^$third-party
 ||online-dn.com^$third-party
-||openx.$third-party
-||openxmarket.jp^$third-party
+||openx.net^$third-party
 ||orange-park.jp^$third-party
 ||overture.com^$third-party
 ||p-advg.com^$third-party
@@ -514,6 +517,7 @@ _ads.js$domain=~mlb.mlb.com|~huffingtonpost.jp
 ||hellobar.com^$third-party
 ||ie8eamus.com^$third-party
 ||iwanttodeliver.com^$third-party
+||jads.co^$third-party
 ||jlist.com^$third-party
 ||jlisting.jp^$third-party
 ||ladsp.com^$third-party
@@ -672,13 +676,6 @@ xvideos.com###video-sponsor-links
 xvideos.com##.sponsor_popup
 xvideos.com##.sponsor-popup
 xvideos.com##^script:has-text(checkVideoAds)
-
-!-----------openload.co
-||cloudflare.com/cdn-cgi/nexp/$domain=openload.co
-||openload.co/assets/js/license.5.js
-
-openload.co###videooverlay
-openload.co##^script:has-text(popAdsLoaded)
 
 !-----------avgle.com
 $third-party,popup,domain=avgle.com
@@ -1477,6 +1474,7 @@ freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
 getchu.com###rectangle
 getchu.com##.banner
+gigafile.nu##[class*=banner_type_]
 gizmodo.jp,lifehacker.jp##.amazItem
 gizmodo.jp,lifehacker.jp##.amazon_ranking.section
 google.com,google.co.jp###mbEnd
@@ -1567,6 +1565,8 @@ npn.co.jp###arata5
 nuwton.com##[class*="banner-"]
 nuvid.com##.puFloatLine
 o-uccino.jp##[class^="float_banner_"]
+orangepage.net##.doubleRectangle
+orangepage.net##.recipeBlock.clearfix.pr
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 okwave.jp##.big_bnr
 otakomu.jp##a[href*="amazon"]
@@ -1620,7 +1620,6 @@ uta-net.com###view_amazon
 vector.co.jp###adBox
 vidoza.net##.pvr
 n.shop.vector.co.jp###vsSubTableContent
-veoh.com###CM8ShowAd_Rectangle_300x250
 webclap.com##.footer
 webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 weblio.jp##.AmaznUl
@@ -1756,6 +1755,25 @@ kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
 kissanime.*##+js(set-constant.js, check_adblock, true)
 @@||static.animecdn.stream/themes/vast/videojs.ads.min.js$script,domain=kissanime.ac
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kissanime.ac
+
+! ------loveheaven.net--------
+||a.vdo.ai^
+||cogleapad.com^
+||dyecowwhy.com^
+||mehebborc.com^
+||adform.net$third-party
+||bidadx.com^$third-party
+||creativecdn.com^$third-party
+||tapad.com^$third-party
+||vlitag.com^$third-party
+||spolecznosci.net^$third-party
+||inpagepush.com^$important
+||vidazoo.com/basev/widgets/widget.js$script,third-party
+loveheaven.net##.float-ck
+loveheaven.net##.quang-cao
+loveheaven.net##.chapter-img + br + br + br + center
+loveheaven.net##.chapter-img + br + br + br + center + br
+loveheaven.net##.chapter-img + br + br + br + center + br + br
 
 !------------nicovideo ニコニコ動画------------!
 !アンケート
