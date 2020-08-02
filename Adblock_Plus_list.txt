@@ -1808,8 +1808,8 @@ yahoo.co.jp###brandpanel
 ||adserver-apne.tidaltv.com
 
 auctions.yahoo.co.jp##.ss
-games.yahoo.co.jp##.jack
 search.yahoo.co.jp##.Ad
+chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
 
 ||analytics.yahoo.co
 ||b90.yahoo.co.jp^
