@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/01 23:22
+! 最終更新  2020/08/02 23:33
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -875,7 +875,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||mapion.co.jp*/adOverture/
 ||mapion.co.jp*/js/vl1.
 ||mangaz.com/virgo/adv/
-||match.seesaa.jp^
 ||medibang.com/viewer/fixedAds/
 ||mgstage.com/js/mgs_Widget.js?
 ||mhometheater.com$inline-script
@@ -1323,30 +1322,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||zokugo-dict.com^*/ac.js
 
 !-----------------------非表示フィルタ-----------------------!
-
-###ad
-###ad1
-###ad2
-###ads
-###adsense
-##.ad
-##.ad1
-##.ad2
-##.ads
-##.adsbygoogle
-##.adsense
-##.adv
-##.advertisement
-
-##._popIn_recommend_article_ad
-###geniee_overlay_outer
-	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
-###seesaa-bnr
-##.vjs-poster
-##.vjs-adblack-overlay
-	!wix.com
-###WIX_ADS
-
 ! (☝ ՞ਊ ՞)☝
 !##[id^="ad-"]:not(html):not(body)
 !	! #ad_table fc2ブログ管理画面 > 画像高速表示の設定
@@ -1377,6 +1352,39 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 !##[class*="-ad-"]:not(html):not(body):not([class*="vjs-"])
 !##[class*="_ad_"]:not(html):not(body)
 
+###ad
+###ad1
+###ad2
+###ads
+###adsense
+##.ad
+	!seiga.nicovideo.jp logsoku等
+##.ad_area
+##.ad-body
+	!アンテナメーカーだけでもyosage?
+##.ad_footer
+##.ad1
+##.ad2
+##.ads
+##.adsbygoogle
+##.adsense
+##.adv
+##.advertisement
+
+##._popIn_recommend_article_ad
+!microad
+##.c-ad
+###geniee_overlay_outer
+	!seesaablog
+###overlay-ad-div-id
+	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
+###seesaa-bnr
+##.vjs-poster
+##.vjs-adblack-overlay
+	!wix.com
+###WIX_ADS
+
+##div[id^="crt-"][style]
 *##div:has(> div[id^="div-gpt-ad"]:only-child)
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
@@ -1454,6 +1462,7 @@ bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "Ad"))
 bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "広告"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "Ad"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "広告"))
+blog.ss-blog.jp###ad-days-area
 buttobi.net##div[style="position: relative; z-index:255;"]
 chart.sekai-kabuka.com###aswift_0_expand
 coliss.com###sponsors
@@ -1784,7 +1793,6 @@ dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; wi
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
 live.nicovideo.jp##.kokoku
 live2.nicovideo.jp##[class^="___banner-panel___"]
-seiga.nicovideo.jp##.ad_area
 !ニコニ広告全般
 @@||uad.nicovideo.jp^$generichide
 ! adsblocking
