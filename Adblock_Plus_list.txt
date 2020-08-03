@@ -1746,7 +1746,10 @@ blog.goo.ne.jp###mod-goo-recommends
 
 !-----------hatena-----------!
 !はてなブログProにも出るんだろうか？有料版で独自ドメインを取り広告を非表示にせず更新が滞ってるブログを見つけられないからわからない
-hateblo.jp##.sleeping-ads
+	!hateblo.jp,
+	!hatenablog.com,jp,
+	!hatenadiary.com,jp,org
+##.sleeping-ads
 hatenanews.com##.ads-250
 a.hatena.ne.jp##.side-ad
 b.hatena.ne.jp##.entrylist-ad-pc-banner
