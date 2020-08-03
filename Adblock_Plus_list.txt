@@ -1604,6 +1604,7 @@ ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.p
 sankakucomplex.com##[class^="adbmodal-"]
 scraiv.com###main_inner + .max-600
 scraiv.com###main_inner:style(height: unset !important;)
+scraiv.com###main_inner::after:style(background-image: none !important;)
 search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
 sekkaku.net##[summary="AD"]
