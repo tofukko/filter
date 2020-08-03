@@ -1286,6 +1286,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||cnn.co.jp/js/aclick.js
 ||cnn.co.jp/js/ga_social_tracking.js
 ||cnn.co.jp/js/sitesnapi.js
+||collector.githubapp.com^
 ||counter-hosting.*/counter.php?
 ||diamond.jp/oo/
 ||etoyota.net/include/js/measurementBeacon.js
@@ -1588,6 +1589,10 @@ pixiv.net#?#div:-abp-has( > iframe:not([src]))
 pointdream.jp###geniee_overray_base
 prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
+qiita.com##.ad-300x250
+qiita.com##.it-Ads_afterBodyContainer
+qiita.com##.p-home_ad
+qiita.com##[id^=logly-lif]
 	!https://hobbyjapan.co.jp/comic/series/
 r.binb.jp###adp
 rbbtoday.com##.cx-top-news
