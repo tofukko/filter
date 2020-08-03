@@ -1607,6 +1607,7 @@ search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
+jbbs.shitaraba.net###footer-menu + br + table + hr + div
 jbbs.shitaraba.net###footer-menu + br + table + hr + table
 jbbs.shitaraba.net##.thread-list + hr + table
 sound.jp###adfloat
