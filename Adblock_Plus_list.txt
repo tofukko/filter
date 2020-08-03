@@ -36,10 +36,6 @@
 ||r18.com^$third-party,domain=~japanhub.net|~javxxx.me
 !-------ここまで-------!
 
-||d2swpuhpwp3khd.cloudfront.net^
-!share-videos.se
-!tokyomotion.net
-
 !2020/07/02 終了予定 2020/09/30
 matome.naver.jp###yads_pc_overlay
 ||lcs.naver.jp^
@@ -399,7 +395,6 @@ _ads.js
 ||sexymap.net^$third-party
 ||sfilm.com^$third-party
 ||silveregg.net^$third-party
-||speee-ad.$third-party
 ||skimlinks.com^$third-party
 ||skimresources.com^$third-party
 ||smaf.jp^$third-party
@@ -747,8 +742,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 
 !----third-party
-||antena-maker.nekotool.com
-||auone-net.jp/~$image,third-party
 ||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
@@ -766,7 +759,12 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||partner*.become.co.jp^
 ||pos.baidu.com^
 ||realsrv.com^
+||speee-ad.akamaized.net^
 ||richlink.blogsys.jp^
+
+||d2swpuhpwp3khd.cloudfront.net^
+!share-videos.se
+!tokyomotion.net
 
 
 .com^$script,third-party,domain=hitomi.la
