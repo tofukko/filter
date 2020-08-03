@@ -766,8 +766,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||partner*.become.co.jp^
 ||pos.baidu.com^
 ||realsrv.com^
-!http://latexcapacity.com/
-||latexbizarramb.info^
+||richlink.blogsys.jp^
 
 
 .com^$script,third-party,domain=hitomi.la
@@ -1621,9 +1620,10 @@ storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 streamin.to##a[href*=".com/analytics/"]
 streamin.to##[style^="z-index: 2000;"]
-tegaki.pipa.jp##.AdX300x250
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
+tegaki.pipa.jp##.AdX300x250
+tenki.jp##[class^="tenki-ad"]
 tinami.com###banner_view
 togetter.com###amazon_reco_box
 tokyo-tube.com##.banner-base
