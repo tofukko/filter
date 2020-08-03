@@ -1533,6 +1533,7 @@ mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
 mainichi.jp##.ArticleAdKW
 magnet-novels.com##.adBox
+mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
 medibang.com##.asArtStreetTopIllustAd
 medibang.com##.mdbnAdBlock
 medibang.com##.mdModal
@@ -1588,6 +1589,7 @@ pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net##div:has( > iframe:not([src]))
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
 pointdream.jp###geniee_overray_base
+pointtown.com##.pt-side-ad
 prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
 qiita.com##.ad-300x250
@@ -1804,6 +1806,7 @@ dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; wi
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
 live.nicovideo.jp##.kokoku
 live2.nicovideo.jp##[class^="___banner-panel___"]
+seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
 !ニコニ広告全般
 @@||uad.nicovideo.jp^$generichide
 ! adsblocking
