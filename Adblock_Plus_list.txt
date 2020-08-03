@@ -2401,8 +2401,8 @@ materialui.co#@#[class*="_ad_"]:not(html):not(body)
 fluentcolors.com#@#[class*="_ad_"]:not(html):not(body)
 	!ダウンロードボタン
 mediafire.com#@#.ads
-	!全部
-mega.nz#@#[class$="-ads"]:not(html):not(body)
+	!追加日 https://github.com/tofukko/filter/issues/5
+mega.nz#@#.ad
 	!top 全部
 miyalabo.jp#@#[id$="-ad"]:not(html):not(body)
 	!本文
