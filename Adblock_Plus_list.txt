@@ -1593,6 +1593,7 @@ orangepage.net##.recipeBlock.clearfix.pr
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 okwave.jp##.big_bnr
 otakomu.jp##a[href*="amazon"]
+otakomu.jp##.siteRanking-main:style(margin-left:0 !important;)
 parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has( > a[href^="https://www.amazon.co"])
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
