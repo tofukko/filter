@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/03 23:30
+! 最終更新  2020/08/04 16:49
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1370,16 +1370,26 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ##.adv
 ##.advertisement
 
+	!popin
 ##._popIn_recommend_article_ad
+
 	!microad
 ##.c-ad
+	! http://2ch-matomenews.com/
+	! http://kankokunohannou.org/
+	! http://www.negisoku.com/
+	! https://news.nifty.com/
+	! 他スマホ用あり
+###float-bnr
+
 ###geniee_overlay_outer
+	!seesaa系wiki独
+##.ads-box
 	!seesaablog
 ###overlay-ad-div-id
 	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
 ###seesaa-bnr
 ##.vjs-poster
-##.vjs-adblack-overlay
 	!wix.com
 ###WIX_ADS
 
@@ -1387,6 +1397,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 *##div:has(> div[id^="div-gpt-ad"]:only-child)
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
+##[id^="div_fam_async_"]
 ##[style*="width:728px;"][style*="height:90px;"]
 ##[style*="width: 728px;"][style*="height: 90px;"]
 
