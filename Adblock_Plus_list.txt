@@ -1553,7 +1553,7 @@ medibang.com##.mfp-ready
 medibang.com##.viewer-bottomBanner
 mhometheater.com##[href^="https://airw.net/"]:not(:first-child),[href^="http://blogrank.toremaga.com/"],[href^="https://blogranking.fc2.com/"],[href^="https://blog.with2.net/"]
 mimizun.com##.ad300x250
-mimizun.com###thread:style( position: relative; top: -90px; left: -312px; )
+mimizun.com###thread:style( position: relative; left: -312px; )
 mmm.me###imadv
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
