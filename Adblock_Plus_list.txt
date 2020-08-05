@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/05 14:36
+! 最終更新  2020/08/05 16:15
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1399,8 +1399,13 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!wix.com
 ###WIX_ADS
 
-##div[id^="crt-"][style]
+*##div:has(> script[src*="//cdn-fluct.sh.adingo.jp/f.js?"]:first-child + script:last-child)
+*##div:has(> script[src*="//adm.shinobi.jp/s/"]:only-child)
+*##div:has(> script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child)
+*##div:has(> script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child)
 *##div:has(> div[id^="div-gpt-ad"]:only-child)
+
+##div[id^="crt-"][style]
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[id^="div_fam_async_"]
@@ -1660,6 +1665,7 @@ uta-net.com###view_amazon
 vector.co.jp###adBox
 vidoza.net##.pvr
 n.shop.vector.co.jp###vsSubTableContent
+web-ace.jp##[class^="ad_rect"]
 webclap.com##.footer
 webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 weblio.jp##.AmaznUl
@@ -2207,9 +2213,6 @@ kanasoku.info##.cent_top
 !金時 http://blog.livedoor.jp/goldennews/
 blog.livedoor.jp##[src="http://blog.livedoor.jp/goldennews/settings/ad.js"] + script + #header + #wrapper > #main-column > .kiziue > a[href*="amazon.co.jp"]
 
-!ニュー速日P
-blog.livedoor.jp##a[href*="dmm.co.jp"][href*="/a2aaaeaaiiia-001"]
-
 !ハター報
 ||itoman.doorblog.jp^
 ||blog.livedoor.jp/hamusoku*/amazon
@@ -2221,6 +2224,7 @@ esuteru.com##a[href^="http://www.amazon.co.jp"]
 !働くモノ http://workingnews.blog117.fc2.com/
 ||fc2.com/w/o/r/workingnews/meerkat_side_double_js2.js
 workingnews.blog117.fc2.com##.amatable_wrap
+workingnews.blog117.fc2.com##.logbox > .boxright
 workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 
 !キニ速
