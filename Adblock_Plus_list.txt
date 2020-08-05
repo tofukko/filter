@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/04 17:06
+! 最終更新  2020/08/05 1:26
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -334,7 +334,6 @@ _ads.js
 ||linkshare.ne.jp^$third-party
 ||liveads.jp^$third-party
 ||livepartners.com^$third-party
-||logly.co.jp^$third-party
 ||ltassrv.com^$third-party
 ||m-n-j.com^$third-party
 ||ma-jin.jp^$third-party
@@ -1372,9 +1371,13 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!google
 ##.adsbygoogle
 ##.google-user-ad
-
+	!むしろなぜpopinwokesanainoka??????????????????????
+	!||logly.co.jp^$third-party
+	!logly.co.jp
+##.logly-lift-ad:not(.logly-lift-article)
 	!popin
 ##._popIn_recommend_article_ad
+##._popIn_recommend_article_ad_reserved
 
 	!microad
 ##.c-ad
@@ -1452,9 +1455,9 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ###sidebar a[href*="dmm.co.jp"]
 ##.sidewrapper a[href*="dmm.co.jp"]
 !----dlsite
-~dlsite.com,~dlsite.net##.plugin-freearea a[href*="dlsite.co"]
-~dlsite.com,~dlsite.net##.sidewrapper a[href*="dlsite.co"]
-~dlsite.com,~dlsite.net##a[href^="https://www.dlsite.com/"][href*="https%3A%2F%2Fwww.dlsite.com%2F"]
+~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
+~dlsite.com##.sidewrapper a[href*="dlsite.co"]
+~dlsite.com##a[href^="https://www.dlsite.com/"][href*="https%3A%2F%2Fwww.dlsite.com%2F"]
 !----楽天
 ##.plugin-freearea a[href*="afl.rakuten.co.jp"]
 ##.sidewrapper a[href*="afl.rakuten.co.jp"]
@@ -1594,6 +1597,7 @@ oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="cent
 okwave.jp##.big_bnr
 otakomu.jp##a[href*="amazon"]
 otakomu.jp##.siteRanking-main:style(margin-left:0 !important;)
+otapol.com###entryAdAmazonArea
 parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has( > a[href^="https://www.amazon.co"])
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
@@ -1636,6 +1640,7 @@ teacup.com##center:has(img[src^="//adimg.teacup.com/"])
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
 tenki.jp##[class^="tenki-ad"]
+tg-uchi.jp##.topicBanner
 tinami.com###banner_view
 togetter.com###amazon_reco_box
 tokyo-tube.com##.banner-base
@@ -1751,14 +1756,6 @@ excite.co.jp###sideSource.box01
 ||2chan.net/bin/uuacount.php?*
 ||2chan.net/bin/uucount.php
 
-!------------goo------------!
-||adcdn.goo.ne.jp^
-||goo.ne.jp/oshiete/ad_loader.js?
-goo.ne.jp##dl.txtimgl
-blog.goo.ne.jp###mod-global-header-l span
-blog.goo.ne.jp###mod-goo-recommends
-||log000.goo.ne.jp^
-
 !-----------hatena-----------!
 !はてなブログProにも出るんだろうか？有料版で独自ドメインを取り広告を非表示にせず更新が滞ってるブログを見つけられないからわからない
 	!hateblo.jp,
@@ -1790,8 +1787,16 @@ kissanime.ru##+js(setTimeout-defuser.js, /YANMKABFYWRW|YANABWEKA/)
 kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
 kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
 kissanime.*##+js(set-constant.js, check_adblock, true)
-@@||static.animecdn.stream/themes/vast/videojs.ads.min.js$script,domain=kissanime.ac
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kissanime.ac
+
+!------------livedoor------------!
+||gsspcln.jp^
+||coppedex.com^
+||counter2.blog.livedoor.com/c?ro=1&act=rss
+||livedoor.jp/js/c2.js
+||t.blog.livedoor.jp^
+###meerkat-contents
+	!blog cookie承認バナー
+###gdpr-banner
 
 ! ------loveheaven.net--------
 ||a.vdo.ai^
@@ -1847,6 +1852,14 @@ tok2.com###tok2_footer
 
 
 
+!------------goo------------!
+||adcdn.goo.ne.jp^
+||goo.ne.jp/oshiete/ad_loader.js?
+goo.ne.jp##dl.txtimgl
+blog.goo.ne.jp###mod-global-header-l span
+blog.goo.ne.jp###mod-goo-recommends
+||log000.goo.ne.jp^
+
 !------------yahoo------------!
 !お礼コメントが出来なくなる
 /yads.$domain=~okwave.jp
@@ -1864,6 +1877,7 @@ yahoo.co.jp###brandpanel
 
 auctions.yahoo.co.jp##.ss
 search.yahoo.co.jp##.Ad
+chiebukuro.yahoo.co.jp##.lstAd
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
 
 ||analytics.yahoo.co
@@ -1873,6 +1887,7 @@ chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"]
 ||b97.yahoo.co.jp
 ||dcs.yahoo.co.jp^
 ||geo.yahoo.com^
+||logql.yahoo.co.jp^
 ||rd.yahoo.co.jp^
 ||visit.geocities.jp^
 ||ybx.yahoo.co.jp^
@@ -1903,19 +1918,6 @@ chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"]
 plaza.rakuten.co.jp###commonAdsParts
 recipe.rakuten.co.jp##.rightNaviBanner
 recipe.rakuten.co.jp##.subContentsLink
-
-!------------livedoor------------!
-||gsspcln.jp^
-||coppedex.com^
-||multiquicks.net^
-||blog.livelog.biz/script/js/package/
-
-###meerkat-contents
-	!blog cookie承認バナー
-###gdpr-banner
-||counter2.blog.livedoor.com/c?ro=1&act=rss
-||livedoor.jp/js/c2.js
-||t.blog.livedoor.jp^
 
 !--------------msn----------------!
 
