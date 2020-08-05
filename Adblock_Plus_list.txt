@@ -1798,6 +1798,9 @@ kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
 kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
 kissanime.*##+js(set-constant.js, check_adblock, true)
 
+!応急
+@@||hcaptcha.com$domain=kissanime.ru
+
 !------------livedoor------------!
 ||gsspcln.jp^
 ||coppedex.com^
