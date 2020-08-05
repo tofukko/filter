@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/05 1:26
+! 最終更新  2020/08/05 14:36
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1626,6 +1626,8 @@ search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
+server-setting.info###pr_bottom
+server-setting.info###pr_side_top
 jbbs.shitaraba.net###footer-menu + br + table + hr + div
 jbbs.shitaraba.net###footer-menu + br + table + hr + table
 jbbs.shitaraba.net##.thread-list + hr + table
@@ -1824,6 +1826,7 @@ loveheaven.net##.chapter-img + br + br + br + center + br + br
 ||nimg.jp/relive/playerbanner/
 dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; width:300px; margin:0 0 4px 0;"]
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
+dic.nicovideo.jp##.adsense-728
 live.nicovideo.jp##.kokoku
 live2.nicovideo.jp##[class^="___banner-panel___"]
 seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
@@ -2126,6 +2129,7 @@ channel.pandora.tv##.pm_wrap
 |http://ct2.*.com/sc/
 ||bar1.shinobi.jp^
 ||omt.shinobi.jp^
+||rcm.shinobi.jp^
 ||analysis.shinobi.jp/ninja_ar/
 ||ba1.shinobi.jp^
 ||vis1.shinobi.jp^
@@ -2470,6 +2474,8 @@ sai-zen-sen.jp#@#[class$="-ad"]:not(html):not(body)
 sankei.com#@#[class*="_ad_"]:not(html):not(body)
 	!変なの出る
 sekai-kabuka.com#@#.adsbygoogle
+	!記事
+server-setting.info#@#.adsbygoogle
 	!検索結果消える
 shop-list.com#@#[class*="_ad_"]:not(html):not(body)
 	!検索結果 urlが消える
