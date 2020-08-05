@@ -1832,6 +1832,7 @@ loveheaven.net##.chapter-img + br + br + br + center + br + br
 !||enquete.nicovideo.jp/static/
 !ニコ生
 ||nimg.jp/relive/playerbanner/
+ch.nicovideo.jp##.ads_nicovideo
 dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; width:300px; margin:0 0 4px 0;"]
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
 dic.nicovideo.jp##.adsense-728
