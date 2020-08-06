@@ -1525,6 +1525,9 @@ kakaku.com###yAuctionBox
 kakaku.com##.listPR
 kakaku.com##.prBn
 kakaku.com##.prTitle
+karapaia.com###overlay
+karapaia.com##.readmore-header
+karapaia.com##[class^=ads-label]
 kotobank.jp##.pc-iframe-ad
 horne.red###main-right > .left_column > .tieup_rand_block
 lifehacker.jp##.amazItem
