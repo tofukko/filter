@@ -1470,6 +1470,7 @@ chart.sekai-kabuka.com###aswift_0_expand
 coliss.com###sponsors
 coliss.com###sponsorsTop
 daily.co.jp###adUnderArticle
+daily.co.jp##aside.add
 daily.co.jp##[style="width:300px;height:600px;"]
 dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
