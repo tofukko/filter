@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/06 7:36
+! 最終更新  2020/08/06 12:03
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1130,6 +1130,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||himitsuya.jp^$third-party
 ||histats.com^$third-party
 ||host-tracker.com^$third-party
+||hotjar.com^$third-party
 ||hitgraph.jp^$third-party
 ||i2i.jp^$third-party
 ||i2idata.com^$third-party
@@ -1406,7 +1407,9 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 *##div:has(> script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child)
 *##div:has(> div[id^="div-gpt-ad"]:only-child)
 
-##div[id^="crt-"][style]
+
+! criteo ##div[id^="crt-"][style]
+##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style]
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[id^="div_fam_async_"]
