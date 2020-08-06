@@ -2061,8 +2061,9 @@ amazon.co.jp###nav-swmslot
 ||fc2.com/video/*/banner/
 video.fc2.com###pjx-search [href="/a/promo/samples"]
 video.fc2.com##[class^="c-ad"]
-video.fc2.com##.banner
 video.fc2.com##.ad_panelAR
+video.fc2.com##.banner
+video.fc2.com##.clmn-side > div[id]
 video.fc2.com##.promotion
 video.fc2.com##.l-ctnt_ls:style(margin-top: 16px !important;)
 video.fc2.com##.sectionCrd + .sectionCrd
