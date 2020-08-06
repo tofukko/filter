@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/06 12:03
+! 最終更新  2020/08/06 18:03
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -746,6 +746,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||bitflyer.jp/Images/Affiliate/
 ||coincheck.com/images/affiliates/
 ||dietnavi.com/pc/banner/
+||dogma-annex.com/media/affiliate/
 ||googlesyndication.com/pagead/
 ||gunosy.com/adnet/
 ||idea-unlimited.com/adsimg/
@@ -765,7 +766,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 !tokyomotion.net
 
 
-.com^$script,third-party,domain=hitomi.la
 /kok/*$domain=movie.eroterest.net
 /link.js$domain=iqoo.me
 
@@ -1761,6 +1761,10 @@ b.hatena.ne.jp##.entrylist-ad-pc-banner
 q.hatena.ne.jp##.sidebar-banner
 q.hatena.ne.jp##.double-rectangle
 
+!-----------hitomi.la-----------!
+.com^$script,third-party,domain=hitomi.la
+hitomi.la##+js(aopr, pops)
+
 !-----------kiss-------------!
 $script,third-party,domain=kissanime.ru
 ||kissanime.ru^$subdocument,first-party
@@ -2050,8 +2054,19 @@ amazon.co.jp###nav-swmslot
 ||fc2.com/image/banner/
 ||fc2.com/js/blog/headbar_ad_load.js?
 ||fc2.com/share/image/banner_
-	!動画内画像広告
-||fc2.com/video/adimage/ad01.png
+
+!video.fc2.com
+||fc2.com/video/img/b/
+||fc2.com/static/video/js/plr/tg/
+||fc2.com/video/*/banner/
+video.fc2.com###pjx-search [href="/a/promo/samples"]
+video.fc2.com##[class^="c-ad"]
+video.fc2.com##.banner
+video.fc2.com##.ad_panelAR
+video.fc2.com##.promotion
+video.fc2.com##.l-ctnt_ls:style(margin-top: 16px !important;)
+video.fc2.com##.sectionCrd + .sectionCrd
+
 ||vip.chps-api.fc2.com/apis/footer/
 ||video.fc2.com/a/pagead/
 admin.blog.fc2.com##.adimn_pr_txt
@@ -2064,11 +2079,6 @@ fc2web.com##table[width="100%"] td[valign="baseline"]
 h.fc2.com##body > strong:nth-last-of-type(1)
 h.fc2.com##body > strong:nth-last-of-type(2)
 h.fc2.com##body > strong:nth-last-of-type(3)
-video.fc2.com##.recommend_v2
-video.fc2.com##.bottom-bnr
-video.fc2.com##.side_banner
-video.fc2.com###control_f02_content > .clearfix:first-child
-video.fc2.com###side_menu >.side_menu_block:not(:nth-last-of-type(2)):not(:last-child)
 ||analyzer*.fc2.com/analyzercook.js?
 ||analyzer*.fc2.com^*/ana/
 ||cnt.fc2web.com^
