@@ -914,6 +914,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ||utamap.com/banner/
 ||wav.tv/support/adFrame?
 ||woopie.jp^*/banner/
+||zyuken.net/juku_page/ads/
 
 !------------------------解析------------------------!
 	!/__tm3k.js
@@ -1484,6 +1485,9 @@ bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "広告"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "Ad"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "広告"))
 blog.ss-blog.jp###ad-days-area
+businessinsider.jp##.f-ad
+businessinsider.jp##.f-content-secondary > style + div
+businessinsider.jp##.p-cardTile-card.adMg
 buttobi.net##div[style="position: relative; z-index:255;"]
 chart.sekai-kabuka.com###aswift_0_expand
 coliss.com###sponsors
@@ -1507,8 +1511,9 @@ freesoft.tvbok.com##.topad
 getchu.com###rectangle
 getchu.com##.banner
 gigafile.nu##[class*=banner_type_]
-gizmodo.jp,lifehacker.jp##.amazItem
-gizmodo.jp,lifehacker.jp##.amazon_ranking.section
+gizmodo.jp##.l-ad
+gizmodo.jp##.s-body-ad
+gizmodo.jp##.p-post-ad
 google.com,google.co.jp###mbEnd
 google.com,google.co.jp###tads
 google.com,google.co.jp###tadsb
@@ -1545,6 +1550,7 @@ kakaku.com##.prBn
 kakaku.com##.prTitle
 kotobank.jp##.pc-iframe-ad
 horne.red###main-right > .left_column > .tieup_rand_block
+lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
 maho.jp##.Ad
@@ -1688,6 +1694,7 @@ xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
+zyuken.net##.AdImg
 
 !------------alphapolis------------!
 ||s3-ap-northeast-1.amazonaws.com/seedapp-script/adloader.js
@@ -2518,7 +2525,7 @@ yakkun.com##.ad + div:style(clear:both)
 
 !-------------------anti adblock-------------------------!
 	!anti adblock
-||lifehacker.jp/assets/vendor/brave/modal-dist/index.js
+||lifehacker.jp/assets/vendor/brave/
 	!変なの出る
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sekai-kabuka.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sekai-kabuka.com
