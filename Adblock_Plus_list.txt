@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/06 19:18
+! 最終更新  2020/08/06 21:39
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1614,6 +1614,8 @@ scraiv.com###main_inner:style(height: unset !important;)
 scraiv.com###main_inner::after:style(background-image: none !important;)
 search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
+sekai-kabuka.com##table[id][width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td[align="center"] > div[id][class]:style(height: 1px !important;)
+sekai-kabuka.com##.tb-r2 > table > tbody > tr > td:not([valign="top"])
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
 server-setting.info###pr_bottom
@@ -2412,8 +2414,6 @@ www.nicovideo.jp#@#.ads
 	!エントリーパッケージ云々
 	!https://mobile.rakuten.co.jp/select/?l-id=top_carousel_pc_select
 mobile.rakuten.co.jp#@#a[href*="ac.ebis.ne.jp/tr_set.php?"]
-	!変なの出る
-sekai-kabuka.com#@#.adsbygoogle
 	!記事
 server-setting.info#@#.adsbygoogle
 	!本文
@@ -2426,11 +2426,9 @@ wiimk2.net#@#.advertisement
 yakkun.com##.ad + div:style(clear:both)
 
 !-------------------anti adblock-------------------------!
-	!anti adblock
-||lifehacker.jp/assets/vendor/brave/
-	!変なの出る
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sekai-kabuka.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sekai-kabuka.com
+	! https://twitter.com/280blocker/status/1289903534385721344
+/ad-page/dfp.js
+/modal-dist/index.js
 	!anti adblock
 @@||9ketsuki.info^$generichide
 @@||battlecats-db.com^$generichide
