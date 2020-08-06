@@ -1010,13 +1010,14 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 /logking.cgi?
 /logset.cgi?
 /logwrite.cgi?
+/rtoaster.js
 /lunasys/analyzer/*
 /lunalys/analyzer/*
 /macgo.js
 /mag.js
 /mrlitelogger.
 /omn-js/*
-/omniture/*$domain=~order.my.rakuten.co.jp
+/omniture/*
 /omniture_
 /php-stats.js.php
 /piwik.js
