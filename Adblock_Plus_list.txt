@@ -1368,7 +1368,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 ###overlay-ad-div-id
 	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
 ###seesaa-bnr
-##.vjs-poster
 	!wix.com
 ###WIX_ADS
 
