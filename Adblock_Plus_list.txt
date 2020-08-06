@@ -44,9 +44,13 @@ matome.naver.jp###yads_pc_overlay
 ||atas.io^$domain=toukoucity.to
 ||toukoucity.to/js/digi
 ||toukoucity.to/siteimg/digi/dmmt$domain=toukoucity.to
+
 ||tokyo-porn-tube.com/media/player/ads_
+tokyo-tube.com##.banner-base
+
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
+
 yu.to##style + script[language="JavaScript"] + div[align="center"]
 
 !----------------------------広告----------------------------!
@@ -1635,15 +1639,15 @@ tinami.com###banner_view
 togetter.com##.ad_custom
 togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
-tokyo-tube.com##.banner-base
 tsumanne.net###amazon
 tsumanne.net###cm
 twilog.org##[style^="height:250px"]
-twitter.com##.modal-overlay
-twitter.com##.promoted-tweet
-twitter.com##.promoted-tweet-heading
-twitter.com##div[data-testid="primaryColumn"] h1[aria-level="1"] + div > div:first-child > div:first-child > div:has(path[d^="M20.75 2H3.25C2.007"])
-twitter.com#?#div[data-testid="primaryColumn"] h1[aria-level="1"] + div > div:first-child > div:first-child > div:-abp-has(path[d^="M20.75 2H3.25C2.007"])
+twitter.com##div[data-testid="placementTracking"]:has(svg + div[dir="auto"] > span:has-text(/Promoted|プロモーション/))
+twitter.com##div[data-testid="trend"]:has-text(/Promoted|プロモーション/)
+twitter.com##div[data-testid="UserCell"]:has-text(/Promoted|プロモーション/)
+twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|プロモーション/))
+twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|プロモーション/)
+twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモーション/)
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
@@ -1651,8 +1655,6 @@ vector.co.jp###adBox
 vidoza.net##.pvr
 n.shop.vector.co.jp###vsSubTableContent
 web-ace.jp##[class^="ad_rect"]
-webclap.com##.footer
-webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 weblio.jp##.AmaznUl
 weblio.jp##.jWAdsF
 weblio.jp##.RktnUl
@@ -2441,8 +2443,6 @@ yakkun.com##.ad + div:style(clear:both)
 atwiki.jp##body > div:not(#fb-root):first-child
 	!503を返す
 k05.biz,z0i.net#@#.adsbygoogle
-	!anti adblock
-thisav.com#@#[id$="_ad"]:not(html):not(body)
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
