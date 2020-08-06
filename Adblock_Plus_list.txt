@@ -1383,7 +1383,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 
 ! criteo ##div[id^="crt-"][style]
-##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style]
+##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[id^="div_fam_async_"]
@@ -1634,14 +1634,13 @@ sponichi.co.jp###relation-block
 startpage.com###spon_links
 storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
-streamin.to##a[href*=".com/analytics/"]
-streamin.to##[style^="z-index: 2000;"]
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
 tinami.com###banner_view
+tinami.com##.view_ad
 togetter.com##.ad_custom
 togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
@@ -1669,10 +1668,10 @@ weblio.jp##.ydnSwCls
 ! 朝目新聞
 www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
 www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
-www.ne.jp##a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(1)
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(2)
 xvideo-jp.com###dmmad
+xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
@@ -2420,6 +2419,8 @@ www.nicovideo.jp#@#.ads
 mobile.rakuten.co.jp#@#a[href*="ac.ebis.ne.jp/tr_set.php?"]
 	!記事
 server-setting.info#@#.adsbygoogle
+	!記事
+saitama-np.co.jp#@#div[id^=div-gpt-ad]
 	!本文
 tofukko.com#@#.adsbygoogle
 	!右サイドが全部消える
