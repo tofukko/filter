@@ -586,163 +586,6 @@ _ads.js
 ||popads.net^$popup
 ||r18.com$popup
 
-!-----pornhubnetwork
-
-!共通
-/ht.js?site_
-||doublepimp.com^$third-party
-||etahub.com^$third-party
-||phncdn.com/stattracker-
-###pb_block
-
-!pornhub
-||phncdn.com/www-static/js/ph-tracking.js?
-||phncdn.com/www-static/js/htmlPauseRoll/
-pornhub.com###main-container > [id] > [class]:first-child
-pornhub.com##.video-wrapper > #player + [class]
-pornhub.com##script:inject(set-constant.js, page_params.holiday_promo, true)
-pornhub.com##^script:has-text(tj_ads)
-pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
-
-!redtube
-||redtube.com/_status/
-redtube.com###content_container > .show_page_modals + div
-redtube.com###video_right_col
-redtube.com##^script:has-text(var rAb=)
-redtube.com##^script:has-text(tj_ads)
-
-!xtube.com
-||3gporn.biz^$third-party
-xtube.com##.col-xs-24.col-xl-8 > div:first-child
-xtube.com##.banner
-xtube.com##.underPlayerBanner
-
-!youporn.com
-youporn.com###adblock_1
-
-!tube8.com
-tube8.com##^script:has-text(adblock)
-tube8.com###catFishBanner
-
-!----porntrex network
-||fd7qz88ckd.com^
-@@||porntrex.com^$generichide
-@@||gounlimited.to/js/pop.js
-
-!-----TXXX Network
-||com^*?z=*&sub=$~third-party
-||zog.link^$third-party
-||ipornia.com/frends/
-||bulkhentai.com^*/bulkhentai2.js
-hclips.com,hotmovs.com,txxx.com,upornia.com,vjav.com#@#[class$="-ads"]:not(html):not(body)
-
-txxx.com###myElement + DIV
-txxx.com##^script:has-text(ad_sub)
-
-vjav.com###undervideo
-
-!-----SPANKWIRE
-spankwire.com#@#[class$="-ads"]:not(html):not(body)
-extremetube.com#@#[class$="-ads"]:not(html):not(body)
-
-!-----------xhamster
-|https://$subdocument,domain=xhamster.com
-||xhamster.com/cnt.php?
-||xhcdn.com/js/m.js
-
-!埋め込み動画
-||static-ec.xhcdn.com/id2/swf/*
-||xhcdn.com^*/ads_
-
-xhamster.com##.adVideo
-xhamster.com##.sponsorBottom
-xhamster.com##.avdo.fr
-xhamster.com##^script:has-text(dataPopUnder)
-
-!-----------xvideos.com
-||xvideos.com/in.php?
-!popup
-||www.xvideos.com/video$xmlhttprequest
-!download
-@@||xvideos.com/video-download/
-!コメント見る用
-@@||www.xvideos.com/video-get-comments/
-!外部プレイヤー用
-||flashservice.xvideos.com/embedframe/$xmlhttprequest
-
-xvideos.com###video-sponsor-links
-xvideos.com##.sponsor_popup
-xvideos.com##.sponsor-popup
-xvideos.com##^script:has-text(checkVideoAds)
-
-!-----------avgle.com
-$third-party,popup,domain=avgle.com
-||mygoodlives.com^
-||find-my-great-life.com^
-||klaudicustors.info^
-avgle.com##img[src*=".php"]
-avgle.com###player_3x2_close:style(font-size: 250% !important;)
-avgle.com##+js(abort-on-property-read.js, AaDetector)
-avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
-avgle.com##+js(nowebrtc.js)
-avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
-
-
-!-----------javxxx.me
-video.javxxx.me###player_3x2_container
-hentai4.me##+js(window.open-defuser)
-hentai4.me##+js(set, clientSide.adbDetect, null)
-*/player/plugins/vast-*.js$script
-@@||javxxx.me^$generichide
-
-
-||jqueryserve.com^$domain=spankwire.com
-
-
-||n1198adserv.xyz^
-
-jav4.me###tbl1
-javbuz.com##.player-ads-bottom
-javhub.net###r18_banner
-japanhub.net###r18
-
-||javhub.net/video_ads.html
-
-
-||heavy-r.com/ilove/bananas.php
-heavy-r.com###overlayVid
-heavy-r.com##.hd-ban
-
-||pornhost.com/*.php
-
-||fapdu.com/desktop_popup.
-
-
-hpjav.tv##+js(abort-on-property-read, VAST)
-vidoza.net##^script:has-text($('.pvr'))
-
-!---------ashemaletube.com
-||ashemaletube.com/ast/b/
-ashemaletube.com##.ads-block-rightside
-ashemaletube.com##.video-end-overlay
-ashemaletube.com##+js(aopr, open)
-
-!------------drtuber
-||drtuber.com/player_right_ads_
-||dtprofit.com^$subdocument,domain=drtuber.com
-||dtprofit.com/redirect/
-drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
-
-!------------danbooru系
-!sankaku channel
-||otaserve.net^$domain=sankakucomplex.com
-sankakucomplex.com##+js(popads-dummy.js)
-sankakucomplex.com###post-content:style(padding-top: 0px !important;)
-
-!gelbooru
-	!antiadblock
-@@||gelbooru.com/ads.js
-
 
 !----third-party
 ||banners.itunes.apple.com^
@@ -1769,6 +1612,18 @@ excite.co.jp###sideSource.box01
 ||2chan.net/bin/uuacount.php?*
 ||2chan.net/bin/uucount.php
 
+!----------gesoten.com-----------!
+!jack
+gesoten.com##.r-l-pagejack-link
+gesoten.com##.r-wrapper--pagejack:style(background-image: none !important;)
+
+gamebox.gesoten.com##.ad_half
+gamebox.gesoten.com##.ad_rectangle
+gamebox.gesoten.com##.ad_super
+@@||gamebox.gesoten.com/googleads_ima_html5_samples/advanced/ads.js?$script,domain=gamebox.gesoten.com
+@@||imasdk.googleapis.com/js/core/$subdocument,domain=gamebox.gesoten.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamebox.gesoten.com
+
 !-----------hatena-----------!
 !はてなブログProにも出るんだろうか？有料版で独自ドメインを取り広告を非表示にせず更新が滞ってるブログを見つけられないからわからない
 	!hateblo.jp,
@@ -2293,6 +2148,167 @@ workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 	! http://blog.livelog.biz/script/js/hrz_sp03.js
 ||blog.livelog.biz/script/js/hrz_sp
 blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT + DIV + .container #article-over
+
+
+
+
+!-----pornhubnetwork
+
+!共通
+/ht.js?site_
+||doublepimp.com^$third-party
+||etahub.com^$third-party
+||phncdn.com/stattracker-
+###pb_block
+
+!pornhub
+||phncdn.com/www-static/js/ph-tracking.js?
+||phncdn.com/www-static/js/htmlPauseRoll/
+pornhub.com###main-container > [id] > [class]:first-child
+pornhub.com##.video-wrapper > #player + [class]
+pornhub.com##script:inject(set-constant.js, page_params.holiday_promo, true)
+pornhub.com##^script:has-text(tj_ads)
+pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
+
+!redtube
+||redtube.com/_status/
+redtube.com###content_container > .show_page_modals + div
+redtube.com###video_right_col
+redtube.com##^script:has-text(var rAb=)
+redtube.com##^script:has-text(tj_ads)
+
+!xtube.com
+||3gporn.biz^$third-party
+xtube.com##.col-xs-24.col-xl-8 > div:first-child
+xtube.com##.banner
+xtube.com##.underPlayerBanner
+
+!youporn.com
+youporn.com###adblock_1
+
+!tube8.com
+tube8.com##^script:has-text(adblock)
+tube8.com###catFishBanner
+
+!----porntrex network
+||fd7qz88ckd.com^
+@@||porntrex.com^$generichide
+@@||gounlimited.to/js/pop.js
+
+!-----TXXX Network
+||com^*?z=*&sub=$~third-party
+||zog.link^$third-party
+||ipornia.com/frends/
+||bulkhentai.com^*/bulkhentai2.js
+hclips.com,hotmovs.com,txxx.com,upornia.com,vjav.com#@#[class$="-ads"]:not(html):not(body)
+
+txxx.com###myElement + DIV
+txxx.com##^script:has-text(ad_sub)
+
+vjav.com###undervideo
+
+!-----SPANKWIRE
+spankwire.com#@#[class$="-ads"]:not(html):not(body)
+extremetube.com#@#[class$="-ads"]:not(html):not(body)
+
+!-----------xhamster
+|https://$subdocument,domain=xhamster.com
+||xhamster.com/cnt.php?
+||xhcdn.com/js/m.js
+
+!埋め込み動画
+||static-ec.xhcdn.com/id2/swf/*
+||xhcdn.com^*/ads_
+
+xhamster.com##.adVideo
+xhamster.com##.sponsorBottom
+xhamster.com##.avdo.fr
+xhamster.com##^script:has-text(dataPopUnder)
+
+!-----------xvideos.com
+||xvideos.com/in.php?
+!popup
+||www.xvideos.com/video$xmlhttprequest
+!download
+@@||xvideos.com/video-download/
+!コメント見る用
+@@||www.xvideos.com/video-get-comments/
+!外部プレイヤー用
+||flashservice.xvideos.com/embedframe/$xmlhttprequest
+
+xvideos.com###video-sponsor-links
+xvideos.com##.sponsor_popup
+xvideos.com##.sponsor-popup
+xvideos.com##^script:has-text(checkVideoAds)
+
+!-----------avgle.com
+$third-party,popup,domain=avgle.com
+||mygoodlives.com^
+||find-my-great-life.com^
+||klaudicustors.info^
+avgle.com##img[src*=".php"]
+avgle.com###player_3x2_close:style(font-size: 250% !important;)
+avgle.com##+js(abort-on-property-read.js, AaDetector)
+avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
+avgle.com##+js(nowebrtc.js)
+avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
+
+
+!-----------javxxx.me
+video.javxxx.me###player_3x2_container
+hentai4.me##+js(window.open-defuser)
+hentai4.me##+js(set, clientSide.adbDetect, null)
+*/player/plugins/vast-*.js$script
+@@||javxxx.me^$generichide
+
+
+||jqueryserve.com^$domain=spankwire.com
+
+
+||n1198adserv.xyz^
+
+jav4.me###tbl1
+javbuz.com##.player-ads-bottom
+javhub.net###r18_banner
+japanhub.net###r18
+
+||javhub.net/video_ads.html
+
+
+||heavy-r.com/ilove/bananas.php
+heavy-r.com###overlayVid
+heavy-r.com##.hd-ban
+
+||pornhost.com/*.php
+
+||fapdu.com/desktop_popup.
+
+
+hpjav.tv##+js(abort-on-property-read, VAST)
+vidoza.net##^script:has-text($('.pvr'))
+
+!---------ashemaletube.com
+||ashemaletube.com/ast/b/
+ashemaletube.com##.ads-block-rightside
+ashemaletube.com##.video-end-overlay
+ashemaletube.com##+js(aopr, open)
+
+!------------drtuber
+||drtuber.com/player_right_ads_
+||dtprofit.com^$subdocument,domain=drtuber.com
+||dtprofit.com/redirect/
+drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
+
+!------------danbooru系
+!sankaku channel
+||otaserve.net^$domain=sankakucomplex.com
+sankakucomplex.com##+js(popads-dummy.js)
+sankakucomplex.com###post-content:style(padding-top: 0px !important;)
+
+!gelbooru
+	!antiadblock
+@@||gelbooru.com/ads.js
+
 
 !--------ホワイトリスト--------!
 	!動画未練
