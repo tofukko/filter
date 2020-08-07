@@ -1338,6 +1338,7 @@ flashfabrica.com##.footer:style(clear:both;)
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
+fukuishimbun.co.jp##.admeasure
 getchu.com###rectangle
 getchu.com##.banner
 gigafile.nu##[class*=banner_type_]
