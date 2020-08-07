@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/06 21:39
+! 最終更新  2020/08/07 11:58
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1353,8 +1353,10 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!google
 ##.adsbygoogle
 ##.google-user-ad
+	!やっぱりpopinもloglyも消すわ
 	!むしろなぜpopinwokesanainoka??????????????????????
-	!||logly.co.jp^$third-party
+	||logly.co.jp^$third-party
+	||popin.cc^^$third-party
 	!logly.co.jp
 ##.logly-lift-ad:not(.logly-lift-article)
 	!popin
@@ -1488,6 +1490,8 @@ exploader.net###nls
 exploader.net##article > div[style^="margin-bottom: 10px"]
 fandom.com##[class^="aff-unit__"]
 favolog.org###side > div:first-child
+flashfabrica.com##div:has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
+flashfabrica.com##.footer:style(clear:both;)
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
@@ -1515,6 +1519,7 @@ inside-games.jp##.adRecommend
 inside-games.jp##.adRecommendRight
 inside-games.jp##.newslistItem-ad
 irasutoya.com##[class^="entryadwrapper"]
+jocr.jp##.side_adsbygoogle
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jpidols.tv##body > b
 jugem.jp##.UBH_new
@@ -1534,6 +1539,7 @@ kakaku.com##.prTitle
 karapaia.com###overlay
 karapaia.com##.readmore-header
 karapaia.com##[class^=ads-label]
+kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
 horne.red###main-right > .left_column > .tieup_rand_block
 lifehacker.jp##.amazItem
@@ -1639,6 +1645,7 @@ sponichi.co.jp###relation-block
 startpage.com###spon_links
 storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
+tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
@@ -1875,6 +1882,10 @@ xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
 xtech.nikkei.com##.p-article_ad
 
+!------------rawdevart.com---------------!
+||matchintsv.club^
+||d3ithbwcmjcxl7.cloudfront.net^
+
 !------------sitemix・tok2.com------------!
 /ad.min.js
 ###sitemix_pr_footer_js
@@ -2084,6 +2095,9 @@ video.fc2.com##.sectionCrd + .sectionCrd
 ||vip.chps-api.fc2.com/apis/footer/
 ||video.fc2.com/a/pagead/
 admin.blog.fc2.com##.adimn_pr_txt
+admin.blog.fc2.com###ad_sidebody
+admin.blog.fc2.com###ad_sidebar
+admin.blog.fc2.com##.editor_header_ad
 fc2.com,fc2blog.net##.AdContainer
 ###fc2_bottom_bnr
 fc2.com##table[width="140"][cellspacing="1"][cellpadding="1"][border="0"]
