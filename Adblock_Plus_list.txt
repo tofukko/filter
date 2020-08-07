@@ -2443,6 +2443,8 @@ server-setting.info#@#.adsbygoogle
 saitama-np.co.jp#@#div[id^=div-gpt-ad]
 	!本文
 tofukko.com#@#.adsbygoogle
+	!Amazon購入ボタン
+tonarinoyj.jp#@#.amazon-link
 	!右サイドが全部消える
 watch.impress.co.jp#@#.ad
 	!body直下
