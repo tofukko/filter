@@ -1420,6 +1420,7 @@ moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.bigbanner
 muvc.net##body > div[align="right"]:last-of-type
+nicozon.net###ichiba
 nlab.itmedia.co.jp###globalHeader
 no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
 novelup.plus##.ad-pc
@@ -1631,6 +1632,22 @@ gamebox.gesoten.com##.ad_super
 @@||imasdk.googleapis.com/js/core/$subdocument,domain=gamebox.gesoten.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamebox.gesoten.com
 
+!------------goo------------!
+||adcdn.goo.ne.jp^
+||ams900.goo.ne.jp^
+goo.ne.jp##[id^="gooad-"]
+blog.goo.ne.jp###mod-advertising
+blog.goo.ne.jp###mod-goo-recommends
+blog.goo.ne.jp##.navbar__link--left
+||log000.goo.ne.jp^
+!gesoten
+game.goo.ne.jp##.ad_half
+game.goo.ne.jp##.ad_rectangle
+game.goo.ne.jp##.ad_super
+@@||game.goo.ne.jp/googleads_ima_html5_samples/advanced/ads.js?$script,domain=game.goo.ne.jp
+@@||imasdk.googleapis.com/js/core/$subdocument,domain=game.goo.ne.jp
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.goo.ne.jp
+
 !-----------hatena-----------!
 !はてなブログProにも出るんだろうか？有料版で独自ドメインを取り広告を非表示にせず更新が滞ってるブログを見つけられないからわからない
 	!hateblo.jp,
@@ -1781,13 +1798,6 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 
 
 
-!------------goo------------!
-||adcdn.goo.ne.jp^
-||goo.ne.jp/oshiete/ad_loader.js?
-goo.ne.jp##dl.txtimgl
-blog.goo.ne.jp###mod-global-header-l span
-blog.goo.ne.jp###mod-goo-recommends
-||log000.goo.ne.jp^
 
 !------------yahoo------------!
 !お礼コメントが出来なくなる
