@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/08 12:40
+! 最終更新  2020/08/08 16:15
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1527,11 +1527,6 @@ vector.co.jp###adBox
 vidoza.net##.pvr
 n.shop.vector.co.jp###vsSubTableContent
 web-ace.jp##[class^="ad_rect"]
-weblio.jp##.AmaznUl
-weblio.jp##.jWAdsF
-weblio.jp##.RktnUl
-weblio.jp##.sideBxStGyEst
-weblio.jp##.ydnSwCls
 ! 朝目新聞
 www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
 www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
@@ -1762,10 +1757,23 @@ xtech.nikkei.com##.p-article_ad
 tok2.com###meerkat-wrap
 tok2.com###tok2_footer
 
-!------------xrea.com------------
+!------------xrea.com------------!
 ||imgj.xrea.com^
 ||value-domain.com/xrea_header.js
 ||ax.xrea.com^
+
+!-----------weblio.jp-----------!
+||llnwd.net^*/ejje_ads_$script,domain=ejje.weblio.jp
+www.weblio.jp###adPcBnrWrp
+www.weblio.jp##.ads-loader
+www.weblio.jp##.firstDictBnr
+www.weblio.jp##.rectangle-ads-frame-www
+eikaiwa.weblio.jp##.sideButton
+ejje.weblio.jp###footFixBar
+translate.weblio.jp##.sideAd
+translate.weblio.jp##.flex-rectangle-ads-frame
+
+
 
 
 
