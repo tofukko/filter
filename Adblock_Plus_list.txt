@@ -1369,6 +1369,8 @@ inside-games.jp##.adRecommend
 inside-games.jp##.adRecommendRight
 inside-games.jp##.newslistItem-ad
 irasutoya.com##[class^="entryadwrapper"]
+ja.whotwi.com###header_ad_area
+ja.whotwi.com##.stats_ad_300x250_2
 jocr.jp##.side_adsbygoogle
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jpidols.tv##body > b
