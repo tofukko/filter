@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/07 21:37
+! 最終更新  2020/08/08 12:40
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -931,7 +931,8 @@ _ads.js
 ||al.l--l.jp^$third-party
 ||amung.us^$third-party
 ||analysiswebtool.com^$third-party
-||analytics.$third-party,domain=ustream.tv
+||analytics.$third-party
+||appsflyer.com^$third-party
 ||ashia.to^$third-party
 ||auriq.com^$third-party
 ||awasete.com^$third-party
@@ -987,6 +988,7 @@ _ads.js
 ||imrworldwide.com^$third-party
 ||infoscan.jp^$third-party
 ||inpros.net^$third-party
+||interactive-circle.jp^$third-party
 ||jscount.com^$third-party
 ||juicer.cc^$third-party
 ||just-now.net^$third-party
@@ -995,6 +997,7 @@ _ads.js
 ||keewurd.com^$third-party
 ||kissmetrics.com^$third-party
 ||linkfind.org^$third-party
+||litix.io^$third-party
 ||log-marketing.jp^$third-party
 ||lphbs.com^$third-party
 ||marsflag.com^$third-party
@@ -1094,6 +1097,7 @@ _ads.js
 ||blogtool.jp/log/a.js
 ||blogtoy.net/add_log?
 ||blozoo.info/js/inouttool/blogparts.js
+||code.usergram.info^
 ||deqwas.net^
 ||disqus.com/stats.html
 ||dw-eu.com.com^
@@ -1107,6 +1111,7 @@ _ads.js
 ||just-now.net/p?k=
 ||l.sharethis.com^
 ||l--l.jp/in.cgi?
+||metrics.brightcove.com^
 ||onesignal.com/webPushAnalytics|
 ||sea.pakapeko.com^
 ||seg.sharethis.com^
@@ -1114,6 +1119,7 @@ _ads.js
 ||suteki-tool.com/al
 ||suteki-tool.com/pr
 ||tatsumi-sys.jp*.asp?uid=
+||tr.webantenna.info^
 ||tracer.jp^
 ||veritrans.co.jp/bcon/
 
@@ -1502,6 +1508,9 @@ togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
 tsumanne.net###amazon
 tsumanne.net###cm
+tv-asahi.co.jp###rectangle-desktop
+tv-asahi.co.jp##.common-header-pc-v2__commonHeader--koWP-:style(padding-top: 0 !important)
+tv-asahi.co.jp##.init-ad
 twilog.org##[style^="height:250px"]
 twitter.com##div[data-testid="placementTracking"]:has(svg + div[dir="auto"] > span:has-text(/Promoted|プロモーション/))
 twitter.com##div[data-testid="trend"]:has-text(/Promoted|プロモーション/)
@@ -2312,11 +2321,15 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 
 !--------ホワイトリスト--------!
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
+||pubads.g.doubleclick.net/gampad/ads$xhr,redirect=nooptext,domain=imasdk.googleapis.com
+||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
+!tver 芋
+@@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
+
 	!動画未練
 @@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
-	!動画見れない
-	!http://www.tbs.co.jp/muryou-douga/
-@@||ad.auditude.com/adserver/$xmlhttprequest,domain=tver.jp|www.tbs.co.jp
 	!記事崩れ ×ボタン
 @@||ad.impress.co.jp/topics/css/$stylesheet
 @@||ad-link.jp*/index.php?
@@ -2332,8 +2345,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
 @@||dlsite.com/img/
 @@||dmm.co.jp/mono/movie/adult/$image
-	!動画見れない
-@@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
