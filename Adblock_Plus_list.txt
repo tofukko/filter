@@ -1420,6 +1420,7 @@ moeeki.net###newboxleft > p
 moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.panel-ad
+mogera.jp##[id^="gadUnit"]
 muvc.net##body > div[align="right"]:last-of-type
 nicozon.net###ichiba
 nlab.itmedia.co.jp###globalHeader
