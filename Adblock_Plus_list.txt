@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/09 15:59
+! 最終更新  2020/08/10 0:10
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1478,6 +1478,8 @@ ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
 ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
 ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
 sankakucomplex.com##[class^="adbmodal-"]
+say-move.org###my_navigation:style(padding-top: 10px !important)
+say-move.org##.wrap_player:style(padding-top: 0 !important)
 scraiv.com###main_inner + .max-600
 scraiv.com###main_inner:style(height: unset !important;)
 scraiv.com###main_inner::after:style(background-image: none !important;)
@@ -1489,8 +1491,7 @@ sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
 server-setting.info###pr_bottom
 server-setting.info###pr_side_top
-say-move.org###my_navigation:style(padding-top: 10px !important)
-say-move.org##.wrap_player:style(padding-top: 0 !important)
+share-videos.se###ad_html
 jbbs.shitaraba.net###footer-menu + br + table + hr + div
 jbbs.shitaraba.net###footer-menu + br + table + hr + table
 jbbs.shitaraba.net##.thread-list + hr + table
