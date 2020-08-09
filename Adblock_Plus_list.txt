@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/09 13:01
+! 最終更新  2020/08/09 15:59
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -808,11 +808,8 @@ _ads.js
 ! amazon topページ 背景画像とかpngとか
 /beacon/*$domain=~amazon.com|~amazon.co.jp
 ! amazon 商品画像動画
-! jp.autoblog.com 右下 フォトギャラリー画像
-! dreevee.com じゃんけんのスタートボタン
-! japanese.engadget.com/galleries/ 画像が見れない
 ! rma-api.gravity.com 同上
-/beacon.$domain=~amazon.com|~amazon.co.jp|~jp.autoblog.com|~dreevee.com|~engadget.com|~rma-api.gravity.com
+/beacon.$domain=~amazon.com|~amazon.co.jp
 /beacon_
 /beacon?
 /chartbeat.js
@@ -1238,8 +1235,9 @@ _ads.js
 *##div:has(> div[id^="div-gpt-ad"]:only-child)
 
 
-! criteo ##div[id^="crt-"][style]
+! criteo
 ##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
+##div[id^="crt-"][style]
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[id^="div_fam_async_"]
@@ -1406,6 +1404,8 @@ mainichi.jp###SuperBanner
 mainichi.jp##.ArticleAdKW
 magnet-novels.com##.adBox
 mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
+mantan-web.jp##.ad-rec
+mantan-web.jp##.ad-wrap
 medibang.com##.asArtStreetTopIllustAd
 medibang.com##.mdbnAdBlock
 medibang.com##.mdModal
@@ -1529,6 +1529,7 @@ uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
 vidoza.net##.pvr
+watch.impress.co.jp##.billboard
 web-ace.jp##[class^="ad_rect"]
 ! 朝目新聞
 www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
