@@ -1524,9 +1524,7 @@ twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモー�
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
-vector.co.jp###adBox
 vidoza.net##.pvr
-n.shop.vector.co.jp###vsSubTableContent
 web-ace.jp##[class^="ad_rect"]
 ! 朝目新聞
 www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
@@ -1773,6 +1771,23 @@ xtech.nikkei.com##.p-article_ad
 ||tok2.com/app/ad/
 tok2.com###meerkat-wrap
 tok2.com###tok2_footer
+
+!------------vector.co.jp-------------!
+vector.co.jp###adBox
+vector.co.jp###v_50
+pcshop.vector.co.jp###vsSubTableContent
+search.vector.co.jp##section:has(> .overture)
+!header
+search.vector.co.jp##.v_search:nth-of-type(1):style(top: 82px !important;)
+search.vector.co.jp##.v_search:nth-of-type(1) + .pager:style(top: 127px !important;)
+search.vector.co.jp###v_wrapper:style(margin-top: 125px !important; padding-top: 20px !important; background: #fff !important;)
+www.vector.co.jp###wrapper:style(width: 100% !important; background-color: #fff !important;)
+www.vector.co.jp##body[vlink], body[id^="v_"], #wrapper:style(background-image: linear-gradient(#bce3f6 47px, #ffffff 47px 48px, #00000020 48px 49px, #f1f1ef 49px 80px, #00000020 80px 81px, #ffffff 81px 82px, #bce3f6 82px 128px, #ffffff 128px 129px, #b0d54a 129px 157px, #ffffff 157px 158px, #00000020 158px,transparent 163px) !important;)
+www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_search:style(top: 81px !important;)
+www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #lib_tab:style(top: 132px !important;)
+www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_wrapper:style(padding-top: 180px !important;)
+www.vector.co.jp###v_header:style(height: unset !important;)
+www.vector.co.jp##td[width="304"][bgcolor="#eeeeee"][align="center"]:style(vertical-align: top !important;)
 
 !------------xrea.com------------!
 ||imgj.xrea.com^
