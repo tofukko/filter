@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/10 0:10
+! 最終更新  2020/08/10 8:12
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1785,7 +1785,7 @@ search.vector.co.jp##.v_search:nth-of-type(1):style(top: 82px !important;)
 search.vector.co.jp##.v_search:nth-of-type(1) + .pager:style(top: 127px !important;)
 search.vector.co.jp###v_wrapper:style(margin-top: 125px !important; padding-top: 20px !important; background: #fff !important;)
 www.vector.co.jp###wrapper:style(width: 100% !important; background-color: #fff !important;)
-www.vector.co.jp##body[vlink], body[id^="v_"], #wrapper:style(background-image: linear-gradient(#bce3f6 47px, #ffffff 47px 48px, #00000020 48px 49px, #f1f1ef 49px 80px, #00000020 80px 81px, #ffffff 81px 82px, #bce3f6 82px 128px, #ffffff 128px 129px, #b0d54a 129px 157px, #ffffff 157px 158px, #00000020 158px,transparent 163px) !important;)
+www.vector.co.jp##body[vlink], body[id^="v_"], #wrapper:style(background-image: linear-gradient(#bce3f6 47px, #ffffff 47px 48px, #00000020 48px 49px, #f1f1ef 49px 80px, #00000020 80px 81px, #ffffff 81px 82px, #bce3f6 82px 128px, transparent 128px),linear-gradient(#ffffff 128px 129px, #b0d54a 129px 157px, #ffffff 157px 158px, #00000020 158px,transparent 163px)!important;)
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_search:style(top: 81px !important;)
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #lib_tab:style(top: 132px !important;)
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_wrapper:style(padding-top: 180px !important;)
