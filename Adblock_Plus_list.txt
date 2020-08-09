@@ -33,7 +33,7 @@
 ||digiket.net^$third-party,domain=~digiket.com
 ||e-nls.com^$third-party
 ||getchu.com^$third-party
-||r18.com^$third-party,domain=~japanhub.net|~javxxx.me
+||r18.com^$third-party,domain=~japanhub.net|~javhdporn.net|~javxxx.me|~t.jav4.me
 !-------ここまで-------!
 
 !2020/07/02 終了予定 2020/09/30
@@ -1364,10 +1364,6 @@ hentai-only.com##.force-foreground.alert.alert-link.alert-dismissible
 imagis.jp,costype.net##.topadv
 inoreader.com##.inno_dialog_modal:not(#login_dialog_wrapper)
 inoreader.com##.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
-inside-games.jp###keyword
-inside-games.jp##.adRecommend
-inside-games.jp##.adRecommendRight
-inside-games.jp##.newslistItem-ad
 irasutoya.com##[class^="entryadwrapper"]
 ja.whotwi.com###header_ad_area
 ja.whotwi.com##.stats_ad_300x250_2
@@ -1382,6 +1378,7 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="amazon.co"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="accesstrade.net/sp/"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
+k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
 kakuyomu.jp##[class^="widget-ad-"]
 kakaku.com###listingPr
 kakaku.com###yAuctionBox
@@ -2317,7 +2314,6 @@ hentai4.me##+js(set, clientSide.adbDetect, null)
 
 ||n1198adserv.xyz^
 
-jav4.me###tbl1
 javbuz.com##.player-ads-bottom
 javhub.net###r18_banner
 japanhub.net###r18
@@ -2375,10 +2371,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||ad-link.jp*/index.php?
 	!動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
-	!動画見れ
-@@||asianclub.tv^$generichide
-	!anti adblock
-@@||ashemaletube.com^$generichide
 	!できない
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
 	!商品タブの切替が出来ない
@@ -2416,17 +2408,11 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||media-amazon.com^$domain=imdb.com
 	!ゲームできない
 @@||imasdk.googleapis.com^$domain=games.wkb.jp
-	!動画
-@@||javpm.com^$generichide
-@@||jsgoal.jp/_parts/googlead.html?
 	!skip ad ボタン
 @@||linkbucks.com/tmpl/mint/img/int_skip_ad
 @@||linkbucks.com/scripts/intermissionLink.
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
-	! あちこち 面倒だから全部許可 例：スケジュール
-	! https://www.mlb.com/rangers/schedule/
-@@||mlb.com^$generichide
 	! 動画見れない
 @@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
 @@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
@@ -2434,23 +2420,17 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||ntv.co.jp/ad-navi/ga/$domain=ntv.co.jp
 	@@||google-analytics.com/ga.js$domain=ntv.co.jp
 	@@||cxense.com^$domain=ntv.co.jp
-	!全般
-@@||nytimes.com^$generichide
 	! 右側の勝率などの欄が非表示
 @@||opgg-static.akamaized.net/js3/tracker.js?*$domain=op.gg
 	!ポイント貯めるサイト
 @@||pointi.jp^$generichide
 @@||pointservice.com^$generichide
-	!動画見れ
-@@||popads.net/pop.js$domain=jav4.me
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 @@||rd.yahoo.co.jp/jpr_sports/sumo_pickup/$image,domain=sports.yahoo.co.jp
 	!申し込みランキング
 @@||rtoaster.jp/Rtoaster.js$domain=3ple.jp
 @@||rt.rtoaster.jp^$domain=3ple.jp
-	!動画見れない
-@@||share-videos.se^$generichide
 	!TOP 総合ランキング
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js
 	!サムネイルが表示されない
@@ -2524,18 +2504,10 @@ yakkun.com##.ad + div:style(clear:both)
 	! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
 /modal-dist/index.js
-	!anti adblock
-@@||9ketsuki.info^$generichide
-@@||battlecats-db.com^$generichide
-@@||pagead2.googlesyndication.com/pagead/$domain=9ketsuki.info|battlecats-db.com
-	!antiadblock
-@@||trafficjunky.net/delivery/js/abp/$domain=tube8.com
-	!anti adblock
-@@||yamareco.com^$generichide
 
-atwiki.jp##body > div:not(#fb-root):first-child
-	!503を返す
-k05.biz,z0i.net#@#.adsbygoogle
+9ketsuki.info##+js(nobab)
+	!body none
+battlecats-db.com##body:style(display: block !important)
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
