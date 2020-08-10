@@ -1228,11 +1228,12 @@ _ads.js
 	!wix.com
 ###WIX_ADS
 
-*##div:has(> script[src*="//cdn-fluct.sh.adingo.jp/f.js?"]:first-child + script:last-child)
-*##div:has(> script[src*="//adm.shinobi.jp/s/"]:only-child)
-*##div:has(> script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child)
-*##div:has(> script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child)
-*##div:has(> div[id^="div-gpt-ad"]:only-child)
+
+*##div[id^="div-gpt-ad"]:only-child:upward(1)
+*##script[src*="//cdn-fluct.sh.adingo.jp/f.js?"]:first-child + script:last-child:upward(1)
+*##script[src*="//adm.shinobi.jp/s/"]:only-child:upward(1)
+*##script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
+*##script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child:upward(1)
 
 
 ! criteo
