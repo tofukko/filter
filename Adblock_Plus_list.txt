@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/10 15:14
+! 最終更新  2020/08/11 20:30
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1454,10 +1454,10 @@ npn.co.jp###arata5
 nuwton.com##[class*="banner-"]
 nuvid.com##.puFloatLine
 o-uccino.jp##[class^="float_banner_"]
+oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
+okwave.jp##.pickup
 orangepage.net##.doubleRectangle
 orangepage.net##.recipeBlock.clearfix.pr
-oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
-okwave.jp##.big_bnr
 otakomu.jp##a[href*="amazon"]
 otakomu.jp##.siteRanking-main:style(margin-left:0 !important;)
 otapol.com###entryAdAmazonArea
@@ -1825,8 +1825,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 
 
 !------------yahoo------------!
-!お礼コメントが出来なくなる
-/yads.$domain=~okwave.jp
+/yads.
 ||ov.yahoo.co.jp^
 ||yads.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
@@ -2493,6 +2492,8 @@ www.nicovideo.jp#@#.ads
 	!エントリーパッケージ云々
 	!https://mobile.rakuten.co.jp/select/?l-id=top_carousel_pc_select
 mobile.rakuten.co.jp#@#a[href*="ac.ebis.ne.jp/tr_set.php?"]
+	!右
+okwave.jp##.ad_area
 	!記事
 server-setting.info#@#.adsbygoogle
 	!記事
