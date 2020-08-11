@@ -1395,6 +1395,9 @@ horne.red###main-right > .left_column > .tieup_rand_block
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
+logsoku.com###fixed_area
+logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
+logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
 maho.jp##.Ad
 mangaz.com###scroll-adv
 mainichi.jp###SuggestKeyWord
