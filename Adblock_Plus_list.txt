@@ -1151,7 +1151,6 @@ _ads.js
 ||ismedia.jp/oo/
 ||kadokawagakugei.com/js/ga2.js
 ||kooss.com/cgi-usr/accl/lkz.cgi?
-||log.yaplog.jp^
 ||mainichi.jp/js/an.js
 ||milmil.cc/sys/asiato.cgi?
 ||milmil.cc/sys/kaiseki.cgi?
