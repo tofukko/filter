@@ -1778,6 +1778,7 @@ xtech.nikkei.com##.p-article_ad
 
 !------------rawdevart.com---------------!
 ||matchintsv.club^
+||dq3yxnlzwhcys.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 
 !------------sitemix・tok2.com------------!
