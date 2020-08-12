@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/11 20:30
+! 最終更新  2020/08/12 10:11
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -642,6 +642,7 @@ _ads.js
 ||akibablog.net/banner-
 ||akibablog.net/right-side2.html
 ||alc.co.jp/content/js/mc.js?
+||angel-bbs.com/ssi/koukoku_
 ||antivirus-news.net/image/*_bnn*.png
 ||anyporn.com/aa/
 ||artstation.com/p/c_assets/
@@ -1368,6 +1369,7 @@ inoreader.com##.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
 irasutoya.com##[class^="entryadwrapper"]
 ja.whotwi.com###header_ad_area
 ja.whotwi.com##.stats_ad_300x250_2
+jiji.com##.ArticleInnerAD
 jocr.jp##.side_adsbygoogle
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jpidols.tv##body > b
@@ -1397,6 +1399,7 @@ lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
 logsoku.com###fixed_area
 logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
+logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
 logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
 maho.jp##.Ad
 mangaz.com###scroll-adv
@@ -1463,6 +1466,8 @@ otakomu.jp##.siteRanking-main:style(margin-left:0 !important;)
 otapol.com###entryAdAmazonArea
 parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has( > a[href^="https://www.amazon.co"])
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
+pashplus.jp##.google_ads
+pashplus.jp##.single_bnr_wrap
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net##div:has( > iframe:not([src]))
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
@@ -1477,10 +1482,14 @@ qiita.com##[id^=logly-lif]
 	!https://hobbyjapan.co.jp/comic/series/
 r.binb.jp###adp
 rbbtoday.com##.cx-top-news
+realsound.jp###ad_entryBottom
+realsound.jp###adEntry2rec
+resemom.jp##.sidebox-ad
 ribbon.to##p[align="center"]:has( > [tareget="rdn"])
 ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
 ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
 ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
+saitama-np.co.jp###ad_middle
 sankakucomplex.com##[class^="adbmodal-"]
 say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
@@ -1533,6 +1542,8 @@ uta-net.com###view_amazon
 vidoza.net##.pvr
 watch.impress.co.jp##.billboard
 web-ace.jp##[class^="ad_rect"]
+www.asahi.com###HometopAd
+www.asahi.com##.AdMod
 ! 朝目新聞
 www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
 www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
@@ -1612,8 +1623,11 @@ dtiblog.com###meerkat-wrap
 !------------excite------------!
 ||excite.co.jp/jp/ad/
 ||excite.co.jp/jp/ox/
-excite.co.jp###footerWall
-excite.co.jp###sideSource.box01
+woman.excite.co.jp###header_bnr
+!ほにゃく
+www.excite.co.jp##.ad728
+www.excite.co.jp###rakutenMW
+exblog.jp##div:has(> #gpt_pc_blog_header)
 
 !------------futaba-------------!
 ||2chan.net/bin/*.htm
