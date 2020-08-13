@@ -733,6 +733,7 @@ _ads.js
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
 ||relart.fresheye.com^
+||resemom.jp/feature/cxense/overlay/
 ||ribbon.to/alpc.js
 ||ribbon.to/rw.php
 ||sankei2ad.durasite.net^
@@ -1323,12 +1324,14 @@ coliss.com###sponsors
 coliss.com###sponsorsTop
 curazy.com##.jsViewer_dialog-ad
 curazy.com##.jsViewer_overlay-dialogAd
+cyclestyle.net##.sidebox-ad
 daily.co.jp###adUnderArticle
 daily.co.jp##aside.add
 daily.co.jp##[style="width:300px;height:600px;"]
 dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
 dl-x.com##.vip-center
+e-nenpi.com##.top_ads
 e-typing.ne.jp##[class^="ad"][class*="00"]
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
@@ -1398,6 +1401,7 @@ logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
 logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
 logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
 maho.jp##.Ad
+manager-life.net##[id^="ad_"]
 mangaz.com###scroll-adv
 mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
@@ -1423,6 +1427,7 @@ moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
+momon-ga.com###menu-pr
 muvc.net##body > div[align="right"]:last-of-type
 nicozon.net###ichiba
 nlab.itmedia.co.jp###globalHeader
@@ -1553,6 +1558,19 @@ xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 zyuken.net##.AdImg
 
+
+
+!------------2ch pink------------!
+||i2ad.jp^
+||thench.net^
+||5ch.net/_ads/
+||bbspink.com/css/ad.css
+5ch.net,bbspink.com###banner
+bbspink.com##[class$="_banner"]
+bbspink.com##[class^="banner_"]
+bbspink.com###bbspink-bottom-ads
+pinktower.com##div
+
 !------------alphapolis------------!
 ||s3-ap-northeast-1.amazonaws.com/seedapp-script/adloader.js
 alphapolis.co.jp##.wrapper ~ #TopLayer
@@ -1619,6 +1637,7 @@ dtiblog.com###meerkat-wrap
 !------------excite------------!
 ||excite.co.jp/jp/ad/
 ||excite.co.jp/jp/ox/
+newssearch.excite.co.jp,websearch.excite.co.jp##.searchResults > aside
 woman.excite.co.jp###header_bnr
 !ほにゃく
 www.excite.co.jp##.ad728
@@ -1905,16 +1924,6 @@ msn.com##.morefromproviderrr
 @@||widgets.outbrain.com/outbrain.js$domain=msn.com
 @@||odb.outbrain.com/utils/get?$domain=msn.com
 @@||images.outbrain.com^$domain=msn.com
-
-!------------2ch pink------------!
-||i2ad.jp^$domain=5ch.net
-
-||thench.net^$domain=bbspink.com
-bbspink.com##[class$="_banner"]
-bbspink.com##[class^="banner_"]
-pinktower.com##div
-
-@@||itest.5ch.net/rect/special_ads.json
 
 !------------abema-------------!
 ||ad.abema.io^
