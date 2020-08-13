@@ -2213,6 +2213,11 @@ workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 !キニ速
 ||blog.livedoor.jp/kinisoku/$subdocument
 
+!マジキチ
+||majikichi.com/js/dlsite_widget.js
+majikichi.com###left_menu
+majikichi.com##^#left_menu
+
 !　？？？？  http://beelzeboulxxx.com/
 ||blog.livelog.biz/script/js/maob_sp.js
 
