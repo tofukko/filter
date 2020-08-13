@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/12 14:24
+! 最終更新 2020/08/13 13:27
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1693,6 +1693,9 @@ a.hatena.ne.jp##.side-ad
 b.hatena.ne.jp##.entrylist-ad-pc-banner
 q.hatena.ne.jp##.sidebar-banner
 q.hatena.ne.jp##.double-rectangle
+anond.hatelabo.jp##.double-rectangle
+!言及先エントリを開くが消える
+@@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
 !-----------hitomi.la-----------!
 .com^$script,third-party,domain=hitomi.la
