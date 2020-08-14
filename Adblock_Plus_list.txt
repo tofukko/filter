@@ -224,8 +224,7 @@ _ads.js
 ||ad-feed.com^$third-party
 ||ad-management.biz^$third-party
 ||ad-nex.com^$third-party
-||ad-v.jp/adam/$third-party
-||ad-v.jp/data/$third-party
+||ad-v.jp^$third-party
 ||ad-vortex.com^$third-party
 ||adap.tv^$third-party
 ||adapf.com^$third-party
@@ -594,6 +593,7 @@ _ads.js
 ||coincheck.com/images/affiliates/
 ||dietnavi.com/pc/banner/
 ||dogma-annex.com/media/affiliate/
+||free-video-movie.com^
 ||googlesyndication.com/pagead/
 ||gunosy.com/adnet/
 ||idea-unlimited.com/adsimg/
@@ -617,14 +617,14 @@ _ads.js
 /link.js$domain=iqoo.me
 
 
-|https://$script,third-party,domain=rapidvideo.com
-|https://$script,third-party,domain=asianclub.tv
-|https://$script,third-party,domain=jpidols.tv
-|https://$script,subdocument,third-party,domain=clipconverter.cc
-|http://$script,third-party,domain=javtorrent.re
-|http://$script,domain=1dl.re
-|http://$subdocument,third-party,domain=adf.ly
-|http://$script,third-party,domain=youtube-mp3.org
+$script,third-party,domain=rapidvideo.com
+$script,third-party,domain=asianclub.tv
+$script,third-party,domain=jpidols.tv
+$script,third-party,domain=javtorrent.re
+$script,subdocument,third-party,domain=clipconverter.cc
+$script,domain=1dl.re
+$subdocument,third-party,domain=adf.ly
+$script,third-party,domain=youtube-mp3.org
 ||youtube-mp3.org^$subdocument,domain=youtube-mp3.org
 
 ||2ch.vet/img/ani_
@@ -672,8 +672,7 @@ _ads.js
 ||estar.jp/page/ad/
 	! 2017/07/16 動画見れないらしいがこれで見れるらしい
 ||fod.fujitv.co.jp/pc/image/wbhjfr/
-||fod.fujitv.co.jp/mz/*
-||free-video-movie.com^$domain=2dbook.com
+||fod.fujitv.co.jp/mz/
 ||gamespark.jp/feature/advertising/
 ||gehasoku.com/JS/newama.js
 ||getchu.com/mbanner/$~image
