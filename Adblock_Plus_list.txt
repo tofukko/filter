@@ -715,6 +715,7 @@ _ads.js
 ||mapion.co.jp*/adOverture/
 ||mapion.co.jp*/js/vl1.
 ||mangaz.com/virgo/adv/
+||mdpr.jp/imobile_iframe.html
 ||medibang.com/viewer/fixedAds/
 ||mgstage.com/js/mgs_Widget.js?
 ||mhometheater.com$inline-script
