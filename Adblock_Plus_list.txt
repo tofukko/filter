@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/13 13:27
+! 最終更新 2020/08/14 10:20
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -728,7 +728,6 @@ _ads.js
 ||new-akiba.com/special/
 	||ura-akiba.jp^$subdocument
 ||nhentai.net/api/
-||nuvidp.com^$domain=nuvid.com
 ||nijie.net/*/banner/
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
@@ -1429,6 +1428,7 @@ mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
 momon-ga.com###menu-pr
 muvc.net##body > div[align="right"]:last-of-type
+nazology.net##.side-adblock
 nicozon.net###ichiba
 nlab.itmedia.co.jp###globalHeader
 no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
@@ -1456,7 +1456,6 @@ nikkansports.com##.adBECOME
 northwood.blog60.fc2.com###menu1Block > .menuBlockBase:first-child
 npn.co.jp###arata5
 nuwton.com##[class*="banner-"]
-nuvid.com##.puFloatLine
 o-uccino.jp##[class^="float_banner_"]
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 okwave.jp##.pickup
@@ -1563,6 +1562,7 @@ zyuken.net##.AdImg
 !------------2ch pink------------!
 ||i2ad.jp^
 ||thench.net^
+||banpro.in.coocan.jp^
 ||5ch.net/_ads/
 ||bbspink.com/css/ad.css
 5ch.net,bbspink.com###banner
@@ -1580,7 +1580,7 @@ angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; p
 ||angelfire.com/adm/
 ||lycos.com/catman/init.js
 
-!------------animeflv.ru----------!
+!g------------animeflv.ru----------!
 animeflv.ru##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeflv.ru##+js(setInterval-defuser.js, (), 500)
 animeflv.ru##+js(set-constant.js, check_adblock, true)
@@ -1697,11 +1697,11 @@ anond.hatelabo.jp##.double-rectangle
 !言及先エントリを開くが消える
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
-!-----------hitomi.la-----------!
+!g-----------hitomi.la-----------!
 .com^$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, pops)
 
-!-----------kiss-------------!
+!g-----------kiss-------------!
 $script,third-party,domain=kissanime.ru
 ||kissanime.ru^$subdocument,first-party
 
@@ -1734,7 +1734,7 @@ kissanime.*##+js(set-constant.js, check_adblock, true)
 	!blog cookie承認バナー
 ###gdpr-banner
 
-! ------loveheaven.net--------
+!g------loveheaven.net--------
 ||a.vdo.ai^
 ||cogleapad.com^
 ||dyecowwhy.com^
@@ -1798,7 +1798,7 @@ xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
 xtech.nikkei.com##.p-article_ad
 
-!------------rawdevart.com---------------!
+!g------------rawdevart.com---------------!
 ||matchintsv.club^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
@@ -2087,11 +2087,11 @@ youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAd
 !再生履歴
 @@||s.youtube.com/api/stats/playback?
 
-!------------dailymotion------------!
+!g------------dailymotion------------!
 ||dailymotion.com*/masscast/
 ||dailymotion.com/logger/
 
-!------------pandora---------------!
+!g------------pandora---------------!
 ||pandora.tv/_adv_img/
 
 ||prism.pandora.tv^
@@ -2149,7 +2149,7 @@ minnano-av.com##.leftbottom_bn
 minnano-av.com##.txtthumb
 minnano-av.com##.type-fuzoku
 
-!------------mediafire.com------------
+!g------------mediafire.com------------
 ||mediafire.com^$subdocument
 mediafire.com##+js(aopw, UAParser)
 mediafire.com##+js(aeld, click, ClickHandler)
@@ -2215,6 +2215,7 @@ workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 
 !マジキチ
 ||majikichi.com/js/dlsite_widget.js
+||majikichi.com/js/rad_head_
 majikichi.com###left_menu
 majikichi.com##^#left_menu
 
@@ -2234,7 +2235,7 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 
 
 
-!-----pornhubnetwork
+!g-----pornhubnetwork
 
 !共通
 /ht.js?site_
@@ -2375,10 +2376,18 @@ ashemaletube.com##.video-end-overlay
 ashemaletube.com##+js(aopr, open)
 
 !------------drtuber
-||drtuber.com/player_right_ads_
-||dtprofit.com^$subdocument,domain=drtuber.com
-||dtprofit.com/redirect/
-drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
+/footer_ads_
+_right_ads_
+/promo/banners/*
+||moatads.com^$domain=drtuber.com|nuvid.com|proporn.com
+||dtprofit.com^$domain=drtuber.com
+||nuvidp.com^$domain=nuvid.com
+||propbn.com^$domain=proporn.com
+
+drtuber.com,nuvid.com,viptube.com##+js(window.open-defuser)
+viptube.com##.drt-sponsor-block
+@@||com/templates/*/js/ads.js$domain=nuvid.com|proporn.com|viptube.com
+@@||drtst.com/templates/drtuber/js/advertisement.js$domain=drtuber.com
 
 !------------danbooru系
 !sankaku channel
