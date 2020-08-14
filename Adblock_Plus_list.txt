@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/14 10:20
+! 最終更新 2020/08/14 13:23
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1400,6 +1400,9 @@ logsoku.com###fixed_area
 logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
 logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
 logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
+loveh.org##div:has(> script[src="http://static.adroute.focas.jp/js/adroute_ads.js"])
+loveh.org##a[href=""]
+loveh.org##a[href^="https://www.dmm.co.jp/"]
 maho.jp##.Ad
 manager-life.net##[id^="ad_"]
 mangaz.com###scroll-adv
