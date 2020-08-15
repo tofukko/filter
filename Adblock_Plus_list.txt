@@ -182,8 +182,6 @@ _ads.js
 !||sprout-ad.com^$third-party
 
 
-/://[0-9a-z]{10,}\.com/\d{5,}(?:/|\.css)$/$third-party
-
 .biz/ad/
 .biz/ads/
 .ch/ads/
