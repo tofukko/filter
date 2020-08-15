@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/15 12:50
+! 最終更新  2020/08/15 15:22
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -613,8 +613,6 @@ _ads.js
 !share-videos.se
 !tokyomotion.net
 
-
-/kok/*$domain=movie.eroterest.net
 /link.js$domain=iqoo.me
 
 
@@ -1639,6 +1637,13 @@ news.biglobe.ne.jp###gadsOverlayUnit
 ||dtiblog.com/hist_count.php
 dtiblog.com###meerkat-wrap
 
+!---------eroterest.net--------!
+/kok/*$domain=eroterest.net
+||okbp.xyz^
+eroterest.net##^.topBanner
+eroterest.net##.adAreaNative
+eroterest.net##.adAreaNativeDmm
+
 !------------excite------------!
 ||excite.co.jp/jp/ad/
 ||excite.co.jp/jp/ox/
@@ -2027,6 +2032,7 @@ video.fc2.com##.ad_panelAR
 video.fc2.com##.banner
 video.fc2.com##.clmn-side > div[id]
 video.fc2.com##.promotion
+video.fc2.com##.l-ctnt_ls--flex_side_sec
 video.fc2.com##.l-ctnt_ls:style(margin-top: 16px !important;)
 video.fc2.com##.sectionCrd + .sectionCrd
 
@@ -2413,6 +2419,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
+
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=f.tabtter.jp
 
 	!動画未練
 @@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
