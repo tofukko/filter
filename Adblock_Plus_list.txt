@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/15 0:03
+! 最終更新  2020/08/15 12:50
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -587,6 +587,7 @@ _ads.js
 
 
 !----third-party
+||ad999.biz^
 ||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
@@ -749,7 +750,6 @@ $script,third-party,domain=youtube-mp3.org
 	||browsers.support^
 	||zlgokeby.com^
 	||wzismevwhqixlq.com^
-||ad999.biz^$domain=tokyomotion.net
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||twitter.com/i/videoads/
@@ -1197,11 +1197,13 @@ $script,third-party,domain=youtube-mp3.org
 	!google
 ##.adsbygoogle
 ##.google-user-ad
+###gStickyAd
+
 	!やっぱりpopinもloglyも消すわ 消さないわ
 	!むしろなぜpopinwokesanainoka??????????????????????
 	||logly.co.jp^$third-party
 	!logly.co.jp
-##.logly-lift-ad:not(.logly-lift-article)
+	!##.logly-lift-ad:not(.logly-lift-article)
 	!popin
 ##._popIn_recommend_article_ad
 ##._popIn_recommend_article_ad_reserved
