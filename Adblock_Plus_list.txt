@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新  2020/08/15 15:22
+! 最終更新 2020/08/16 8:04
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -586,6 +586,7 @@ _ads.js
 
 !----third-party
 ||ad999.biz^
+||af.fukuishimbun.co.jp^
 ||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
@@ -1297,6 +1298,8 @@ $script,third-party,domain=youtube-mp3.org
 ##.side a[href*="item.rakuten.co.jp/"]
 
 
+373news.com###ad_prinfo
+373news.com##.mns_span_2columns_left .mns_block
 afpbb.com##.bnr
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
@@ -1312,6 +1315,7 @@ bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "広告"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "Ad"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "広告"))
 blog.ss-blog.jp###ad-days-area
+booklist.id##.ad-wrap-pc
 businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
@@ -1389,6 +1393,8 @@ karapaia.com##.readmore-header
 karapaia.com##[class^=ads-label]
 kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
+kurashi-no.jp##[rel="csw-c2"],[rel="csw-c4"],[rel="csw-c6"],[rel="csw-c9"],[rel="csw-c12"],[rel="csw-c15"],[rel="csw-c18"],[rel="csw-c21"],[rel="csw-c24"]
+kurashi-no.jp##[style="width: 300px; height: 600px;"]
 horne.red###main-right > .left_column > .tieup_rand_block
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
@@ -1427,6 +1433,7 @@ moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
+moguna.com##.side-bar-ad
 momon-ga.com###menu-pr
 muvc.net##body > div[align="right"]:last-of-type
 nazology.net##.side-adblock
@@ -1490,6 +1497,8 @@ ribbon.to##p[align="center"]:has( > [tareget="rdn"])
 ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
 ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
 ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
+saga-s.co.jp##.double-rectangle
+saga-s.co.jp##.top-banner
 saitama-np.co.jp###ad_middle
 sankakucomplex.com##[class^="adbmodal-"]
 say-move.org###my_navigation:style(padding-top: 10px !important)
@@ -1696,13 +1705,12 @@ game.goo.ne.jp##.ad_super
 	!hatenablog.com,jp,
 	!hatenadiary.com,jp,org
 ##.sleeping-ads
+anond.hatelabo.jp,hatena.ne.jp##.double-rectangle
 hatenanews.com##.ads-250
 a.hatena.ne.jp##.side-ad
 b.hatena.ne.jp##[class^="entrylist-ad-"]
 b.hatena.ne.jp##[class^="entry-ad-"]
 q.hatena.ne.jp##.sidebar-banner
-q.hatena.ne.jp##.double-rectangle
-anond.hatelabo.jp##.double-rectangle
 !言及先エントリを開くが消える
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
