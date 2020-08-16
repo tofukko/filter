@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/16 8:04
+! 最終更新 2020/08/16 13:46
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1710,7 +1710,11 @@ game.goo.ne.jp##.ad_super
 anond.hatelabo.jp,hatena.ne.jp##.double-rectangle
 hatenanews.com##.ads-250
 a.hatena.ne.jp##.side-ad
+b.hatena.ne.jp##.centerarticle-aside-ad
+b.hatena.ne.jp##.js-keyboard-selectable-item[data-river-placement]
 b.hatena.ne.jp##[class^="entrylist-ad-"]
+!？
+b.hatena.ne.jp##.js-hotentries.is-nativeads-loading > li:nth-child(4) > .entrylist-contents > .entrylist-contents-main,.js-hotentries.is-nativeads-loading > li:nth-child(8) > .entrylist-contents > .entrylist-contents-main:style(display: block !important;)
 b.hatena.ne.jp##[class^="entry-ad-"]
 q.hatena.ne.jp##.sidebar-banner
 !言及先エントリを開くが消える
