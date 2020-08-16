@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/16 15:46
+! 最終更新 2020/08/16 19:06
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2539,6 +2539,9 @@ cookpad.com#@##ad
 games.wkb.jp##+js(set, gWkbAdVert, true)
 games.wkb.jp##+js(set, noblock, true)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
+	!https://www.kadokawa.co.jp/product/322003000737/
+www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"]
+www.kadokawa.co.jp#@#a[href*="px.a8.net/svt/ejp?"]
 	!左側
 kemochan.com#@#.ad
 	! 気象警報・注意報（表形式）が消える
