@@ -286,6 +286,7 @@ _ads.js
 ||criteo.com^$third-party
 ||criteo.net^$third-party
 ||cyber-traffic.net^$third-party
+||cybershop-affiliate.jp^$third-party
 ||d-064.com^$third-party
 ||devo.jp^$third-party
 ||dl-rms.com^$third-party
@@ -659,6 +660,7 @@ $script,third-party,domain=youtube-mp3.org
 ||dl8x.com/banner/
 ||dl8x.com/product?
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
+||dlsite.com/js/blogparts.js
 ||dmm.co.jp^$domain=exploader.net
 ||dmm.co.jp^$domain=jp-xvideos.info
 ||e-typing.ne.jp/app/ad_
@@ -1446,6 +1448,7 @@ moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
+moguna.com##.Post-bottom
 moguna.com##.side-bar-ad
 momon-ga.com###menu-pr
 muvc.net##body > div[align="right"]:last-of-type
