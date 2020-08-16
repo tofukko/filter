@@ -1417,7 +1417,7 @@ manager-life.net##[id^="ad_"]
 mangalove.me##.lastInterstitial
 mangalove.me##.interstitial
 mangalove.me##li:has(> .native-ad-wrap)
-mangalove.me##.viewerBody,.viewer,.slick-list,.slick-track,.imgWrap,.lastPage.slick-slide:style(height: 100% !important;)
+mangalove.me##.viewerBody,.viewer,.viewer .slick-list,.viewer .slick-track,.viewer .imgWrap,.viewer .lastPage.slick-slide:style(height: 100% !important;)
 mangalove.me##.viewer,.lastWrap:style(padding-bottom: 0 !important;)
 mangalove.me##.pr_00 .title:style(width: 135px !important;)
 mangaz.com###scroll-adv
