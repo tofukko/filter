@@ -752,6 +752,8 @@ $script,third-party,domain=youtube-mp3.org
 ||twitter.com/i/videoads/
 ||undernavi.com^$domain=adbkm.com
 ||uraaka-joshi.com/pr$subdocument
+||urasma.com^$domain=ura-akiba.jp
+||urasma.com/dmm_
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||wav.tv/support/adFrame?
@@ -1340,6 +1342,7 @@ e-typing.ne.jp##[class^="ad"][class*="00"]
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
+eroido.jp##[class^="adv_"]
 exploader.net###nls
 exploader.net##article > div[style^="margin-bottom: 10px"]
 fandom.com##[class^="aff-unit__"]
@@ -1445,10 +1448,7 @@ nlab.itmedia.co.jp###globalHeader
 no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
 novelup.plus##.ad-pc
 novelup.plus##.ad-sp
-nyaa.se###main div[style^="float:left;"]
-nyaa.se###main > div:nth-of-type(2)
-natalie.mu##.NA_ad300x250
-natalie.mu##.NA_relatedItem
+nyaa.si##.servers-cost-money1
 new-akiba.com###bannerJ
 new-akiba.com##.amazon-sidelist
 new-akiba.com##.amazon-sidelist-right2
@@ -1456,8 +1456,6 @@ new-akiba.com##.top-column-onsale
 new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
 novelba.com##.exception_flag
-ura-akiba.jp##.dlg
-ura-akiba.jp##a[href^="http://dl.getchu.com/ura_akiba/"]
 navitime.co.jp###under-advertisement
 news.mixi.jp##.adsenseBannerArea
 nicofinder.net###video-ichiba
@@ -1659,6 +1657,7 @@ eroterest.net##.adAreaNativeDmm
 ||excite.co.jp/jp/ox/
 newssearch.excite.co.jp,websearch.excite.co.jp##.searchResults > aside
 woman.excite.co.jp###header_bnr
+www.excite.co.jp##.extra
 !ほにゃく
 www.excite.co.jp##.ad728
 www.excite.co.jp###rakutenMW
@@ -1758,7 +1757,7 @@ kissanime.*##+js(set-constant.js, check_adblock, true)
 	!blog cookie承認バナー
 ###gdpr-banner
 
-!g------loveheaven.net--------
+!g------loveheaven.net--------!
 ||a.vdo.ai^
 ||cogleapad.com^
 ||dyecowwhy.com^
@@ -1776,6 +1775,13 @@ loveheaven.net##.quang-cao
 loveheaven.net##.chapter-img + br + br + br + center
 loveheaven.net##.chapter-img + br + br + br + center + br
 loveheaven.net##.chapter-img + br + br + br + center + br + br
+
+!------------nan-net.com-------------!
+||mbadw.nan.co.jp^
+||mbadv.nan.co.jp^
+||tool2.nan-net.com/exposure.jpg
+nan-net.com###banner
+nan-net.com##div[style$="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]:has([src^="//adm.shinobi.jp"])
 
 !------------nicovideo ニコニコ動画------------!
 !アンケート
