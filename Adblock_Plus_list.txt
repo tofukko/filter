@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/16 19:06
+! 最終更新 2020/08/16 22:17
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1320,7 +1320,7 @@ bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "Ad"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "広告"))
 blog.ss-blog.jp###ad-days-area
 blogmura.com##.ad-overlay
-booklist.id##.ad-wrap-pc
+booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
 businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
@@ -1453,8 +1453,7 @@ nazology.net##.side-adblock
 nicozon.net###ichiba
 nlab.itmedia.co.jp###globalHeader
 no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
-novelup.plus##.ad-pc
-novelup.plus##.ad-sp
+novelup.plus##[class^="ad-"]
 nyaa.si##.servers-cost-money1
 new-akiba.com###bannerJ
 new-akiba.com##.amazon-sidelist
