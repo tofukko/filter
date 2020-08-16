@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/16 22:17
+! 最終更新 2020/08/17 8:57
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -40,18 +40,28 @@
 matome.naver.jp###yads_pc_overlay
 ||lcs.naver.jp^
 
-!2020/07/30 ？
-||atas.io^$domain=toukoucity.to
-||toukoucity.to/js/digi
-||toukoucity.to/siteimg/digi/dmmt$domain=toukoucity.to
+!g-----------kiss-------------!
+$script,third-party,domain=kissanime.ru
+||kissanime.ru^$subdocument,first-party
 
-||tokyo-porn-tube.com/media/player/ads_
-tokyo-tube.com##.banner-base
+||rapidvideo.com/tube-skin-retina-for-videojs-6/bin/video-js-6.2.0/ie8/videojs-ie8.min.js
+||rapidvideo.com/js/jquery.min.js
+rapidvideo.com##^script:has-text(window)
 
-adultlog.net,btblog.jp##.story_box:first-child
-adultlog.net,btblog.jp##td.inside
+kissanime.ru###adsIfrme7
+kissanime.ru###divFloatLeft
+kissanime.ru##.clear2
+kissanime.ru##.divCloseBut
+kissanime.ru##[style="width:920px;"]
+kissanime.ru##[style^="border-color: #4e4e4e !important; position: relative;"]
 
-yu.to##style + script[language="JavaScript"] + div[align="center"]
+kissanime.ru##+js(setTimeout-defuser.js, /YANMKABFYWRW|YANABWEKA/)
+kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
+kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+kissanime.*##+js(set-constant.js, check_adblock, true)
+
+!応急
+@@||hcaptcha.com$domain=kissanime.ru
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -1306,6 +1316,8 @@ $script,third-party,domain=youtube-mp3.org
 
 373news.com###ad_prinfo
 373news.com##.mns_span_2columns_left .mns_block
+adultlog.net,btblog.jp##.story_box:first-child
+adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
@@ -1372,6 +1384,7 @@ google.com,google.co.jp###\5f Ltg
 www.google.co.jp##TABLE[cellpadding="0"][style="border: 1px solid #369"]
 hentai-foundry.com##main > center
 hentai-only.com##.force-foreground.alert.alert-link.alert-dismissible
+hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not(:nth-of-type(n+11))
 imagis.jp,costype.net##.topadv
 inoreader.com##.inno_dialog_modal:not(#login_dialog_wrapper)
 inoreader.com##.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
@@ -1732,29 +1745,6 @@ q.hatena.ne.jp##.sidebar-banner
 !g-----------hitomi.la-----------!
 .com^$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, pops)
-
-!g-----------kiss-------------!
-$script,third-party,domain=kissanime.ru
-||kissanime.ru^$subdocument,first-party
-
-||rapidvideo.com/tube-skin-retina-for-videojs-6/bin/video-js-6.2.0/ie8/videojs-ie8.min.js
-||rapidvideo.com/js/jquery.min.js
-rapidvideo.com##^script:has-text(window)
-
-kissanime.ru###adsIfrme7
-kissanime.ru###divFloatLeft
-kissanime.ru##.clear2
-kissanime.ru##.divCloseBut
-kissanime.ru##[style="width:920px;"]
-kissanime.ru##[style^="border-color: #4e4e4e !important; position: relative;"]
-
-kissanime.ru##+js(setTimeout-defuser.js, /YANMKABFYWRW|YANABWEKA/)
-kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
-kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-kissanime.*##+js(set-constant.js, check_adblock, true)
-
-!応急
-@@||hcaptcha.com$domain=kissanime.ru
 
 !------------livedoor------------!
 ||gsspcln.jp^
