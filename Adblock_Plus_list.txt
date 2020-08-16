@@ -755,7 +755,9 @@ $script,third-party,domain=youtube-mp3.org
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||wav.tv/support/adFrame?
+||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
+||yomoyama-bbs.jp/image/ad_images/
 ||zyuken.net/juku_page/ads/
 
 !------------------------解析------------------------!
