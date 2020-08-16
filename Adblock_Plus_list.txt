@@ -1319,6 +1319,7 @@ bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "広告"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "Ad"))
 bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "広告"))
 blog.ss-blog.jp###ad-days-area
+blogmura.com##.ad-overlay
 booklist.id##.ad-wrap-pc
 bookmeter.com##[style="width: 300px; height: 250px"]
 businessinsider.jp##.f-ad
