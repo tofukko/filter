@@ -1414,6 +1414,12 @@ loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
 maho.jp##.Ad
 manager-life.net##[id^="ad_"]
+mangalove.me##.lastInterstitial
+mangalove.me##.interstitial
+mangalove.me##li:has(> .native-ad-wrap)
+mangalove.me##.viewerBody,.viewer,.slick-list,.slick-track,.imgWrap,.lastPage.slick-slide:style(height: 100% !important;)
+mangalove.me##.viewer,.lastWrap:style(padding-bottom: 0 !important;)
+mangalove.me##.pr_00 .title:style(width: 135px !important;)
 mangaz.com###scroll-adv
 mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
