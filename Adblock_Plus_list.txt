@@ -1141,8 +1141,7 @@ $script,third-party,domain=youtube-mp3.org
 ||analyzer.wox.cc^
 ||analyzer2.curecos.com^
 ||bc.nhk.jp^
-	!動画見れない
-||bing.com/fd/ls/$~ping
+||bing.com/fd/ls/
 ||blog.ocn.ne.jp/ac.php
 ||blogos.com/common/js/kotzen.analytics.js?
 ||bunshun.jp/oo/
@@ -1327,11 +1326,7 @@ atwiki.jp##[id^="advp"]
 atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
-bing.com###b_results > [class^="b_"]:not(.b_algo):not(.b_ans):not(.b_pag):not(.b_msg)
-bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "Ad"))
-bing.com##.b_algo:has( > .b_caption > p:matches-css-before(content: "広告"))
-bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "Ad"))
-bing.com#?#.b_algo:-abp-has( > .b_caption > p:matches-css-before(content: "広告"))
+bing.com##.b_ad:remove()
 blog.ss-blog.jp###ad-days-area
 blogmura.com##.ad-overlay
 booklist.id##[class^="ad-wrap-"]
@@ -1775,6 +1770,14 @@ loveheaven.net##.chapter-img + br + br + br + center
 loveheaven.net##.chapter-img + br + br + br + center + br
 loveheaven.net##.chapter-img + br + br + br + center + br + br
 
+!--------------msn----------------!
+://c.*/c.gif?
+||srtb.msn.com^
+msn.com##.nativeadasideplaceholder
+msn.com##.nativeadserversidecontentmodule
+msn.com##.sameoab_ad_container
+msn.com##.widead
+
 !------------nan-net.com-------------!
 ||mbadw.nan.co.jp^
 ||mbadv.nan.co.jp^
@@ -1943,19 +1946,6 @@ chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"]
 plaza.rakuten.co.jp###commonAdsParts
 recipe.rakuten.co.jp##.rightNaviBanner
 recipe.rakuten.co.jp##.subContentsLink
-
-!--------------msn----------------!
-
-||msn.com/c.gif?
-
-msn.com##.ob-widget.ob-two-rows-strip-layout.AR_20 > .ob-widget-section.ob-first
-msn.com###outbrain_widget_2
-msn.com##.morefromproviderrr
-
-!あわせて読みたい
-@@||widgets.outbrain.com/outbrain.js$domain=msn.com
-@@||odb.outbrain.com/utils/get?$domain=msn.com
-@@||images.outbrain.com^$domain=msn.com
 
 !------------abema-------------!
 ||ad.abema.io^
