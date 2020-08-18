@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/18 13:42
+! 最終更新 2020/08/18 23:08
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -650,7 +650,6 @@ $script,third-party,domain=youtube-mp3.org
 ||akibablog.net/ad-
 ||akibablog.net/banner-
 ||akibablog.net/right-side2.html
-||amebaowndme.com^*/pureAds|
 ||angel-bbs.com/ssi/koukoku_
 ||anyporn.com/aa/
 ||artstation.com/p/c_assets/
@@ -2091,7 +2090,12 @@ admin.blog.fc2.com#@##ads
 ||ameba.jp/ameblo/pc/js/bigfooter-
 ||ameba.jp/analytics/
 ||ameba.jp/blog/xml/mk_data/official/
-ameblo.jp##a[alt0="BlogAffiliate"]
+
+||amebaowndme.com^*/pureAds|
+
+ameblo.jp##.subAdBannerArea
+ameblo.jp##.skin-entryAd
+ameblo.jp##[alt0="BlogAffiliate"]
 
 !------------nikkeibp------------!
 ||bizad.nikkeibp.co.jp^
