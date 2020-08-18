@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/17 8:57
+! 最終更新 2020/08/18 13:42
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -650,6 +650,7 @@ $script,third-party,domain=youtube-mp3.org
 ||akibablog.net/ad-
 ||akibablog.net/banner-
 ||akibablog.net/right-side2.html
+||amebaowndme.com^*/pureAds|
 ||angel-bbs.com/ssi/koukoku_
 ||anyporn.com/aa/
 ||artstation.com/p/c_assets/
@@ -663,7 +664,7 @@ $script,third-party,domain=youtube-mp3.org
 ||chaberi.com/html/br/
 ||chem-station.com^*/adrotate-pro/
 ||chixi.jp/img.php?filename=b
-||cinematoday.jp^*affiliate
+||cinematoday.jp/widgets/
 ||cookpad.com/iframe/
 ||cosp.jp/images/spacer.gif
 ||diced.jp/webs/
@@ -1336,6 +1337,8 @@ businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
 buttobi.net##div[style="position: relative; z-index:255;"]
 chart.sekai-kabuka.com###aswift_0_expand
+cinematoday.jp###ct-affiliate-box
+cinematoday.jp##.ct-ad
 coliss.com###sponsors
 coliss.com###sponsorsTop
 curazy.com##.jsViewer_dialog-ad
@@ -1355,7 +1358,13 @@ easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadd
 eroido.jp##[class^="adv_"]
 exploader.net###nls
 exploader.net##article > div[style^="margin-bottom: 10px"]
-fandom.com##[class^="aff-unit__"]
+famitsu.com##.banner-top-header
+app.famitsu.com###widget-ad-rect
+	!微妙系
+	!famitsu.com##[class^="l-contents-block--tie-up-"]
+	!famitsu.com##.border-col-bottom > [class^="col-"]:has(> .card > [class*="ad-native-campaign"])
+fandom.com##.aff-unit__wrapper
+fandom.com##.wikia-ad
 favolog.org###side > div:first-child
 flashfabrica.com##div:has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
@@ -1413,6 +1422,8 @@ kotobank.jp##.pc-iframe-ad
 kurashi-no.jp##[rel="csw-c2"],[rel="csw-c4"],[rel="csw-c6"],[rel="csw-c9"],[rel="csw-c12"],[rel="csw-c15"],[rel="csw-c18"],[rel="csw-c21"],[rel="csw-c24"]
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
 horne.red###main-right > .left_column > .tieup_rand_block
+hub.vroid.com###Model-adView-2lWBn
+hub.vroid.com##[class^="EventBanner-"]
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
@@ -1447,6 +1458,7 @@ medibang.com##[class^="adBlock__"]
 medibang.com##.mfp-ready
 medibang.com##.viewer-bottomBanner
 mhometheater.com##[href^="https://airw.net/"]:not(:first-child),[href^="http://blogrank.toremaga.com/"],[href^="https://blogranking.fc2.com/"],[href^="https://blog.with2.net/"]
+middle-edge.jp###detad
 mimizun.com##.ad300x250
 mimizun.com###thread:style( position: relative; left: -312px; )
 mmm.me###imadv
@@ -1494,8 +1506,11 @@ parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: lef
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
 pashplus.jp##.google_ads
 pashplus.jp##.single_bnr_wrap
+peing.net##.ad-container
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net##div:has( > iframe:not([src]))
+pixiv.net##li:has(> iframe[width="184"][height="232"])
+pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
