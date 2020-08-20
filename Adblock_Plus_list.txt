@@ -2008,7 +2008,6 @@ amazon.co.jp###nav-swmslot
 ##[class^="amastep"]
 ##[name="amazletlink"]
 ##.amazlet-box
-##.amazon-link
 ##.azlink-box
 ##.kaerebalink-box
 
