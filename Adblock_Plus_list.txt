@@ -1318,6 +1318,8 @@ $script,third-party,domain=youtube-mp3.org
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
+animatetimes.com##[class^="c-banner-"][class*="--w3"]
+animatetimes.com##.l-content-aside > .c-banner-aside:first-child
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
 atwiki.jp###body_footer .lazy
