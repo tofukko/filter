@@ -1533,6 +1533,7 @@ ribbon.to##p[align="center"]:has( > [tareget="rdn"])
 ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
 ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
 ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
+rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
 saitama-np.co.jp###ad_middle
