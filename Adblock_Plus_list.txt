@@ -2011,6 +2011,8 @@ amazon.co.jp###nav-swmslot
 ##.azlink-box
 ##.kaerebalink-box
 
+@@||amazon-adsystem.com/widgets/q?$image,third-party
+
 @@||images-amazon.com^*/beacon/BeaconSprite-$image
 @@||ssl-images-amazon.com^*/beacon/BeaconSprite-$image
 
