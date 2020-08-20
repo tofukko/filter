@@ -1438,6 +1438,7 @@ loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
 maho.jp##.Ad
 manager-life.net##[id^="ad_"]
+mangahack.com##[class^="ad_"]
 mangalove.me##.lastInterstitial
 mangalove.me##.interstitial
 mangalove.me##li:has(> .native-ad-wrap)
