@@ -1329,6 +1329,9 @@ atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bing.com##.b_ad:remove()
+blog.esuteru.com,otakomu.jp###more > blockquote:last-of-type
+blog.esuteru.com,otakomu.jp###more > center:last-of-type
+blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left:0 !important;)
 blog.ss-blog.jp###ad-days-area
 blogmura.com##.ad-overlay
 booklist.id##[class^="ad-wrap-"]
@@ -1502,8 +1505,6 @@ oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="cent
 okwave.jp##.pickup
 orangepage.net##.doubleRectangle
 orangepage.net##.recipeBlock.clearfix.pr
-otakomu.jp##a[href*="amazon"]
-otakomu.jp##.siteRanking-main:style(margin-left:0 !important;)
 otapol.com###entryAdAmazonArea
 parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has( > a[href^="https://www.amazon.co"])
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
