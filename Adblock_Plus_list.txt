@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/20 18:29
+! 最終更新 2020/08/22 9:59
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1250,11 +1250,14 @@ $script,third-party,domain=youtube-mp3.org
 ! criteo
 ##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
 ##div[id^="crt-"][style]
+
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[id^="div_fam_async_"]
 ##[style*="width:728px;"][style*="height:90px;"]
 ##[style*="width: 728px;"][style*="height: 90px;"]
+
+##.t_h ~ .t_b ~ [href^="https://www.amazon.co.jp/"]
 
 ##a[href*="http://ad."]
 ##a[href*="infotop.jp/click.php?"]
@@ -1274,24 +1277,24 @@ $script,third-party,domain=youtube-mp3.org
 ##a[href*="px.a8.net/svt/ejp?"]
 
 !----amazon
-##.column-inner-2 a[href*="amazon.co.jp"]
-##.plugin-freearea a[href*="amazon.co.jp"]
-##.plugin-freearea1 a[href*="amazon.co.jp"]
-##.sidewrapper a[href*="amazon.co.jp"]
-##.side a[href*="amazon.co.jp"]
-###side a[href*="amazon.co.jp"]
-~amazon.co.jp###sidebar a[href*="amazon.co.jp"]
-###sidemenu a[href*="amazon.co.jp"]
-##.sidemenu2 a[href*="amazon.co.jp"]
-~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de##.sidebar a[href*="amazon.co.jp"]
-###sub a[href*="amazon.co.jp"]
-###right a[href*="amazon.co.jp"]
-~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de###left a[href*="amazon.co.jp"]
-##.right-container a[href*="amazon.co.jp"]
-##.right-column-inner a[href*="amazon.co.jp"]
-##.left-container a[href*="amazon.co.jp"]
-##.left-column-inner a[href*="amazon.co.jp"]
-###freespace [href*="amazon.co.jp"]
+~amazon.*###freespace a[href*="amazon.co.jp"], freespace a[href*="amzn.to"]
+~amazon.*###left a[href*="amazon.co.jp"], left a[href*="amzn.to"]
+~amazon.*###right a[href*="amazon.co.jp"], right a[href*="amzn.to"]
+~amazon.*###side a[href*="amazon.co.jp"], side a[href*="amzn.to"]
+~amazon.*###sidebar a[href*="amazon.co.jp"], sidebar a[href*="amzn.to"]
+~amazon.*###sidemenu a[href*="amazon.co.jp"], sidemenu a[href*="amzn.to"]
+~amazon.*###sub a[href*="amazon.co.jp"], sub a[href*="amzn.to"]
+~amazon.*##.column-inner-2 a[href*="amazon.co.jp"], column-inner-2 a[href*="amzn.to"]
+~amazon.*##.left-column-inner a[href*="amazon.co.jp"], left-column-inner a[href*="amzn.to"]
+~amazon.*##.left-container a[href*="amazon.co.jp"], left-container a[href*="amzn.to"]
+~amazon.*##.plugin-freearea a[href*="amazon.co.jp"], plugin-freearea a[href*="amzn.to"]
+~amazon.*##.plugin-freearea1 a[href*="amazon.co.jp"], plugin-freearea1 a[href*="amzn.to"]
+~amazon.*##.right-column-inner a[href*="amazon.co.jp"], right-column-inner a[href*="amzn.to"]
+~amazon.*##.right-container a[href*="amazon.co.jp"], right-container a[href*="amzn.to"]
+~amazon.*##.side a[href*="amazon.co.jp"], side a[href*="amzn.to"]
+~amazon.*##.sidebar a[href*="amazon.co.jp"], sidebar a[href*="amzn.to"]
+~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], sidemenu2 a[href*="amzn.to"]
+~amazon.*##.sidewrapper a[href*="amazon.co.jp"], sidewrapper a[href*="amzn.to"]
 
 !----e-nls
 ##.plugin-freearea a[href*="e-nls.com/access"]
@@ -1372,6 +1375,7 @@ flashfabrica.com##.footer:style(clear:both;)
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
+front-row.jp##.after-btn-fb-nice-ad-pc
 fukuishimbun.co.jp##.admeasure
 getchu.com###rectangle
 getchu.com##.banner
@@ -1394,6 +1398,8 @@ imagis.jp,costype.net##.topadv
 inoreader.com##.inno_dialog_modal:not(#login_dialog_wrapper)
 inoreader.com##.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
 irasutoya.com##[class^="entryadwrapper"]
+iwate-np.co.jp##.article-list > li:has-text(広告)
+iwate-np.co.jp##.article-list > li:has(> script)
 ja.whotwi.com###header_ad_area
 ja.whotwi.com##.stats_ad_300x250_2
 jiji.com##.ArticleInnerAD
@@ -1475,33 +1481,35 @@ moguna.com##.Post-bottom
 moguna.com##.side-bar-ad
 momon-ga.com###menu-pr
 muvc.net##body > div[align="right"]:last-of-type
+nagasaki-np.co.jp##.article_ad:remove()
+navitime.co.jp###under-advertisement
 nazology.net##.side-adblock
-nicozon.net###ichiba
-nlab.itmedia.co.jp###globalHeader
-no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
-novelup.plus##[class^="ad-"]
-nyaa.si##.servers-cost-money1
 new-akiba.com###bannerJ
 new-akiba.com##.amazon-sidelist
 new-akiba.com##.amazon-sidelist-right2
 new-akiba.com##.top-column-onsale
 new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
-novelba.com##.exception_flag
-navitime.co.jp###under-advertisement
 news.mixi.jp##.adsenseBannerArea
 nicofinder.net###video-ichiba
+nicozon.net###ichiba
 nikkansports.com##[id^="sideAd"]
 nijie.info,horne.red##[class*="tieup_"]
 nikkansports.com##.adBECOME
+nlab.itmedia.co.jp###globalHeader
+no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
+novelup.plus##[class^="ad-"]
+novelba.com##.exception_flag
 northwood.blog60.fc2.com###menu1Block > .menuBlockBase:first-child
 npn.co.jp###arata5
 nuwton.com##[class*="banner-"]
+nyaa.si##.servers-cost-money1
 o-uccino.jp##[class^="float_banner_"]
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 okwave.jp##.pickup
 orangepage.net##.doubleRectangle
 orangepage.net##.recipeBlock.clearfix.pr
+osayama.com##[id^="osaya-"]
 otapol.com###entryAdAmazonArea
 parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has( > a[href^="https://www.amazon.co"])
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
@@ -1564,6 +1572,7 @@ teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
+this.kiji.is###js-ur
 tinami.com###banner_view
 tinami.com##.view_ad
 togetter.com##.ad_custom
