@@ -177,8 +177,9 @@ _ads.js
 	!||d.pixiv.org^
 ^zoneid=
 ^zone_id=
+
 !geniee
-/://(?:js|\d{6})\.[-.0-9a-z]+/t/\d{3}/\d{3}/a\d{7}\.js$/
+/:\/\/(?:js|[0-9]{6})\.[-.0-9a-z]+\/t/[0-9]{3}\/[0-9]{3}\/a[0-9]{7}\.js$/
 
 !||adnico.jp^$third-party
 !||advision-adnw.jp^$third-party
@@ -191,6 +192,8 @@ _ads.js
 !||spacenine.biz^$third-party
 !||sprout-ad.com^$third-party
 
+!g
+/:\/\/[0-9a-z]{10,16}\.cloudfront\.net\/\?[a-z]{3,7}\=[0-9]{4,8}$/
 
 .biz/ad/
 .biz/ads/
@@ -478,16 +481,14 @@ _ads.js
 ||zeppin.com^$third-party
 
 !---- gaico
-||4uvjosuc.com^$third-party
-||8ipztcc1.com^$third-party
+||4dsply.com^$third-party
 ||aaddcount.com^$third-party
 ||acloudvideos.com^$third-party
 ||adcash.com^$third-party
 ||adglare.net^$third-party
 ||admedia.com^$third-party
-||adnium.com^$third-party
 ||adnetworkperformance.com^$third-party
-||adroll.com^$third-party
+||adnium.com^$third-party
 ||adsafeprotected.com^$third-party
 ||adsterra.com^$third-party
 ||adtechus.com^$third-party
@@ -495,21 +496,12 @@ _ads.js
 ||adtrue.com^$third-party
 ||adultcamfree.com^$third-party
 ||advarkads.com^$third-party
-||advidi.com^$third-party
 ||adxpansion.com^$third-party
-||adzerk.net^$third-party
-||agomwefq.com^$third-party
-||avfay.com^$third-party
 ||awempire.com^$third-party
 ||awemwh.com^$third-party
 ||bebi.com^$third-party
 ||bidadx.com^$third-party
-||clickfusion.net^$third-party
-||clickiocdn.com^$third-party
 ||clicksvenue.com^$third-party
-||cpmstar.com^$third-party
-||cpmterra.com^$third-party
-||crowdscience.com^$third-party
 ||deployads.com^$third-party
 ||derlatas.com^$third-party
 ||directrev.com^$third-party
@@ -520,24 +512,16 @@ _ads.js
 ||freewebfonts.org^$third-party
 ||globaltraffico.com^$third-party
 ||gwallet.com^$third-party
-||hellobar.com^$third-party
-||ie8eamus.com^$third-party
 ||iwanttodeliver.com^$third-party
 ||jads.co^$third-party
-||jlist.com^$third-party
-||jlisting.jp^$third-party
-||ladsp.com^$third-party
 ||liveadexchanger.com^$third-party
 ||m2pub.com^$third-party
 ||madadsmedia.com^$third-party
-||mgid.com^$third-party
-||nxcount.com^$third-party
 ||oclaserver.com^$third-party
 ||oclasrv.com^$third-party
 ||onclickads.net^$third-party
 ||popads.net^$third-party
 ||popadscdn.net^$third-party
-||popcash.net^$third-party
 ||popmyads.com^$third-party
 ||prebid.org^$third-party
 ||projectwonderful.com^$third-party
@@ -546,22 +530,16 @@ _ads.js
 ||puhtml.com^$third-party
 ||puserving.com^$third-party
 ||pusheify.com^$third-party
-||pushpad.xyz^$third-party
 ||pvclouds.com^$third-party
 ||revcontent.com^$third-party
 ||revivestar.com^$third-party
-||rollbar.com^$third-party
-||runative-syndicate.com^$third-party
 ||sancdn.net^$third-party
 ||seethisinaction.com^$third-party
-||sexart.com^$third-party
-||slendastic.com^$third-party
 ||speednetwork14.com^$third-party
 ||spotxchange.com^$third-party
 ||superfastcdn.com^$third-party
 ||tapad.com^$third-party
 ||teads.tv^$third-party
-||toponclick.com^$third-party
 ||tororango.com^$third-party
 ||tradeadexchange.com^$third-party
 ||trafficfactory.biz^$third-party
@@ -570,16 +548,9 @@ _ads.js
 ||trw12.com^$third-party
 ||tsyndicate.com^$third-party
 ||vacaneedasap.com^$third-party
-||velocecdn.com^$third-party
-||veohclick.net^$third-party
 ||video-people.com^$third-party
 ||videoegg.com^$third-party
-||videosz.com^$third-party
-||visualwebsiteoptimizer.com^$third-party
 ||voluumtrk.com^$third-party
-||vrixon.com^$third-party
-||xpg.com.br^$third-party
-||yandex.ru^$third-party
 ||xtendmedia.com^$third-party
 ||zemanta.com^$third-party
 ||zerezas.com^$third-party
@@ -661,7 +632,6 @@ $script,third-party,domain=youtube-mp3.org
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
 ||blog.with2.net/ad_frame.php?
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
-||cdn.engine.4dsply.com/Scripts/infinity.js.aspx?$script,domain=manga1000.com
 ||chaberi.com/html/br/
 ||chem-station.com^*/adrotate-pro/
 ||chixi.jp/img.php?filename=b
@@ -1792,6 +1762,7 @@ hitomi.la##+js(aopr, pops)
 ||a.vdo.ai^
 ||cogleapad.com^
 ||dyecowwhy.com^
+||eyefuneve.com^
 ||mehebborc.com^
 ||adform.net$third-party
 ||bidadx.com^$third-party
@@ -2336,16 +2307,11 @@ tube8.com###catFishBanner
 ||zog.link^$third-party
 ||ipornia.com/frends/
 ||bulkhentai.com^*/bulkhentai2.js
-hclips.com,hotmovs.com,txxx.com,upornia.com,vjav.com#@#[class$="-ads"]:not(html):not(body)
 
 txxx.com###myElement + DIV
 txxx.com##^script:has-text(ad_sub)
 
 vjav.com###undervideo
-
-!-----SPANKWIRE
-spankwire.com#@#[class$="-ads"]:not(html):not(body)
-extremetube.com#@#[class$="-ads"]:not(html):not(body)
 
 !-----------xhamster
 |https://$subdocument,domain=xhamster.com
