@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/22 9:59
+! 最終更新 2020/08/22 12:42
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -615,7 +615,9 @@ _ads.js
 ||mkd777.net/pd/
 ||pagead2.googlesyndication.com^
 ||partner*.become.co.jp^
+||pikkur.com/bn/
 ||pos.baidu.com^
+||queen-casino.info/affi/
 ||realsrv.com^
 ||speee-ad.akamaized.net^
 
@@ -729,6 +731,8 @@ $script,third-party,domain=youtube-mp3.org
 ||mgstage.com/js/mgs_Widget.js?
 ||mhometheater.com$inline-script
 	||envortudrqy.com
+	!minnano-av.com
+||minnano-*.com/top_center_bn/
 ||mixi.jp^*/adnetwork/
 ||mmmzy.jp^$domain=adbkm.com
 ||muvc.com/winopen.js$domain=muvc.net
@@ -1523,6 +1527,13 @@ pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
+pokemon-matome.net###header_ads
+pokemon-matome.net###hoge
+pokemon-matome.net##.inner
+pokemon-matome.net##.inner_footer
+pokemon-matome.net##.kiji_chuubu
+pokemon-matome.net###header_rtranking:style(top: 120px !important;)
+pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
 prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
 qiita.com##.ad-300x250
@@ -2184,24 +2195,6 @@ channel.pandora.tv##.pm_wrap
 ||ero-video.net/advert/*
 ero-video.net##^script:has-text(showPopUpBanner)
 
-!------------minnano-av.com------------!
-!----------- minnano-anime.com/
-!------------minnano-camera.com
-
-||minnano-av.com/agent/js/
-||minnano-*.com/top_center_bn/
-||minnnano-fuzoku.com/av/detailspage/
-||minnano-shopping.com^$third-party
-||queen-casino.info/affi/
-
-||minnano-av.com/p/anime_bn634.png
-||minnano-av.com/p/minanno_fzk.png
-||minnano-av.com/p/my_guide_bn634.png
-
-minnano-av.com##.leftbottom_bn
-minnano-av.com##.txtthumb
-minnano-av.com##.type-fuzoku
-
 !g------------mediafire.com------------
 ||mediafire.com^$subdocument
 mediafire.com##+js(aopw, UAParser)
@@ -2233,6 +2226,7 @@ figsoku.net##.gad
 
 !α波
 ||blogmaterial.nicoblomaga.jp/material/279/SP300x250-$script,domain=alfalfalfa.com
+alfalfalfa.com##[href^="https://www.amazon.co.jp"]
 
 !妹 http://vipsister23.com/
 ||vipsister23.com/randamad
