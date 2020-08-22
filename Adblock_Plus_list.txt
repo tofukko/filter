@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/22 16:36
+! 最終更新 2020/08/23 6:18
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1594,14 +1594,17 @@ zyuken.net##.AdImg
 
 
 
-!------------2ch pink------------!
+!------------5ch pink------------!
 ||i2ad.jp^
 ||thench.net^
 ||banpro.in.coocan.jp^
 ||5ch.net/_ads/
 ||bbspink.com/css/ad.css
 5ch.net,bbspink.com###banner
-bbspink.com##[class$="_banner"]
+5ch.net##[id^="js--banners--"]
+5ch.net##.ADVERTISE_AREA
+5ch.net##.ADVERTISE_AREA + div
+bbspink.com##[class$="_banner"]:not(.sidemenu_banner)
 bbspink.com##[class^="banner_"]
 bbspink.com###bbspink-bottom-ads
 pinktower.com##div
