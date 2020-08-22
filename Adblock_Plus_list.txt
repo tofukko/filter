@@ -1764,19 +1764,23 @@ hitomi.la##+js(aopr, pops)
 ||dyecowwhy.com^
 ||eyefuneve.com^
 ||mehebborc.com^
-||adform.net$third-party
+||adform.net^$third-party
+||adxpub.com^$third-party
 ||bidadx.com^$third-party
 ||creativecdn.com^$third-party
+||exdynsrv.com^$third-party
 ||tapad.com^$third-party
+||viglink.com^$third-party
 ||vlitag.com^$third-party
 ||spolecznosci.net^$third-party
 ||inpagepush.com^$important
-||vidazoo.com/basev/widgets/widget.js$script,third-party
 loveheaven.net##.float-ck
 loveheaven.net##.quang-cao
 loveheaven.net##.chapter-img + br + br + br + center
 loveheaven.net##.chapter-img + br + br + br + center + br
 loveheaven.net##.chapter-img + br + br + br + center + br + br
+loveheaven.net##.chapter-img + br + br + br + center + br + h3
+loveheaven.net##.quang-cao + center
 
 !--------------msn----------------!
 ://c.*/c.gif?
