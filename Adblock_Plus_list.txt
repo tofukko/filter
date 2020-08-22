@@ -2120,6 +2120,7 @@ youtube.com###masthead-ad
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
+youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-search-pyv-renderer
 youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 
