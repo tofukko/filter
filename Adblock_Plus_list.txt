@@ -230,6 +230,7 @@ _ads.js
 
 ||a8.net^$third-party
 ||aaacompany.net^$third-party
+||aaddcount.com^$third-party
 ||access-lab.com^$third-party
 ||accesstrade.net^$third-party
 ||ad-feed.com^$third-party
@@ -482,7 +483,6 @@ _ads.js
 
 !---- gaico
 ||4dsply.com^$third-party
-||aaddcount.com^$third-party
 ||acloudvideos.com^$third-party
 ||adcash.com^$third-party
 ||adglare.net^$third-party
