@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/23 6:18
+! 最終更新 2020/08/23 16:54
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2197,11 +2197,15 @@ mediafire.com##+js(aeld, click, ClickHandler)
 ||bipblog.com/aa/ABtest/
 bipblog.com###TopAmazon
 bipblog.com###BottomAmazon
+bipblog.com##.amachazl-box
 
 !fig速
 ||figsoku.net/rank/load.php?
-figsoku.net##.ama > .ssm:last-child
+figsoku.net##.ama:nth-of-type(1)
 figsoku.net##.gad
+figsoku.net##.pluginWrap:has([rel="noopener noreferrer"])
+figsoku.net##.shop
+figsoku.net##.wama
 
 !α波
 ||blogmaterial.nicoblomaga.jp/material/279/SP300x250-$script,domain=alfalfalfa.com
@@ -2501,6 +2505,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 @@||rd.yahoo.co.jp/jpr_sports/sumo_pickup/$image,domain=sports.yahoo.co.jp
+	! ||solty.biz^$third-party
+@@||rss.solty.biz/
 	!申し込みランキング
 @@||rtoaster.jp/Rtoaster.js$domain=3ple.jp
 @@||rt.rtoaster.jp^$domain=3ple.jp
