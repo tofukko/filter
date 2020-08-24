@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/23 16:54
+! 最終更新 2020/08/24 12:44
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -590,6 +590,7 @@ _ads.js
 ||pos.baidu.com^
 ||queen-casino.info/affi/
 ||realsrv.com^
+||runative-syndicate.com^
 ||speee-ad.akamaized.net^
 
 ||d2swpuhpwp3khd.cloudfront.net^
@@ -1285,6 +1286,7 @@ $script,third-party,domain=youtube-mp3.org
 ~dlsite.com##.sidewrapper a[href*="dlsite.co"]
 ~dlsite.com##a[href^="https://www.dlsite.com/"][href*="https%3A%2F%2Fwww.dlsite.com%2F"]
 !----楽天
+##.column-inner-2 a[href*="afl.rakuten.co.jp"]
 ##.plugin-freearea a[href*="afl.rakuten.co.jp"]
 ##.sidewrapper a[href*="afl.rakuten.co.jp"]
 ##.side a[href*="item.rakuten.co.jp/"]
@@ -1846,6 +1848,31 @@ xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
 xtech.nikkei.com##.p-article_ad
 
+!------------rakuten-楽天------------!
+||afl.rakuten.co.jp^
+||dynamic.rakuten.co.jp^
+||ias.rakuten.co.jp^$domain=~event.rakuten.co.jp
+||xml.affiliate.rakuten.co.jp^
+||books.rakuten.co.jp/pzd_contents/js/ranking-ad/*
+||rakuten.co.jp/com/js/d/$domain=~item.rakuten.co.jp
+||rakuten-static.com/1/grp/banner/js/create.js
+||rakuprop.net^$third-party
+||pzd.rakuten.co.jp^
+||rat.rakuten.co.jp^
+||rd.rakuten.co.jp^$domain=~rd.rakuten.co.jp
+||rt.rakuten.co.jp^
+||rakuten.co.jp/common00/omuniture/
+||websearch.rakuten.co.jp/elog?
+##form[action*="afl.rakuten.co.jp"]
+plaza.rakuten.co.jp###commonAdsParts
+recipe.rakuten.co.jp##.bnrCenter
+recipe.rakuten.co.jp##.rightNaviBanner
+recipe.rakuten.co.jp##.subContentsLink
+
+@@||image.www.rakuten.co.jp/com/js/d/
+	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
+@@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
+
 !g------------rawdevart.com---------------!
 ||dq3yxnlzwhcys.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
@@ -1939,29 +1966,6 @@ chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"]
 ||yjtag.jp^
 
 ||yimg.jp/images/listing/tool/yads/yads-iframe.html?
-
-!------------rakuten-楽天------------!
-||afl.rakuten.co.jp^$domain=~afl.rakuten.co.jp
-||dynamic.rakuten.co.jp^
-||ias.rakuten.co.jp^$domain=~event.rakuten.co.jp
-||xml.affiliate.rakuten.co.jp^
-
-||books.rakuten.co.jp/pzd_contents/js/ranking-ad/*
-||infoseek.rakuten.co.jp/content/news/bunner/
-||rakuten.co.jp/com/js/d/$domain=~item.rakuten.co.jp
-
-||js*.infoseek.co.jp^
-||pzd.rakuten.co.jp^
-||rd.rakuten.co.jp^
-||rt.rakuten.co.jp^
-||rakuten.co.jp/common00/omuniture/
-
-||rakuprop.net^$third-party
-
-##form[action*="afl.rakuten.co.jp"]
-plaza.rakuten.co.jp###commonAdsParts
-recipe.rakuten.co.jp##.rightNaviBanner
-recipe.rakuten.co.jp##.subContentsLink
 
 !------------abema-------------!
 ||ad.abema.io^
@@ -2164,9 +2168,11 @@ channel.pandora.tv##.pm_wrap
 ||rcm.shinobi.jp^
 ||analysis.shinobi.jp/ninja_ar/
 ||ba1.shinobi.jp^
+||v2st.shinobi.jp^
 ||vis1.shinobi.jp^
 ||vis1.shinobi.jp/js/
 ||vis1.shinobi.jp/jsr/
+
 
 !------------ero-video.net------------!
 |http://$third-party,domain=ero-video.net
@@ -2479,7 +2485,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!カード画像
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
-@@||image.www.rakuten.co.jp/com/js/d/
 	!画像とか
 @@||images-na.ssl-images-amazon.com^$domain=imdb.com
 @@||media-amazon.com^$domain=imdb.com
@@ -2502,8 +2507,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!ポイント貯めるサイト
 @@||pointi.jp^$generichide
 @@||pointservice.com^$generichide
-	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
-@@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 @@||rd.yahoo.co.jp/jpr_sports/sumo_pickup/$image,domain=sports.yahoo.co.jp
 	! ||solty.biz^$third-party
 @@||rss.solty.biz/
@@ -2566,9 +2569,6 @@ mediafire.com#@#.ads
 mega.nz#@#.ad
 	!検索 ランキングの「宣伝」部分が消える
 www.nicovideo.jp#@#.ads
-	!エントリーパッケージ云々
-	!https://mobile.rakuten.co.jp/select/?l-id=top_carousel_pc_select
-mobile.rakuten.co.jp#@#a[href*="ac.ebis.ne.jp/tr_set.php?"]
 	!右
 okwave.jp##.ad_area
 	!記事
