@@ -1310,6 +1310,7 @@ atwiki.jp##div[style="width: 160px;height:600px"]
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bing.com##.b_ad:remove()
 blog.ss-blog.jp###ad-days-area
+blogmura.com##.ad-header
 blogmura.com##.ad-overlay
 bloomberg.co.jp##.leaderboard-ad-dummy
 booklist.id##[class^="ad-wrap-"]
