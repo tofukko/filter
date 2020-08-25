@@ -1598,6 +1598,21 @@ xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 zyuken.net##.AdImg
 
 
+!-------------s
+!dondakeandayo
+.com/fanza/
+/fanza/lity.js
+/fanza_slider.js?
+/fanza_native.php?
+/fanza_native.js?
+
+/pnovel_rand.php?
+/fanza_banner.js?
+/fanza_comic.php?
+
+/rank_milky.js?
+
+/mnovel_rand.php?
 
 !------------5ch pink------------!
 ||i2ad.jp^
@@ -1660,6 +1675,7 @@ news.biglobe.ne.jp###gadsOverlayUnit
 ||dmm-rank.com^$third-party
 ||dmm.co.jp/dmmad/
 ||dmm.co.jp/images/affiliate_banner/
+||dmm.co.jp/af/
 ||dmm.com/af/
 	!ブログパーツ
 ||dmm.com/photo/blog-parts/*&affiliate_id=
