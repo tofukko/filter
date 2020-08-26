@@ -2088,6 +2088,7 @@ h.fc2.com##body > strong:nth-last-of-type(3)
 ||cnt.fc2web.com^
 ||fc2.com/ana/
 ||media.fc2.com^
+||media5.fc2.com^
 ||search.fc2.com/fc2se.js
 
 admin.blog.fc2.com#@##ads
