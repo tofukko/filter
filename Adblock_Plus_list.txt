@@ -40,29 +40,6 @@
 matome.naver.jp###yads_pc_overlay
 ||lcs.naver.jp^
 
-!g-----------kiss-------------!
-$script,third-party,domain=kissanime.ru
-||kissanime.ru^$subdocument,first-party
-
-||rapidvideo.com/tube-skin-retina-for-videojs-6/bin/video-js-6.2.0/ie8/videojs-ie8.min.js
-||rapidvideo.com/js/jquery.min.js
-rapidvideo.com##^script:has-text(window)
-
-kissanime.ru###adsIfrme7
-kissanime.ru###divFloatLeft
-kissanime.ru##.clear2
-kissanime.ru##.divCloseBut
-kissanime.ru##[style="width:920px;"]
-kissanime.ru##[style^="border-color: #4e4e4e !important; position: relative;"]
-
-kissanime.ru##+js(setTimeout-defuser.js, /YANMKABFYWRW|YANABWEKA/)
-kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
-kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-kissanime.*##+js(set-constant.js, check_adblock, true)
-
-!応急
-@@||hcaptcha.com$domain=kissanime.ru
-
 !----------------------------広告----------------------------!
 /300x250.
 /300x250_
