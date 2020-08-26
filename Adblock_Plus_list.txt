@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/25 19:32
+! 最終更新 2020/08/26 14:45
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1800,13 +1800,13 @@ hitomi.la##+js(aopr, pops)
 ||vlitag.com^$third-party
 ||spolecznosci.net^$third-party
 ||inpagepush.com^$important
-loveheaven.net##.float-ck
-loveheaven.net##.quang-cao
-loveheaven.net##.chapter-img + br + br + br + center
-loveheaven.net##.chapter-img + br + br + br + center + br
-loveheaven.net##.chapter-img + br + br + br + center + br + br
-loveheaven.net##.chapter-img + br + br + br + center + br + h3
-loveheaven.net##.quang-cao + center
+loveha.net,loveheaven.net##.float-ck
+loveha.net,loveheaven.net##.quang-cao
+loveha.net,loveheaven.net##.chapter-img + br + br + br + center
+loveha.net,loveheaven.net##.chapter-img + br + br + br + center + br
+loveha.net,loveheaven.net##.chapter-img + br + br + br + center + br + br
+loveha.net,loveheaven.net##.chapter-img + br + br + br + center + br + h3
+loveha.net,loveheaven.net##.quang-cao + center
 
 !--------------msn----------------!
 ://c.*/c.gif?
