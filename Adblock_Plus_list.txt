@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/26 20:49
+! 最終更新 2020/08/27 11:26
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1275,6 +1275,7 @@ $script,third-party,domain=youtube-mp3.org
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
+allabout.co.jp##[rel="csw-c2"],[rel="csw-c4"],[rel="csw-c6"]
 animatetimes.com##[class^="c-banner-"][class*="--w3"]
 animatetimes.com##.l-content-aside > .c-banner-aside:first-child
 ascii2d.net##.com
@@ -1362,7 +1363,6 @@ ja.whotwi.com##.stats_ad_300x250_2
 jiji.com##.ArticleInnerAD
 jocr.jp##.side_adsbygoogle
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
-jpidols.tv##body > b
 jugem.jp##.UBH_new
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="amazon.co"])
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="accesstrade.net/sp/"])
@@ -1384,7 +1384,7 @@ karapaia.com##[class^=ads-label]
 kidsna.com###kidsna-articlelist > ul > li:has(.pr)
 kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
-kurashi-no.jp##[rel="csw-c2"],[rel="csw-c4"],[rel="csw-c6"],[rel="csw-c9"],[rel="csw-c12"],[rel="csw-c15"],[rel="csw-c18"],[rel="csw-c21"],[rel="csw-c24"]
+kurashi-no.jp##[rel="csw-c2"],[rel="csw-c3"],[rel="csw-c4"],[rel="csw-c6"],[rel="csw-c7"],[rel="csw-c10"],[rel="csw-c11"],[rel="csw-c14"],[rel="csw-c15"]
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
 horne.red###main-right > .left_column > .tieup_rand_block
 hub.vroid.com###Model-adView-2lWBn
@@ -2596,8 +2596,8 @@ yakkun.com##.ad + div:style(clear:both)
 /modal-dist/index.js
 
 9ketsuki.info##+js(nobab)
-	!body none
 battlecats-db.com##body:style(display: block !important)
+jpidols.tv##+js(acis, addEventListener, google_ad_client)
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
