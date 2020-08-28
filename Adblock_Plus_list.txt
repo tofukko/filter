@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/27 11:26
+! 最終更新 2020/08/28 11:18
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -555,6 +555,7 @@ _ads.js
 ||free-video-movie.com^
 ||googlesyndication.com/pagead/
 ||gunosy.com/adnet/
+||hayamimi-hobby.com/gen-rss/
 ||idea-unlimited.com/adsimg/
 ||imagefreak*.com^
 ||imasdk.googleapis.com^$third-party
@@ -1149,8 +1150,10 @@ $script,third-party,domain=youtube-mp3.org
 	!seiga.nicovideo.jp logsoku等
 ##.ad_area
 ##.ad-body
+##.ad-footer
 	!アンテナメーカーだけでもyosage?
 ##.ad_footer
+##.ad-label
 ##.ad-space
 ##.ad1
 ##.ad2
@@ -1189,6 +1192,10 @@ $script,third-party,domain=youtube-mp3.org
 ###overlay-ad-div-id
 	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
 ###seesaa-bnr
+
+	!WP QUADS
+##.quads-location
+
 	!wix.com
 ###WIX_ADS
 
@@ -1448,6 +1455,7 @@ new-akiba.com##.top-column-onsale
 new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
 news.mixi.jp##.adsenseBannerArea
+news24.jp###adText01
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
 nikkansports.com##[id^="sideAd"]
@@ -2359,7 +2367,7 @@ xhamster.com##^script:has-text(dataPopUnder)
 @@||www.xvideos.com/video-get-comments/
 !外部プレイヤー用
 ||flashservice.xvideos.com/embedframe/$xmlhttprequest
-
+xvideos.com###video-ad
 xvideos.com###video-sponsor-links
 xvideos.com##.sponsor_popup
 xvideos.com##.sponsor-popup
