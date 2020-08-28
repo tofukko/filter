@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/28 11:18
+! 最終更新 2020/08/28 13:06
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1145,7 +1145,8 @@ $script,third-party,domain=youtube-mp3.org
 ###ad2
 ###ads
 ###adsense
-##.ad
+	!wp sidebar
+##.ad:not([class*="widget_"])
 ##.ad-area
 	!seiga.nicovideo.jp logsoku等
 ##.ad_area
@@ -2485,7 +2486,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!ヘッダー 検索バー
 	!news.google.com#@#[class$="Ad"]:not(html):not(body)
 	!メール一覧
-	!inbox.google.com#@#.ad
+	!inbox.google.com#@#.ad:not([class*="widget_"])
 	!新規作成ボックスが消える
 	!mail.google.com#@#.AD
 	!本文
@@ -2551,9 +2552,9 @@ bookmeter.com#@#.sidebar a[href*="amazon.co.jp"]
 	!Amazon誘導ページ 紙で読む
 comicride.jp#@##sub a[href*="amazon.co.jp"]
 	!サイド 広告だから消しても良い気もする
-cookpad.com#@##ad
+cookpad.com#@#.ad:not([class*="widget_"])
 	!右
-eparet.net#@#.ad
+eparet.net#@#.ad:not([class*="widget_"])
 	!anti adblock
 games.wkb.jp##+js(set, gWkbAdVert, true)
 games.wkb.jp##+js(set, noblock, true)
@@ -2562,23 +2563,23 @@ games.wkb.jp##+js(set, noblock, true)
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"]
 www.kadokawa.co.jp#@#a[href*="px.a8.net/svt/ejp?"]
 	!左側
-kemochan.com#@#.ad
+kemochan.com#@#.ad:not([class*="widget_"])
 	! 気象警報・注意報（表形式）が消える
 jma.go.jp#@#.adv
 	!タグ編集
-hi-na.info#@#.ad
+hi-na.info#@#.ad:not([class*="widget_"])
 	!記事本文
-houdoukyoku.jp#@#.ad
+houdoukyoku.jp#@#.ad:not([class*="widget_"])
 	!カード画像
 hs-exp.jp#@#.adsbygoogle
 	! http://www.htb.co.jp/onigiri/index.html
 htb.co.jp#@##advertisement
 	!住所検索 > 住所
-mapion.co.jp#@#.ad
+mapion.co.jp#@#.ad:not([class*="widget_"])
 	!ダウンロードボタン
 mediafire.com#@#.ads
 	!追加日 https://github.com/tofukko/filter/issues/5
-mega.nz#@#.ad
+mega.nz#@#.ad:not([class*="widget_"])
 	!検索 ランキングの「宣伝」部分が消える
 www.nicovideo.jp#@#.ads
 	!右
@@ -2592,7 +2593,7 @@ tofukko.com#@#.adsbygoogle
 	!Amazon購入ボタン
 tonarinoyj.jp#@#.amazon-link
 	!右サイドが全部消える
-watch.impress.co.jp#@#.ad
+watch.impress.co.jp#@#.ad:not([class*="widget_"])
 	!body直下
 wiimk2.net#@#.advertisement
 	! float
