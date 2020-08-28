@@ -1236,6 +1236,7 @@ $script,third-party,domain=youtube-mp3.org
 ##a[href*="game-news.biz"]
 ##a[href*="liveads.jp/cc.php?"]
 ##a[href*="px.a8.net/svt/ejp?"]
+##a[href^="https://nxcount.com/AdClick/"]
 
 !----amazon
 ~amazon.*###freespace a[href*="amazon.co.jp"], freespace a[href*="amzn.to"]
@@ -1264,6 +1265,7 @@ $script,third-party,domain=youtube-mp3.org
 !----dmm
 !艦これスタートボタン
 ~dmm.com##a[href^="http://ad.dmm.com/ad/p/r?"]
+~dmm.com##a[href^="https://ad.dmm.com/ad/p/r?"]
 ##.plugin-freearea a[href*="dmm.co"]
 ###sidebar a[href*="dmm.co.jp"]
 ##.sidewrapper a[href*="dmm.co.jp"]
