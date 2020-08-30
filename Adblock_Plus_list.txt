@@ -2609,6 +2609,7 @@ yakkun.com##.ad + div:style(clear:both)
 9ketsuki.info##+js(nobab)
 battlecats-db.com##body:style(display: block !important)
 jpidols.tv##+js(acis, addEventListener, google_ad_client)
+manga1000.com##+js(acis, window.onload, elmnt)
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
