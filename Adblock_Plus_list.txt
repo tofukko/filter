@@ -1307,6 +1307,8 @@ businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
 buttobi.net##div[style="position: relative; z-index:255;"]
+buzzfeed.com##.Ad
+buzzfeed.com##[id^="BF_WIDGET"]
 chart.sekai-kabuka.com###aswift_0_expand
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
