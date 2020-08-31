@@ -1769,15 +1769,21 @@ q.hatena.ne.jp##.sidebar-banner
 hitomi.la##+js(aopr, pops)
 
 !g-----------kissanime-----------!
+!nz
+||demand.supply^$third-party
+||ezexfzek.com^
+||ga.kvideo.io^
+||omfortsex.club^
+||opsoomet.net^
+||vipicmou.net^
+!ws
 ||graizoah.com^
 ||ntvsw.com^
 ||webpinp.com^
-||demand.supply^$third-party
-||ezexfzek.com^
-||opsoomet.net^
-||vipicmou.net^
+!digital
 ||kissanime.digital/addons/*.gif|$image
 kissanime.digital##main + script + div[class]
+
 kissanime.*##+js(set, check_adblock, true)
 
 !------------livedoor------------!
