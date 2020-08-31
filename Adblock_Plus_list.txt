@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/08/30 22:37
+! 最終更新 2020/09/01 5:49
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1768,6 +1768,18 @@ q.hatena.ne.jp##.sidebar-banner
 .com^$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, pops)
 
+!g-----------kissanime-----------!
+||graizoah.com^
+||ntvsw.com^
+||webpinp.com^
+||demand.supply^$third-party
+||ezexfzek.com^
+||opsoomet.net^
+||vipicmou.net^
+||kissanime.digital/addons/*.gif|$image
+kissanime.digital##main + script + div[class]
+kissanime.*##+js(set, check_adblock, true)
+
 !------------livedoor------------!
 ||gsspcln.jp^
 ||coppedex.com^
@@ -1778,7 +1790,7 @@ hitomi.la##+js(aopr, pops)
 	!blog cookie承認バナー
 ###gdpr-banner
 
-!g------loveheaven.net--------!
+!g--------loveheaven.net---------!
 ||a.vdo.ai^
 ||cogleapad.com^
 ||dyecowwhy.com^
