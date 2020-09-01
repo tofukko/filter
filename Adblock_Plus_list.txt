@@ -1759,6 +1759,8 @@ b.hatena.ne.jp##[class^="entrylist-ad-"]
 !？
 b.hatena.ne.jp##.js-hotentries.is-nativeads-loading > li:nth-child(4) > .entrylist-contents > .entrylist-contents-main,.js-hotentries.is-nativeads-loading > li:nth-child(8) > .entrylist-contents > .entrylist-contents-main:style(display: block !important;)
 b.hatena.ne.jp##[class^="entry-ad-"]
+d.hatena.ne.jp##div:has(> div > div > [id^="ad-hba-"])
+d.hatena.ne.jp##section > div:not([id]):not([class])
 q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
 !言及先エントリを開くが消える
