@@ -1720,6 +1720,8 @@ exblog.jp##div:has(> #gpt_pc_blog_header)
 !jack
 gesoten.com##.r-l-pagejack-link
 gesoten.com##.r-wrapper--pagejack:style(background-image: none !important;)
+gesoten.com##.l-pagejack-link
+gesoten.com##.l-wrapper--pagejack:style(background-image: none !important;)
 
 gamebox.gesoten.com##.ad_half
 gamebox.gesoten.com##.ad_rectangle
