@@ -1558,6 +1558,7 @@ this.kiji.is###js-ur
 tinami.com###banner_view
 tinami.com##.view_ad
 togetter.com##.ad_custom
+togetter.com##.ad_custom_fluid
 togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
 tsumanne.net###amazon
