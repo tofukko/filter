@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/03 13:20
+! 最終更新 2020/09/04 13:57
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -252,6 +252,7 @@ _ads.js
 ||affiliate-$third-party
 ||affiliatecenter.jp^$third-party
 ||affiliates.$third-party
+||afi-b.com^$third-party
 ||ag-affiliate.com^$third-party
 ||agilemedia.jp^$third-party
 ||alimama.cn^$third-party
@@ -339,6 +340,7 @@ _ads.js
 ||microad.net^$third-party
 ||mediagra.com^$third-party
 ||mediaplex.com^$third-party
+||moatads.com^$third-party
 ||moshimo.com^$third-party
 ||motionlink.jp^$third-party
 ||mtburn.com^$third-party
@@ -1239,24 +1241,24 @@ $script,third-party,domain=youtube-mp3.org
 ##a[href*="nxcount.com/AdClick/"]
 
 !----amazon
-~amazon.*###freespace a[href*="amazon.co.jp"], freespace a[href*="amzn.to"]
-~amazon.*###left a[href*="amazon.co.jp"], left a[href*="amzn.to"]
-~amazon.*###right a[href*="amazon.co.jp"], right a[href*="amzn.to"]
-~amazon.*###side a[href*="amazon.co.jp"], side a[href*="amzn.to"]
-~amazon.*###sidebar a[href*="amazon.co.jp"], sidebar a[href*="amzn.to"]
-~amazon.*###sidemenu a[href*="amazon.co.jp"], sidemenu a[href*="amzn.to"]
-~amazon.*###sub a[href*="amazon.co.jp"], sub a[href*="amzn.to"]
-~amazon.*##.column-inner-2 a[href*="amazon.co.jp"], column-inner-2 a[href*="amzn.to"]
-~amazon.*##.left-column-inner a[href*="amazon.co.jp"], left-column-inner a[href*="amzn.to"]
-~amazon.*##.left-container a[href*="amazon.co.jp"], left-container a[href*="amzn.to"]
-~amazon.*##.plugin-freearea a[href*="amazon.co.jp"], plugin-freearea a[href*="amzn.to"]
-~amazon.*##.plugin-freearea1 a[href*="amazon.co.jp"], plugin-freearea1 a[href*="amzn.to"]
-~amazon.*##.right-column-inner a[href*="amazon.co.jp"], right-column-inner a[href*="amzn.to"]
-~amazon.*##.right-container a[href*="amazon.co.jp"], right-container a[href*="amzn.to"]
-~amazon.*##.side a[href*="amazon.co.jp"], side a[href*="amzn.to"]
-~amazon.*##.sidebar a[href*="amazon.co.jp"], sidebar a[href*="amzn.to"]
-~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], sidemenu2 a[href*="amzn.to"]
-~amazon.*##.sidewrapper a[href*="amazon.co.jp"], sidewrapper a[href*="amzn.to"]
+~amazon.*###freespace a[href*="amazon.co.jp"], #freespace a[href*="amzn.to"]
+~amazon.*###left a[href*="amazon.co.jp"], #left a[href*="amzn.to"]
+~amazon.*###right a[href*="amazon.co.jp"], #right a[href*="amzn.to"]
+~amazon.*###side a[href*="amazon.co.jp"], #side a[href*="amzn.to"]
+~amazon.*###sidebar a[href*="amazon.co.jp"], #sidebar a[href*="amzn.to"]
+~amazon.*###sidemenu a[href*="amazon.co.jp"], #sidemenu a[href*="amzn.to"]
+~amazon.*###sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
+~amazon.*##.column-inner-2 a[href*="amazon.co.jp"], .column-inner-2 a[href*="amzn.to"]
+~amazon.*##.left-column-inner a[href*="amazon.co.jp"], .left-column-inner a[href*="amzn.to"]
+~amazon.*##.left-container a[href*="amazon.co.jp"], .left-container a[href*="amzn.to"]
+~amazon.*##.plugin-freearea a[href*="amazon.co.jp"], .plugin-freearea a[href*="amzn.to"]
+~amazon.*##.plugin-freearea1 a[href*="amazon.co.jp"], .plugin-freearea1 a[href*="amzn.to"]
+~amazon.*##.right-column-inner a[href*="amazon.co.jp"], .right-column-inner a[href*="amzn.to"]
+~amazon.*##.right-container a[href*="amazon.co.jp"], .right-container a[href*="amzn.to"]
+~amazon.*##.side a[href*="amazon.co.jp"], .side a[href*="amzn.to"]
+~amazon.*##.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
+~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], .sidemenu2 a[href*="amzn.to"]
+~amazon.*##.sidewrapper a[href*="amazon.co.jp"], .sidewrapper a[href*="amzn.to"]
 
 !----e-nls
 ##.plugin-freearea a[href*="e-nls.com/access"]
@@ -1311,6 +1313,7 @@ buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
 career.joi.media###post-advertisement
 career.joi.media##.banner
+ceron.jp##div[style]:has([id^="yoneads"])
 chart.sekai-kabuka.com###aswift_0_expand
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
@@ -1600,22 +1603,6 @@ xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 zyuken.net##.AdImg
 
-
-!-------------s
-!dondakeandayo
-.com/fanza/
-/fanza/lity.js
-/fanza_slider.js?
-/fanza_native.php?
-/fanza_native.js?
-
-/pnovel_rand.php?
-/fanza_banner.js?
-/fanza_comic.php?
-
-/rank_milky.js?
-
-/mnovel_rand.php?
 
 !------------5ch pink------------!
 ||i2ad.jp^
@@ -2645,6 +2632,10 @@ yakkun.com##.ad + div:style(clear:both)
 battlecats-db.com##body:style(display: block !important)
 jpidols.tv##+js(acis, addEventListener, google_ad_client)
 manga1000.com##+js(acis, window.onload, elmnt)
+my0nio.seesaa.net#@#.adsbygoogle
+my0nio.seesaa.net#@#.adv
+my0nio.seesaa.net#@#.adsense
+my0nio.seesaa.net#@#.ad:not([class*="widget_"])
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
