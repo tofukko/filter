@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/04 16:13
+! 最終更新 2020/09/04 23:09
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1156,8 +1156,6 @@ $script,third-party,domain=youtube-mp3.org
 ##.ad-footer
 	!アンテナメーカーだけでもyosage?
 ##.ad_footer
-##.ad-label
-##.ad-space
 ##.ad1
 ##.ad2
 ##.ads
@@ -1170,8 +1168,7 @@ $script,third-party,domain=youtube-mp3.org
 ##.google-user-ad
 ###gStickyAd
 
-	!やっぱりpopinもloglyも消すわ 消さないわ
-	!むしろなぜpopinwokesanainoka??????????????????????
+	!reco
 	||logly.co.jp^$third-party
 	!logly.co.jp
 	!##.logly-lift-ad:not(.logly-lift-article)
@@ -1195,9 +1192,6 @@ $script,third-party,domain=youtube-mp3.org
 ###overlay-ad-div-id
 	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
 ###seesaa-bnr
-
-	!WP QUADS
-##.quads-location
 
 	!wix.com
 ###WIX_ADS
@@ -1275,6 +1269,7 @@ $script,third-party,domain=youtube-mp3.org
 ~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
 ~dlsite.com##.sidewrapper a[href*="dlsite.co"]
 ~dlsite.com##a[href^="https://www.dlsite.com/"][href*="https%3A%2F%2Fwww.dlsite.com%2F"]
+~dlsite.com##[href*="dlsite.com"][rel="noopener sponsored"]
 !----楽天
 ##.column-inner-2 a[href*="afl.rakuten.co.jp"]
 ##.plugin-freearea a[href*="afl.rakuten.co.jp"]
@@ -1963,7 +1958,25 @@ ejje.weblio.jp###footFixBar
 translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
 
+!WordPress
+##.ad-label
+##.ad-space
+##.afc_popup
+##.adPost
+##.adWidget
+##.dfad
+##.quads-location
 
+!あれなやつ
+##[id^="post-"][class*=post-] [class^="cta-"]
+##[id^="post-"][class*=post-] [class$="-cta"]
+##[id^="post-"][class*=post-] [class*="-cta-"]
+##.cps-post [class^="cta-"]
+##.cps-post [class$="-cta"]
+##.cps-post [class*="-cta-"]
+##[id^="post-"][class*=post-] div[id*="-"][class*="-"][class*="%e"]
+##.cps-post div[id*="-"][class*="-"][class*="%e"]
+##div[class][data-index][style^="float: none; margin:"]
 
 
 
