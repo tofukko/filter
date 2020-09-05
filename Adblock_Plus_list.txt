@@ -1211,6 +1211,7 @@ $script,third-party,domain=youtube-mp3.org
 
 ##div[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
+##[class^="google-user-ad"]
 ##[id^="div_fam_async_"]
 ##[style*="width:728px;"][style*="height:90px;"]
 ##[style*="width: 728px;"][style*="height: 90px;"]
