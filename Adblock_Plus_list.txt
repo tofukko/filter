@@ -1410,6 +1410,7 @@ kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
 kurashi-no.jp##[rel="csw-c2"],[rel="csw-c3"],[rel="csw-c4"],[rel="csw-c6"],[rel="csw-c7"],[rel="csw-c10"],[rel="csw-c11"],[rel="csw-c14"],[rel="csw-c15"]
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
+hobonichielog.com##.mainwidget > [id^="text-"]
 horne.red###main-right > .left_column > .tieup_rand_block
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
