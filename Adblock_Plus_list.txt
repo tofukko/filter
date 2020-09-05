@@ -210,6 +210,7 @@ _ads.js
 ||aaddcount.com^$third-party
 ||access-lab.com^$third-party
 ||accesstrade.net^$third-party
+||ad-cheers.com$third-party
 ||ad-feed.com^$third-party
 ||ad-management.biz^$third-party
 ||ad-nex.com^$third-party
