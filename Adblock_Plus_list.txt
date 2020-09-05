@@ -1330,6 +1330,8 @@ e-typing.ne.jp##[class^="ad"][class*="00"]
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
+erogazoufactory.com##[href*="purelovers.com/lp-movie.html?"]
+erogazoufactory.com###content [id^="text-"]
 eroido.jp##[class^="adv_"]
 exploader.net###nls
 exploader.net##article > div[style^="margin-bottom: 10px"]
