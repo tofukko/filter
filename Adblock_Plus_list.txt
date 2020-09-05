@@ -884,6 +884,7 @@ $script,third-party,domain=youtube-mp3.org
 ||6hit.jp^$third-party
 ||a-pagerank.net^$third-party
 ||ac-log.com^$third-party
+||accaii.com^$third-party
 ||accanalyze.com^$third-party
 ||access-radar.jp^$third-party
 ||access-traffic.com^$third-party
