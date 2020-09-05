@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/05 8:35
+! 最終更新 2020/09/05 12:06
 
 
 !お知らせ本文
@@ -101,11 +101,15 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #c
 blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap a[href^="https://goo.gl/"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap a[href^="http://bit.ly/"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/nwknews/settings/header.js"] ~ #container TABLE[summary="<%blog_name>"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/rbkyn844/settings/ad.js"] ~ #container-outer .side [style="margin:0px 0;height:2250px;width:300px;"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/rbkyn844/settings/ad.js"] ~ #container-outer [class^="toprss"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/rbkyn844/settings/ad.js"] ~ #container-outer #left-t:style(margin-top: 0 !important;)
 blog.livedoor.jp##[src="http://blog.livedoor.jp/ringotomomin/js/sitejack.js"] ~ .wrap.cf A[href^="https://goo.gl/"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/ringotomomin/js/sitejack.js"] ~ .wrap.cf #RSS001
 
 2chcopipe.com##[class^="entry_box"]
-akb48mato.com###main_waku2
+akb48matomemory.com##.popular
+akb48matomemory.com##.main > .section
 alfalfalfa.com###popular_imagert
 beelzeboulxxx.com##.article-body ASIDE
 beelzeboulxxx.com##.article-body-more > *:not([class^="t_"])
@@ -121,6 +125,8 @@ honwaka2ch.livedoor.biz##.google-user-ad-728 + div + div
 hosyusokuhou.jp##[id^="head"]:not(#headerinner)
 hosyusokuhou.jp##.abanner
 huyosoku.com##[id$="-feed"]
+idol-blog.com###nav2
+idol-blog.com###content:style(margin: 40px 0 0 0 !important;)
 kanasoku.info###headline
 kemono-friendsch.com##[class^="waku"]
 kichimama.com##.ifram
@@ -144,8 +150,8 @@ okashinahitobito.net##.logbox
 oniyomediary.com###more > div:not(.t_h):not(.t_b)
 oniyomediary.com##a[href^="http://bit.ly/"]
 openworldnews.net###headline
-pokemon-goh.doorblog.jp###more > .t_b:first-child
-pokemon-goh.doorblog.jp##a[href^="https://goo.gl/"]
+po-kaki-to.com##.top-site-andander
+pokemon-goh.doorblog.jp##.side > [style="margin:4px;"]
 res2ch.net###content > [class^="header"]
 scienceplus2ch.com##a[href^="https://goo.gl/"]
 scienceplus2ch.com##a[href^="http://bit.ly/"]
@@ -172,6 +178,7 @@ zch-vip.com##.headline_out
 ||blog.livedoor.jp/misopan_news/$subdocument
 ||blog.livedoor.jp/news_aru/pickup.htm
 ||blog.livedoor.jp/pawapuro_kouryaku/$subdocument
+||blog.livedoor.jp/rbkyn844/$subdocument
 ||blog.livedoor.jp/ringotomomin/archives/ent_kijinaka.js
 ||blog.livedoor.jp/robosoku/$subdocument
 ||blog.livedoor.jp/rock1963roll/pride_rss
@@ -182,8 +189,10 @@ zch-vip.com##.headline_out
 ||blacknews.sakura.ne.jp^$domain=vipsister23.com
 ||buffaloesmatome.blomaga.jp/rss
 ||eegg.dip.jp/rssline
+||exawarosu.net^$subdocument
 ||himasoku.com^$subdocument
 ||insyoku.livedoor.biz/insyoku_rss
+||link.idol-blog.com^$subdocument
 ||kijonikki.net^$script
 ||kojikisokuhou.com^$subdocument
 ||kyuukaiou.ldblog.jp^$subdocument
