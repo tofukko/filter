@@ -559,6 +559,7 @@ _ads.js
 ||googlesyndication.com/pagead/
 ||gunosy.com/adnet/
 ||hayamimi-hobby.com/gen-rss/
+||hogei.info^
 ||idea-unlimited.com/adsimg/
 ||imagefreak*.com^
 ||imasdk.googleapis.com^$third-party
@@ -651,7 +652,6 @@ $script,third-party,domain=youtube-mp3.org
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||hentai-foundry.com/themes/default/js/activebar.js
-||hogei.info^$domain=erogazoufactory.com
 ||horne.red/banner/
 ||i-bbs.sijex.net/js/jquery.scrollfollow.js
 ||imagebam.com/files/index2.php
@@ -1236,6 +1236,7 @@ $script,third-party,domain=youtube-mp3.org
 ##a[href*="click.dtiserv2.com"]
 ##a[href*="click.linksynergy.com"]:not([href*="&type=2"]):not([href*="&type=3"]):not([href*="=http%3A%2F%2F"]):not([href*="=http%253A%252F%252F"])
 ##a[href*="dgpot.com"][href*="affiliate_banner_id"]
+##a[href*="purelovers.com/lp-movie.html?"]
 ##a[href*="game-news.biz"]
 ##a[href*="liveads.jp/cc.php?"]
 ##a[href*="px.a8.net/svt/ejp?"]
@@ -1337,7 +1338,6 @@ e-typing.ne.jp##[class^="ad"][class*="00"]
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
-erogazoufactory.com##[href*="purelovers.com/lp-movie.html?"]
 erogazoufactory.com###content [id^="text-"]
 eroido.jp##[class^="adv_"]
 eromazofu.com##.c_c_t_w
