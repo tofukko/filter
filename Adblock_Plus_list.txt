@@ -1366,6 +1366,9 @@ hentai-foundry.com##main > center
 hentai-only.com##.force-foreground.alert.alert-link.alert-dismissible
 hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not(:nth-of-type(n+11))
 hokkaidofan.com##.vce-ad-container
+idol-blog.com###leftcol div[style]
+idol-blog.com##.col-inner
+idol-blog.com##[id^="post-"] + .box ~ div
 imagis.jp,costype.net##.topadv
 inoreader.com##.inno_dialog_modal:not(#login_dialog_wrapper)
 inoreader.com##.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
