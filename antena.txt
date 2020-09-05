@@ -127,6 +127,7 @@ hosyusokuhou.jp##.abanner
 huyosoku.com##[id$="-feed"]
 idol-blog.com###nav2
 idol-blog.com###content:style(margin: 40px 0 0 0 !important;)
+blog.livedoor.jp##[src="http://blog.livedoor.jp/jyoseisama/settings/ad.js"] ~ #wrapper [class$="_link"]
 kanasoku.info###headline
 kemono-friendsch.com##[class^="waku"]
 kichimama.com##.ifram
@@ -137,6 +138,9 @@ minnanohimatubushi.2chblog.jp##[id^="RSS-"]
 minnanohimatubushi.2chblog.jp##[class^="PR"]
 minnanohimatubushi.2chblog.jp##.article-body-more > A + BR
 minnanohimatubushi.2chblog.jp##.article-body-more > BR + A
+moeruasia.net###middlerss
+moeruasia.net##.abox
+moeruasia.net##.pickupbox
 news30over.com##.topbox
 news4wide.livedoor.biz###niee
 news4vip.livedoor.biz##.article-body-more > DIV:first-child
@@ -174,6 +178,8 @@ zch-vip.com##.headline_out
 
 ||blog.livedoor.jp/goldennews/js/rssheader.html
 ||blog.livedoor.jp/hibinanchara/hibirss
+||blog.livedoor.jp/jyoseisama/js/top_randomlink.js
+||blog.livedoor.jp/jyoseisama/link/$subdocument
 ||blog.livedoor.jp/love120331/rss
 ||blog.livedoor.jp/misopan_news/$subdocument
 ||blog.livedoor.jp/news_aru/pickup.htm
@@ -202,6 +208,7 @@ zch-vip.com##.headline_out
 ||majikichi.com/js/rad_head_
 ||matome-tarou.ldblog.jp^$subdocument
 ||mindhack2ch.com/js
+||moeruasia.net/wp/wp-content/themes/moeruasia/commons/$script
 ||mudainodocument.com/headline8.html
 ||news4wide.livedoor.biz^$subdocument
 ||nogizaka-46bunno1.blog.jp^$subdocument
@@ -414,6 +421,9 @@ zch-vip.com##.headline_out
 
 ! /* アンテナ速報 */
 ##a[href*="a.anipo.jp"]
+
+! /* アンテナ覇王 */
+##a[href*="antenahaoh.com"]
 
 ! /* あんだーぐらうんど */
 ##a[href*="undergroundsokuhou.blog95.fc2.com"]
