@@ -115,6 +115,8 @@ beelzeboulxxx.com##.article-body ASIDE
 beelzeboulxxx.com##.article-body-more > *:not([class^="t_"])
 bipblog.com###main_center > .main_center_block:first-child
 burusoku-vip.com##.article-body-more:last-child > div:first-child
+crx7601.com##.column-inner-2 > table
+crx7601.com##.pr1
 digital-thread.com##.top-contents-pickup
 digital-thread.com##[class^="article-news"]
 digital-thread.com##[class$="-headline"]
@@ -129,8 +131,17 @@ idol-blog.com###nav2
 idol-blog.com###content:style(margin: 40px 0 0 0 !important;)
 blog.livedoor.jp##[src="http://blog.livedoor.jp/jyoseisama/settings/ad.js"] ~ #wrapper [class$="_link"]
 kanasoku.info###headline
+kazokuchannel.doorblog.jp###more > ol
+kazokuchannel.doorblog.jp###more > ul
+kazokuchannel.doorblog.jp###more > span
 kemono-friendsch.com##[class^="waku"]
 kichimama.com##.ifram
+kijyomita.com##[id^="koteilink"]
+kijyomita.com##[id^="koteititle"]
+kijyomita.com##.foot_con
+kitizawa.com##.recommended
+kitizawa.com##[id^="koteititle"]
+kitizawa.com##.article-body-more > div[style="border:1px solid #F90;padding:10px;border-radius:10px;background:#f9f9d4;"]
 kyuukaiou.ldblog.jp##.rssbox
 mashlife.doorblog.jp##[class^="koteigazo"]
 matome-tarou.ldblog.jp###j_rss
@@ -154,6 +165,7 @@ okashinahitobito.net##.logbox
 oniyomediary.com###more > div:not(.t_h):not(.t_b)
 oniyomediary.com##a[href^="http://bit.ly/"]
 openworldnews.net###headline
+pioncoo.net##[class^="sample"]
 po-kaki-to.com##.top-site-andander
 pokemon-goh.doorblog.jp##.side > [style="margin:4px;"]
 res2ch.net###content > [class^="header"]
