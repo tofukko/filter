@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/04 23:09
+! 最終更新 2020/09/05 15:33
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -651,6 +651,7 @@ $script,third-party,domain=youtube-mp3.org
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||hentai-foundry.com/themes/default/js/activebar.js
+||hogei.info^$domain=erogazoufactory.com
 ||horne.red/banner/
 ||i-bbs.sijex.net/js/jquery.scrollfollow.js
 ||imagebam.com/files/index2.php
@@ -1155,9 +1156,12 @@ $script,third-party,domain=youtube-mp3.org
 	!seiga.nicovideo.jp logsoku等
 ##.ad_area
 ##.ad-body
+##.ad-container
+##.ad-center
 ##.ad-footer
 	!アンテナメーカーだけでもyosage?
 ##.ad_footer
+##.ad-rectangle
 ##.ad1
 ##.ad2
 ##.ads
@@ -1297,6 +1301,7 @@ atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bing.com##.b_ad:remove()
+bizspa.jp##.ad-wrap
 blog.ss-blog.jp###ad-days-area
 blogmura.com##.ad-header
 blogmura.com##.ad-overlay
@@ -1335,6 +1340,7 @@ easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadd
 erogazoufactory.com##[href*="purelovers.com/lp-movie.html?"]
 erogazoufactory.com###content [id^="text-"]
 eroido.jp##[class^="adv_"]
+eromazofu.com##.c_c_t_w
 exploader.net###nls
 exploader.net##article > div[style^="margin-bottom: 10px"]
 famitsu.com##.banner-top-header
@@ -1969,6 +1975,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 
 !WordPress
 ##.ad-label
+##.ad-single
 ##.ad-space
 ##.afc_popup
 ##.adPost
