@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 20:08 2018/03/03
+! 最終更新 2020/09/05 8:35
 
 
 !お知らせ本文
@@ -51,13 +51,9 @@ _rss4.$subdocument
 ||tanganrss.com^$third-party
 
 
-||ant7.info^$third-party
-||antenna-san.net^$third-party
-||antennach.com^$third-party
-||antennash.com^$third-party
-||antennasync.me^$third-party
+||ero-kawa.com^$third-party
+||eroantenna.com^$third-party
 ||matome-ch.com^$third-party
-||r-18.org^$third-party
 
 
 ||blogroll.livedoor.net^
@@ -504,6 +500,9 @@ zch-vip.com##.headline_out
 
 ! /* カレーにつけるパンってナンだっけ？ */
 ##a[href*="net77777.blog77.fc2.com"]
+
+! ギコあんてな
+##a[href*="giko-antenna.com"]
 
 ! /* ギコにゅー(,,ﾟДﾟ) - 2chまとめアンテナサイト */
 ##a[href*="giko-news.com/"]
