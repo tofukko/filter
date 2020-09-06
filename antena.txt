@@ -93,6 +93,9 @@ _rss4.$subdocument
 
 ##[id^="koteilink"]
 ##[id^="koteititle"]
+
+
+##.foot_con
 ##.popularArticlesWithImage
 
 blog.livedoor.jp##[src="http://blog.livedoor.jp/aoba_f/settings/ad.js"] ~ #wrapper #pickrightcon
@@ -125,6 +128,9 @@ digital-thread.com##[class^="article-news"]
 digital-thread.com##[class$="-headline"]
 drdinl.com##.pc-page-only
 fxya.blog129.fc2.com##[id^="pickup"]
+geinoukame.blog.fc2.com###menu_bar + div
+geinoukame.blog.fc2.com##div[style^="border-style: solid ; border-width: 1px; padding: 3px 1px 1px 1px;"]
+geinoukame.blog.fc2.com##td[style="padding-left: 1em; padding-right: 1em;"] > div:nth-of-type(1)
 heartlife-matome.com##.arttop
 honwaka2ch.livedoor.biz##.google-user-ad-728 + div + div
 hosyusokuhou.jp##[id^="head"]:not(#headerinner)
@@ -139,7 +145,6 @@ kazokuchannel.doorblog.jp###more > ul
 kazokuchannel.doorblog.jp###more > span
 kemono-friendsch.com##[class^="waku"]
 kichimama.com##.ifram
-kijyomita.com##.foot_con
 kitizawa.com##.recommended
 kitizawa.com##.article-body-more > div[style="border:1px solid #F90;padding:10px;border-radius:10px;background:#f9f9d4;"]
 kyuukaiou.ldblog.jp##.rssbox
@@ -174,6 +179,9 @@ scienceplus2ch.com##a[href^="http://bit.ly/"]
 squallchannel.com##.article-body-more > DIV:first-child
 squallchannel.com##.shi_antena
 squallchannel.com##[class^="rss"]
+syurabahazard.com###middlerss
+syurabahazard.com##.middlersstitle
+syurabahazard.com##.toprss
 syurabattle.com##.fixed-link
 tamasoku.blog35.fc2.com##DIV[style="background-color: #ffffff;border: 1px solid #000000;margin: 0px 0px 25px 0px;padding: 14px 8px 20px;"]
 tamasoku.blog35.fc2.com##[class$="_space_box"]
