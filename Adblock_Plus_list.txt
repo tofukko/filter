@@ -1235,7 +1235,7 @@ $script,third-party,domain=youtube-mp3.org
 ##a[href*="click.dtiserv2.com"]
 ##a[href*="click.linksynergy.com"]:not([href*="&type=2"]):not([href*="&type=3"]):not([href*="=http%3A%2F%2F"]):not([href*="=http%253A%252F%252F"])
 ##a[href*="dgpot.com"][href*="affiliate_banner_id"]
-##a[href*="purelovers.com/lp-movie.html?"]
+##a[href*="purelovers.com/lp"]
 ##a[href*="game-news.biz"]
 ##a[href*="liveads.jp/cc.php?"]
 ##a[href*="px.a8.net/svt/ejp?"]
