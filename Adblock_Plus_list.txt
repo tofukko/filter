@@ -1922,11 +1922,6 @@ news.infoseek.co.jp##.ad-side
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 
-!g------------rawdevart.com---------------!
-||dq3yxnlzwhcys.cloudfront.net^
-||d3ithbwcmjcxl7.cloudfront.net^
-||d38itq6vdv6gr9.cloudfront.net^
-
 !------------sitemix・tok2.com------------!
 /ad.min.js
 ###sitemix_pr_footer_js
