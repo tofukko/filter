@@ -114,6 +114,10 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/ringotomomin/js/sitejack.js"] ~ 
 blog.livedoor.jp##[src="http://blog.livedoor.jp/ringotomomin/js/sitejack.js"] ~ .wrap.cf #RSS001
 
 2chcopipe.com##[class^="entry_box"]
+2ch-matomenews.com###header + nav + div
+2ch-matomenews.com###header + nav + div + nav
+2ch-matomenews.com##[class$="Rss"]
+2ch-matomenews.com##.slides
 akb48matomemory.com##.popular
 akb48matomemory.com##.main > .section
 alfalfalfa.com###popular_imagert
@@ -150,6 +154,7 @@ kitizawa.com##.article-body-more > div[style="border:1px solid #F90;padding:10px
 kyuukaiou.ldblog.jp##.rssbox
 mashlife.doorblog.jp##[class^="koteigazo"]
 matome-tarou.ldblog.jp###j_rss
+matometanews.com##.related-articles
 minnanohimatubushi.2chblog.jp##[id^="RSS-"]
 minnanohimatubushi.2chblog.jp##[class^="PR"]
 minnanohimatubushi.2chblog.jp##.article-body-more > A + BR
@@ -186,7 +191,7 @@ syurabattle.com##.fixed-link
 tamasoku.blog35.fc2.com##DIV[style="background-color: #ffffff;border: 1px solid #000000;margin: 0px 0px 25px 0px;padding: 14px 8px 20px;"]
 tamasoku.blog35.fc2.com##[class$="_space_box"]
 tokuteishimasuta.com###headlinewrap
-uwakich.com###more > br:first-child + div
+uwakich.com##[class^="links"]
 vippers.jp###topRss
 vippers.jp##.include1,.include2
 vipsister23.com###more ~ BLOCKQUOTE
