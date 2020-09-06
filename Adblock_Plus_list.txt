@@ -1220,8 +1220,6 @@ $script,third-party,domain=youtube-mp3.org
 ##[style*="width:728px;"][style*="height:90px;"]
 ##[style*="width: 728px;"][style*="height: 90px;"]
 
-##.t_h ~ .t_b ~ [href^="https://www.amazon.co.jp/"]
-
 ##a[href*="http://ad."]
 ##a[href*="infotop.jp/click.php?"]
 ##a[href*="/traffic.php?"]
@@ -1260,6 +1258,8 @@ $script,third-party,domain=youtube-mp3.org
 ~amazon.*##.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 ~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], .sidemenu2 a[href*="amzn.to"]
 ~amazon.*##.sidewrapper a[href*="amazon.co.jp"], .sidewrapper a[href*="amzn.to"]
+##.t_h ~ .t_b ~ [href^="https://www.amazon.co.jp/"]
+##.t_h ~ .t_b ~ .amazon
 
 !----e-nls
 ##.plugin-freearea a[href*="e-nls.com/access"]
