@@ -90,6 +90,9 @@ _rss4.$subdocument
 ##[class^="blogroll_"]:not(html):not(body)
 ##[class^="headline-"]:not(html):not(body)
 ##[class^="headline_"]:not(html):not(body)
+
+##[id^="koteilink"]
+##[id^="koteititle"]
 ##.popularArticlesWithImage
 
 blog.livedoor.jp##[src="http://blog.livedoor.jp/aoba_f/settings/ad.js"] ~ #wrapper #pickrightcon
@@ -136,11 +139,8 @@ kazokuchannel.doorblog.jp###more > ul
 kazokuchannel.doorblog.jp###more > span
 kemono-friendsch.com##[class^="waku"]
 kichimama.com##.ifram
-kijyomita.com##[id^="koteilink"]
-kijyomita.com##[id^="koteititle"]
 kijyomita.com##.foot_con
 kitizawa.com##.recommended
-kitizawa.com##[id^="koteititle"]
 kitizawa.com##.article-body-more > div[style="border:1px solid #F90;padding:10px;border-radius:10px;background:#f9f9d4;"]
 kyuukaiou.ldblog.jp##.rssbox
 mashlife.doorblog.jp##[class^="koteigazo"]
