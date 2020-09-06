@@ -217,6 +217,8 @@ zch-vip.com##.headline_out
 ||fc2.com/b/a/n/bandai11/$subdocument
 ||fc2.com/t/o/a/toanewsplus/$subdocument
 
+
+||2chmeshi.net/wp-content/uploads/$subdocument
 ||blacknews.sakura.ne.jp^$domain=vipsister23.com
 ||buffaloesmatome.blomaga.jp/rss
 ||eegg.dip.jp/rssline
