@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/05 12:06
+! 最終更新 2020/09/07 7:07
 
 
 !お知らせ本文
@@ -448,6 +448,9 @@ zch-vip.com##.headline_out
 
 ! /* アンテナ速報 */
 ##a[href*="a.anipo.jp"]
+
+! /* アンテナ速報 */
+##a[href*="asoku.net"]
 
 ! /* アンテナ覇王 */
 ##a[href*="antenahaoh.com"]
