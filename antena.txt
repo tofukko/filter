@@ -106,7 +106,7 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/kaikaihanno/settings/ad.js"] ~ #
 blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap [class^="entry_box"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap a[href^="https://goo.gl/"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/nicovip2ch/settings/ad.js"] ~ #containerWrap a[href^="http://bit.ly/"]
-blog.livedoor.jp##[src="http://blog.livedoor.jp/nwknews/settings/header.js"] ~ #container TABLE[summary="<%blog_name>"]
+blog.livedoor.jp##[src="http://blog.livedoor.jp/nwknews/settings/ad.js"] ~ #container table[summary="<%blog_name>"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/rbkyn844/settings/ad.js"] ~ #container-outer .side [style="margin:0px 0;height:2250px;width:300px;"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/rbkyn844/settings/ad.js"] ~ #container-outer [class^="toprss"]
 blog.livedoor.jp##[src="http://blog.livedoor.jp/rbkyn844/settings/ad.js"] ~ #container-outer #left-t:style(margin-top: 0 !important;)
