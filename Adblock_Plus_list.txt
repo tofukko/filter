@@ -1419,6 +1419,8 @@ hobonichielog.com##.mainwidget > [id^="text-"]
 horne.red###main-right > .left_column > .tieup_rand_block
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
+lifehack2ch.livedoor.biz##.elsebody
+lifehack2ch.livedoor.biz##.yahoo-ad1b
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
@@ -2271,6 +2273,7 @@ bipblog.com##.amachazl-box
 
 !fig速
 ||figsoku.net/rank/load.php?
+figsoku.net###recommend
 figsoku.net##.ama:nth-of-type(1)
 figsoku.net##.gad
 figsoku.net##.pluginWrap:has([rel="noopener noreferrer"])
