@@ -1555,7 +1555,7 @@ server-setting.info###pr_bottom
 server-setting.info###pr_side_top
 share-videos.se###ad_html
 sound.jp###adfloat
-sponichi.co.jp###relation-block
+sponichi.co.jp##[id^=space_shopping_]
 startpage.com###spon_links
 storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
