@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/07 7:07
+! 最終更新 2020/09/08 7:59
 
 
 !お知らせ本文
@@ -96,6 +96,7 @@ _rss4.$subdocument
 
 
 ##.foot_con
+##.ninja-recommend-block
 ##.popularArticlesWithImage
 
 blog.livedoor.jp##[src="http://blog.livedoor.jp/aoba_f/settings/ad.js"] ~ #wrapper #pickrightcon
