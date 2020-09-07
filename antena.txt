@@ -173,8 +173,8 @@ nijitoraware.com##.imgrss2
 nomusoku.blomaga.jp###links-third
 nomusoku.blomaga.jp##.rssfeed
 okashinahitobito.net##.logbox
-oniyomediary.com###more > div:not(.t_h):not(.t_b)
-oniyomediary.com##a[href^="http://bit.ly/"]
+oniyomediary.com##a[href*="bit.ly/"]
+oniyomediary.com##.popular_article_pick_up
 openworldnews.net###headline
 pioncoo.net##[class^="sample"]
 po-kaki-to.com##.top-site-andander
