@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/08 7:38
+! 最終更新 2020/09/08 14:51
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2359,11 +2359,12 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 !pornhub
 ||phncdn.com/www-static/js/ph-tracking.js?
 ||phncdn.com/www-static/js/htmlPauseRoll/
-pornhub.com###main-container > [id] > [class]:first-child
+pornhub.com###hd-rightColVideoPage > .clearfix:first-child
+pornhub.com##.removeAdsStyle
+pornhub.com##.sniperModeEngaged
 pornhub.com##.video-wrapper > #player + [class]
-pornhub.com##script:inject(set-constant.js, page_params.holiday_promo, true)
-pornhub.com##^script:has-text(tj_ads)
-pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
+pornhub.com##+js(nowoif)
+pornhub.com##+js(window.open-defuser)
 
 !redtube
 ||redtube.com/_status/
@@ -2391,15 +2392,11 @@ tube8.com###catFishBanner
 @@||gounlimited.to/js/pop.js
 
 !-----TXXX Network
-||com^*?z=*&sub=$~third-party
-||zog.link^$third-party
-||ipornia.com/frends/
-||bulkhentai.com^*/bulkhentai2.js
-
-txxx.com###myElement + DIV
-txxx.com##^script:has-text(ad_sub)
-
-vjav.com###undervideo
+txxx.*##.header-blocked-ad
+txxx.*##+js(aeld, click, pop.beforeOpen)
+txxx.*##+js(aopr, localStorage)
+txxx.*##+js(no-setTimeout-if, t()?n())
+||txxx.*^$csp=script-src  'self' 'unsafe-eval' 'unsafe-inline' blob:
 
 !-----------xhamster
 |https://$subdocument,domain=xhamster.com
