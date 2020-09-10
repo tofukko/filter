@@ -1422,6 +1422,8 @@ hub.vroid.com##[class^="EventBanner-"]
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
+lmaga.jp##.contents_ad
+lmaga.jp##.header_ad
 logsoku.com###fixed_area
 logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
 logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
