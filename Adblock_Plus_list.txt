@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/09 19:04
+! 最終更新 2020/09/10 14:45
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1417,7 +1417,6 @@ kotobank.jp##.pc-iframe-ad
 kurashi-no.jp##[rel="csw-c2"],[rel="csw-c3"],[rel="csw-c4"],[rel="csw-c6"],[rel="csw-c7"],[rel="csw-c10"],[rel="csw-c11"],[rel="csw-c14"],[rel="csw-c15"]
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
 hobonichielog.com##.mainwidget > [id^="text-"]
-horne.red###main-right > .left_column > .tieup_rand_block
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
 lifehacker.jp##.amazItem
@@ -1483,7 +1482,10 @@ news24.jp###adText01
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
 nikkansports.com##[id^="sideAd"]
-nijie.info,horne.red##[class*="tieup_"]
+nijie.info,horne.red###footer-banner
+nijie.info,horne.red###header_banner_wrapper
+nijie.info,horne.red##.left_column
+nijie.info##._ad, [href^="/ad.php"]
 nikkansports.com##.adBECOME
 nlab.itmedia.co.jp###globalHeader
 no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
@@ -1555,6 +1557,8 @@ sekkaku.net##[summary="広告欄"]
 server-setting.info###pr_bottom
 server-setting.info###pr_side_top
 share-videos.se###ad_html
+sirogohan.com##.ad-halfwrap
+sirogohan.com##.ad-sponsor
 sound.jp###adfloat
 sponichi.co.jp##[id^=space_shopping_]
 startpage.com###spon_links
@@ -2662,6 +2666,7 @@ yakkun.com##.ad + div:style(clear:both)
 
 9ketsuki.info##+js(nobab)
 battlecats-db.com##body:style(display: block !important)
+gametter.com##+js(acis, addEventListener, google_ad_client)
 jpidols.tv##+js(acis, addEventListener, google_ad_client)
 manga1000.com##+js(acis, window.onload, elmnt)
 my0nio.seesaa.net#@#.adsbygoogle
