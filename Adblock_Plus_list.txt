@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/10 14:45
+! 最終更新 2020/09/10 15:17
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -210,7 +210,7 @@ _ads.js
 ||aaddcount.com^$third-party
 ||access-lab.com^$third-party
 ||accesstrade.net^$third-party
-||ad-cheers.com$third-party
+||ad-cheers.com^$third-party
 ||ad-feed.com^$third-party
 ||ad-management.biz^$third-party
 ||ad-nex.com^$third-party
@@ -275,6 +275,7 @@ _ads.js
 ||checkm8.com^$third-party
 ||clicktx.jp^$third-party
 ||coinurl.com^$third-party
+||contents-search-windows.com^$third-party
 ||contextweb.com^$third-party
 ||criteo.com^$third-party
 ||criteo.net^$third-party
@@ -1232,6 +1233,7 @@ $script,third-party,domain=youtube-mp3.org
 ##a[href*="click.duga.jp/"]
 ##a[href*="click.dtiserv2.com"]
 ##a[href*="click.linksynergy.com"]:not([href*="&type=2"]):not([href*="&type=3"]):not([href*="=http%3A%2F%2F"]):not([href*="=http%253A%252F%252F"])
+##a[href*="cross-system.com/click.php"]
 ##a[href*="dgpot.com"][href*="affiliate_banner_id"]
 ##a[href*="purelovers.com/lp"]
 ##a[href*="game-news.biz"]
@@ -1290,7 +1292,6 @@ $script,third-party,domain=youtube-mp3.org
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
-allabout.co.jp##[rel="csw-c2"],[rel="csw-c4"],[rel="csw-c6"]
 animatetimes.com##[class^="c-banner-"][class*="--w3"]
 animatetimes.com##.l-content-aside > .c-banner-aside:first-child
 ascii2d.net##.com
@@ -1414,7 +1415,6 @@ karapaia.com##[class^=ads-label]
 kidsna.com###kidsna-articlelist > ul > li:has(.pr)
 kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
-kurashi-no.jp##[rel="csw-c2"],[rel="csw-c3"],[rel="csw-c4"],[rel="csw-c6"],[rel="csw-c7"],[rel="csw-c10"],[rel="csw-c11"],[rel="csw-c14"],[rel="csw-c15"]
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
 hobonichielog.com##.mainwidget > [id^="text-"]
 hub.vroid.com###Model-adView-2lWBn
