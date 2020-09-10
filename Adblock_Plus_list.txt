@@ -2607,6 +2607,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!body直下
 appmk2.net#@#.advertisement
 bookmeter.com#@#.sidebar a[href*="amazon.co.jp"]
+	!header
+number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
 	!Amazon誘導ページ 紙で読む
 comicride.jp#@##sub a[href*="amazon.co.jp"]
 	!サイド 広告だから消しても良い気もする
