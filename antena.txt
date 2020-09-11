@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/08 7:59
+! 最終更新 2020/09/12 7:08
 
 
 !お知らせ本文
@@ -40,6 +40,7 @@ _rss4.$subdocument
 /popular_article
 
 ||adult-rss.com^$third-party
+||antennasync.me^$third-party
 ||blog-feed.net^$third-party
 ||garss.jp^$third-party
 ||garss.tv^$third-party
