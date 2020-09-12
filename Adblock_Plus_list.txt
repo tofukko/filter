@@ -1290,6 +1290,7 @@ $script,third-party,domain=youtube-mp3.org
 1000mg.jp##div:has(> div > [src^="https://ad-cheers.com/"])
 373news.com###ad_prinfo
 373news.com##.mns_span_2columns_left .mns_block
+a-kimama.com##.widget--ad
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
