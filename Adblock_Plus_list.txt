@@ -1408,6 +1408,12 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="accesstrade.net/sp/"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
+kakijun.jp###header1 > div
+kakijun.jp###migi > #kakijun_books
+kakijun.jp###migi > .divcenter
+kakijun.jp###migi > [style="width:160px;height:600px;overflow:hidden;"]
+kakijun.jp##.gadcenter
+kakijun.jp###hidari:style(top: unset !important)
 kakuyomu.jp##[class*="widget-ad-"]
 kakaku.com###listingPr
 kakaku.com###yAuctionBox
