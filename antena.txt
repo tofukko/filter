@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/12 7:08
+! 最終更新 2020/09/13 22:40
 
 
 !お知らせ本文
@@ -670,9 +670,9 @@ zch-vip.com##.headline_out
 ##a[href*="antenna.i-like-movie.net"]
 
 ! /* 動画エロタレスト */
-##a[href*="eroterest.net"]
-||eroterest.net^
-||eroimg.net^
+~eroterest.net##a[href*="eroterest.net"]
+||eroterest.net^$domain=~eroterest.net
+||eroimg.net^$domain=~eroterest.net
 
 ! /* とろたまヘッドライン */
 ##a[href*="headline.mtfj.net"]
