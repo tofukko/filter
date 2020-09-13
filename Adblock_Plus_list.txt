@@ -1788,7 +1788,6 @@ q.hatena.ne.jp##.sidebar-banner
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
 !g-----------hitomi.la-----------!
-.com^$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, pops)
 
 !g-----------kissanime-----------!
