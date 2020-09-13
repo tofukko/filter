@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/13 8:55
+! 最終更新 2020/09/13 22:37
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -350,6 +350,7 @@ _ads.js
 ||musicgate.$third-party
 ||my-affiliate.com^$third-party
 ||nsk-sys.com^$third-party
+||nxcount.com^$third-party
 ||octo-pus.net^$third-party
 ||octopuspop.com^$third-party
 ||og-affiliate.com^$third-party
@@ -1688,6 +1689,13 @@ biglobe.ne.jp##.bl-top-square
 news.biglobe.ne.jp##[class^="news-ad-square-"]
 news.biglobe.ne.jp###SPbanner
 news.biglobe.ne.jp###gadsOverlayUnit
+
+!g----------coolrom.com------!
+coolrom.com.au###grumftFeMainContainer
+coolrom.com.au##td[width="325"][height="250"]
+coolrom.com.au##td[style="height:90px;"][align="center"]
+coolrom.com.au##div[style="min-height:250px;"]
+coolrom.com.au##+js(set-constant, time, 0)
 
 !------------dmm-------------!
 ||dmm.ad-s.org^$third-party
