@@ -569,6 +569,7 @@ _ads.js
 ||imasdk.googleapis.com^$third-party
 ||javhd.com/sb/$third-party
 ||mgstage.com/afscript/
+||mgstage.com/js/mgs_Widget
 ||mkd777.net/pd/
 ||pagead2.googlesyndication.com^
 ||partner*.become.co.jp^
