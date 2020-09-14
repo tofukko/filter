@@ -156,7 +156,7 @@ _ads.js
 ^zone_id=
 
 !geniee
-/:\/\/(?:js|[0-9]{6})\.[-.0-9a-z]+\/t/[0-9]{3}\/[0-9]{3}\/a[0-9]{7}\.js$/
+/^https?:\/\/(?:js|[0-9]{6})\.[-.0-9a-z]+\/t/[0-9]{3}\/[0-9]{3}\/a[0-9]{7}\.js$/$script,third-party
 
 !||adnico.jp^$third-party
 !||advision-adnw.jp^$third-party
@@ -170,7 +170,9 @@ _ads.js
 !||sprout-ad.com^$third-party
 
 !g
-/:\/\/[0-9a-z]{10,16}\.cloudfront\.net\/\?[a-z]{3,7}\=[0-9]{4,8}$/
+/^https?:\/\/[0-9a-z]{10,16}\.cloudfront\.net\/\?[a-z]{3,7}\=[0-9]{4,8}$/$script,third-party
+
+/^https?:\/\/[a-z0-9]{5,20}\.[a-z]{2,6}\/[a-f0-9]{2}\/[a-f0-9]{2}\/[a-f0-9]{2}\/[a-f0-9]{32}\.js$/$script,third-party
 
 .biz/ad/
 .biz/ads/
@@ -2009,7 +2011,7 @@ ejje.weblio.jp###footFixBar
 translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
 
-!WordPress
+!-----------WordPress-----------!
 ##.ad-label
 ##.ad-single
 ##.ad-space
@@ -2018,7 +2020,6 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.adWidget
 ##.dfad
 ##.quads-location
-
 !あれなやつ
 ##[id^="post-"][class*=post-] [class^="cta-"]
 ##[id^="post-"][class*=post-] [class$="-cta"]
@@ -2412,11 +2413,10 @@ pornhub.com##+js(nowoif)
 pornhub.com##+js(window.open-defuser)
 
 !redtube
-||redtube.com/_status/
 redtube.com###content_container > .show_page_modals + div
 redtube.com###video_right_col
-redtube.com##^script:has-text(var rAb=)
-redtube.com##^script:has-text(tj_ads)
+redtube.com,redtube.net##+js(aopr, _goat)
+redtube.*##+js(nowoif)
 
 !xtube.com
 ||3gporn.biz^$third-party
@@ -2425,16 +2425,16 @@ xtube.com##.banner
 xtube.com##.underPlayerBanner
 
 !youporn.com
-youporn.com###adblock_1
+youporn.com##.ad-bottom-text
+youporn.com##.ad-remove
+youporn.com##+js(aopr, _goat)
+youporn.com##+js(aopr, zone_2547)
+youporn.com##+js(nostif, jQuery)
+youporn.com##+js(nowoif)
 
 !tube8.com
-tube8.com##^script:has-text(adblock)
-tube8.com###catFishBanner
-
-!----porntrex network
-||fd7qz88ckd.com^
-@@||porntrex.com^$generichide
-@@||gounlimited.to/js/pop.js
+tube8.*##+js(aopw, IS_ADBLOCK)
+tube8.*##+js(nowoif)
 
 !-----TXXX Network
 txxx.*##.header-blocked-ad
@@ -2474,10 +2474,6 @@ xvideos.com##.sponsor-popup
 xvideos.com##^script:has-text(checkVideoAds)
 
 !-----------avgle.com
-$third-party,popup,domain=avgle.com
-||mygoodlives.com^
-||find-my-great-life.com^
-||klaudicustors.info^
 avgle.com##img[src*=".php"]
 avgle.com###player_3x2_close:style(font-size: 250% !important;)
 avgle.com##+js(abort-on-property-read.js, AaDetector)
@@ -2486,57 +2482,14 @@ avgle.com##+js(nowebrtc.js)
 avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
 
 
-!-----------javxxx.me
-video.javxxx.me###player_3x2_container
-hentai4.me##+js(window.open-defuser)
-hentai4.me##+js(set, clientSide.adbDetect, null)
-*/player/plugins/vast-*.js$script
-@@||javxxx.me^$generichide
-
-
-||jqueryserve.com^$domain=spankwire.com
-
-
-||n1198adserv.xyz^
-
-javbuz.com##.player-ads-bottom
-javhub.net###r18_banner
-japanhub.net###r18
-
-||javhub.net/video_ads.html
-
-
-||heavy-r.com/ilove/bananas.php
-heavy-r.com###overlayVid
-heavy-r.com##.hd-ban
-
-||pornhost.com/*.php
-
-||fapdu.com/desktop_popup.
-
-
-hpjav.tv##+js(abort-on-property-read, VAST)
-vidoza.net##^script:has-text($('.pvr'))
+!-----------jav系
+!気が向いたらやる
 
 !---------ashemaletube.com
 ||ashemaletube.com/ast/b/
 ashemaletube.com##.ads-block-rightside
 ashemaletube.com##.video-end-overlay
 ashemaletube.com##+js(aopr, open)
-
-!------------drtuber
-/footer_ads_
-_right_ads_
-/promo/banners/*
-||moatads.com^$domain=drtuber.com|nuvid.com|proporn.com
-||dtprofit.com^$domain=drtuber.com
-||nuvidp.com^$domain=nuvid.com
-||propbn.com^$domain=proporn.com
-
-drtuber.com,nuvid.com,viptube.com##+js(window.open-defuser)
-viptube.com##.drt-sponsor-block
-@@||com/templates/*/js/ads.js$domain=nuvid.com|proporn.com|viptube.com
-@@||drtst.com/templates/drtuber/js/advertisement.js$domain=drtuber.com
 
 !------------danbooru系
 !sankaku channel
