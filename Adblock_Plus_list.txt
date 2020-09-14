@@ -364,6 +364,7 @@ _ads.js
 ||pagoda301.com^$third-party
 ||peer39.net^$third-party
 ||pgmediaserve.com^$third-party
+||piano.io^$third-party
 ||pinpointdmp.com^$third-party
 ||pompass.net^$third-party
 ||pop6.com^$third-party
