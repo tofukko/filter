@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/13 22:37
+! 最終更新 2020/09/14 10:06
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1398,6 +1398,9 @@ jbbs.shitaraba.net###footer-menu + br + table + hr + div
 jbbs.shitaraba.net###footer-menu + br + table + hr + table
 jbbs.shitaraba.net##.thread-list + hr + table
 jiji.com##.ArticleInnerAD
+jisin.jp##.add_left
+jisin.jp##.add_right
+jisin.jp###wrap:style(width: unset !important;)
 jocr.jp##.side_adsbygoogle
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jugem.jp##.UBH_new
@@ -2554,14 +2557,16 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
 	!商品タブの切替が出来ない
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
+	!検索関係
+@@||cxense.com^$domain=ntv.co.jp
 @@||dlsite.com/img/
 @@||dmm.co.jp/mono/movie/adult/$image
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
 	!多い
-@@||google.com^$generichide
-@@||google.co.jp^$generichide
+	!@@||google.com^$generichide
+	!@@||google.co.jp^$generichide
 	!検索結果動画部分
 	!google.co.jp,google.com#@#[class$="Ad"]:not(html):not(body)
 	!通知設定辺り
@@ -2573,7 +2578,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!新規作成ボックスが消える
 	!mail.google.com#@#.AD
 	!本文
-	!mail.google.com#@#.ads
+mail.google.com#@#.ads
 	!カラーパレッド
 	!mail.google.com#@#[class$="Ad"]:not(html):not(body)
 	!投稿欄
@@ -2594,10 +2599,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	! 動画見れない
 @@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
 @@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
-	!検索関係
-@@||ntv.co.jp/ad-navi/ga/$domain=ntv.co.jp
-	@@||google-analytics.com/ga.js$domain=ntv.co.jp
-	@@||cxense.com^$domain=ntv.co.jp
 	! 右側の勝率などの欄が非表示
 @@||opgg-static.akamaized.net/js3/tracker.js?*$domain=op.gg
 	!ポイント貯めるサイト
@@ -2631,11 +2632,11 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 	!body直下
 appmk2.net#@#.advertisement
-bookmeter.com#@#.sidebar a[href*="amazon.co.jp"]
+bookmeter.com#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
 	!Amazon誘導ページ 紙で読む
-comicride.jp#@##sub a[href*="amazon.co.jp"]
+comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 	!サイド 広告だから消しても良い気もする
 cookpad.com#@#.ad:not([class*="widget_"])
 	!右
@@ -2647,7 +2648,7 @@ games.wkb.jp##+js(set, gWkbAdVert, true)
 games.wkb.jp##+js(set, noblock, true)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
 	!https://www.kadokawa.co.jp/product/322003000737/
-www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"]
+www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 www.kadokawa.co.jp#@#a[href*="px.a8.net/svt/ejp?"]
 	!左側
 kemochan.com#@#.ad:not([class*="widget_"])
