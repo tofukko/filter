@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/14 13:58
+! 最終更新 2020/09/14 15:13
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1305,6 +1305,8 @@ atwiki.jp###recommend
 atwiki.jp##[id^="advp"]
 atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
+bakufu.jp###prBox
+bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bing.com##.b_ad:remove()
 bizspa.jp##.ad-wrap
@@ -1342,6 +1344,7 @@ dl-x.com##._ad
 dl-x.com##.vip-center
 e-nenpi.com##.top_ads
 e-typing.ne.jp##[class^="ad"][class*="00"]
+e-typing.ne.jp##.adbox_468
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
