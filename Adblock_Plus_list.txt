@@ -1831,6 +1831,8 @@ hitomi.la##+js(aopr, pops)
 ||opsoomet.net^
 ||ptoushoa.com^
 ||vipicmou.net^
+||kissanime.nz/api/pop.php
+||kissanime.nz/rmad.php?
 !ws
 ||graizoah.com^
 ||ntvsw.com^
