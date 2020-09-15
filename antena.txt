@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/13 22:40
+! 最終更新 2020/09/15 9:54
 
 
 !お知らせ本文
@@ -132,7 +132,8 @@ crx7601.com##.pr1
 digital-thread.com##.top-contents-pickup
 digital-thread.com##[class^="article-news"]
 digital-thread.com##[class$="-headline"]
-drdinl.com##.pc-page-only
+drdinl.com##header ~ div ul
+drdinl.com##.cf:not(.none)
 fxya.blog129.fc2.com##[id^="pickup"]
 geinoukame.blog.fc2.com###menu_bar + div
 geinoukame.blog.fc2.com##div[style^="border-style: solid ; border-width: 1px; padding: 3px 1px 1px 1px;"]
