@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/14 19:58
+! 最終更新 2020/09/15 13:06
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -207,6 +207,7 @@ _ads.js
 -ads.com^$third-party,domain=~cookpad.com
 !||da-ads.com^$third-party
 
+||a-affiliate.net^$third-party
 ||a8.net^$third-party
 ||aaacompany.net^$third-party
 ||aaddcount.com^$third-party
@@ -307,6 +308,7 @@ _ads.js
 ||gl-cash.com^$third-party
 ||glam.com^$third-party
 ||glam.jp^$third-party
+||glssp.net^$third-party
 ||gmodmp.jp^$third-party
 ||googleadservices.com^$third-party
 ||iid-network.jp^$third-party
@@ -553,6 +555,7 @@ _ads.js
 
 
 !----third-party
+||150601.fc2rs.com^
 ||ad999.biz^
 ||af.fukuishimbun.co.jp^
 ||banners.itunes.apple.com^
@@ -668,6 +671,7 @@ $script,third-party,domain=youtube-mp3.org
 ||itmedia.jp/adsv/
 ||jalan.net/jalan/doc/top/js/randombanner.js
 ||japan.cnet.com/parts/frame/
+||japanese.engadget.com^$subdocument
 ||jugem.jp/ad/
 ||kakaku.com^*/kakakuad/
 ||kakaku.com^*/RdmReviewAd.js
@@ -1403,6 +1407,10 @@ iwate-np.co.jp##.article-list > li:has-text(広告)
 iwate-np.co.jp##.article-list > li:has(> script)
 ja.whotwi.com###header_ad_area
 ja.whotwi.com##.stats_ad_300x250_2
+japanese.engadget.com###module-engadget-deeplink-top-ad
+japanese.engadget.com###taboola-below-article-thumbnails-2nd
+japanese.engadget.com##div.Mih\(250px\)
+japanese.engadget.com##div.Mih\(90px\)
 jbbs.shitaraba.net###footer-menu + br + table + hr + div
 jbbs.shitaraba.net###footer-menu + br + table + hr + table
 jbbs.shitaraba.net##.thread-list + hr + table
@@ -1440,6 +1448,7 @@ kidsna.com###kidsna-articlelist > ul > li:has(.pr)
 kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
+kyounoryouri.jp###floating-banner
 hobonichielog.com##.mainwidget > [id^="text-"]
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
@@ -1514,7 +1523,6 @@ nijie.info,horne.red##.left_column
 nijie.info##._ad, [href^="/ad.php"]
 nikkansports.com##.adBECOME
 nlab.itmedia.co.jp###globalHeader
-no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 northwood.blog60.fc2.com###menu1Block > .menuBlockBase:first-child
@@ -1681,15 +1689,6 @@ animeflv.ru##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeflv.ru##+js(setInterval-defuser.js, (), 500)
 animeflv.ru##+js(set-constant.js, check_adblock, true)
 ||animeflv.ru^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-
-!------------aol-----------------!
-!画像が見れない http://japanese.engadget.com/galleries/
-!||aolcdn.com/omniunih_int.js
-!||aolcdn.com/omniunih.js
-
-||aolcdn.com^*/ads/
-||b.engadget.com^
-||engadget.com/traffic/
 
 !------------artemis------------!
 ||live.fc2.com/liveBlogParts.php$subdocument,domain=artemisweb.jp
@@ -2636,6 +2635,8 @@ mediafire.com#@#.ads
 mega.nz#@#.ad:not([class*="widget_"])
 	!検索 ランキングの「宣伝」部分が消える
 www.nicovideo.jp#@#.ads
+	!header辺り
+no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
 	!右
 okwave.jp#@#.ad_area
 	!記事
