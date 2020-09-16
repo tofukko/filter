@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/15 13:06
+! 最終更新 2020/09/16 21:27
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2059,7 +2059,10 @@ chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"]
 finance.yahoo.co.jp##div:has(> #mainAdTop)
 finance.yahoo.co.jp##div:has(> [id^=subAd])
 mail.yahoo.co.jp###theAd
-mail.yahoo.co.jp###shellcontent:style(top: 28px !important; right: 0 !important;)
+mail.yahoo.co.jp###shellcontent:style(right: 0 !important;)
+mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
+mail.yahoo.co.jp##.panescroll.scrollable #shellcontent:style(top: 28px !important;)
+mail.yahoo.co.jp##.fullpage.withsky #shellcontent:style(top: 56px !important;)
 search.yahoo.co.jp##.Ad
 
 ||analytics.yahoo.co
