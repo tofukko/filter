@@ -1402,6 +1402,8 @@ idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
 idol-blog.com##[id^="post-"] + .box ~ div
 imagis.jp,costype.net##.topadv
+img.favsite.jp##[class$="-lg"]
+img.favsite.jp##[href*="dlsite.com/"]
 inoreader.com##.inno_dialog_modal:not(#login_dialog_wrapper)
 inoreader.com##.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
 irasutoya.com##[class^="entryadwrapper"]
