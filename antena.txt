@@ -36,6 +36,7 @@ _rss4.$subdocument
 /popular_article
 
 ||adult-rss.com^$third-party
+||antennach.com^$third-party
 ||antennasync.me^$third-party
 ||blog-feed.net^$third-party
 ||garss.jp^$third-party
@@ -315,6 +316,9 @@ zch-vip.com##.headline_out
 
 ! /* 2ちゃんねるまとめるまとめ */
 ##a[href*="2chmatomeru.info"]
+
+!/*２次元と３次元の画像ブログまとめ*/
+##a[href*="img.favsite.jp"]
 
 ! /* ANT */
 ##a[href*="ant-ant.net"]
