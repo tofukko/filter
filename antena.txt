@@ -5,10 +5,6 @@
 !
 ! 最終更新 2020/09/15 9:54
 
-
-!お知らせ本文
-nijie.info,horne.red#@#[class^="headline_"]:not(html):not(body)
-
 /headline.$subdocument
 /headline_$subdocument
 /headline1.$subdocument
@@ -89,8 +85,6 @@ _rss4.$subdocument
 
 ##[class^="blogroll-"]:not(html):not(body)
 ##[class^="blogroll_"]:not(html):not(body)
-##[class^="headline-"]:not(html):not(body)
-##[class^="headline_"]:not(html):not(body)
 
 ##[id^="koteilink"]
 ##[id^="koteititle"]
