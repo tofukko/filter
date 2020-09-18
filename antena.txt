@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/15 9:54
+! 最終更新 2020/09/18 10:48
 
 /headline.$subdocument
 /headline_$subdocument
