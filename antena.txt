@@ -246,633 +246,629 @@ zch-vip.com##.headline_out
 ||waranote.livedoor.biz^$subdocument
 ||zch-vip.com/js/
 
-! /*============ antenna ============*/
 
-! /* 2blo.net */
+! ============ antenna ============
+
+! 2blo.net
 ##a[href*="2blo.net"]
 
-! /* 2chnavi */
+! 2chnavi
 ##a[href*="2chnavi.net"]
 
-! /* 2chNode */
+! 2chNode
 ##a[href*="2chnode.com"]
 
-! /* 2chアンテナ */
+! 2chアンテナ
 ##a[href*="www.2ch-antenna.net"]
 
-! /* 2chアンテナしんぶん */
+! 2chアンテナしんぶん
 ##a[href*="www.animetheworld.com/2ch"]
 
-! /* 2chファインダー */
+! 2chファインダー
 ##a[href*="2chfinder.com"]
 
-! /* 2chブログあんてな */
+! 2chブログあんてな
 ##a[href*="2ch.diveluck.com"]
 
-! /* 2chまとめ */
+! 2chまとめ
 ##a[href*="2ch.まとめ.gaasuu.com"]
 
-! /* 2chまとめAnteNavi!! */
+! 2chまとめAnteNavi!!
 ##a[href*="antenavi.net"]
 
-! /* 2chまとめMix */
+! 2chまとめMix
 ##a[href*="jdrop.net"]
 
-! /* 2chまとめアンテナ */
+! 2chまとめアンテナ
 ##a[href*="2chrss.com"]
 
-! /* 2chまとめインデックス */
+! 2chまとめインデックス
 ##a[href*="matomeindex.com"]
 
-! /* 2chまとめちゃんねる */
+! 2chまとめちゃんねる
 ##a[href*="matome-ch.com"]
 
-! /* 2chまとめのまとめMM */
+! 2chまとめのまとめMM
 ##a[href*="2chmatome2.jp"]
 
-! /* 2chまとめヘッドライン */
+! 2chまとめヘッドライン
 ##a[href*="2ch-matome.com"]
 
-! /* 2chまとまと */
+! 2chまとまと
 ##a[href*="2ch-matomato.com"]
 
-! /* 2GET */
+! 2GET
 ##a[href*="get2ch.net"]
 
-! /* 2ちゃんてな */
+! 2ちゃんてな
 ##a[href*="2ch-antenna.com"]
 
-! /* ２ちゃんマップ */
+! ２ちゃんマップ
 ##a[href*="2chmap.com"]
 
-! /* 2ちゃんねるまとめ マニアクス【2MM】 */
+! 2ちゃんねるまとめ マニアクス【2MM】
 ##a[href*="2ch-m.info"]
 
-! /* 2ちゃんねるまとめサイトのまとめ */
+! 2ちゃんねるまとめサイトのまとめ
 ##a[href*="labo.tv/2chnews"]
 
-! /* 2ちゃんねるまとめのまとめ */
+! 2ちゃんねるまとめのまとめ
 ##a[href*="2chmm.com"]
 
-! /* 2ちゃんねるまとめるまとめ */
+! 2ちゃんねるまとめるまとめ
 ##a[href*="2chmatomeru.info"]
 
-!/*２次元と３次元の画像ブログまとめ*/
+!２次元と３次元の画像ブログまとめ
 ##a[href*="img.favsite.jp"]
 
-! /* ANT */
+! ANT
 ##a[href*="ant-ant.net"]
 
-! /* Best Trend News */
+! Best Trend News
 ##a[href*="besttrendnews.net"]
 
-! /* Best Trend News */
+! Best Trend News
 ##a[href*="blog.livedoor.jp/best_trend_news"]
 
-! /* ErogBox */
+! ErogBox
 ##a[href*="erogbox.com"]
 
-! /* Fast2chまとめヘッドライン */
+! Fast2chまとめヘッドライン
 ##a[href*="fast2ch.dip.jp"]
 
-! /* Girinio.jp */
+! Girinio.jp
 ##a[href*="girinio.jp"]
 
-! /* j-antenna */
+! j-antenna
 ##a[href*="www.j-antenna.com"]
 
-! /* J民アンテナ */
+! J民アンテナ
 ##a[href*="nanjmin.net"]
 
-! /* likevideo.jp */
+! likevideo.jp
 ##a[href*="likevideo.jp"]
 
-! /* LogPo! 2ch（ログポ2ちゃん） */
+! LogPo! 2ch（ログポ2ちゃん）
 ##a[href*="2ch.logpo.jp"]
 
-! /* matomatome */
+! matomatome
 ##a[href*="matomatome.com"]
 
-! /* matomeja */
+! matomeja
 ##a[href*="matomeja.jp"]
 
-! /* MeeTreeアンテナ */
+! MeeTreeアンテナ
 ##a[href*="mt-antenna.info"]
 
-! /* MEGA NEWS LAUNCHER */
+! MEGA NEWS LAUNCHER
 ##a[href*="dariusnews.blog11.fc2.com"]
 
-! /* Mix News Japan */
+! Mix News Japan
 ##a[href*="pspcolonys.blog129.fc2.com"]
 
-! /* NEWS CHANNEL */
+! NEWS CHANNEL
 ##a[href*="news-channel.doorblog.jp"]
 
-! /* NEWS CHOICE */
+! NEWS CHOICE
 ##a[href*="news-choice.net"]
 
-! /* NewsLog */
+! NewsLog
 ##a[href*="newslogfc2.blog.fc2.com"]
 
-! /* NewsPod */
+! NewsPod
 ##a[href*="news-pod.net"]
 
-! /* NEWS PICK UP */
+! NEWS PICK UP
 ##a[href*="newspickup.com"]
 
-! /* NEWS SELECT */
+! NEWS SELECT
 ##a[href*="news-select.net"]
 
-! /* News人 */
+! News人
 ##a[href*="newser.cc"]
 
-! /* PINK速報 */
+! PINK速報
 ##a[href*="blog.livedoor.jp/imgpink"]
 
-! /* Rotco - アンテナサイト */
+! Rotco - アンテナサイト
 ##a[href*="rotco.jp"]
 
-! /* The 3rd */
+! The 3rd
 ##a[href*="the-3rd.net"]
 
-! /* VIPあんてな 2chまとめサイト */
+! VIPあんてな 2chまとめサイト
 ##a[href*="2ch-matome.net"]
 
-! /* V速NEWS */
+! V速NEWS
 ##a[href*="vipper774.blog115.fc2.com"]
 
-! /* watch@2チャンネル */
+! watch@2チャンネル
 ##a[href*="watch2ch.2chblog.jp"]
 
-! /* web2ちゃんねる */
+! web2ちゃんねる
 ##a[href*="120.hp2.jp"]
 
-! /* XEX NEWS */
+! XEX NEWS
 ##a[href*="blog.livedoor.jp/xexnews"]
 
-! /* ああああんてな */
+! ああああんてな
 ##a[href*="aaa-n.com"]
 
-! /* アテナあんてな */
+! アテナあんてな
 ##a[href*="athena.sakuratan.com"]
 
-! /* アナグロあんてな */
+! アナグロあんてな
 ##a[href*="anaguro.yanen.org"]
 
-! /* アフォニュース */
+! アフォニュース
 ##a[href*="afoafodayo.blog84.fc2.com"]
 
-! /* アプリNews24 */
+! アプリNews24
 ##a[href*="applinews24.com"]
 
-! /* あるみら！ */
+! あるみら！
 ##a[href*="arumira.com"]
 
-! /* アンテナch */
+! アンテナch
 ##a[href*="antch.net"]
 
-! /* アンテなう！ */
+! アンテなう！
 ##a[href*="antenow.com"]
 
-! /* アンテナシェア */
+! アンテナシェア
 ##a[href*="www.antennash.com"]
 
-! /* アンテナちゃん */
+! アンテナちゃん
 ##a[href*="antennachan.com"]
 
-! /* アンテナバンク */
+! アンテナバンク
 ##a[href*="antennabank.com"]
 
-! /* アンテナメーカー */
+! アンテナメーカー
 ##a[href*=".antenam."]
 ##a[href*=".a-antenam."]
 
-! /* アンテナ速報 */
+! アンテナ速報
 ##a[href*="a.anipo.jp"]
 
-! /* アンテナ速報 */
+! アンテナ速報
 ##a[href*="asoku.net"]
 
-! /* アンテナ覇王 */
+! アンテナ覇王
 ##a[href*="antenahaoh.com"]
 
-! /* あんだーぐらうんど */
+! あんだーぐらうんど
 ##a[href*="undergroundsokuhou.blog95.fc2.com"]
 
-! /* いーあんてな(#ﾟｗﾟ) */
+! いーあんてな(#ﾟｗﾟ)
 ##a[href*="ii-antenna.net"]
 
-! /* 異世界とらふぃっく！ */
+! 異世界とらふぃっく！
 ##a[href*="isekaitraffic.livedoor.biz"]
 
-! /* イマシアン */
+! イマシアン
 ##a[href*="www.imashian.com"]
 
-! /* いわしアンテナ >°))))彡 */
+! いわしアンテナ >°))))彡
 ##a[href*="iwashi.biz"]
 
-! /* インモラル */
+! インモラル
 ##a[href*="immoral.jp"]
 
-! /* ウェブニュー */
+! ウェブニュー
 ##a[href*="webnew.net"]
 
-! /* ウホウホあんてな */
+! ウホウホあんてな
 ##a[href*="uhouho2ch.com"]
 
-! /* エロブログにゅーす */
+! エロブログにゅーす
 ##a[href*="eroblognews.doorblog.jp"]
 
-! /* エロ王の動画まとめ */
+! エロ王の動画まとめ
 ##a[href*=edogan.com"]
 
-! /* エロ王の動画まとめ */
+! エロ王の動画まとめ
 ##a[href*=ero-king.com"]
 
-! /* えろかわちゃん！ */
+! えろかわちゃん！
 ##a[href*="ero-kawa.com"]
 
-! /* エログル */
+! エログル
 ##a[href*="erogle-av.com"]
 
-! /* エロ動画アンテナ */
+! エロ動画アンテナ
 ##a[href*="eroantenna.com"]
 
-! /* エロ動画検索OMEKO */
+! エロ動画検索OMEKO
 ##a[href*="omeko.pink"]
 
-! /* エロモン */
+! エロモン
 ##a[href*="eromon.blue"]
 ||eromon.blue^
 
-! /* おいしいアンテナ */
+! おいしいアンテナ
 ##a[href*="a.moog.me"]
 
-! /* オタジャパン */
+! オタジャパン
 ##a[href*="otajapan.com"]
 
-! /* オマエラアンテナ */
+! オマエラアンテナ
 ##a[href*="omaera.orz.hm"]
 
-! /* おまとめ */
+! おまとめ
 ##a[href*="0matome.com"]
 
-! /* おまとめん.com */
+! おまとめん.com
 ##a[href*="omatomen.com"]
 
-! /* おるつアンテナ orz */
+! おるつアンテナ orz
 ##a[href*="orzantenna.is-mine.net"]
 
-! /* 俺のあんてな */
+! 俺のあんてな
 ##a[href*="www.antena-2ch.net"]
 
-! /* オワタあんてな */
+! オワタあんてな
 ##a[href*="pllp.info"]
 ##a[href*="owata-net.com"]
 
-! /* オワタあんてな */
+! オワタあんてな
 ##a[href*="owata.chann.net"]
 
-! /* ガールズリーダー */
+! ガールズリーダー
 ##a[href*="girlsreader.com"]
 
-! /* がっくしアンテナorz */
+! がっくしアンテナorz
 ##a[href*="gakkushi.com"]
 
-! /* ガッてな */
+! ガッてな
 ##a[href*="ga-t.net"]
 
-! /* 勝つるあんてな！ */
+! 勝つるあんてな！
 ##a[href*="katuru.com"]
 
-! /* カナ速あんてな（RC） */
+! カナ速あんてな（RC）
 ##a[href*="kanasoku.s130.coreserver.jp"]
 
-! /* カレーにつけるパンってナンだっけ？ */
+! カレーにつけるパンってナンだっけ？
 ##a[href*="net77777.blog77.fc2.com"]
 
 ! ギコあんてな
 ##a[href*="giko-antenna.com"]
 
-! /* ギコにゅー(,,ﾟДﾟ) - 2chまとめアンテナサイト */
+! ギコにゅー(,,ﾟДﾟ) - 2chまとめアンテナサイト
 ##a[href*="giko-news.com/"]
 
-! /* 記事しま.com */
+! 記事しま.com
 ##a[href*="2ch.kijishima.com"]
 
-! /* キタコレ(ﾟ∀ﾟ)！！ - 2chまとめアンテナサイト */
+! キタコレ(ﾟ∀ﾟ)！！ - 2chまとめアンテナサイト
 ##a[href*="kita-kore.com"]
 
-! /* キチママまとめアンテナ */
+! キチママまとめアンテナ
 ##a[href*="a-matome.com"]
 
-! /* キャベツアンテナ */
+! キャベツアンテナ
 ##a[href*="cabbage2ch.com"]
 
-! /* 究極最終兵器2ndWeapon */
+! 究極最終兵器2ndWeapon
 ##a[href*="kyuusai2nd.net"]
 
-! /* きょうびのニュース */
+! きょうびのニュース
 ##a[href*="kyoubi-news.com"]
 
-! /* キャノンアンテナ */
+! キャノンアンテナ
 ##a[href*="http://kanone.biz"]
 
-! /* ぐるぐるログ */
+! ぐるぐるログ
 ##a[href*="gurugurulog.com"]
 
-! /* 激安特価板ブログ */
+! 激安特価板ブログ
 ##a[href*="tokkaban.com"]
 
-! /* この●●クソワロタｗｗｗ */
+! この●●クソワロタｗｗｗ
 ##a[href*="konowaro.net"]
 
-! /* ごはんはおかずだよ */
+! ごはんはおかずだよ
 ##a[href*="ninikou.blog135.fc2.com"]
 
-! /* こゆいあんてな2ch('A`) */
+! こゆいあんてな2ch('A`)
 ##a[href*="hagurechubo2chmatome.blog116.fc2.com"]
 
-! /* サムネでアンテナ */
+! サムネでアンテナ
 ##a[href*="2chアンテナ.com"]
 
-! /* しぃアンテナ(*ﾟーﾟ) */
+! しぃアンテナ(*ﾟーﾟ)
 ##a[href*="2ch-c.net"]
 
-! /* 至宝記事倉庫 */
+! 至宝記事倉庫
 ##a[href*="blog.livedoor.jp/jokyjoky"]
 
-! /* しまむらアンテナ */
+! しまむらアンテナ
 ##a[href*="shimamurakun.net"]
 
-! /* シャキンあんてな（｀・ω・´） */
+! シャキンあんてな（｀・ω・´）
 ##a[href*="www.shakin.jp"]
 
-! /* 情報屋さん。 */
+! 情報屋さん。
 ~jyouhouya3.net##a[href*="jyouhouya3.net"]
 
-! /* ショボンあんてな（´・ω・｀） */
+! ショボンあんてな（´・ω・｀）
 ##a[href*="www.shobon.jp"]
 
-! /* 紳士協定 */
+! 紳士協定
 ##a[href*="media-shelf.net/gentleman"]
 
-! /* スオミネイト */
+! スオミネイト
 ##a[href*="suomi-neito.com"]
 
-! /* スマートフォンアンテナ */
+! スマートフォンアンテナ
 ##a[href*="sp-antenna.com"]
 
-! /* センミリＧ（仮） */
+! センミリＧ（仮）
 ##a[href*="1000mg.sblo.jp"]
 
-! /* だめぽアンテナ */
+! だめぽアンテナ
 ##a[href*="moudamepo.com"]
 
-! /* 他力本願 */
+! 他力本願
 ##a[href*="www.tarikin.net"]
 
-! /* ち～た～アンテナ */
+! ち～た～アンテナ
 ##a[href*="cheetah-antenna.net"]
 
-! /* ちくアンテナ */
+! ちくアンテナ
 ##a[href*="chiku-antena.com"]
 
-! /* ちょいエロ★家庭用ゲーム */
+! ちょいエロ★家庭用ゲーム
 ##a[href*="tyoierogame.blog75.fc2.com"]
 
-! /* チラアンテナ(つд・ ) */
+! チラアンテナ(つд・ )
 ##a[href*="2ch.anything-navi.net"]
 
-! /* つーアンテナ(*ﾟ∀ﾟ) */
+! つーアンテナ(*ﾟ∀ﾟ)
 ##a[href*="2ch-2.net"]
 
-! /* ついてな */
+! ついてな
 ##a[href*="twitenna.jp"]
 
-! /* つくるよあんてな */
+! つくるよあんてな
 ##a[href*="www.tukuruyoantena.com"]
 
-! /* デジタルニュースミックス */
+! デジタルニュースミックス
 ##a[href*="digital-mixnews.com"]
 
-! /* なんJオールスターズ */
+! なんJオールスターズ
 ##a[href*="nanjallstars.net"]
 
-! /* なんでもちゃんねる */
+! なんでもちゃんねる
 ##a[href*="taison1224.doorblog.jp"]
 
-! /* てんぷアンテナ */
+! てんぷアンテナ
 ##a[href*="iii.main.jp/tmpantenna"]
 
-! /* 動画ナビあんてな */
+! 動画ナビあんてな
 ##a[href*="antenna.i-like-movie.net"]
 
-! /* 動画エロタレスト */
+! 動画エロタレスト
 ~eroterest.net##a[href*="eroterest.net"]
 ||eroterest.net^$domain=~eroterest.net
 ||eroimg.net^$domain=~eroterest.net
 
-! /* とろたまヘッドライン */
+! とろたまヘッドライン
 ##a[href*="headline.mtfj.net"]
 
-! /* なび風呂 */
+! なび風呂
 ##a[href*="navi-blog.com"]
 
-! /* ナントカアンテナ */
+! ナントカアンテナ
 ##a[href*=".nantoka-antenna.com"]
 
-! /* ニコニコしようよ */
+! ニコニコしようよ
 ##a[href*="chun888.blog6.fc2.com"]
 
-! /* にちゃんねるまとめ */
+! にちゃんねるまとめ
 ##a[href*="2chmatome.sakura.ne.jp"]
 
-! /* (=ﾟ-ﾟ)ニャンアンテナ */
+! (=ﾟ-ﾟ)ニャンアンテナ
 ##a[href*="mae7.com"]
 
-! /* にゃんてな！ */
+! にゃんてな！
 ##a[href*="nyan.eggtree.net"]
 
-! /* にゅーすAtoZ */
+! にゅーすAtoZ
 ##a[href*="netaatoz.blog21.fc2.com"]
 
-! /* にゅーすなう！ */
+! にゅーすなう！
 ##a[href*="newsnow-2ch.com"]
 
-! /* ニュース星３つ！ */
+! ニュース星３つ！
 ##a[href*="news-three-stars.net"]
 
-! /* にゅーぷる */
+! にゅーぷる
 ##a[href*="newpuru.doorblog.jp"]
 
-! /* にゅーもふ */
+! にゅーもふ
 ##a[href*="newmofu.doorblog.jp"]
 
-! /* にゅーれす */
+! にゅーれす
 ##a[href*="newresu1.blog.fc2.com"]
 
-! /* にゅーおた */
-! /* にゅーやく */
-! /* にゅーえろ */
+! にゅーおた
+! にゅーやく
+! にゅーえろ
 ##a[href*="newota.blog.fc2.com/"]
 ##a[href*="newyaku.blog.fc2.com/"]
 ##a[href*="newero1.blog.fc2.com"]
 
-! /* ヌルポあんてな */
+! ヌルポあんてな
 ##a[href*="nullpoantenna.com"]
 
-! /* ねらーアンテナ */
+! ねらーアンテナ
 ##a[href*="2channeler.com"]
 
-! /* のーアンテナ(ﾟAﾟ* ) */
+! のーアンテナ(ﾟAﾟ* )
 ##a[href*="2ch-n.net"]
 
-! /* ハニトラフニトラ */
+! ハニトラフニトラ
 ##a[href*="honey-tiger.ldblog.jp"]
 
-! /* はんでろ */
+! はんでろ
 ##a[href*="handero.net"]
 
-! /* はいよるc⌒っﾟДﾟ)っこんとん */
+! はいよるc⌒っﾟДﾟ)っこんとん
 ##a[href*="www.konton.info"]
 
-! /* ハジマタあんてな＼(^o^)／ */
+! ハジマタあんてな＼(^o^)／
 ##a[href*="headline.noob.jp"]
 
-! /* ハリコのとら */
+! ハリコのとら
 ##a[href*="www.harikonotora.net"]
 
-! /* 暇人(´・д・｀)あんてな */
+! 暇人(´・д・｀)あんてな
 ##a[href*="himazinsnow2ch.blog.shinobi.jp"]
 
-! /* 暇つぶしアンテナ */
+! 暇つぶしアンテナ
 ##a[href*="killing-time.biz"]
 
-! /* ブーンあんてな */
+! ブーンあんてな
 ##a[href*="boon.s349.xrea.com"]
 
-! /* ふるえるあんてな | ((((;゜Д゜))) */
+! ふるえるあんてな | ((((;゜Д゜)))
 ##a[href*="antena.m-yellow.com"]
 
-! /* ぶろにゅー */
+! ぶろにゅー
 ##a[href*="blog-news.doorblog.jp"]
 
-! /* プロ野球・なんJまとめアンテナ */
+! プロ野球・なんJまとめアンテナ
 ##a[href*="nanj.an-matome.com"]
 
-! /* ふんがーアンテナ (っ｀ω´ｃ) */
+! ふんがーアンテナ (っ｀ω´ｃ)
 ##a[href*="funger-antena.info"]
 
-! /* ヘミ猫あんてな */
+! ヘミ猫あんてな
 ##a[href*="hemine.co"]
 
-! /* 棒読みあんてな */
+! 棒読みあんてな
 ##a[href*="bouyomi.jp"]
 
-! /* まじかるニュース */
+! まじかるニュース
 ##a[href*="blog.livedoor.jp/magicalnews"]
 
-! /* まとにゅー！ */
+! まとにゅー！
 ##a[href*="matonew.doorblog.jp"]
 
-! /* まとめα */
+! まとめα
 ##a[href*="matome-alpha.com"]
 
-! /* まとめあ(BETA2) */
+! まとめあ(BETA2)
 ##a[href*="matomea.net"]
 
-! /* まとめアンティーナ */
+! まとめアンティーナ
 ##a[href*="antiina.com"]
 
-! /* まとめアンテナ(´∀｀) */
+! まとめアンテナ(´∀｀)
 ##a[href*="2ch-m.net"]
 
-! /* まとめがね */
+! まとめがね
 ##a[href*="matomegane.com"]
 
-! /* まとめサイト速報＋ */
+! まとめサイト速報＋
 ##a[href*="matome-plus.com"]
 
-! /* まとめたった速報ｗｗｗ */
+! まとめたった速報ｗｗｗ
 ##a[href*="blog.livedoor.jp/matometatta"]
 
-! /* まとめたった速報ｗｗｗ */
+! まとめたった速報ｗｗｗ
 ##a[href*="matometatta-news.net"]
 
-! /* まとめちゃんねる */
+! まとめちゃんねる
 ##a[href*="matomech.com"]
 
-! /* まとめニュース */
+! まとめニュース
 ##a[href*="www.cobwebs.jp"]
 
-! /* まとめニュース速報 */
+! まとめニュース速報
 ##a[href*="www.まとめニュース.com"]
 
-! /* まとめのミシュラン */
+! まとめのミシュラン
 ##a[href*="matomechau.com"]
 
-! /* まとめブログアンテナ */
+! まとめブログアンテナ
 ##a[href*="matome-blog.jp"]
 
-! /* まとめブログアンテナ */
+! まとめブログアンテナ
 ##a[href*="rss.harikonotora.net"]
 
-! /* まとめの杜 */
+! まとめの杜
 ##a[href*="matomenomori.net"]
 
-! /* まとめん */
+! まとめん
 ##a[href*="matomen.com"]
 
-! /* まるごとアンテナ(*´ω｀*) */
+! まるごとアンテナ(*´ω｀*)
 ##a[href*="marugoto-antenna.com"]
 
-! /* マルチメディアNEWS */
+! マルチメディアNEWS
 ##a[href*="multi-media.doorblog.jp"]
 
-! /* みんなのAnteNNa */
+! みんなのAnteNNa
 ##a[href*="min-tenna.com"]
 
-! /* メリーニュース */
+! メリーニュース
 ##a[href*="merry-news.com"]
 
-! /* [も] もくじちゃんねる */
+! [も] もくじちゃんねる
 ##a[href*="mokuji.chbox.jp"]
 
-! /* もしもしアンテナEX(ﾟωﾟ) */
+! もしもしアンテナEX(ﾟωﾟ)
 ##a[href*="mosi2ch.net"]
 
-! /* モナーアンテナ( ´∀｀) */
+! モナーアンテナ( ´∀｀)
 ##a[href*="mona-antenna.com"]
 
-! /* やまだアンテナ 【2chまとめ】 */
+! やまだアンテナ 【2chまとめ】
 ##a[href*="blog-antenna.com"]
 
-! /* やるリンク改 */
+! やるリンク改
 ##a[href*="yarulink.warotamaker2.com"]
 
-! /* やる夫アンテナ(べーた) */
+! やる夫アンテナ(べーた)
 ##a[href*="yaruo-antenna.sakura.ne.jp"]
 
-! /* ライフあんてなJ( 'ｰ`)し */
+! ライフあんてなJ( 'ｰ`)し
 ##a[href*="lifeantenna.com"]
 
-! /* ろっとアンテナ（β） */
+! ろっとアンテナ（β）
 ##a[href*="aerial.deko8.jp"]
 
-! /* わくてか！-2ちゃんねるまとめのまとめアンテナ */
+! わくてか！-2ちゃんねるまとめのまとめアンテナ
 ##a[href*="wk-tk.net"]
 
-! /* ワニアンテナ */
+! ワニアンテナ
 ##a[href*="waniantenna.com"]
 
-! /* ワロタあんてな */
+! ワロタあんてな
 ##a[href*="matomeantena.com"]
 
-! /* ワロタちゃんねる */
+! ワロタちゃんねる
 ##a[href*="warotach.com"]
-
-
-
-
-
