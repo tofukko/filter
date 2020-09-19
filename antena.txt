@@ -698,6 +698,9 @@ zch-vip.com##.headline_out
 ! にゅーすAtoZ
 ##a[href*="netaatoz.blog21.fc2.com"]
 
+!ニュースエッジ
+##a[href*="news-edge.com"]
+
 ! にゅーすなう！
 ##a[href*="newsnow-2ch.com"]
 
