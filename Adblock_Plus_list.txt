@@ -741,7 +741,6 @@ $subdocument,third-party,domain=adf.ly
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
 ||yomoyama-bbs.jp/image/ad_images/
-||youtubemp3org.me/v4/u21drwj6mp.com/
 ||zyuken.net/juku_page/ads/
 
 !------------------------解析------------------------!
@@ -1579,7 +1578,6 @@ saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
 saitama-np.co.jp###ad_middle
 sankakucomplex.com##[class^="adbmodal-"]
-savemedia.website##+js(aopr, open)
 say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
 scraiv.com###main_inner + .max-600
@@ -1964,9 +1962,6 @@ recipe.rakuten.co.jp##.bnrCenter
 recipe.rakuten.co.jp##.rightNaviBanner
 recipe.rakuten.co.jp##.subContentsLink
 
-news.infoseek.co.jp##.ad-side-top
-news.infoseek.co.jp##.ad-side
-
 @@||image.www.rakuten.co.jp/com/js/d/
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
@@ -2000,11 +1995,6 @@ www.vector.co.jp##:-webkit-any(body[vlink], body[id^="v_"], #wrapper) #v_wrapper
 www.vector.co.jp###v_header:style(height: unset !important;)
 www.vector.co.jp##td[width="304"][bgcolor="#eeeeee"][align="center"]:style(vertical-align: top !important;)
 
-!------------xrea.com------------!
-||imgj.xrea.com^
-||value-domain.com/xrea_header.js
-||ax.xrea.com^
-
 !-----------weblio.jp-----------!
 ||llnwd.net^*/ejje_ads_$script,domain=ejje.weblio.jp
 www.weblio.jp###adPcBnrWrp
@@ -2036,6 +2026,14 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.cps-post div[id*="-"][class*="-"][class*="%e"]
 ##div[class][data-index][style^="float: none; margin:"]
 
+!------------xrea.com------------!
+||imgj.xrea.com^
+||value-domain.com/xrea_header.js
+||ax.xrea.com^
+
+!----------youtubemp3org.me-----!
+||youtubemp3org.me/v4/u21drwj6mp.com/
+savemedia.website##+js(aopr, open)
 
 
 
