@@ -741,6 +741,7 @@ $subdocument,third-party,domain=adf.ly
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
 ||yomoyama-bbs.jp/image/ad_images/
+||youtubemp3org.me/v4/u21drwj6mp.com/
 ||zyuken.net/juku_page/ads/
 
 !------------------------解析------------------------!
@@ -1578,6 +1579,7 @@ saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
 saitama-np.co.jp###ad_middle
 sankakucomplex.com##[class^="adbmodal-"]
+savemedia.website##+js(aopr, open)
 say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
 scraiv.com###main_inner + .max-600
