@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/20 11:54
+! 最終更新 2020/09/20 13:21
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -172,7 +172,8 @@ _ads.js
 !g
 /^https?:\/\/[0-9a-z]{10,16}\.cloudfront\.net\/\?[a-z]{3,7}\=[0-9]{4,8}$/$script,third-party
 
-/^https?:\/\/[a-z0-9]{5,20}\.[a-z]{2,6}\/[a-f0-9]{2}\/[a-f0-9]{2}\/[a-f0-9]{2}\/[a-f0-9]{32}\.js/$script,third-party
+/^https?:\/\/[a-z0-9]{5,20}\.[a-z]{2,6}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}\.js/$script,third-party
+/^https?:\/\/[a-z0-9]{5,20}\.[a-z]{2,6}\/[0-9a-f]{32}\/invoke\.js$/$script,third-party
 
 .biz/ad/
 .biz/ads/
@@ -477,6 +478,7 @@ _ads.js
 ||admedia.com^$third-party
 ||adnetworkperformance.com^$third-party
 ||adnium.com^$third-party
+||adreactor.com^$third-party
 ||adsafeprotected.com^$third-party
 ||adsterra.com^$third-party
 ||adtechus.com^$third-party
@@ -591,9 +593,6 @@ _ads.js
 !share-videos.se
 !tokyomotion.net
 
-/link.js$domain=iqoo.me
-
-
 $script,third-party,domain=rapidvideo.com
 $script,third-party,domain=asianclub.tv
 $script,third-party,domain=jpidols.tv
@@ -601,8 +600,6 @@ $script,third-party,domain=javtorrent.re
 $script,subdocument,third-party,domain=clipconverter.cc
 $script,domain=1dl.re
 $subdocument,third-party,domain=adf.ly
-$script,third-party,domain=youtube-mp3.org
-||youtube-mp3.org^$subdocument,domain=youtube-mp3.org
 
 ||2ch.vet/img/ani_
 ||4chan-ads.org^
