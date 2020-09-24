@@ -2535,8 +2535,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
 	!検索関係
 @@||cxense.com^$domain=ntv.co.jp
-@@||dlsite.com/img/
-@@||dmm.co.jp/mono/movie/adult/$image
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
