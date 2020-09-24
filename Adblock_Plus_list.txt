@@ -1305,6 +1305,7 @@ adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
 animatetimes.com##[class^="c-banner-"][class*="--w3"]
 animatetimes.com##.l-content-aside > .c-banner-aside:first-child
+animeanime.jp##.sidebox-ad
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
 atwiki.jp###body_footer .lazy
