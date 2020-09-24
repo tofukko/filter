@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/21 22:14
+! 最終更新 2020/09/24 14:25
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1897,6 +1897,11 @@ msn.com##.widead
 ||tool2.nan-net.com/exposure.jpg
 nan-net.com###banner
 nan-net.com##div[style$="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]:has([src^="//adm.shinobi.jp"])
+
+!------------nicosub.net------------!
+||dlsite.com^$domain=nicosub.net
+||nicosub.net/api/dlsite/
+nicosub.net###seigarakuten
 
 !------------nicovideo ニコニコ動画------------!
 !アンケート
