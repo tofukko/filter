@@ -1235,6 +1235,9 @@ $subdocument,third-party,domain=adf.ly
 ##a[href*="infotop.jp/click.php?"]
 ##a[href*="/traffic.php?"]
 
+!2020/09/26
+!##a[href*="px.a8.net/svt/ejp?"]
+
 ##a[href*="ac.ebis.ne.jp/tr_set.php?"]
 ##a[href*="accesstrade.net/at/"]
 ##a[href*="accesstrade.net/sp/"]
@@ -1242,13 +1245,12 @@ $subdocument,third-party,domain=adf.ly
 ##a[href*="bannerbridge.net/click"]
 ##a[href*="click.duga.jp/"]
 ##a[href*="click.dtiserv2.com"]
-##a[href*="click.linksynergy.com"]:not([href*="&type=2"]):not([href*="&type=3"]):not([href*="=http%3A%2F%2F"]):not([href*="=http%253A%252F%252F"])
+##a[href*="click.linksynergy.com"]:not([href*="&type=2"]):not([href*="&type=3"]):not([href*="=http"]):not([href*="=https"])
 ##a[href*="cross-system.com/click.php"]
 ##a[href*="dgpot.com"][href*="affiliate_banner_id"]
 ##a[href*="purelovers.com/lp"]
 ##a[href*="game-news.biz"]
 ##a[href*="liveads.jp/cc.php?"]
-##a[href*="px.a8.net/svt/ejp?"]
 ##a[href*="nxcount.com/AdClick/"]
 
 !----amazon
