@@ -3,7 +3,7 @@
 ! Title: antenablocklistzanteiban
 ! Homepage: tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/18 10:48
+! 最終更新 2020/09/27 20:33
 
 /headline.$subdocument
 /headline_$subdocument
@@ -537,6 +537,9 @@ zch-vip.com##.headline_out
 ! ガールズリーダー
 ##a[href*="girlsreader.com"]
 
+! 海外の反応アンテナ
+##a[href*="kaigai-antenna.com"]
+
 ! がっくしアンテナorz
 ##a[href*="gakkushi.com"]
 
@@ -657,12 +660,6 @@ zch-vip.com##.headline_out
 ! デジタルニュースミックス
 ##a[href*="digital-mixnews.com"]
 
-! なんJオールスターズ
-##a[href*="nanjallstars.net"]
-
-! なんでもちゃんねる
-##a[href*="taison1224.doorblog.jp"]
-
 ! てんぷアンテナ
 ##a[href*="iii.main.jp/tmpantenna"]
 
@@ -679,6 +676,12 @@ zch-vip.com##.headline_out
 
 ! なび風呂
 ##a[href*="navi-blog.com"]
+
+! なんJオールスターズ
+##a[href*="nanjallstars.net"]
+
+! なんでもちゃんねる
+##a[href*="taison1224.doorblog.jp"]
 
 ! ナントカアンテナ
 ##a[href*=".nantoka-antenna.com"]
@@ -698,7 +701,7 @@ zch-vip.com##.headline_out
 ! にゅーすAtoZ
 ##a[href*="netaatoz.blog21.fc2.com"]
 
-!ニュースエッジ
+! ニュースエッジ
 ##a[href*="news-edge.com"]
 
 ! にゅーすなう！
@@ -706,6 +709,9 @@ zch-vip.com##.headline_out
 
 ! ニュース星３つ！
 ##a[href*="news-three-stars.net"]
+
+! ニュー速
+##a[href*="new-soku.net"]
 
 ! にゅーぷる
 ##a[href*="newpuru.doorblog.jp"]
