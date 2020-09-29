@@ -629,6 +629,7 @@ $subdocument,third-party,domain=adf.ly
 ||chem-station.com^*/adrotate-pro/
 ||chixi.jp/img.php?filename=b
 ||cinematoday.jp/widgets/
+||clipstudio.net^*/banner_
 ||cookpad.com/iframe/
 ||cosp.jp/images/spacer.gif
 ||diced.jp/webs/
