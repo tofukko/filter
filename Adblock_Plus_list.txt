@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/09/27 10:44
+! 最終更新 2020/09/29 20:09
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1477,6 +1477,11 @@ loveh.org##div:has(> script[src="http://static.adroute.focas.jp/js/adroute_ads.j
 loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
 maho.jp##.Ad
+mainichi.jp###SuggestKeyWord
+mainichi.jp###SuperBanner
+mainichi.jp##.ArticleAdKW
+magnet-novels.com##.adBox
+mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
 manager-life.net##[id^="ad_"]
 mangahack.com##[class^="ad_"]
 mangalove.me##.lastInterstitial
@@ -1486,13 +1491,10 @@ mangalove.me##.viewerBody,.viewer,.viewer .slick-list,.viewer .slick-track,.view
 mangalove.me##.viewer,.lastWrap:style(padding-bottom: 0 !important;)
 mangalove.me##.pr_00 .title:style(width: 135px !important;)
 mangaz.com###scroll-adv
-mainichi.jp###SuggestKeyWord
-mainichi.jp###SuperBanner
-mainichi.jp##.ArticleAdKW
-magnet-novels.com##.adBox
-mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
+matomedane.jp##.adv_top
+matomedane.jp##.pc_header_bottom_adv
 medibang.com##.asArtStreetTopIllustAd
 medibang.com##.mdbnAdBlock
 medibang.com##.mdModal
@@ -1503,7 +1505,8 @@ medibang.com##.viewer-bottomBanner
 mhometheater.com##[href^="https://airw.net/"]:not(:first-child),[href^="http://blogrank.toremaga.com/"],[href^="https://blogranking.fc2.com/"],[href^="https://blog.with2.net/"]
 middle-edge.jp###detad
 mimizun.com##.ad300x250
-mimizun.com###thread:style( position: relative; left: -312px; )
+mimizun.com###thread:style(position: relative; left: -312px;)
+mixi.jp##.adsenseBannerArea
 mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
 moeeki.net###newboxleft > p
@@ -1647,6 +1650,7 @@ twitter.com##div[data-testid="UserCell"]:has-text(/Promoted|プロモーショ�
 twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|プロモーション/))
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|プロモーション/)
 twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモーション/)
+upup.be###headeradv:style(height: 0 !important; margin: 0 !important; padding: 0 !important; clear: both !important;)
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
