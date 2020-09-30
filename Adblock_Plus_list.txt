@@ -2248,6 +2248,7 @@ admin.blog.fc2.com#@##ads
 ameblo.jp##.subAdBannerArea
 ameblo.jp##.skin-entryAd
 ameblo.jp##[alt0="BlogAffiliate"]
+ameblo.jp###subAInner:style(position: static !important; margin-top: auto !important;)
 
 !------------nikkeibp------------!
 ||bizad.nikkeibp.co.jp^
