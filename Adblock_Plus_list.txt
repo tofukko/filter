@@ -2693,7 +2693,7 @@ yakkun.com##.ad + div:style(clear:both)
 battlecats-db.com##body:style(display: block !important)
 gametter.com##+js(acis, addEventListener, google_ad_client)
 jpidols.tv##+js(acis, addEventListener, google_ad_client)
-manga1000.com##+js(acis, window.onload, elmnt)
+manga1000.com##+js(aopr, onload)
 my0nio.seesaa.net#@#.adsbygoogle
 my0nio.seesaa.net#@#.adv
 my0nio.seesaa.net#@#.adsense
