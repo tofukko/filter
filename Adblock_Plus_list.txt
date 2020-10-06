@@ -1477,10 +1477,11 @@ loveh.org##div:has(> script[src="http://static.adroute.focas.jp/js/adroute_ads.j
 loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
 maho.jp##.Ad
+magnet-novels.com##.adBox
 mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
 mainichi.jp##.ArticleAdKW
-magnet-novels.com##.adBox
+making.pipa.jp##.NoFrame.RelatedWorkRight
 mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
 manager-life.net##[id^="ad_"]
 mangahack.com##[class^="ad_"]
@@ -1812,7 +1813,6 @@ game.goo.ne.jp##.ad_super
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.goo.ne.jp
 
 !-----------hatena-----------!
-!はてなブログProにも出るんだろうか？有料版で独自ドメインを取り広告を非表示にせず更新が滞ってるブログを見つけられないからわからない
 	!hateblo.jp,
 	!hatenablog.com,jp,
 	!hatenadiary.com,jp,org
@@ -1839,7 +1839,6 @@ hitomi.la##+js(aopr, pops)
 !g-----------kissanime-----------!
 !nz
 ||demand.supply^$third-party
-||ezexfzek.com^
 ||ga.kvideo.io^
 ||ikunselt.com^
 ||in-page-push.com^
@@ -1850,7 +1849,6 @@ hitomi.la##+js(aopr, pops)
 ||kissanime.nz/api/pop.php
 ||kissanime.nz/rmad.php?
 !ws
-	!いわじー
 ||graizoah.com^
 ||ntvsw.com^
 ||painsko.com^
