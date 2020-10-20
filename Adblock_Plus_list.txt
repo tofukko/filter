@@ -746,10 +746,7 @@ $subdocument,third-party,domain=adf.ly
 !------------------------解析------------------------!
 	!/__tm3k.js
 	!/__utm.
-!nico サムネ消える
-!dl-xvideos.com サムネ
-!mognavi.jp 画像消え
-/1x1.gif$domain=~nicovideo.jp|~dl-x.com|~mognavi.jp|~nlab.itmedia.co.jp
+/1x1.gif?
 /ac.php?
 /acc.cgi?
 /acc.php?
