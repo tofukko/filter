@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/10/20 9:45
+! 最終更新 2020/10/21 9:47
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -215,6 +215,7 @@ _ads.js
 ||ad-management.biz^$third-party
 ||ad-nex.com^$third-party
 ||ad-spire.net^$third-party
+||ad-tag.biz^$third-party
 ||ad-v.jp^$third-party
 ||ad-vortex.com^$third-party
 ||adap.tv^$third-party
@@ -1378,6 +1379,9 @@ app.famitsu.com###widget-ad-rect
 	!famitsu.com##.border-col-bottom > [class^="col-"]:has(> .card > [class*="ad-native-campaign"])
 fandom.com##.aff-unit__wrapper
 fandom.com##.wikia-ad
+fate-twitter-matome.com###js-popup
+fate-twitter-matome.com###mainEntity > div:not(.clearfix):not(.meta-box)
+fate-twitter-matome.com###pc-text-widget
 favolog.org###side > div:first-child
 flashfabrica.com##div:has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
@@ -1553,7 +1557,7 @@ oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="cent
 okwave.jp##.pickup
 onlinegamer.jp###adPC
 onlinegamer.jp##.spsiteDmmRecommend
-onlinegamer.jp##.contentWrap:style(margin-top: 90px !important;)
+onlinegamer.jp,gamer.ne.jp##.contentWrap:style(margin-top: 90px !important;)
 open2ch.net##.kokoku
 orangepage.net##.doubleRectangle
 orangepage.net##.recipeBlock.clearfix.pr
