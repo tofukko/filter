@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/10/21 9:47
+! 最終更新 2020/10/22 9:41
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1326,6 +1326,7 @@ atwiki.jp##div[style="width: 160px;height:600px"]
 bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
+bbc.com##[class^="AdContainer-sc-"]
 bing.com##.b_ad:remove()
 bizspa.jp##.ad-wrap
 blog.ss-blog.jp###ad-days-area
@@ -1452,6 +1453,7 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="accesstrade.net/sp/"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
+kai-you.net##.l-recommend-product
 kakijun.jp###header1 > div
 kakijun.jp###migi > #kakijun_books
 kakijun.jp###migi > .divcenter
