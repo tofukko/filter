@@ -1454,6 +1454,7 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
 kai-you.net##.l-recommend-product
+kai-you.net##.l-side-common-banner-outer
 kakijun.jp###header1 > div
 kakijun.jp###migi > #kakijun_books
 kakijun.jp###migi > .divcenter
