@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/10/22 23:32
+! 最終更新 2020/10/24 8:54
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1327,6 +1327,7 @@ bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bbc.com##[class^="AdContainer-sc-"]
+bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bing.com##.b_ad:remove()
 bizspa.jp##.ad-wrap
 blog.ss-blog.jp###ad-days-area
@@ -1837,6 +1838,7 @@ game.goo.ne.jp##.ad_super
 	!hatenablog.com,jp,
 	!hatenadiary.com,jp,org
 ##.sleeping-ads
+##.insentence-adsense
 anond.hatelabo.jp,hatena.ne.jp##.double-rectangle
 hatenanews.com##.ads-250
 a.hatena.ne.jp##.side-ad
