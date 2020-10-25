@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/10/24 8:54
+! 最終更新 2020/10/25 20:26
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1776,7 +1776,12 @@ coolrom.com.au##+js(set-constant, time, 0)
 ||dtiblog.com/hist_count.php
 dtiblog.com###meerkat-wrap
 
-!---------eroterest.net--------!
+!------------ero-video.net------------!
+*$third-party,domain=ero-video.net
+||ero-video.net/advert/*
+ero-video.net##+js(aeld, DOMContentLoaded, showPopUpBanner)
+
+!------------eroterest.net--------!
 /kok/*$domain=eroterest.net
 ||okbp.xyz^
 eroterest.net##.adAreaNative
@@ -2279,16 +2284,14 @@ ameblo.jp###subAInner:style(position: static !important; margin-top: auto !impor
 
 
 !------------youtube------------!
--pagead-id.
 ||google.co.jp/pagead/
 ||youtube.com^*=adunit&
 ||youtube.com/get_midroll_
 
-||youtube.com^*/log_event?
-||youtube.com^*/log_interaction?
-||youtube.com/player_204?
+||youtube.com/api/stats/atr
+||youtube.com/api/stats/delayplay?
+||youtube.com/api/stats/qoe?
 ||youtube.com/ptracking?
-||s.youtube.com^
 youtube.com###masthead-ad
 youtube.com##ytd-display-ad-renderer:upward(2)
 youtube.com##ytd-promoted-sparkles-web-renderer
@@ -2299,9 +2302,6 @@ youtube.com##.ytd-search-pyv-renderer
 youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
-
-!再生履歴
-@@||s.youtube.com/api/stats/playback?
 
 !g------------dailymotion------------!
 ||dailymotion.com*/masscast/
@@ -2341,13 +2341,6 @@ channel.pandora.tv##.pm_wrap
 ||vis1.shinobi.jp^
 ||vis1.shinobi.jp/js/
 ||vis1.shinobi.jp/jsr/
-
-
-!------------ero-video.net------------!
-|http://$third-party,domain=ero-video.net
-|https://$third-party,domain=ero-video.net
-||ero-video.net/advert/*
-ero-video.net##^script:has-text(showPopUpBanner)
 
 !g------------mediafire.com------------
 ||mediafire.com^$subdocument
