@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/10/28 11:59
+! 最終更新 2020/10/29 16:51
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1641,6 +1641,7 @@ storie.jp##[class^="banner"]
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
 supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href^="https://affiliate.suruga-ya.jp/"]
 supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href*="://www.amazon.co.jp"]
+syosetu.com##[class^="koukoku_"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
