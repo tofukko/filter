@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/10/31 22:33
+! 最終更新 2020/11/01 13:03
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1534,6 +1534,17 @@ mogera.jp##[id^="gadUnit"]
 moguna.com##.Post-bottom
 moguna.com##.side-bar-ad
 momon-ga.com###menu-pr
+mora.jp##.jack
+mora.jp##.newrelease_adBox
+mora.jp##.rect_box
+mora.jp##.top_ad
+mora.jp##.top_adBox
+mora.jp##.package_adBox
+mora.jp##.page_adArea
+mora.jp##.wide_ad
+mora.jp##.wide_adBox_footer
+mora.jp##.special_adBox
+mora.jp###special_adBox_bg
 muvc.net##body > div[align="right"]:last-of-type
 nagasaki-np.co.jp##.article_ad:remove()
 navitime.co.jp###under-advertisement
