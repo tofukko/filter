@@ -594,7 +594,6 @@ _ads.js
 
 $script,third-party,domain=rapidvideo.com
 $script,third-party,domain=asianclub.tv
-$script,third-party,domain=jpidols.tv
 $script,third-party,domain=javtorrent.re
 $script,subdocument,third-party,domain=clipconverter.cc
 $script,domain=1dl.re
@@ -2742,7 +2741,6 @@ yakkun.com##.ad + div:style(clear:both)
 9ketsuki.info##+js(nobab)
 battlecats-db.com##body:style(display: block !important)
 gametter.com##+js(acis, addEventListener, google_ad_client)
-jpidols.tv##+js(acis, addEventListener, google_ad_client)
 manga1000.com##+js(aopw, $)
 my0nio.seesaa.net#@#.adsbygoogle
 my0nio.seesaa.net#@#.adv
