@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/11/02 13:16
+! 最終更新 2020/11/05 12:21
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2602,25 +2602,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
-	!多い
-	!@@||google.com^$generichide
-	!@@||google.co.jp^$generichide
-	!検索結果動画部分
-	!google.co.jp,google.com#@#[class$="Ad"]:not(html):not(body)
-	!通知設定辺り
-	!calendar.google.com#@#[class$="Ad"]:not(html):not(body)
-	!ヘッダー 検索バー
-	!news.google.com#@#[class$="Ad"]:not(html):not(body)
-	!メール一覧
-	!inbox.google.com#@#.ad:not([class*="widget_"])
-	!新規作成ボックスが消える
-	!mail.google.com#@#.AD
-	!本文
-mail.google.com#@#.ads
-	!カラーパレッド
-	!mail.google.com#@#[class$="Ad"]:not(html):not(body)
-	!投稿欄
-	!plus.google.com#@#[class$="Ad"]:not(html):not(body)
+	!画像
+@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!カード画像
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
@@ -2706,6 +2689,8 @@ hs-exp.jp#@#.adsbygoogle
 htb.co.jp#@##advertisement
 	! 
 magcomi.com#@#.adv
+	!本文
+mail.google.com#@#.ads
 	!住所検索 > 住所
 mapion.co.jp#@#.ad:not([class*="widget_"])
 	!トップバナー
