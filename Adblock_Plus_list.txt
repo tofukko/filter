@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2020/12/01 22:15
+! 最終更新 2021/01/02 1:30
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1925,33 +1925,8 @@ kissanime.*##+js(set, check_adblock, true)
 ###gdpr-banner
 
 !g--------loveheaven.net---------!
-||a.vdo.ai^
-||cogleapad.com^
-||dyecowwhy.com^
-||exdynsrv.com^
-||eyefuneve.com^
-||jiltlargosirk.com^
-||lzrikate.com^
-||mehebborc.com^
 ||prosumsit.com^
-||adform.net^$third-party
-||adxpub.com^$third-party
-||bidadx.com^$third-party
-||creativecdn.com^$third-party
-||tapad.com^$third-party
-||viglink.com^$third-party
 ||vlitag.com^$third-party
-||spolecznosci.net^$third-party
-||inpagepush.com^$important
-loveha.net,loveheaven.net##.float-ck
-loveha.net,loveheaven.net##.quang-cao
-loveha.net,loveheaven.net##.quang-cao + center
-
-loveha.net,loveheaven.net##br + br + br +h3
-loveha.net,loveheaven.net##.chapter-img + br + br + br + center
-loveha.net,loveheaven.net##.chapter-img + br + br + br + center + br
-loveha.net,loveheaven.net##.chapter-img + br + br + br + center + br + br
-loveha.net,loveheaven.net##.chapter-img + br + br + br + center + br + h3
 
 !--------------msn----------------!
 ://c.*/c.gif?
