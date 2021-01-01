@@ -1925,6 +1925,7 @@ kissanime.*##+js(set, check_adblock, true)
 ###gdpr-banner
 
 !g--------loveheaven.net---------!
+||a.vdo.ai^
 ||prosumsit.com^
 ||vlitag.com^$third-party
 
