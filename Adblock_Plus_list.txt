@@ -1567,6 +1567,10 @@ nijie.info,horne.red###footer-banner
 nijie.info,horne.red###header_banner_wrapper
 nijie.info,horne.red##.left_column
 nijie.info##._ad, [href^="/ad.php"]
+! スマホ
+sp.nijie.info###header_ad
+sp.nijie.info###inter_background
+sp.nijie.info###tieup_column
 nikkansports.com##.adBECOME
 nlab.itmedia.co.jp###globalHeader
 novelup.plus##[class^="ad-"]
