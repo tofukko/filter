@@ -2007,6 +2007,8 @@ xtech.nikkei.com###sticky1 > section.l-asideSection:first-child
 xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
 xtech.nikkei.com##.p-article_ad
+! https://tofukko.blog.fc2.com/blog-entry-405.html#comment830
+@@||vdata.nikkei.com/newsgraphics/coronavirus-japan-chart/js/modules/ga.js?$script,domain=vdata.nikkei.com
 
 !------------rakuten-楽天------------!
 ||adroll.com^$third-party
