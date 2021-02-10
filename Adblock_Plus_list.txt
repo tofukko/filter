@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/01/27 19:05
+! 最終更新 2021/02/10 20:21
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1704,6 +1704,8 @@ uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
 vidoza.net##.pvr
+waifu2x.udp.jp##.all-page > div[style="min-height: 270px; margin: 1em"]
+waifu2x.udp.jp##.dmm-games
 walkerplus.com##.m-prbnr
 watch.impress.co.jp##.billboard
 web-ace.jp##[class^="ad_rect"]
