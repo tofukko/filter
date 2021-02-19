@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/02/14 13:47
+! 最終更新 2021/02/19 16:30
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1608,6 +1608,8 @@ pixiv.net##li:has(> iframe[width="184"][height="232"])
 pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
+dic.pixiv.net###footer_ad
+dic.pixiv.net##.d_header
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
 pokemon-matome.net###header_ads
