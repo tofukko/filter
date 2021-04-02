@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/03/27 20:51
+! 最終更新 2021/04/02 22:41
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1353,6 +1353,7 @@ cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 coliss.com###sponsors
 coliss.com###sponsorsTop
+comicbunch.com##.footer_comics_ad:style(display: none !important; opacity: 0 !important;)
 curazy.com##.jsViewer_dialog-ad
 curazy.com##.jsViewer_overlay-dialogAd
 cyclestyle.net##.sidebox-ad
