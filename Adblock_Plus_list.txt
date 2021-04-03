@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/02 22:41
+! 最終更新 2021/04/03 16:40
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2048,6 +2048,11 @@ recipe.rakuten.co.jp##.subContentsLink
 @@||image.www.rakuten.co.jp/com/js/d/
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
+
+
+||r10s.jp/com/js/d/ad_liquid_table/
+||rakuten-static.com/1/grp/banner/js/create.js
+||rmp.rakuten.co.jp/js/aa.js$domain=~edy.rakuten.co.jp
 
 !------------sitemix・tok2.com------------!
 /ad.min.js
