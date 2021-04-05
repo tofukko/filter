@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/03 16:40
+! 最終更新 2021/04/05 15:39
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -89,12 +89,9 @@ _ad.php^
 /adframe/*
 ?adid=
 /adparts/*
-!動画見れない css
-/adplayer.$domain=~share-videos.se
+/adplayer.
 /ads.cgi
 /ads.js
-!真っ白
-!広告s同画像消
 _ads.js
 /ads?
 /ads2.
@@ -588,10 +585,6 @@ _ads.js
 ||realsrv.com^
 ||runative-syndicate.com^
 ||speee-ad.akamaized.net^
-
-||d2swpuhpwp3khd.cloudfront.net^
-!share-videos.se
-!tokyomotion.net
 
 $script,third-party,domain=rapidvideo.com
 $script,third-party,domain=asianclub.tv
@@ -1088,6 +1081,7 @@ $subdocument,third-party,domain=adf.ly
 ||just-now.net/p?k=
 ||l.sharethis.com^
 ||l--l.jp/in.cgi?
+||mc.yandex.ru^
 ||metrics.brightcove.com^
 ||onesignal.com/webPushAnalytics|
 ||sea.pakapeko.com^
@@ -1655,6 +1649,7 @@ sekkaku.net##[summary="広告欄"]
 server-setting.info###pr_bottom
 server-setting.info###pr_side_top
 share-videos.se###ad_html
+share-videos.se###new_ad_html
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sound.jp###adfloat
@@ -2062,6 +2057,12 @@ recipe.rakuten.co.jp##.subContentsLink
 ||tok2.com/app/ad/
 tok2.com###meerkat-wrap
 tok2.com###tok2_footer
+
+!------------tokyomotion.net------------!
+!share-videos.se
+||cstwpush.com^
+||d2swpuhpwp3khd.cloudfront.net^
+osakamotion.net,tokyomotion.net###nuevoa
 
 !------------vector.co.jp-------------!
 vector.co.jp###adBox
