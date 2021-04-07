@@ -1351,6 +1351,8 @@ eroido.jp##[class^="adv_"]
 eromazofu.com##.c_c_t_w
 exploader.net###nls
 exploader.net##article > div[style^="margin-bottom: 10px"]
+famitsu.com##.article-body__contents-pr-primary
+famitsu.com##.banner-pc
 famitsu.com##.banner-top-header
 app.famitsu.com###widget-ad-rect
 	!微妙系
