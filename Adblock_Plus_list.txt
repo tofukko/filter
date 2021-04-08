@@ -2712,7 +2712,7 @@ houdoukyoku.jp#@#.ad:not([class*="widget_"])
 htb.co.jp#@##advertisement
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
-	!magcomi.com#@#.adv
+magcomi.com#@#.adv
 	!本文
 mail.google.com#@#.ads
 	!住所検索 > 住所
