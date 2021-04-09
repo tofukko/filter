@@ -1585,6 +1585,9 @@ pixiv.net##div:has( > iframe:not([src]))
 pixiv.net##li:has(> iframe[width="184"][height="232"])
 pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
 pixiv.net#?#div:-abp-has( > iframe:not([src]))
+privatter.net##.“hidden-print”
+privatter.net##.media:has(> .media-left)
+privatter.net##[href="/adcookie.php"]
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
