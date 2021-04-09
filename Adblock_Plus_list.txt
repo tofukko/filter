@@ -2411,6 +2411,9 @@ figsoku.net##.gad
 figsoku.net##.pluginWrap:has([rel="noopener noreferrer"])
 figsoku.net##.shop
 figsoku.net##.wama
+figsoku.net##.textwidget [href^="http://px.a8.net/svt/ejp"]
+figsoku.net##.textwidget [href^="http://click.linksynergy.com/"]
+figsoku.net##.textwidget [href^="https://www.amazon.co"]
 
 !ライフハック
 lifehack2ch.livedoor.biz##.elsebody
