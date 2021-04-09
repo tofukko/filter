@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/09 22:31
+! 最終更新 2021/04/09 22:35
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -2142,6 +2142,8 @@ chiebukuro.yahoo.co.jp##.lstAd
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
 finance.yahoo.co.jp##div:has(> #mainAdTop)
 finance.yahoo.co.jp##div:has(> [id^=subAd])
+gyao.yahoo.co.jp##.yads-overlay
+gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
 mail.yahoo.co.jp###theAd
 mail.yahoo.co.jp###shellcontent:style(right: 0 !important;)
 mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
