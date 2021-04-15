@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/12 11:54
+! 最終更新 2021/04/15 20:34
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1594,6 +1594,7 @@ dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
+poipiku.com##.PcSideBarAd
 pokemon-matome.net###header_ads
 pokemon-matome.net###hoge
 pokemon-matome.net##.inner
@@ -1651,6 +1652,8 @@ supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
 supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href^="https://affiliate.suruga-ya.jp/"]
 supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href*="://www.amazon.co.jp"]
 syosetu.com##[class^="koukoku_"]
+syosetu.org##div[id^="1"][style*="height"][style*="width"]
+syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
@@ -1682,6 +1685,9 @@ twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|プロモーション/)
 twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモーション/)
 upup.be###headeradv:style(height: 0 !important; margin: 0 !important; padding: 0 !important; clear: both !important;)
+userscript.zone##.searcad
+	||tampermonkey.net/s.js?$domain=userscript.zone
+	||userscript.zone/s.js?$domain=userscript.zone
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
@@ -2633,6 +2639,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
+! 
+@@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xhr,domain=ganma.jp
 	!http://www.jp.square-enix.com/jc3/
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	!画像
