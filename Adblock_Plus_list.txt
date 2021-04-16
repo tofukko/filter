@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/16 13:57
+! 最終更新 2021/04/16 19:51
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1982,6 +1982,7 @@ nicosub.net###seigarakuten
 !||enquete.nicovideo.jp/static/
 !ニコ生
 ||nimg.jp/relive/playerbanner/
+||nicovideo.jp/api/v1/watch/*/playerbanner|
 dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; width:300px; margin:0 0 4px 0;"]
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
 dic.nicovideo.jp##.adsense-728
