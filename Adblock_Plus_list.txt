@@ -1377,6 +1377,7 @@ fukuishimbun.co.jp##.admeasure
 getchu.com###rectangle
 getchu.com##.banner
 gigafile.nu##[class*=banner_type_]
+gigazine.net##.e_ad
 gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
