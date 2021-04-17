@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/16 19:51
+! 最終更新 2021/04/17 9:48
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1299,6 +1299,7 @@ ashinari.com##[class^="area-bnr"]
 atwiki.jp###body_footer .lazy
 atwiki.jp###recommend
 atwiki.jp##[id^="advp"]
+atwiki.jp##.atwiki-ads-margin
 atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
 bakufu.jp###prBox
