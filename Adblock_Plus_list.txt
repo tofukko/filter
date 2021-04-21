@@ -17,6 +17,12 @@
 nicovideo.jp##.ads_list_area
 ch.nicovideo.jp##.ads_nicovideo
 
+!2021年3月2日～　もうだめかもわからんね
+logsoku.com###fixed_area
+logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
+logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
+logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
+
 !----------------------------広告----------------------------!
 /300x250.
 /300x250_
@@ -1473,10 +1479,6 @@ lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
 lmaga.jp##.contents_ad
 lmaga.jp##.header_ad
-logsoku.com###fixed_area
-logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
-logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
-logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
 loveh.org##div:has(> script[src="http://static.adroute.focas.jp/js/adroute_ads.js"])
 loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
