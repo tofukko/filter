@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/21 16:21
+! 最終更新 2021/04/21 21:46
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1748,7 +1748,14 @@ pinktower.com##div
 ||alphapolis.co.jp/html/ad_
 ||s3-ap-northeast-1.amazonaws.com/seedapp-script/adloader.js
 alphapolis.co.jp###main > .banner
-alphapolis.co.jp##.wrapper ~ #TopLayer
+! 邪魔なのをアレするやつ
+alphapolis.co.jp##+js(aeld, blur)
+alphapolis.co.jp##+js(aeld, contextmenu)
+alphapolis.co.jp##+js(aeld, copy, preventDefault)
+alphapolis.co.jp##+js(ra, oncontextmenu)
+alphapolis.co.jp##+js(ra, style, div#novelBoby, stay)
+alphapolis.co.jp##+js(set, document.onselectstart, null)
+alphapolis.co.jp##+js(set, document.oncontextmenu, null)
 
 !------------angelfire.com------------!
 angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
@@ -2766,7 +2773,8 @@ mega.nz#@#.ad:not([class*="widget_"])
 	!検索 ランキングの「宣伝」部分が消える
 www.nicovideo.jp#@#.ads
 	!header辺り
-no-ichigo.jp###rightmenu:style(margin-top: 41px !important;)
+no-ichigo.jp##div[style="height:41px;"]:style(height: 42px !important;)
+no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
 	!右
 okwave.jp#@#.ad_area
 	!記事
