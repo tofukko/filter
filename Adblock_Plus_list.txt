@@ -1408,6 +1408,7 @@ hub.vroid.com##[class^="EventBanner-"]
 idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
 idol-blog.com##[id^="post-"] + .box ~ div
+ign.com##.zad.billboard:style(min-height: 0 !important;)
 imagis.jp,costype.net##.topadv
 img.favsite.jp##[class$="-lg"]
 img.favsite.jp##[href*="dlsite.com/"]
