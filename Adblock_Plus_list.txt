@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/21 15:09
+! 最終更新 2021/04/21 16:21
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -2638,8 +2638,12 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||ads-twitter.com/oct.js$domain=jp.square-enix.com
 	!動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
+	!全体的に
+@@||asahi.com/ad/$css,font,image,script,domain=asahi.com
 	!全部
-@@||asahi.com/ads/orix-senryu/$css,image,script,domain=asahi.com
+@@||asahi.com/ads/$css,font,image,script,domain=asahi.com
+	!ad
+@@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
 	!動画プレイヤー
 @@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
 	!できない
