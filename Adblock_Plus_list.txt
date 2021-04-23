@@ -1348,6 +1348,7 @@ daily.co.jp###adUnderArticle
 daily.co.jp##aside.add
 daily.co.jp##[style="width:300px;height:600px;"]
 daysneo.com###bnrTop
+denfaminicogamer.jp##.ad-box
 dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
 dl-x.com##.vip-center
@@ -1747,6 +1748,7 @@ zyuken.net##.AdImg
 5ch.net##[id^="js--banners--"]
 5ch.net##.ADVERTISE_AREA
 5ch.net##.ADVERTISE_AREA + div
+5ch.net##div[style="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;"]
 bbspink.com##[class$="_banner"]:not(.sidemenu_banner)
 bbspink.com##[class^="banner_"]
 bbspink.com###bbspink-bottom-ads
