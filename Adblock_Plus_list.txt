@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/04/30 7:45
+! 最終更新 2021/05/01 14:02
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1226,6 +1226,7 @@ $subdocument,third-party,domain=adf.ly
 
 !2020/09/26
 !##a[href*="px.a8.net/svt/ejp?"]
+	!www.kadokawa.co.jp#@#a[href*="px.a8.net/svt/ejp?"]
 
 ##a[href*="ac.ebis.ne.jp/tr_set.php?"]
 ##a[href*="accesstrade.net/at/"]
@@ -2650,6 +2651,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
 
+@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
+
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=f.tabtter.jp
 
 	!トップバナー
@@ -2763,7 +2766,6 @@ games.wkb.jp##+js(set, noblock, true)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
 	!https://www.kadokawa.co.jp/product/322003000737/
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
-www.kadokawa.co.jp#@#a[href*="px.a8.net/svt/ejp?"]
 	!左側
 kemochan.com#@#.ad:not([class*="widget_"])
 	! 気象警報・注意報（表形式）が消える
