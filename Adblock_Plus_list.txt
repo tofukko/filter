@@ -1423,7 +1423,6 @@ idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
 idol-blog.com##[id^="post-"] + .box ~ div
 ign.com##.zad.billboard:style(min-height: 0 !important;)
-imagis.jp,costype.net##.topadv
 img.favsite.jp##[class$="-lg"]
 img.favsite.jp##[href*="dlsite.com/"]
 irasutoya.com##[class^="entryadwrapper"]
@@ -1717,7 +1716,6 @@ twitter.com##div[data-testid="UserCell"]:has-text(/Promoted|プロモーショ�
 twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|プロモーション/))
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|プロモーション/)
 twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモーション/)
-upup.be###headeradv:style(height: 0 !important; margin: 0 !important; padding: 0 !important; clear: both !important;)
 userscript.zone##.searcad
 	||tampermonkey.net/s.js?$domain=userscript.zone
 	||userscript.zone/s.js?$domain=userscript.zone
