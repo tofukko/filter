@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/02 12:56
+! 最終更新 2021/05/03 10:00
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -117,6 +117,7 @@ _ads.js
 /js/ads-
 /js/ads_
 /js.ng/site=
+/jquery.meerkat.
 /koukoku/*
 /prebid.$domain=~prebid.org
 /prebid/*
@@ -638,6 +639,7 @@ $subdocument,third-party,domain=adf.ly
 ||google.com/uds/?file=ads&
 ||google.com/uds/api/ads/
 ||mail-ads.google.com^
+||myoji-yurai.net/images/banner/
 ||gotporn.com/desktop/js/popunder-
 ||gotporn.com/main/js/exo-loader/
 	||tsyndicate.com/iframes2/*$domain=gotporn.com
@@ -764,6 +766,7 @@ $subdocument,third-party,domain=adf.ly
 /analyzer.js
 /apricot.php?
 /astrack.js
+/autotrack.js
 /bcn.gif?
 ! amazon topページ 背景画像とかpngとか
 /beacon/*$domain=~amazon.com|~amazon.co.jp
@@ -1547,6 +1550,12 @@ mora.jp##.wide_adBox_footer
 mora.jp##.special_adBox
 mora.jp###special_adBox_bg
 muvc.net##body > div[align="right"]:last-of-type
+myoji-yurai.net###adSideTop
+myoji-yurai.net###adSideTop + li
+myoji-yurai.net###adTop
+myoji-yurai.net###main_slider2
+myoji-yurai.net##.ad336
+myoji-yurai.net##.adResponsive
 nagasaki-np.co.jp##.article_ad:remove()
 navitime.co.jp###under-advertisement
 nazology.net##.side-adblock
