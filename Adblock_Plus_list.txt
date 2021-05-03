@@ -1447,6 +1447,7 @@ jisin.jp##.add_right
 jisin.jp###wrap:style(width: unset !important;)
 jitenon.jp##.ads_wraptop2
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
+j-town.net##.ad-unit
 jocr.jp##.side_adsbygoogle
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
