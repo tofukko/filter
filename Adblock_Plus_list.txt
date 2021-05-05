@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/05 8:47
+! 最終更新 2021/05/05 16:29
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -726,6 +726,8 @@ $subdocument,third-party,domain=adf.ly
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||wav.tv/support/adFrame?
+! 例のアレ
+||webnewtype.com/img/pc/common/spacer1.gif
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
 ||yomoyama-bbs.jp/image/ad_images/
@@ -1309,6 +1311,7 @@ animatetimes.com##.c-banner-lg-area
 animatetimes.com###times_affiliate-writer
 animatetimes.com##.c-reccomendArea-product
 animeanime.jp##.sidebox-ad
+arban-mag.com##.side-banner
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
 atwiki.jp###body_footer .lazy
@@ -1394,6 +1397,7 @@ front-row.jp##.after-btn-fb-nice-ad-pc
 fukuishimbun.co.jp##.admeasure
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
+gendai.ismedia.jp##.reduce-CLS
 getchu.com###rectangle
 getchu.com##.banner
 gigafile.nu##[class*=banner_type_]
@@ -2086,9 +2090,11 @@ xtech.nikkei.com##.p-article_ad
 ||websearch.rakuten.co.jp/elog?
 ##form[action*="afl.rakuten.co.jp"]
 plaza.rakuten.co.jp###commonAdsParts
-recipe.rakuten.co.jp##.bnrCenter
-recipe.rakuten.co.jp##.rightNaviBanner
-recipe.rakuten.co.jp##.subContentsLink
+recipe.rakuten.co.jp##.box_banner
+recipe.rakuten.co.jp##.field_search__reccomend
+recipe.rakuten.co.jp##.ranking_recommend_recipe
+recipe.rakuten.co.jp##.recommend_official_recipe
+recipe.rakuten.co.jp##.section_common_banner
 
 @@||image.www.rakuten.co.jp/com/js/d/
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
