@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/03 10:00
+! 最終更新 2021/05/05 8:47
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -140,6 +140,7 @@ _ads.js
 !geniee
 /^https?:\/\/(?:js|[0-9]{6})\.[-.0-9a-z]+\/t/[0-9]{3}\/[0-9]{3}\/a[0-9]{7,9}\.js$/$script,third-party
 
+||geniee.jp^$third-party
 !||adnico.jp^$third-party
 !||advision-adnw.jp^$third-party
 !||click-plus.net^$third-party
@@ -674,6 +675,8 @@ $subdocument,third-party,domain=adf.ly
 ||mapion.co.jp*/adOverture/
 ||mapion.co.jp*/js/vl1.
 ||mangaz.com/virgo/adv/
+||matomedane.jp/js/adv/
+||matomedane.jp/js/right_navi/
 ||mdpr.jp/imobile_iframe.html
 ||medibang.com/viewer/fixedAds/
 ||mgstage.com/js/mgs_Widget.js?
@@ -1499,6 +1502,7 @@ mainichi.jp###SuggestKeyWord
 mainichi.jp###SuperBanner
 mainichi.jp##.ArticleAdKW
 making.pipa.jp##.NoFrame.RelatedWorkRight
+manga.okiba.info##.amazon-ranking-outer
 mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
 manager-life.net##[id^="ad_"]
 mangahack.com##[class^="ad_"]
@@ -1511,6 +1515,7 @@ mangalove.me##.pr_00 .title:style(width: 135px !important;)
 mangaz.com###scroll-adv
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
+matomedane.jp###footeradv
 matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
 medibang.com##.asArtStreetTopIllustAd
