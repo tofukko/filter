@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/06 11:45
+! 最終更新 2021/05/06 17:00
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -2110,10 +2110,17 @@ recipe.rakuten.co.jp##.section_common_banner
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 
-
 ||r10s.jp/com/js/d/ad_liquid_table/
 ||rakuten-static.com/1/grp/banner/js/create.js
 ||rmp.rakuten.co.jp/js/aa.js$domain=~edy.rakuten.co.jp
+
+!g------------romhustler.org--------------!
+romhustler.org###aside
+romhustler.org###section > .hidden-xs
+romhustler.org##.square_ad_big
+romhustler.org##.square_ad_small
+romhustler.org##div[style="padding-bottom:5px;padding-top:5px;"]
+romhustler.org##+js(nano-sib, , ,0)
 
 !------------sitemix・tok2.com------------!
 /ad.min.js
