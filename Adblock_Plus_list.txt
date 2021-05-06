@@ -2057,6 +2057,7 @@ dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; wi
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
 dic.nicovideo.jp##.adsense-728
 live.nicovideo.jp##.kokoku
+live.nicovideo.jp##[class^="___billboard-ad___"]
 live2.nicovideo.jp##[class^="___banner-panel___"]
 seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
 !ニコニ広告全般
