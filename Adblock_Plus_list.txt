@@ -1305,7 +1305,7 @@ $subdocument,third-party,domain=adf.ly
 1000mg.jp##.main-top
 1000mg.jp##div[style^="clear:both;margin-top:0px;margin-"]
 373news.com###ad_prinfo
-373news.com##.mns_span_2columns_left .mns_block
+373news.com##.mns_bn
 a-kimama.com##.widget--ad
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
