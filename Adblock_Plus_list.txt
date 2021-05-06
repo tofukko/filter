@@ -1898,6 +1898,8 @@ gamebox.gesoten.com##.ad_super
 @@||imasdk.googleapis.com/js/core/$subdocument,domain=gamebox.gesoten.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamebox.gesoten.com
 
+@@||games.softgames.com/assets/advertisement.js$script,first-party
+
 !------------goo------------!
 ||adcdn.goo.ne.jp^
 ||ams900.goo.ne.jp^
@@ -2706,6 +2708,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
+@@||games.softgames.com^$script,1p
 ! 
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xhr,domain=ganma.jp
 	!http://www.jp.square-enix.com/jc3/
