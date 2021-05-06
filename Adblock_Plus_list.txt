@@ -2120,7 +2120,7 @@ romhustler.org###section > .hidden-xs
 romhustler.org##.square_ad_big
 romhustler.org##.square_ad_small
 romhustler.org##div[style="padding-bottom:5px;padding-top:5px;"]
-romhustler.org##+js(nano-sib, , ,0)
+romhustler.org##+js(nano-sib, , ,0.02)
 
 !------------sitemix・tok2.com------------!
 /ad.min.js
