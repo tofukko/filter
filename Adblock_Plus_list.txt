@@ -1425,6 +1425,8 @@ himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
 hobonichielog.com##.mainwidget > [id^="text-"]
+hokkaido-np.co.jp##.detailAdsense
+hokkaido-np.co.jp##.pr
 hokkaidofan.com##.vce-ad-container
 housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
