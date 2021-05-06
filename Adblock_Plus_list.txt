@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/05 16:29
+! 最終更新 2021/05/06 11:45
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -18,10 +18,10 @@ nicovideo.jp##.ads_list_area
 ch.nicovideo.jp##.ads_nicovideo
 
 !2021年3月2日～　もうだめかもわからんね
-logsoku.com###fixed_area
-logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
-logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
-logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
+!logsoku.com###fixed_area
+!logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
+!logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
+!logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -66,8 +66,6 @@ _ad.html|
 -ad.js$domain=~sh.st|~facebook.com
 _ad.js
 /ad.php?
-	!||himado.in/player_ad.php
-_ad.php^
 /ad1.
 /ad2.
 /ad3.
@@ -136,6 +134,12 @@ _ads.js
 	!||d.pixiv.org^
 ^zoneid=
 ^zone_id=
+
+!amp
+/amp-ad-
+/amp-analytics-
+-sticky-ad-
+##AMP-AD
 
 !geniee
 /^https?:\/\/(?:js|[0-9]{6})\.[-.0-9a-z]+\/t/[0-9]{3}\/[0-9]{3}\/a[0-9]{7,9}\.js$/$script,third-party
