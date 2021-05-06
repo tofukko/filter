@@ -2353,11 +2353,11 @@ admin.blog.fc2.com##.adimn_pr_txt
 admin.blog.fc2.com###ad_sidebody
 admin.blog.fc2.com###ad_sidebar
 admin.blog.fc2.com##.editor_header_ad
-
 !新
 admin.blog.fc2.com##.column-left_ad
 admin.blog.fc2.com##.notify_ad
 
+fc2.com###fc2_text_ad
 fc2.com,fc2blog.net##.AdContainer
 ###fc2_bottom_bnr
 fc2.com##table[width="140"][cellspacing="1"][cellpadding="1"][border="0"]
