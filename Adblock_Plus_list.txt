@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/06 20:00
+! 最終更新 2021/05/06 21:06
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1403,7 +1403,21 @@ front-row.jp##.after-btn-fb-nice-ad-pc
 fukuishimbun.co.jp##.admeasure
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
+! 現代ビジネス
+gendai.ismedia.jp###GB_pc_inArticle
 gendai.ismedia.jp##.reduce-CLS
+gendai.ismedia.jp##div[style="min-height: 250px;"]
+! ブルーバックス
+gendai.ismedia.jp##.ad-slider
+gendai.ismedia.jp##.blockContainer_block
+! マネー現代
+gendai.ismedia.jp###MG_pc_inArticle
+! 現代新書
+gendai.ismedia.jp##div[style="min-height: 250px; overflow: hidden;"]
+! FRaU
+gendai.ismedia.jp###FR_PC_inArticle
+gendai.ismedia.jp##.ad-in-article
+gendai.ismedia.jp##.articleBottomAd
 getchu.com###rectangle
 getchu.com##.banner
 gigafile.nu##[class*=banner_type_]
