@@ -1047,8 +1047,10 @@ $subdocument,third-party,domain=adf.ly
 ||alcmpn.com^$third-party
 ||anymind360.com^$third-party
 ||bidswitch.net^$third-party
+||clarity.ms^$$third-party
 ||f-tra.com^$third-party
 ||hanaprop.com^$third-party
+||indexww.com^$third-party
 ||mathtag.com^$third-party
 ||mixpanel.com^$third-party
 ||mxpnl.com^$third-party
