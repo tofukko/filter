@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/06 21:06
+! 最終更新 2021/05/07 22:32
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -2050,22 +2050,43 @@ nicosub.net###seigarakuten
 !------------nicovideo ニコニコ動画------------!
 !アンケート
 !||enquete.nicovideo.jp/static/
+!動画
+www.nicovideo.jp###head_ads
+www.nicovideo.jp###web_pc_footer
+www.nicovideo.jp##.AuroraVisionContainer-ad
+www.nicovideo.jp##.HeaderContainer_Re-ad
+www.nicovideo.jp##.mb8p4:has( > #web_pc_prime)
+www.nicovideo.jp##.PcUniTop350x240MiddleEastAdContainer
+!静画
+seiga.nicovideo.jp###ad_728_90
+seiga.nicovideo.jp###ad_728_90_footer_fixed
+seiga.nicovideo.jp###ads_pc_seiga_footer
+seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
+seiga.nicovideo.jp###top_ads_box
+seiga.nicovideo.jp##.ads_prtext
 !ニコ生
 ||nimg.jp/relive/playerbanner/
 ||nicovideo.jp/api/v1/watch/*/playerbanner|
+live.nicovideo.jp###footer-ad
+live.nicovideo.jp###header-ad
+live.nicovideo.jp##.kokoku
+live.nicovideo.jp##[class^="___billboard-ad___"]
+live.nicovideo.jp##[class^="___banner-ad___"]
+live2.nicovideo.jp##[class^="___banner-panel___"]
+!大百科
 dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; width:300px; margin:0 0 4px 0;"]
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
 dic.nicovideo.jp##.adsense-728
-live.nicovideo.jp##.kokoku
-live.nicovideo.jp##[class^="___billboard-ad___"]
-live2.nicovideo.jp##[class^="___banner-panel___"]
-seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
-!ニコニ広告全般
-@@||uad.nicovideo.jp^$generichide
-! adsblocking
-@@||html5.nicogame.jp/misc/ads.js$script,domain=game.nicovideo.jp
-! サイドバー
+!サイドバー
 dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
+!アツマール
+||game.nicovideo.jp/atsumaru/ads/
+game.nicovideo.jp##.GamePageModal__GamePageModal
+game.nicovideo.jp##.Modal__Modal__Overlay
+@@||resource.game.nicovideo.jp^*/Pop.js$script,domain=resource.game.nicovideo.jp
+@@||html5.nicogame.jp/misc/ads.js$script,domain=game.nicovideo.jp
+!コモンズ
+com.nicovideo.jp###community_pc_top
 
 !------------nikkei------------!
 ||nikkei.com/.resources/k-components/rtoaster/
