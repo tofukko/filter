@@ -2060,6 +2060,7 @@ www.nicovideo.jp##.PcUniTop350x240MiddleEastAdContainer
 !静画
 seiga.nicovideo.jp###ad_728_90
 seiga.nicovideo.jp###ad_728_90_footer_fixed
+seiga.nicovideo.jp###ads_pc_seiga_follow_middle
 seiga.nicovideo.jp###ads_pc_seiga_footer
 seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
 seiga.nicovideo.jp###top_ads_box
