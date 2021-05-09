@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/09 13:41
+! 最終更新 2021/05/09 20:19
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1358,9 +1358,11 @@ coliss.com###sponsors
 coliss.com###sponsorsTop
 comic-walker.com###right_top_banner
 comicbunch.com##.footer_comics_ad:remove()
-curazy.com##.jsViewer_dialog-ad
-curazy.com##.jsViewer_overlay-dialogAd
+curazy.com##.sponsor-link-text
+curazy.com##[class^=cu_pc_all_]
 cyclestyle.net##.sidebox-ad
+cyclowired.jp##.block.block-block.clearfix
+cyclowired.jp##.field-name-field-amazon-product1
 daily.co.jp###adUnderArticle
 daily.co.jp##aside.add
 daily.co.jp##[style="width:300px;height:600px;"]
