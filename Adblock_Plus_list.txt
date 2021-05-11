@@ -1360,6 +1360,7 @@ coliss.com###sponsors
 coliss.com###sponsorsTop
 comic-walker.com###right_top_banner
 comicbunch.com##.footer_comics_ad:remove()
+cookien.com##.pr_content
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
 cyclestyle.net##.sidebox-ad
