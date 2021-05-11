@@ -317,6 +317,7 @@ _ads.js
 ||koukoku.$third-party
 ||krxd.net^$third-party
 ||ladmp.com^$third-party
+||ladsp.com^$third-party
 ||leaffi.jp^$third-party
 ||liftdna.com^$third-party
 ||link-a.net^$third-party
