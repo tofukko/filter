@@ -2165,11 +2165,12 @@ recipe.rakuten.co.jp##.section_common_banner
 
 !g------------romhustler.org--------------!
 romhustler.org###aside
+romhustler.org###dv_IAB_300x250
 romhustler.org###section > .hidden-xs
 romhustler.org##.square_ad_big
 romhustler.org##.square_ad_small
 romhustler.org##div[style="padding-bottom:5px;padding-top:5px;"]
-romhustler.org##+js(nano-sib, , ,0.02)
+romhustler.org##+js(nano-sib, timer.remove, , 0.02)
 
 !------------sitemix・tok2.com------------!
 /ad.min.js
