@@ -1326,6 +1326,8 @@ atwiki.jp##[id^="advp"]
 atwiki.jp##.atwiki-ads-margin
 atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
+automaton-media.com##.ai_widget
+automaton-media.com##.td-a-rec
 bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
