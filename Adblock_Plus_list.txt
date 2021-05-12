@@ -2245,9 +2245,6 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ||value-domain.com/xrea_header.js
 ||ax.xrea.com^
 
-!----------youtubemp3org.me-----!
-||youtubemp3org.me/v4/u21drwj6mp.com/
-savemedia.website##+js(aopr, open)
 
 
 
