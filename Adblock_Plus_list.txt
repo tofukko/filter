@@ -1357,6 +1357,9 @@ clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
+cnn.co.jp###ad-large-header
+cnn.co.jp###ad-rect
+cnn.co.jp##.ad-txt
 coliss.com###sponsors
 coliss.com###sponsorsTop
 comic-walker.com###right_top_banner
