@@ -2309,6 +2309,7 @@ games.wkb.jp##.content__top
 games.wkb.jp##.footer-ad
 games.wkb.jp##.left-ad
 games.wkb.jp##.top-ad
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
 !result
 games.wkb.jp##.result-modal.game-result
 !yahoo
@@ -2848,8 +2849,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!画像とか
 @@||images-na.ssl-images-amazon.com^$domain=imdb.com
 @@||media-amazon.com^$domain=imdb.com
-	!ゲームできない
-@@||imasdk.googleapis.com^$domain=games.wkb.jp
 	!skip ad ボタン
 @@||linkbucks.com/tmpl/mint/img/int_skip_ad
 @@||linkbucks.com/scripts/intermissionLink.
@@ -2916,10 +2915,6 @@ fashionsnap.com#@#.adv
 ff14angler.com##.adsbygoogle:style(height: 0 !important;)
 ff14angler.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
-	!anti adblock
-games.wkb.jp##+js(set, gWkbAdVert, true)
-games.wkb.jp##+js(set, noblock, true)
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
 	!https://www.kadokawa.co.jp/product/322003000737/
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	!左側
