@@ -2322,6 +2322,7 @@ games.wkb.jp###dialog-mask
 ||vntsm.com^$third-party
 ||games.softgames.com/modules/p2-ads-client.js
 ||dop3jnx8my3ym.cloudfront.net/sg-track-sdk.js$script,domain=softgames.com
+games.softgames.com##.sgYMenuContainer + div
 @@||games.softgames.com^$script,other,xhr,domain=games.softgames.com
 !result
 games.softgames.com###popup-backdrop
@@ -2336,8 +2337,8 @@ minigame.aeriagames.jp##+js(nano-stb, aeriaGamesAdCountDown(), 1000)
 @@||minigame.aeriagames.jp*/ae-tpgs-$domain=minigame.aeriagames.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=minigame.aeriagames.jp
 !result
-minigame.aeriagames.jp###aeriaGamesResultBox
-minigame.aeriagames.jp###aeriaGamesContent:style(display: block !important;)
+!minigame.aeriagames.jp###aeriaGamesResultBox
+!minigame.aeriagames.jp###aeriaGamesContent:style(display: block !important;)
 minigame.aeriagames.jp###yLayer
 
 !SUCCESS
