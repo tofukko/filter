@@ -2099,8 +2099,10 @@ game.nicovideo.jp##+js(nano-stb, [native code], 15000)
 !コモンズ
 com.nicovideo.jp###community_pc_top
 
-
 @@||dcdn.cdn.nicovideo.jp/shared_httpd/log.gif?$xhr,domain=nicovideo.jp
+
+!easylist
+||nicoad.nicovideo.jp^$domain=~blog.nicovideo.jp|~live.nicovideo.jp|~live2.nicovideo.jp|~nicoad.nicovideo.jp,badfilter
 
 !------------nikkei------------!
 ||nikkei.com/.resources/k-components/rtoaster/
