@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/14 11:27
+! 最終更新 2021/05/15 19:22
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -16,12 +16,6 @@
 !2011年10月07日閉鎖予定
 nicovideo.jp##.ads_list_area
 ch.nicovideo.jp##.ads_nicovideo
-
-!2021年3月2日～　もうだめかもわからんね
-!logsoku.com###fixed_area
-!logsoku.com##div:not([id^="contents-"]):has(> .ad_area)
-!logsoku.com#?#div:not([id^="contents-"]):-abp-has(> .ad_area)
-!logsoku.com##.thread-box > [class^="thread-"] > [id^="thread-"] > tbody > tr:first-child
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -42,17 +36,6 @@ _728x90_
 _728x90.
 /728_90.
 _728_90.
-	!/A-affiliate2/*
-	!/adparser.js
-	!/ads.php
-	!_ads.php
-	!/linkshare/*
-	!/overture/*
-	!/overture.
-	!/overture_
-	!/peel.js
-	!/parts/ad/*
-	!.swf?clickTAG=
 /aamsz=
 /acc_random=
 /ad/images/*
@@ -192,7 +175,7 @@ _ads.js
 -ad.com^$third-party
 -ad.net^$third-party
 	!サイド辺り
--ads.com^$third-party,domain=~cookpad.com
+-ads.com^$third-party
 !||da-ads.com^$third-party
 
 ||a-affiliate.net^$third-party
@@ -735,6 +718,7 @@ $subdocument,third-party,domain=adf.ly
 ||webnewtype.com/img/pc/common/spacer1.gif
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
+||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
 ||yomoyama-bbs.jp/image/ad_images/
 ||zyuken.net/juku_page/ads/
 
@@ -1365,6 +1349,7 @@ coliss.com###sponsorsTop
 comic-walker.com###right_top_banner
 comicbunch.com##.footer_comics_ad:remove()
 cookien.com##.pr_content
+cookpad.com###sticky_reference_element
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
 cyclestyle.net##.sidebox-ad
@@ -1405,6 +1390,7 @@ fate-twitter-matome.com###pc-text-widget
 favolog.org###side > div:first-child
 flashfabrica.com##div:has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
+fnn.jp##.sherpa-component[data-ad_type]
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
@@ -1449,6 +1435,7 @@ hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not
 himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
+hitomi.la##+js(aopr, pops)
 hobonichielog.com##.mainwidget > [id^="text-"]
 hokkaido-np.co.jp##.detailAdsense
 hokkaido-np.co.jp##.pr
@@ -1722,8 +1709,19 @@ storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 storie.jp##[class^="banner"]
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
+supersolenoid.jp##.krb-amzlt-box
+supersolenoid.jp##.krb-amzlt-box + a
+supersolenoid.jp##.krb-amzlt-box + a + a
+supersolenoid.jp##.krb-amzlt-box + a + a + a
+supersolenoid.jp##.EntryMore > h2 + a + br + a + a + a ~ a:not([title]):not([href^="https://blog-imgs"])
 supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href^="https://affiliate.suruga-ya.jp/"]
 supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href*="://www.amazon.co.jp"]
+supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://hb.afl.rakuten.co.jp"]
+supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://affiliate.suruga-ya.jp/"]
+supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href*="://www.amazon.co.jp"]
+supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="http://px.a8.net"]
+supersolenoid.jp##.menuBlock:has( > .menuTitle:has-text(/スポンサード・リンク|オススメ|新商品/))
+supersolenoid.jp##.menuBlock3 + center
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
@@ -1968,9 +1966,6 @@ q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
 !言及先エントリを開くが消える
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
-
-!g-----------hitomi.la-----------!
-hitomi.la##+js(aopr, pops)
 
 !------------hs-exp.jp-----------!
 hs-exp.jp###footer > .footer-widget-area > .column:first-child
@@ -2517,9 +2512,7 @@ ameblo.jp###subAInner:style(position: static !important; margin-top: auto !impor
 
 !------------nikkeibp------------!
 ||bizad.nikkeibp.co.jp^
-
 ||trendy.nikkeibp.co.jp/dag/iframead/
-
 ||nikkeibp.co.jp^*/s_code
 
 
@@ -2542,6 +2535,15 @@ youtube.com##.ytd-search-pyv-renderer
 youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
 youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+
+
+||tpc.googlesyndication.com^
+||youtube.com/pagead/
+youtube.com###player-ads
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytd-action-companion-ad-renderer
+youtube.com##.ytp-ad-action-interstitial-slot
+youtube.com##.ytp-ad-action-interstitial-background-container
 
 !#if adguard
 youtube.com,youtube-nocookie.com#@#+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
@@ -2834,6 +2836,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
 	!できない
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
+	!右サイド
+@@||cookpad-ads.com^$domain=cookpad.com
 	!商品タブの切替が出来ない
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
 	!ご注文内容が表示されない
@@ -2906,7 +2910,7 @@ number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
 	!Amazon誘導ページ 紙で読む
 comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 	!サイド 広告だから消しても良い気もする
-cookpad.com#@#.ad:not([class*="widget_"])
+cookpad.com#@##ad
 	!アドベンチャー https://github.com/tofukko/filter/issues/9
 digiket.com#@#.adv
 	!右
@@ -2916,6 +2920,7 @@ fashionsnap.com#@#.adv
 	!anti adblock
 ff14angler.com##.adsbygoogle:style(height: 0 !important;)
 ff14angler.com#@#.adsbygoogle
+ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 	!https://www.kadokawa.co.jp/product/322003000737/
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
