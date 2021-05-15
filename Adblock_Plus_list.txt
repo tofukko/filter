@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/15 19:22
+! 最終更新 2021/05/15 21:24
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1510,6 +1510,7 @@ kyounoryouri.jp###floating-banner
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
+linkfang.org###LinkFang_Horizontal
 lmaga.jp##.contents_ad
 lmaga.jp##.header_ad
 loveh.org###newvideos:has( > .menubar > .entrytitlein:has-text(ラブエッチのおすすめ無料アダルトサイト))
