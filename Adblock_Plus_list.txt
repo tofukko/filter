@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/15 21:24
+! 最終更新 2021/05/16 10:12
 !
 !--------通販サイト--------!
 ||dgpot.com^$third-party,domain=~dgpot.com
@@ -1190,6 +1190,7 @@ $subdocument,third-party,domain=adf.ly
 	! 他スマホ用あり
 ###float-bnr
 
+###geniee_overlay
 ###geniee_overlay_outer
 	!seesaa系wiki独
 ##.ads-box
