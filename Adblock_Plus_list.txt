@@ -272,6 +272,9 @@ _ads.js
 ||exponential.com^$third-party
 ||fastclick.net^$third-party
 ||find-a.jp^$third-party
+||flux-cdn.com^$third-party
+||flux-g.com^$third-party
+||flux-training.com^$third-party
 ||fmpub.net^$third-party
 ||fourmtagservices.com^$third-party
 ||fout.jp^$third-party
