@@ -5,11 +5,11 @@
 ! 最終更新 2021/05/16 10:12
 !
 !--------通販サイト--------!
-||dgpot.com^$third-party,domain=~dgpot.com
-||digiket.com^$third-party
-||digiket.net^$third-party,domain=~digiket.com
+!||dgpot.com^$third-party,domain=~dgpot.com
+!||digiket.com^$third-party
+!||digiket.net^$third-party,domain=~digiket.com
 ||e-nls.com^$third-party
-||getchu.com^$third-party
+!||getchu.com^$third-party
 ||r18.com^$third-party,domain=~japanhub.net|~javhdporn.net|~javxxx.me|~t.jav4.me
 !-------ここまで-------!
 
