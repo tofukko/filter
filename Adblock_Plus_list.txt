@@ -1508,6 +1508,7 @@ karapaia.com##[class^=ads-label]
 kidsna.com###kidsna-articlelist > ul > li:has(.pr)
 kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
+ktkm.net###custom_html-43
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
 kyounoryouri.jp###floating-banner
 lifehacker.jp##.amazItem
