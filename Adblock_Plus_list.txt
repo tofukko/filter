@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/16 10:12
+! 最終更新 2021/05/16 16:03
 !
 !--------通販サイト--------!
 !||dgpot.com^$third-party,domain=~dgpot.com
@@ -119,6 +119,7 @@ _ads.js
 ^zone_id=
 
 !amp
+-auto-ads-
 /amp-ad-
 /amp-analytics-
 -sticky-ad-
@@ -1292,6 +1293,8 @@ $subdocument,third-party,domain=adf.ly
 1000mg.jp##div[style^="clear:both;margin-top:0px;margin-"]
 373news.com###ad_prinfo
 373news.com##.mns_bn
+9ketsuki.info##.manual_ads
+9ketsuki.info##.widget_custom_html.widget-main
 a-kimama.com##.widget--ad
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
@@ -2820,8 +2823,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 @@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
 
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=f.tabtter.jp
-
 	!トップバナー
 @@||accesstrade.net/m/m_img/$image,domain=mamastar.jp
 	!動画未練
@@ -2924,11 +2925,6 @@ digiket.com#@#.adv
 eparet.net#@#.ad:not([class*="widget_"])
 	!REALTIME
 fashionsnap.com#@#.adv
-	!anti adblock
-ff14angler.com##.adsbygoogle:style(height: 0 !important;)
-ff14angler.com#@#.adsbygoogle
-ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
-@@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 	!https://www.kadokawa.co.jp/product/322003000737/
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	!左側
@@ -2965,6 +2961,10 @@ okwave.jp#@#.ad_area
 server-setting.info#@#.adsbygoogle
 	!記事
 saitama-np.co.jp#@#div[id^="div-gpt-ad"]
+f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
+f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 56px) !important;)
+f.tabtter.jp###scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
+f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 56px !important;)
 	!本文
 tofukko.com#@#.adsbygoogle
 	!右サイドが全部消える
@@ -2975,18 +2975,34 @@ wiimk2.net#@#.advertisement
 yakkun.com##.ad + div:style(clear:both)
 
 !-------------------anti adblock-------------------------!
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=nooptext
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
+||googleads.g.doubleclick.net/pagead/id^$xhr,redirect-rule=nooptext
+
 	! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
 /modal-dist/index.js
 
-9ketsuki.info##+js(nobab)
 battlecats-db.com##body:style(display: block !important)
+
+f.tabtter.jp#@#.adsbygoogle
+f.tabtter.jp#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
+
+ff14angler.com##.adsbygoogle:style(height: 0 !important;)
+ff14angler.com#@#.adsbygoogle
+ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
+@@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
+
 gametter.com##+js(acis, addEventListener, google_ad_client)
+
 manga1000.com##+js(aopw, $)
+
 my0nio.seesaa.net#@#.adsbygoogle
 my0nio.seesaa.net#@#.adv
 my0nio.seesaa.net#@#.adsense
 my0nio.seesaa.net#@#.ad:not([class*="widget_"])
+
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
