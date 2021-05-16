@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/16 17:03
+! 最終更新 2021/05/16 20:03
 !
 !--------通販サイト--------!
 !||dgpot.com^$third-party,domain=~dgpot.com
@@ -2844,6 +2844,9 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
 	!記事崩れ ×ボタン
 @@||ad.impress.co.jp/topics/css/$stylesheet
+	! 全部
+@@||ad.shinmai.co.jp^$domain=ad.shinmai.co.jp
+	! ゲーム
 @@||ad-link.jp*/index.php?
 	!http://www.jp.square-enix.com/seiken2_som/news.html
 @@||ads-twitter.com/oct.js$domain=jp.square-enix.com
@@ -2868,19 +2871,12 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
-@@||games.softgames.com^$script,1p
-! 
+	! 次のページへ
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xhr,domain=ganma.jp
 	!http://www.jp.square-enix.com/jc3/
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	!画像
 @@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
-	!画像とか
-@@||images-na.ssl-images-amazon.com^$domain=imdb.com
-@@||media-amazon.com^$domain=imdb.com
-	!skip ad ボタン
-@@||linkbucks.com/tmpl/mint/img/int_skip_ad
-@@||linkbucks.com/scripts/intermissionLink.
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
@@ -2888,8 +2884,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
 	! 右側の勝率などの欄が非表示
 @@||opgg-static.akamaized.net/js3/tracker.js?*$domain=op.gg
-	! 有料記事
-@@||piano.io^$domain=special.sankei.com
 	! 全部
 @@||picrew.me/player/api/ads?$xmlhttprequest,domain=picrew.me
 	!ポイント貯めるサイト
@@ -2903,10 +2897,14 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!申し込みランキング
 @@||rtoaster.jp/Rtoaster.js$domain=3ple.jp
 @@||rt.rtoaster.jp^$domain=3ple.jp
+	!注目アバター
+@@||site-banner.hange.jp/adshow$subdocument,domain=animallabo.hange.jp
 	!TOP 総合ランキング
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js
 	!サムネイルが表示されない
 @@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
+	! 地図が無反応 
+@@||stats.g.doubleclick.net/dc.js$domain=chintaistyle.jp
 	!https://tabelog.com/tokyo/map/ お店のリストと地図が出ない
 @@||tblg.k-img.com/javascripts/modules/rst/analytics.js$script,domain=tabelog.com
 	!ロックされたときとか
