@@ -1140,7 +1140,6 @@ $subdocument,third-party,domain=adf.ly
 ###ad1
 ###ad2
 ###ads
-###adsense
 	!wp sidebar
 ##.ad:not([class*="widget_"])
 ##.ad-area
