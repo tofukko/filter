@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/17 16:02
+! 最終更新 2021/05/17 21:58
 !
 !--------通販サイト--------!
 
@@ -2975,6 +2975,8 @@ mamastar.jp#@#a[href*="http://ad."]
 mediafire.com#@#.ads
 	!追加日 https://github.com/tofukko/filter/issues/5
 mega.nz#@#.ad:not([class*="widget_"])
+	! https://github.com/tofukko/filter/issues/11 サイドバー
+news.nifty.com##.sidebar_fixed:style(position: static !important;)
 	!検索 ランキングの「宣伝」部分が消える
 www.nicovideo.jp#@#.ads
 	!header辺り
