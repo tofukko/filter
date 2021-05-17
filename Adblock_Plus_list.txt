@@ -1361,6 +1361,8 @@ daily.co.jp##aside.add
 daily.co.jp##[style="width:300px;height:600px;"]
 daysneo.com###bnrTop
 denfaminicogamer.jp##.ad-box
+	wiki.denfaminicogamer.jp###ad-wiki-content-lower
+	wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 dengekionline.com##.gAdBanner.u-mbM
 dengekionline.com##.gAdBanner-pickUp
 dengekionline.com##.gMovBox.u-mtbS
@@ -1384,7 +1386,9 @@ exploader.net##article > div[style^="margin-bottom: 10px"]
 famitsu.com##.article-body__contents-pr-primary
 famitsu.com##.banner-pc
 famitsu.com##.banner-top-header
-app.famitsu.com###widget-ad-rect
+	app.famitsu.com###widget-ad-rect
+	wiki.famitsu.com###ad-wiki-content-lower
+	wiki.famitsu.com###ad-wiki-content-upper
 	!微妙系
 	!famitsu.com##[class^="l-contents-block--tie-up-"]
 	!famitsu.com##.border-col-bottom > [class^="col-"]:has(> .card > [class*="ad-native-campaign"])
