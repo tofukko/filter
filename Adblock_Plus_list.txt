@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/17 13:31
+! 最終更新 2021/05/17 16:02
 !
 !--------通販サイト--------!
 
@@ -176,7 +176,6 @@ _ads.js
 
 -ad.com^$third-party
 -ad.net^$third-party
-	!サイド辺り
 -ads.com^$third-party
 !||da-ads.com^$third-party
 
@@ -291,8 +290,7 @@ _ads.js
 ||gmodmp.jp^$third-party
 ||googleadservices.com^$third-party
 ||iid-network.jp^$third-party
-	!tjapan.jp 画像
-||impact-ad.jp^$third-party,domain=~tjapan.jp
+||impact-ad.jp^$third-party
 ||infocart.jp^$third-party
 ||infolinks.com^$third-party
 ||infotop.$third-party
@@ -660,10 +658,6 @@ $subdocument,third-party,domain=adf.ly
 ||kooss.com/*.htm$subdocument
 ||labaq.com/user/json/lq_amarray.js?
 ||linkage.kakaku.com^$domain=~kakaku.com
-||maid.to^$domain=ribbon.to
-||majo.co.jp/jwd.js$domain=ribbon.to
-||majo.co.jp/alpc.js$domain=ribbon.to
-	||vinhoverde.sakura.ne.jp$domain=ribbon.to
 ||mapion.co.jp*/adOverture/
 ||mapion.co.jp*/js/vl1.
 ||mangaz.com/virgo/adv/
@@ -692,8 +686,6 @@ $subdocument,third-party,domain=adf.ly
 ||photozou.jp/script/ad_sticky.js?
 ||relart.fresheye.com^
 ||resemom.jp/feature/cxense/overlay/
-||ribbon.to/alpc.js
-||ribbon.to/rw.php
 ||sankei2ad.durasite.net^
 ||savevideo.me/ads-fallback/
 ||seesaa.jp/frame/
@@ -1685,10 +1677,6 @@ rbbtoday.com##.cx-top-news
 realsound.jp###ad_entryBottom
 realsound.jp###adEntry2rec
 resemom.jp##.sidebox-ad
-ribbon.to##p[align="center"]:has( > [tareget="rdn"])
-ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
-ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
-ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
@@ -2176,6 +2164,18 @@ recipe.rakuten.co.jp##.section_common_banner
 ||r10s.jp/com/js/d/ad_liquid_table/
 ||rakuten-static.com/1/grp/banner/js/create.js
 ||rmp.rakuten.co.jp/js/aa.js$domain=~edy.rakuten.co.jp
+
+!------------ribbon.to--------------!
+||maid.to^$domain=ribbon.to
+||majo.co.jp/jwd.js$domain=ribbon.to
+||majo.co.jp/alpc.js$domain=ribbon.to
+||vinhoverde.sakura.ne.jp$domain=ribbon.to
+||ribbon.to/alpc.js
+||ribbon.to/rw.php
+ribbon.to##p[align="center"]:has( > [tareget="rdn"])
+ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
+ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
+ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
 
 !g------------romhustler.org--------------!
 romhustler.org###aside
