@@ -46,9 +46,8 @@ _728_90.
 /ad.cgi?
 _ad.html|
 /ad.js
-!右上skipad消える
 !facebook.com アルバム投稿できない
--ad.js$domain=~sh.st|~facebook.com
+-ad.js$domain=~facebook.com
 _ad.js
 /ad.php?
 /ad1.
@@ -2888,6 +2887,8 @@ cinema.pia.co.jp#@#.ads
 @@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!チャットのポップアップ
 @@||googletagmanager.com/gtm.js$script,domain=ymobile.jp
+	!真っ白
+@@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
