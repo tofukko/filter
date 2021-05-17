@@ -1301,6 +1301,9 @@ animatetimes.com##.c-banner-lg-area
 animatetimes.com###times_affiliate-writer
 animatetimes.com##.c-reccomendArea-product
 animeanime.jp##.sidebox-ad
+apkpure.com##.ad-box-auto
+apkpure.com##.left > .box[style="overflow: hidden; padding-bottom: 20px"]
+apkpure.com##div[style="margin: 0 auto 20px auto;position: relative;width:100%;overflow: hidden;height: 306px;"]
 arban-mag.com##.side-banner
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
