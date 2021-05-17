@@ -3026,6 +3026,8 @@ ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoo
 
 gametter.com##+js(acis, addEventListener, google_ad_client)
 
+kiji.is##+js(acis, document.createElement, admiral)
+
 knshow.com##+js(acis, load, .ads)
 !@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=knshow.com
 !@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=knshow.com
