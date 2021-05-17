@@ -2310,6 +2310,7 @@ yahoo.co.jp###brandpanel
 auctions.yahoo.co.jp##.ss
 chiebukuro.yahoo.co.jp##.lstAd
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
+detail.chiebukuro.yahoo.co.jp##aside[class^="ClapLv3SubList_Chie"]
 finance.yahoo.co.jp##div:has(> #mainAdTop)
 finance.yahoo.co.jp##div:has(> [id^=subAd])
 gyao.yahoo.co.jp##.yads-overlay
