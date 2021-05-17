@@ -2617,7 +2617,6 @@ channel.pandora.tv##.pm_wrap
 
 !g------------mediafire.com------------
 ||mediafire.com^$subdocument
-mediafire.com##+js(aopw, UAParser)
 mediafire.com##+js(aeld, click, ClickHandler)
 
 !------さらに検索する を消す
@@ -2971,8 +2970,6 @@ mail.google.com#@#.ads
 mapion.co.jp#@#.ad:not([class*="widget_"])
 	!トップバナー
 mamastar.jp#@#a[href*="http://ad."]
-	!ダウンロードボタン
-mediafire.com#@#.ads
 	!追加日 https://github.com/tofukko/filter/issues/5
 mega.nz#@#.ad:not([class*="widget_"])
 	! https://github.com/tofukko/filter/issues/11 サイドバー
