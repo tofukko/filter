@@ -2619,15 +2619,6 @@ channel.pandora.tv##.pm_wrap
 ||mediafire.com^$subdocument
 mediafire.com##+js(aeld, click, ClickHandler)
 
-!------さらに検索する を消す
-/ad_plugin.js
-||blog.seesaa.jp/js/trace_searcher.js
-||so-net.ne.jp/_common/js/select_search.js
-||so-net.ne.jp/search/javascripts/research/research.js
-||webryblog.biglobe.ne.jp/searchbox.js
-||webryblog.biglobe.ne.jp/searchengine.js
-||yimg.jp/images/search/slink/popup/pc/1.0.0/js/popsearch.min.js
-
 !ニコニコ風ヘッダー
 !||nicoblomaga.jp^$third-party,script
 ###matomeSiteHeaderArea
