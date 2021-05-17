@@ -1543,6 +1543,7 @@ mangalove.me##.pr_00 .title:style(width: 135px !important;)
 mangaz.com###scroll-adv
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
+mapion.co.jp##.ad-728x90
 matomedane.jp###footeradv
 matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
@@ -2957,8 +2958,6 @@ livedoorblogstyle.jp#@#.ad-center
 magcomi.com#@#.adv
 	!本文
 mail.google.com#@#.ads
-	!住所検索 > 住所
-mapion.co.jp#@#.ad:not([class*="widget_"])
 	!トップバナー
 mamastar.jp#@#a[href*="http://ad."]
 	!追加日 https://github.com/tofukko/filter/issues/5
