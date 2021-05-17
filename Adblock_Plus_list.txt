@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/16 20:03
+! 最終更新 2021/05/17 13:31
 !
 !--------通販サイト--------!
 !||dgpot.com^$third-party,domain=~dgpot.com
@@ -2850,6 +2850,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||ad-link.jp*/index.php?
 	!http://www.jp.square-enix.com/seiken2_som/news.html
 @@||ads-twitter.com/oct.js$domain=jp.square-enix.com
+	! トップバナー
+@@||afi-b.com/assets/dist/img/general/top/img/ad/*$image,domain=afi-b.com
 	!動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
 	!全体的に
@@ -2860,8 +2862,13 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
 	!動画プレイヤー
 @@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
+	!sideランキング12345
+@@||ascii.jp/img/ad/$image,domain=ascii.jp
 	!できない
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
+	!トップページ他
+@@||cinema.pia.co.jp/img/ad/$image,domain=cinema.pia.co.jp
+cinema.pia.co.jp#@#.ads
 	!右サイド
 @@||cookpad-ads.com^$domain=cookpad.com
 	!商品タブの切替が出来ない
@@ -2877,6 +2884,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	!画像
 @@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
+	!チャットのポップアップ
+@@||googletagmanager.com/gtm.js$script,domain=ymobile.jp
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
