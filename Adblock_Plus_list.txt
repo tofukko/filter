@@ -545,6 +545,7 @@ _ads.js
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
 ||coincheck.com/images/affiliates/
+||digiket.com/xml/ad/
 ||dietnavi.com/pc/banner/
 ||dogma-annex.com/media/affiliate/
 ||free-video-movie.com^
