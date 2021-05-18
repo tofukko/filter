@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/18 0:35
+! 最終更新 2021/05/18 15:06
 !
 !--------通販サイト--------!
 
@@ -3003,7 +3003,7 @@ watch.impress.co.jp#@#.ad:not([class*="widget_"])
 	!body直下
 wiimk2.net#@#.advertisement
 	! float
-yakkun.com##.ad + div:style(clear:both)
+yakkun.com##.ad + div:style(clear: both !important;)
 
 !-------------------anti adblock-------------------------!
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=nooptext
