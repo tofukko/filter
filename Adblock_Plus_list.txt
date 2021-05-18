@@ -1319,6 +1319,7 @@ bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bbc.com##[class^="AdContainer-sc-"]
+bikebros.co.jp##.adsw
 bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bing.com##.b_ad:remove()
 bizspa.jp##.ad-wrap
