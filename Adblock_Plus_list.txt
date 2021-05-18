@@ -1741,6 +1741,7 @@ syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
+taskle.jp##.ad-widget
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
