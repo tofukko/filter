@@ -1688,6 +1688,8 @@ qiita.com##.ad-300x250
 qiita.com##.it-Ads_afterBodyContainer
 qiita.com##.p-home_ad
 qiita.com##[id^=logly-lif]
+qoly.jp##.banner
+qoly.jp##div[style="height:90px; width:728px;"]
 	!https://hobbyjapan.co.jp/comic/series/
 r.binb.jp###adp
 rbbtoday.com##.cx-top-news
