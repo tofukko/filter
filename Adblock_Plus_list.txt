@@ -2900,8 +2900,10 @@ cinema.pia.co.jp#@#.ads
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
-@@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
 @@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
+@@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
+	! https://github.com/tofukko/filter/issues/13 ページ移動しない
+@@||npttech.com/advertising.js$script,domain=wired.jp
 	! 右側の勝率などの欄が非表示
 @@||opgg-static.akamaized.net/js3/tracker.js?*$domain=op.gg
 	! 全部
@@ -3002,7 +3004,7 @@ tofukko.com#@#.adsbygoogle
 watch.impress.co.jp#@#.ad:not([class*="widget_"])
 	!body直下
 wiimk2.net#@#.advertisement
-	! float
+	! https://github.com/tofukko/filter/issues/12 float
 yakkun.com##.ad + div:style(clear: both !important;)
 
 !-------------------anti adblock-------------------------!
