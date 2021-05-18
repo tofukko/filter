@@ -2258,6 +2258,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.adPost
 ##.adWidget
 ##.dfad
+##.master-post-advert
 ##.quads-location
 !あれなやつ
 ##[id^="post-"][class*=post-] [class^="cta-"]
