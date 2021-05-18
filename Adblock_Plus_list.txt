@@ -1553,6 +1553,8 @@ mangalove.me##li:has(> .native-ad-wrap)
 mangalove.me##.viewerBody,.viewer,.viewer .slick-list,.viewer .slick-track,.viewer .imgWrap,.viewer .lastPage.slick-slide:style(height: 100% !important;)
 mangalove.me##.viewer,.lastWrap:style(padding-bottom: 0 !important;)
 mangalove.me##.pr_00 .title:style(width: 135px !important;)
+mangapedia.com##.contents-bottom-ads
+mangapedia.com##.description-bottom-ads
 mangaz.com###scroll-adv
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
