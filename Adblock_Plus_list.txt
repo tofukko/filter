@@ -2275,6 +2275,9 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.cps-post div[id*="-"][class*="-"][class*="%e"]
 ##div[class][data-index][style^="float: none; margin:"]
 
+/aurora-heatmap/
+/aurora-heatmap-
+
 !------------xrea.com------------!
 ||imgj.xrea.com^
 ||value-domain.com/xrea_header.js
