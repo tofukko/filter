@@ -2257,13 +2257,17 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 /plugins/thirstyaffiliates/*
 ##.ad-label
 ##.ad-single
+##.ad-single-h2
 ##.ad-space
+##.adarea-box
 ##.afc_popup
 ##.adPost
 ##.adWidget
 ##.dfad
 ##.master-post-advert
 ##.quads-location
+##.related-ad-unit-area
+##.sponsor-h2-center
 !あれなやつ
 ##[id^="post-"][class*=post-] [class^="cta-"]
 ##[id^="post-"][class*=post-] [class$="-cta"]
