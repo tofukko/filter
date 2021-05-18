@@ -2915,8 +2915,7 @@ cinema.pia.co.jp#@#.ads
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
 @@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
-@@||rtoaster.jp^*/rt.js$script,domain=www.kanaloco.jp
-@@||rtoaster.jp^*/?a=$script,domain=www.kanaloco.jp
+@@||rtoaster.jp^$script,domain=www.kanaloco.jp
 	!画像
 @@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!チャットのポップアップ
