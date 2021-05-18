@@ -462,6 +462,7 @@ _ads.js
 ||adtrue.com^$third-party
 ||adultcamfree.com^$third-party
 ||advarkads.com^$third-party
+||adxbid.info^$third-party
 ||adxpansion.com^$third-party
 ||awempire.com^$third-party
 ||awemwh.com^$third-party
@@ -1288,6 +1289,10 @@ $subdocument,third-party,domain=adf.ly
 1000mg.jp##div[style^="clear:both;margin-top:0px;margin-"]
 373news.com###ad_prinfo
 373news.com##.mns_bn
+48idol.tv###custom_html-4
+48idol.tv##.ads-above-single-player
+48idol.tv##.pum-overlay
+48idol.tv##.pum-open-overlay:style(overflow: auto!important)
 9ketsuki.info##.manual_ads
 9ketsuki.info##.widget_custom_html.widget-main
 a-kimama.com##.widget--ad
@@ -3048,6 +3053,9 @@ yakkun.com##.ad + div:style(clear: both !important;)
 	! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
 /modal-dist/index.js
+
+	! https://github.com/AdguardTeam/AdguardFilters/issues/83410
+@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
 battlecats-db.com##body:style(display: block !important)
 
