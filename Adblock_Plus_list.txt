@@ -1484,6 +1484,7 @@ jisin.jp##.add_left
 jisin.jp##.add_right
 jisin.jp###wrap:style(width: unset !important;)
 jitenon.jp##.ads_wraptop2
+kochinews.co.jp##.pr_area
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
 j-town.net##.ad-unit
 jocr.jp##.side_adsbygoogle
