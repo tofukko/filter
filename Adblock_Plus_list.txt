@@ -2910,6 +2910,14 @@ cinema.pia.co.jp#@#.ads
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
+	!nakanohito https://github.com/easylist/easylist/issues/7760
+@@||cm-beacon.nakanohito.jp/at/ranking/$script
+@@||cm-beacon.nakanohito.jp/cm/comment_$xmlhttprequest
+@@||cm-beacon.nakanohito.jp/cm/comment_count/$xmlhttprequest
+@@||cm-widget.nakanohito.jp/cm/$script,stylesheet
+@@||cm-widget.nakanohito.jp/img/$image
+@@||support-beacon.nakanohito.jp/widget/$xmlhttprequest
+@@||support-widget.nakanohito.jp/chatbot$script,stylesheet
 	! 動画見れない
 @@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
 @@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
