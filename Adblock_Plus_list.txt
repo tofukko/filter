@@ -1766,6 +1766,8 @@ tsumanne.net###cm
 tv-asahi.co.jp###rectangle-desktop
 tv-asahi.co.jp##.common-header-pc-v2__commonHeader--koWP-:style(padding-top: 0 !important)
 tv-asahi.co.jp##.init-ad
+tvlife.jp###tvl_pc_article_footer
+tvlife.jp##[id^="tvl_pc_all_"]
 twilog.org##[style^="height:250px"]
 twitter.com##div[data-testid="placementTracking"]:has(svg + div[dir="auto"] > span:has-text(/Promoted|プロモーション/))
 twitter.com##div[data-testid="trend"]:has-text(/Promoted|プロモーション/)
