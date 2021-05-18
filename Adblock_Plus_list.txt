@@ -3026,6 +3026,12 @@ ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoo
 
 gametter.com##+js(acis, addEventListener, google_ad_client)
 
+gigaho.com##+js(aopr, onload)
+gigaho.com#@#.ad:not([class*="widget_"])
+gigaho.com#@#.ads
+gigaho.com#@#.adsbygoogle
+gigaho.com##ins.adsbygoogle
+
 kiji.is##+js(acis, document.createElement, admiral)
 
 knshow.com##+js(acis, load, .ads)
