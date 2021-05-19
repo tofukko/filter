@@ -1499,9 +1499,9 @@ jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jugem.jp##.UBH_new
-jyouhouya3.net##[class^="pnews"]:has( > a[href*="amazon.co"])
-jyouhouya3.net##[class^="pnews"]:has( > a[href*="accesstrade.net/sp/"])
-jyouhouya3.net##[class^="pnews"]:has( > a[href*="px.a8.net/svt/ejp?"])
+jyouhouya3.net##[class^="pnews"]:has(> a[href*="amazon.co"])
+jyouhouya3.net##[class^="pnews"]:has(> a[href*="accesstrade.net/sp/"])
+jyouhouya3.net##[class^="pnews"]:has(> a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
 kai-you.net##.l-recommend-product
@@ -1527,7 +1527,7 @@ kotobank.jp##.pc-iframe-ad
 ktkm.net###custom_html-43
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
-kyoko-np.net##section:has( > h3:has-text(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
+kyoko-np.net##section:has(> h3:has-text(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
@@ -1535,7 +1535,7 @@ lifehacker.jp##.lh-amazonSec
 linkfang.org###LinkFang_Horizontal
 lmaga.jp##.contents_ad
 lmaga.jp##.header_ad
-loveh.org###newvideos:has( > .menubar > .entrytitlein:has-text(ラブエッチのおすすめ無料アダルトサイト))
+loveh.org###newvideos:has(> .menubar > .entrytitlein:has-text(ラブエッチのおすすめ無料アダルトサイト))
 loveh.org##.bottompr
 loveh.org##.toppr
 loveh.org##.videobottompr320x100
@@ -1662,7 +1662,7 @@ orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
 otapol.com###entryAdAmazonArea
-parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has( > a[href^="https://www.amazon.co"])
+parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has(> a[href^="https://www.amazon.co"])
 pashplus.jp##.google_ads
 pashplus.jp##.single_bnr_wrap
 picrew.me##.c_ad_wrapper
@@ -1670,7 +1670,7 @@ picrew.me##.discovery_list_ad
 picrew.me##.imagemaker_ad_wrapper
 picrew.me##.imagemaker_container:style(height: 100% !important;)
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
-pixiv.net##div:has( > iframe:not([src]))
+pixiv.net##div:has(> iframe:not([src]))
 pixiv.net##li:has(> iframe[width="184"][height="232"])
 privatter.net##.“hidden-print”
 privatter.net##.media:has(> .media-left)
@@ -1745,7 +1745,7 @@ supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https
 supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://affiliate.suruga-ya.jp/"]
 supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href*="://www.amazon.co.jp"]
 supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="http://px.a8.net"]
-supersolenoid.jp##.menuBlock:has( > .menuTitle:has-text(/スポンサード・リンク|オススメ|新商品/))
+supersolenoid.jp##.menuBlock:has(> .menuTitle:has-text(/スポンサード・リンク|オススメ|新商品/))
 supersolenoid.jp##.menuBlock3 + center
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
@@ -2095,7 +2095,7 @@ www.nicovideo.jp###head_ads
 www.nicovideo.jp###web_pc_footer
 www.nicovideo.jp##.AuroraVisionContainer-ad
 www.nicovideo.jp##.HeaderContainer_Re-ad
-www.nicovideo.jp##.mb8p4:has( > #web_pc_prime)
+www.nicovideo.jp##.mb8p4:has(> #web_pc_prime)
 www.nicovideo.jp##.PcUniTop350x240MiddleEastAdContainer
 !静画
 seiga.nicovideo.jp###ad_728_90
@@ -2122,7 +2122,7 @@ dic.nicovideo.jp##.adsense-728
 dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
 !アツマール
 ||game.nicovideo.jp/atsumaru/ads/
-game.nicovideo.jp##.Modal__Modal__Overlay:has( > .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
+game.nicovideo.jp##.Modal__Modal__Overlay:has(> .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
 game.nicovideo.jp##+js(nano-stb, u(!0), 5000)
 game.nicovideo.jp##+js(nano-stb, [native code], 15000)
 @@||resource.game.nicovideo.jp/core/player/js/ads.js$script,domain=game.nicovideo.jp
@@ -2205,8 +2205,8 @@ recipe.rakuten.co.jp##.section_common_banner
 ||vinhoverde.sakura.ne.jp$domain=ribbon.to
 ||ribbon.to/alpc.js
 ||ribbon.to/rw.php
-ribbon.to##p[align="center"]:has( > [tareget="rdn"])
-ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
+ribbon.to##p[align="center"]:has(> [tareget="rdn"])
+ribbon.to##p[align="center"]:has(> [href^="http://ribbon.to/ribbon_link.php?"])
 
 !g------------romhustler.org--------------!
 romhustler.org###aside
