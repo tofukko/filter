@@ -2918,7 +2918,7 @@ cinema.pia.co.jp#@#.ads
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
-	! 次のページへ
+	! https://github.com/tofukko/filter/issues/18 次の話へ移動できない
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xhr,domain=ganma.jp
 	!http://www.jp.square-enix.com/jc3/
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
