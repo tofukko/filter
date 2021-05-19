@@ -2906,6 +2906,9 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!トップページ他
 @@||cinema.pia.co.jp/img/ad/$image,domain=cinema.pia.co.jp
 cinema.pia.co.jp#@#.ads
+	! https://github.com/tofukko/filter/issues/17 次の話へ移動できない
+@@||comic-boost.com/api4js/advertisement/$xhr,domain=comic-boost.com
+@@||comic-boost.com/gentosha/advertisement_view.html$frame,domain=comic-boost.com
 	!右サイド
 @@||cookpad-ads.com^$domain=cookpad.com
 	!商品タブの切替が出来ない
