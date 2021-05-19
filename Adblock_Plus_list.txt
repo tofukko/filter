@@ -1701,6 +1701,8 @@ r.binb.jp###adp
 rbbtoday.com##.cx-top-news
 realsound.jp###ad_entryBottom
 realsound.jp###adEntry2rec
+reference.hyper-text.org##.block-ad
+reference.hyper-text.org##.block-books
 resemom.jp##.sidebox-ad
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 saga-s.co.jp##.double-rectangle
@@ -1784,6 +1786,9 @@ twitter.com##div[data-testid="trend"]:has-text(/Promoted|プロモーション/)
 twitter.com##div[data-testid="UserCell"]:has-text(/Promoted|プロモーション/)
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|プロモーション/)
 twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモーション/)
+uraaka.com##.ad-overlay
+uraaka.com##.gallery__interstitial
+uraaka.com##body:style(overflow-y: auto !important;)
 userscript.zone##.searcad
 	||tampermonkey.net/s.js?$domain=userscript.zone
 	||userscript.zone/s.js?$domain=userscript.zone
