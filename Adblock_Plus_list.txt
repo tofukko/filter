@@ -365,7 +365,6 @@ _ads.js
 ||roy-union.com^$third-party
 ||roy-union.org^$third-party
 ||rssad.jp^$third-party
-||rtoaster.jp^$third-party
 ||rubiconproject.com^$third-party
 ||samuraiclick.com^$third-party
 ||sascentral.com^$third-party
@@ -569,7 +568,6 @@ _ads.js
 ||queen-casino.info/affi/
 ||realsrv.com^
 ||runative-syndicate.com^
-||speee-ad.akamaized.net^
 
 $script,third-party,domain=rapidvideo.com
 $script,third-party,domain=asianclub.tv
@@ -971,7 +969,6 @@ $subdocument,third-party,domain=adf.ly
 ||oole-analytics.com^$third-party
 ||openstat.net^$third-party
 ||optimizely.com^$third-party
-||outbrain.com^$third-party
 ||owneriq.net^$third-party
 ||pagerank.$third-party
 ||pr-icon.com^$third-party
@@ -1172,8 +1169,13 @@ $subdocument,third-party,domain=adf.ly
 ##.google-user-ad
 ###gStickyAd
 
+
+||rtoaster.jp^$third-party
+||outbrain.com^$third-party
+||speee-ad.akamaized.net^
 	!reco
-	||logly.co.jp^$third-party
+||logly.co.jp^$third-party
+	
 	!logly.co.jp
 	!##.logly-lift-ad:not(.logly-lift-article)
 	!popin
@@ -1328,6 +1330,7 @@ basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-chil
 bbc.com##[class^="AdContainer-sc-"]
 bikebros.co.jp##.adsw
 bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
+bike-news.jp##.left.box300
 bing.com##.b_ad:remove()
 bizspa.jp##.ad-wrap
 blog.ss-blog.jp###ad-days-area
@@ -1345,6 +1348,8 @@ buzzfeed.com##[id^="BF_WIDGET"]
 career.joi.media###post-advertisement
 career.joi.media##.banner
 ceron.jp##div[style]:has([id^="yoneads"])
+cazual.tv##.bnr_wd_wrap
+cazual.tv##[id^="search-"] + [id^="text-"]
 chart.sekai-kabuka.com###aswift_0_expand
 chat.shalove.net,skypemeet.net##.right_cont
 chat.shalove.net##[id].hearttext:style(display: inline !important;)
