@@ -1346,6 +1346,8 @@ career.joi.media###post-advertisement
 career.joi.media##.banner
 ceron.jp##div[style]:has([id^="yoneads"])
 chart.sekai-kabuka.com###aswift_0_expand
+chat.shalove.net,skypemeet.net##.right_cont
+chat.shalove.net##[id].hearttext:style(display: inline !important;)
 chikuwachan.com##.right_advs
 clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
