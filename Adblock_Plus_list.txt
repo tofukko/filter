@@ -1032,6 +1032,7 @@ $subdocument,third-party,domain=adf.ly
 ||anymind360.com^$third-party
 ||bidswitch.net^$third-party
 ||clarity.ms^$$third-party
+||dc-tag.jp^$third-party
 ||f-tra.com^$third-party
 ||hanaprop.com^$third-party
 ||indexww.com^$third-party
