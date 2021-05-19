@@ -2272,7 +2272,15 @@ www.weblio.jp##.ads-loader
 www.weblio.jp##.firstDictBnr
 www.weblio.jp##.rectangle-ads-frame-www
 eikaiwa.weblio.jp##.sideButton
-ejje.weblio.jp###footFixBar
+ejje.weblio.jp###footFixAdBar
+ejje.weblio.jp##.adBlock
+ejje.weblio.jp##.mainBlock:has(> .flex-rectangle-ads-frame)
+ejje.weblio.jp##.mainBlock:has(> [id$="AdId"])
+ejje.weblio.jp##.sideBlock[style="text-align:center;"] + .sideBlock:nth-of-type(2)
+ejje.weblio.jp##.sideBlock:has(> .indexSideAdTop)
+ejje.weblio.jp##.sideBlock:has(> [id$="AdId"])
+ejje.weblio.jp##.sideBlock:has(> [id^="div-gpt-ad"]):not(.userInfoBoxR)
+ejje.weblio.jp##.sideBlock:has(> script:has-text(/adScS|_ADOBE_/))
 translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
 
