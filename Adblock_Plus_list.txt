@@ -1502,9 +1502,6 @@ jugem.jp##.UBH_new
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="amazon.co"])
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="accesstrade.net/sp/"])
 jyouhouya3.net##[class^="pnews"]:has( > a[href*="px.a8.net/svt/ejp?"])
-jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="amazon.co"])
-jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="accesstrade.net/sp/"])
-jyouhouya3.net#?#[class^="pnews"]:-abp-has( > a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
 kai-you.net##.l-recommend-product
@@ -1666,7 +1663,6 @@ orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
 otapol.com###entryAdAmazonArea
 parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has( > a[href^="https://www.amazon.co"])
-parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has( > a[href^="https://www.amazon.co"])
 pashplus.jp##.google_ads
 pashplus.jp##.single_bnr_wrap
 picrew.me##.c_ad_wrapper
@@ -1676,8 +1672,6 @@ picrew.me##.imagemaker_container:style(height: 100% !important;)
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net##div:has( > iframe:not([src]))
 pixiv.net##li:has(> iframe[width="184"][height="232"])
-pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
-pixiv.net#?#div:-abp-has( > iframe:not([src]))
 privatter.net##.“hidden-print”
 privatter.net##.media:has(> .media-left)
 privatter.net##[href="/adcookie.php"]
@@ -1759,7 +1753,6 @@ syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 taskle.jp##.ad-widget
 teacup.com##center:has(img[src^="//adimg.teacup.com/"])
-teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
@@ -1789,7 +1782,6 @@ twilog.org##[style^="height:250px"]
 twitter.com##div[data-testid="placementTracking"]:has(svg + div[dir="auto"] > span:has-text(/Promoted|プロモーション/))
 twitter.com##div[data-testid="trend"]:has-text(/Promoted|プロモーション/)
 twitter.com##div[data-testid="UserCell"]:has-text(/Promoted|プロモーション/)
-twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|プロモーション/))
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|プロモーション/)
 twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモーション/)
 userscript.zone##.searcad
@@ -1816,7 +1808,6 @@ www.j-cast.com##.ad_entry_toptext
 www.j-cast.com##.adunit
 ! 朝目新聞
 www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
-www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(1)
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(2)
 xvideo-jp.com###dmmad
@@ -1824,7 +1815,6 @@ xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
-xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 zyuken.net##.AdImg
 
 
@@ -1875,7 +1865,6 @@ animeflv.ru##+js(set-constant.js, check_adblock, true)
 artemisweb.jp###active_overlay
 artemisweb.jp##body > center:first-of-type
 artemisweb.jp##body > center:last-of-type:has(a[href="http://www.artemisweb.jp/"][target="_blank"])
-artemisweb.jp#?#body > center:last-of-type:-abp-has(a[href="http://www.artemisweb.jp/"][target="_blank"])
 
 !------------biglobe------------!
 biglobe.ne.jp###h_bar
@@ -2218,8 +2207,6 @@ recipe.rakuten.co.jp##.section_common_banner
 ||ribbon.to/rw.php
 ribbon.to##p[align="center"]:has( > [tareget="rdn"])
 ribbon.to##p[align="center"]:has( > [href^="http://ribbon.to/ribbon_link.php?"])
-ribbon.to#?#p[align="center"]:-abp-has( > [tareget="rdn"])
-ribbon.to#?#p[align="center"]:-abp-has( > [href^="http://ribbon.to/ribbon_link.php?"])
 
 !g------------romhustler.org--------------!
 romhustler.org###aside
