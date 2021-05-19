@@ -1608,7 +1608,7 @@ mora.jp##.wide_adBox_footer
 mora.jp##.special_adBox
 mora.jp###special_adBox_bg
 moviewalker.jp##.bl_adSPWrap
-moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"
+moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"]
 mag.osdn.jp###head-ad-text
 mag.osdn.jp##[id^="div-gpt-osdn_mag_"]
 muvc.net##body > div[align="right"]:last-of-type
