@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/19 13:58
+! 最終更新 2021/05/19 20:54
 !
 !--------通販サイト--------!
 
@@ -1655,9 +1655,6 @@ nyaa.si##.servers-cost-money1
 o-uccino.jp##[class^="float_banner_"]
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 okwave.jp##.pickup
-onlinegamer.jp###adPC
-onlinegamer.jp##.spsiteDmmRecommend
-onlinegamer.jp,gamer.ne.jp##.contentWrap:style(margin-top: 90px !important;)
 open2ch.net##.kokoku
 or2.mobi##.single_ad
 or2.mobi##.top_ad
@@ -2012,6 +2009,15 @@ hs-exp.jp##.entry-footer > div:last-child:style(margin: 0em auto !important;)
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
 hs-exp.jp#@#.adsbygoogle
+
+
+!------------ixll.co.jp----------!
+figgy.jp##.wrapper:style(margin-top: 90px !important;)
+gamer.ne.jp##.contentWrap:style(margin-top: 90px !important;)
+gamer.ne.jp##.adInfeedArticle
+gamer.ne.jp##[class^="ad"][class$="_pc"]
+gamer.ne.jp##[class^="ad"][class$="_sp"]
+onlinegamer.jp##.trackingWrap > .contentWrap:style(margin-top: 90px !important;)
 
 !g-----------kissanime-----------!
 !nz
