@@ -3008,9 +3008,12 @@ bookmeter.com#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
 	!Amazon誘導ページ 紙で読む
 comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
+	! https://github.com/tofukko/filter/issues/20
+comicride.jp#@##ad1
+comicride.jp#@##ad2
 	!サイド 広告だから消しても良い気もする
 cookpad.com#@##ad
-	!アドベンチャー https://github.com/tofukko/filter/issues/9
+	! https://github.com/tofukko/filter/issues/9 アドベンチャー
 digiket.com#@#.adv
 	!右
 eparet.net#@#.ad:not([class*="widget_"])
