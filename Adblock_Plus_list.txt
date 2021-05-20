@@ -570,12 +570,7 @@ _ads.js
 ||realsrv.com^
 ||runative-syndicate.com^
 
-$script,third-party,domain=rapidvideo.com
-$script,third-party,domain=asianclub.tv
 $script,third-party,domain=javtorrent.re
-$script,subdocument,third-party,domain=clipconverter.cc
-$script,domain=1dl.re
-$subdocument,third-party,domain=adf.ly
 
 ||2ch.vet/img/ani_
 ||4chan-ads.org^
@@ -634,16 +629,11 @@ $subdocument,third-party,domain=adf.ly
 ||google.com/uds/api/ads/
 ||mail-ads.google.com^
 ||myoji-yurai.net/images/banner/
-||gotporn.com/desktop/js/popunder-
-||gotporn.com/main/js/exo-loader/
-	||tsyndicate.com/iframes2/*$domain=gotporn.com
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||hentai-foundry.com/themes/default/js/activebar.js
 ||horne.red/banner/
 ||i-bbs.sijex.net/js/jquery.scrollfollow.js
-||imagebam.com/files/index2.php
-||imagebam.com/JS/js-cookie.js
 ||itmedia.co.jp/css/sa.js
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
@@ -697,13 +687,6 @@ $subdocument,third-party,domain=adf.ly
 	||admesia.com^$third-party
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
 ||tatituteto.net/images/banner/
-||thisav.com/index.js
-||thisav.com/player/video-js-banner/
-	/video-js-vast-vpaid/*
-	||adsco.re^
-	||browsers.support^
-	||zlgokeby.com^
-	||wzismevwhqixlq.com^
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||twitter.com/i/videoads/
@@ -1360,6 +1343,7 @@ chat.shalove.net##[id].hearttext:style(display: inline !important;)
 chikuwachan.com##.right_advs
 clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
+clipconverter.cc##+js(acis, Math, break;case $.)
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 cnn.co.jp###ad-large-header
