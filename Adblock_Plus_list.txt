@@ -54,6 +54,7 @@ _ad.js
 /ad2.
 /ad3.
 /ad4.
+/adbutler/*
 /adframe.
 /adframe/*
 /adframes.
@@ -351,6 +352,7 @@ _ads.js
 ||pompass.net^$third-party
 ||pop6.com^$third-party
 ||ppc-direct.com^$third-party
+||primead.jp$third-party
 ||primecaster.net^$third-party
 ||proparm.jp^$third-party
 ||pubmatic.com^$third-party
@@ -384,7 +386,6 @@ _ads.js
 ||sppp.jp^$third-party
 ||store-mix.com^$third-party
 ||sublimestore.jp^$third-party
-||taboola.com^$third-party
 ||taggyad.jp^$third-party
 ||tagtoru.tokyo^$third-party
 ||tapone.jp^$third-party
@@ -680,6 +681,7 @@ $subdocument,third-party,domain=adf.ly
 ||new-akiba.com/images/dlsite/
 ||new-akiba.com/special/
 	||ura-akiba.jp^$subdocument
+||newsweekjapan.jp/images/bnr/newsweek_ad_
 ||nhentai.net/api/
 ||nijie.net/*/banner/
 ||open2ch.net/test/dd.cgi/
@@ -1174,6 +1176,7 @@ $subdocument,third-party,domain=adf.ly
 ||rtoaster.jp^$third-party
 ||outbrain.com^$third-party
 ||speee-ad.akamaized.net^
+||taboola.com^$third-party
 	!reco
 ||logly.co.jp^$third-party
 	
