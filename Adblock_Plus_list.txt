@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/19 23:43
+! 最終更新 2021/05/20 12:39
 !
 !--------通販サイト--------!
 
@@ -1347,7 +1347,7 @@ buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
 career.joi.media###post-advertisement
 career.joi.media##.banner
-ceron.jp##div[style]:has([id^="yoneads"])
+ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
 chart.sekai-kabuka.com###aswift_0_expand
@@ -1407,14 +1407,14 @@ famitsu.com##.banner-top-header
 	wiki.famitsu.com###ad-wiki-content-upper
 	!微妙系
 	!famitsu.com##[class^="l-contents-block--tie-up-"]
-	!famitsu.com##.border-col-bottom > [class^="col-"]:has(> .card > [class*="ad-native-campaign"])
+	!famitsu.com#?#.border-col-bottom > [class^="col-"]:-abp-has(> .card > [class*="ad-native-campaign"])
 fandom.com##.aff-unit__wrapper
 fandom.com##.wikia-ad
 fate-twitter-matome.com###js-popup
 fate-twitter-matome.com###mainEntity > div:not(.clearfix):not(.meta-box)
 fate-twitter-matome.com###pc-text-widget
 favolog.org###side > div:first-child
-flashfabrica.com##div:has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
+flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
 fnn.jp##.sherpa-component[data-ad_type]
 freesoft.tvbok.com###left_box3
@@ -1480,8 +1480,8 @@ ign.com##.zad.billboard:style(min-height: 0 !important;)
 img.favsite.jp##[class$="-lg"]
 img.favsite.jp##[href*="dlsite.com/"]
 irasutoya.com##[class^="entryadwrapper"]
-iwate-np.co.jp##.article-list > li:has-text(広告)
-iwate-np.co.jp##.article-list > li:has(> script)
+iwate-np.co.jp#?#article-list > li:-abp-contains(広告)
+iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
 ja.whotwi.com###header_ad_area
 ja.whotwi.com##.stats_ad_300x250_2
 japanese.engadget.com###module-engadget-deeplink-top-ad
@@ -1507,9 +1507,9 @@ jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jugem.jp##.UBH_new
-jyouhouya3.net##[class^="pnews"]:has(> a[href*="amazon.co"])
-jyouhouya3.net##[class^="pnews"]:has(> a[href*="accesstrade.net/sp/"])
-jyouhouya3.net##[class^="pnews"]:has(> a[href*="px.a8.net/svt/ejp?"])
+jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="amazon.co"])
+jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="accesstrade.net/sp/"])
+jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
 kai-you.net##.l-recommend-product
@@ -1532,13 +1532,13 @@ kanaloco.jp##.top-head-bnr
 karapaia.com###overlay
 karapaia.com##.readmore-header
 karapaia.com##[class^=ads-label]
-kidsna.com###kidsna-articlelist > ul > li:has(.pr)
+kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
 kobe-np.co.jp##.active.native
 kotobank.jp##.pc-iframe-ad
 ktkm.net###custom_html-43
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
-kyoko-np.net##section:has(> h3:has-text(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
+kyoko-np.net#?#section:-abp-has(> h3:-abp-contains(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
@@ -1546,7 +1546,7 @@ lifehacker.jp##.lh-amazonSec
 linkfang.org###LinkFang_Horizontal
 lmaga.jp##.contents_ad
 lmaga.jp##.header_ad
-loveh.org###newvideos:has(> .menubar > .entrytitlein:has-text(ラブエッチのおすすめ無料アダルトサイト))
+loveh.org#?##newvideos:-abp-has(> .menubar > .entrytitlein:-abp-contains(ラブエッチのおすすめ無料アダルトサイト))
 loveh.org##.bottompr
 loveh.org##.toppr
 loveh.org##.videobottompr320x100
@@ -1567,7 +1567,7 @@ manager-life.net##[id^="ad_"]
 mangahack.com##[class^="ad_"]
 mangalove.me##.lastInterstitial
 mangalove.me##.interstitial
-mangalove.me##li:has(> .native-ad-wrap)
+mangalove.me#?#li:-abp-has(> .native-ad-wrap)
 mangalove.me##.viewerBody,.viewer,.viewer .slick-list,.viewer .slick-track,.viewer .imgWrap,.viewer .lastPage.slick-slide:style(height: 100% !important;)
 mangalove.me##.viewer,.lastWrap:style(padding-bottom: 0 !important;)
 mangalove.me##.pr_00 .title:style(width: 135px !important;)
@@ -1674,7 +1674,7 @@ orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
 otapol.com###entryAdAmazonArea
-parupunte.net##div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:has(> a[href^="https://www.amazon.co"])
+parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has(> a[href^="https://www.amazon.co"])
 pashplus.jp##.google_ads
 pashplus.jp##.single_bnr_wrap
 picrew.me##.c_ad_wrapper
@@ -1682,10 +1682,10 @@ picrew.me##.discovery_list_ad
 picrew.me##.imagemaker_ad_wrapper
 picrew.me##.imagemaker_container:style(height: 100% !important;)
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
-pixiv.net##div:has(> iframe:not([src]))
-pixiv.net##li:has(> iframe[width="184"][height="232"])
+pixiv.net#?#div:-abp-has(> iframe:not([src]))
+pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
 privatter.net##.“hidden-print”
-privatter.net##.media:has(> .media-left)
+privatter.net#?#.media:-abp-has(> .media-left)
 privatter.net##[href="/adcookie.php"]
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
 dic.pixiv.net###footer_ad
@@ -1759,14 +1759,14 @@ supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https
 supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://affiliate.suruga-ya.jp/"]
 supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href*="://www.amazon.co.jp"]
 supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="http://px.a8.net"]
-supersolenoid.jp##.menuBlock:has(> .menuTitle:has-text(/スポンサード・リンク|オススメ|新商品/))
+supersolenoid.jp#?#.menuBlock:-abp-has(> .menuTitle:-abp-contains(/スポンサード・リンク|オススメ|新商品/))
 supersolenoid.jp##.menuBlock3 + center
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 taskle.jp##.ad-widget
-teacup.com##center:has(img[src^="//adimg.teacup.com/"])
+teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
@@ -1793,11 +1793,9 @@ tv-asahi.co.jp##.init-ad
 tvlife.jp###tvl_pc_article_footer
 tvlife.jp##[id^="tvl_pc_all_"]
 twilog.org##[style^="height:250px"]
-twitter.com##div[data-testid="placementTracking"]:has(svg + div[dir="auto"] > span:has-text(/Promoted|プロモーション/))
-twitter.com##div[data-testid="trend"]:has-text(/Promoted|プロモーション/)
-twitter.com##div[data-testid="UserCell"]:has-text(/Promoted|プロモーション/)
+twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|プロモーション/)
-twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|プロモーション/)
+twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Mainostettu|推廣|推广|プロモーション/)
 uraaka.com##.ad-overlay
 uraaka.com##.gallery__interstitial
 uraaka.com##body:style(overflow-y: auto !important;)
@@ -1824,14 +1822,14 @@ www.j-cast.com##.ad-rectangle-bnr
 www.j-cast.com##.ad_entry_toptext
 www.j-cast.com##.adunit
 ! 朝目新聞
-www.ne.jp##body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
+www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(1)
 xtube.akicompany.com##.col-xs-12:nth-last-of-type(2)
 xvideo-jp.com###dmmad
 xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
-xvideo-jp.com##.c-card:has([href^="http://xvideo-jp.com/mgs/"])
+xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 zyuken.net##.AdImg
 
 
@@ -1881,7 +1879,7 @@ animeflv.ru##+js(set-constant.js, check_adblock, true)
 ||contents.fc2.com/parts/parts_frame.php?$domain=artemisweb.jp
 artemisweb.jp###active_overlay
 artemisweb.jp##body > center:first-of-type
-artemisweb.jp##body > center:last-of-type:has(a[href="http://www.artemisweb.jp/"][target="_blank"])
+artemisweb.jp#?#body > center:last-of-type:-abp-has(a[href="http://www.artemisweb.jp/"][target="_blank"])
 
 !------------biglobe------------!
 biglobe.ne.jp###h_bar
@@ -1941,7 +1939,7 @@ www.excite.co.jp##.extra
 !ほにゃく
 www.excite.co.jp##.ad728
 www.excite.co.jp###rakutenMW
-exblog.jp##div:has(> #gpt_pc_blog_header)
+exblog.jp#?#div:-abp-has(> #gpt_pc_blog_header)
 
 !------------futaba-------------!
 ||2chan.net/bin/*.htm
@@ -2000,7 +1998,7 @@ b.hatena.ne.jp##[class^="entrylist-ad-"]
 !？
 b.hatena.ne.jp##.js-hotentries.is-nativeads-loading > li:nth-child(4) > .entrylist-contents > .entrylist-contents-main,.js-hotentries.is-nativeads-loading > li:nth-child(8) > .entrylist-contents > .entrylist-contents-main:style(display: block !important;)
 b.hatena.ne.jp##[class^="entry-ad-"]
-d.hatena.ne.jp##div:has(> div > div > [id^="ad-hba-"])
+d.hatena.ne.jp#?#div:-abp-has(> div > div > [id^="ad-hba-"])
 d.hatena.ne.jp##section > div:not([id]):not([class])
 q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
@@ -2097,7 +2095,7 @@ msn.com##.widead
 ||mbadv.nan.co.jp^
 ||tool2.nan-net.com/exposure.jpg
 nan-net.com###banner
-nan-net.com##div[style$="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]:has([src^="//adm.shinobi.jp"])
+nan-net.com#?#div[style$="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]:-abp-has([src^="//adm.shinobi.jp"])
 
 !------------nicosub.net------------!
 ||dlsite.com^$domain=nicosub.net
@@ -2112,7 +2110,7 @@ www.nicovideo.jp###head_ads
 www.nicovideo.jp###web_pc_footer
 www.nicovideo.jp##.AuroraVisionContainer-ad
 www.nicovideo.jp##.HeaderContainer_Re-ad
-www.nicovideo.jp##.mb8p4:has(> #web_pc_prime)
+www.nicovideo.jp#?#.mb8p4:-abp-has(> #web_pc_prime)
 www.nicovideo.jp##.PcUniTop350x240MiddleEastAdContainer
 !静画
 seiga.nicovideo.jp###ad_728_90
@@ -2139,7 +2137,7 @@ dic.nicovideo.jp##.adsense-728
 dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
 !アツマール
 ||game.nicovideo.jp/atsumaru/ads/
-game.nicovideo.jp##.Modal__Modal__Overlay:has(> .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
+game.nicovideo.jp#?#.Modal__Modal__Overlay:-abp-has(> .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
 game.nicovideo.jp##+js(nano-stb, u(!0), 5000)
 game.nicovideo.jp##+js(nano-stb, [native code], 15000)
 @@||resource.game.nicovideo.jp/core/player/js/ads.js$script,domain=game.nicovideo.jp
@@ -2222,8 +2220,8 @@ recipe.rakuten.co.jp##.section_common_banner
 ||vinhoverde.sakura.ne.jp$domain=ribbon.to
 ||ribbon.to/alpc.js
 ||ribbon.to/rw.php
-ribbon.to##p[align="center"]:has(> [tareget="rdn"])
-ribbon.to##p[align="center"]:has(> [href^="http://ribbon.to/ribbon_link.php?"])
+ribbon.to#?#p[align="center"]:-abp-has(> [tareget="rdn"])
+ribbon.to#?#p[align="center"]:-abp-has(> [href^="http://ribbon.to/ribbon_link.php?"])
 
 !g------------romhustler.org--------------!
 romhustler.org###aside
@@ -2253,7 +2251,7 @@ osakamotion.net,tokyomotion.net###nuevoa
 vector.co.jp###adBox
 vector.co.jp###v_50
 pcshop.vector.co.jp###vsSubTableContent
-search.vector.co.jp##section:has(> .overture)
+search.vector.co.jp#?#section:-abp-has(> .overture)
 !header
 search.vector.co.jp##.v_search:nth-of-type(1):style(top: 82px !important;)
 search.vector.co.jp##.v_search:nth-of-type(1) + .pager:style(top: 127px !important;)
@@ -2278,13 +2276,13 @@ www.weblio.jp##.rectangle-ads-frame-www
 eikaiwa.weblio.jp##.sideButton
 ejje.weblio.jp###footFixAdBar
 ejje.weblio.jp##.adBlock
-ejje.weblio.jp##.mainBlock:has(> .flex-rectangle-ads-frame)
-ejje.weblio.jp##.mainBlock:has(> [id$="AdId"])
+ejje.weblio.jp#?#.mainBlock:-abp-has(> .flex-rectangle-ads-frame)
+ejje.weblio.jp#?#.mainBlock:-abp-has(> [id$="AdId"])
 ejje.weblio.jp##.sideBlock[style="text-align:center;"] + .sideBlock:nth-of-type(2)
-ejje.weblio.jp##.sideBlock:has(> .indexSideAdTop)
-ejje.weblio.jp##.sideBlock:has(> [id$="AdId"])
-ejje.weblio.jp##.sideBlock:has(> [id^="div-gpt-ad"]):not(.userInfoBoxR)
-ejje.weblio.jp##.sideBlock:has(> script:has-text(/adScS|_ADOBE_/))
+ejje.weblio.jp#?#.sideBlock:-abp-has(> .indexSideAdTop)
+ejje.weblio.jp#?#.sideBlock:-abp-has(> [id$="AdId"])
+ejje.weblio.jp#?#.sideBlock:-abp-has(> [id^="div-gpt-ad"]):not(.userInfoBoxR)
+ejje.weblio.jp#?#.sideBlock:-abp-has(> script:-abp-contains(/adScS|_ADOBE_/))
 translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
 
@@ -2361,8 +2359,8 @@ auctions.yahoo.co.jp##.ss
 chiebukuro.yahoo.co.jp##.lstAd
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
 detail.chiebukuro.yahoo.co.jp##aside[class^="ClapLv3SubList_Chie"]
-finance.yahoo.co.jp##div:has(> #mainAdTop)
-finance.yahoo.co.jp##div:has(> [id^=subAd])
+finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
+finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
 gyao.yahoo.co.jp##.yads-overlay
 gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
 mail.yahoo.co.jp###theAd
@@ -2700,7 +2698,7 @@ bipblog.com##.amachazl-box
 figsoku.net###recommend
 figsoku.net##.ama:nth-of-type(1)
 figsoku.net##.gad
-figsoku.net##.pluginWrap:has([rel="noopener noreferrer"])
+figsoku.net#?#.pluginWrap:-abp-has([rel="noopener noreferrer"])
 figsoku.net##.shop
 figsoku.net##.wama
 figsoku.net##.textwidget [href^="http://px.a8.net/svt/ejp"]
