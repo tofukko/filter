@@ -1532,6 +1532,9 @@ kakaku.com###yAuctionBox
 kakaku.com##.listPR
 kakaku.com##.prBn
 kakaku.com##.prTitle
+kamigame.jp###ad_footer
+kamigame.jp##[id^="ad_"][id$="_wrapper"]
+kamigame.jp##[id^="ad_right_"]
 kanaloco.jp##.blk-bnr02
 kanaloco.jp##.bnr01
 kanaloco.jp##.top-head-bnr
