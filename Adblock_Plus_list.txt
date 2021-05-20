@@ -1046,10 +1046,10 @@ $script,third-party,domain=javtorrent.re
 ||deqwas.net^
 ||disqus.com/stats.html
 ||dw-eu.com.com^
-||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js
-||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js
-||googletagmanager.com/gtm.js$script,redirect=googletagmanager.com/gtm.js
-||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js
+||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
+||google-analytics.com/ga.js$script,redirect=google-analytics_ga.js
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||gpr.hu/pr.pr?
 ||itgear.jp*/ax.js
 ||just-now.net/a?k=
