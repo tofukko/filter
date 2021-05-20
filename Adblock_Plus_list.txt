@@ -1974,6 +1974,7 @@ goo.ne.jp##[id^="gooad-"]
 blog.goo.ne.jp###mod-advertising
 blog.goo.ne.jp###mod-goo-recommends
 blog.goo.ne.jp##.navbar__link--left
+dictionary.goo.ne.jp##.NR-ad
 ||log000.goo.ne.jp^
 !gesoten
 game.goo.ne.jp##.ad_half
