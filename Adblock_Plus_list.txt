@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/20 22:33
+! 最終更新 2021/05/21 8:25
 !
 !--------通販サイト--------!
 
@@ -974,6 +974,7 @@ $script,third-party,domain=javtorrent.re
 ||rlcdn.com^$third-party
 ||scorecardresearch.com^$third-party
 ||searchforce.net^$third-party
+||sentry.io^$third-party
 ||seo-stats.$third-party
 ||seo119.com^$third-party
 ||seogreat.net^$third-party
