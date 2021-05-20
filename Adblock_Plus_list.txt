@@ -649,6 +649,7 @@ $subdocument,third-party,domain=adf.ly
 ||jalan.net/jalan/doc/top/js/randombanner.js
 ||japan.cnet.com/parts/frame/
 ||japanese.engadget.com^$subdocument
+||japanese.joins.com/HomeAds/
 ||jugem.jp/ad/
 ||kakaku.com^*/kakakuad/
 ||kakaku.com^*/RdmReviewAd.js
@@ -1488,6 +1489,8 @@ japanese.engadget.com###module-engadget-deeplink-top-ad
 japanese.engadget.com###taboola-below-article-thumbnails-2nd
 japanese.engadget.com##div.Mih\(250px\)
 japanese.engadget.com##div.Mih\(90px\)
+japanese.joins.com##.mainTopAd
+japanese.joins.com##.YahooAds
 jbbs.shitaraba.net###footer-menu + br + table + hr + div
 jbbs.shitaraba.net###footer-menu + br + table + hr + table
 jbbs.shitaraba.net##.seesaa_channel
