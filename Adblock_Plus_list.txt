@@ -1640,6 +1640,7 @@ new-akiba.com##.top-column-onsale
 new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
 news.mixi.jp##.adsenseBannerArea
+news.mynavi.jp##.c-sidePickup
 news24.jp###adText01
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
