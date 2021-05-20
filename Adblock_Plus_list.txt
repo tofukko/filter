@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/20 12:39
+! 最終更新 2021/05/20 18:09
 !
 !--------通販サイト--------!
 
@@ -3038,8 +3038,13 @@ magcomi.com#@#.adv
 mail.google.com#@#.ads
 	!トップバナー
 mamastar.jp#@#a[href*="http://ad."]
-	!追加日 https://github.com/tofukko/filter/issues/5
+	! https://github.com/tofukko/filter/issues/5 追加日
 mega.nz#@#.ad:not([class*="widget_"])
+        ! https://github.com/tofukko/filter/issues/11
+	!画像リスト最大化 ついでに、編集部が選ぶ関連記事も横幅いっぱいに広げる
+news.mynavi.jp##.photo_table--hold:style(clear:both)
+news.mynavi.jp##.articleRelated_postList:style(width: 100% !important;)
+news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !important;)
 	! https://github.com/tofukko/filter/issues/11 サイドバー
 news.nifty.com##.sidebar_fixed:style(position: static !important;)
 	!検索 ランキングの「宣伝」部分が消える
