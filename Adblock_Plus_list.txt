@@ -2374,6 +2374,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.adPost
 ##.adWidget
 ##.dfad
+##.diver_widget_adarea
 ##.master-post-advert
 ##.quads-location
 ##.related-ad-unit-area
