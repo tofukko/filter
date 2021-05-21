@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/21 22:38
+! 最終更新 2021/05/22 8:45
 !
 !--------通販サイト--------!
 
@@ -2673,8 +2673,10 @@ admin.blog.fc2.com#@##ads
 ||amebaowndme.com^*/pureAds|
 
 ameblo.jp##.subAdBannerArea
+ameblo.jp##.subAdBannerHeader
 ameblo.jp##.skin-entryAd
 ameblo.jp##[alt0="BlogAffiliate"]
+	! https://github.com/tofukko/filter/issues/14
 ameblo.jp###subAInner:style(position: static !important; margin-top: auto !important;)
 
 !------------nikkeibp------------!
