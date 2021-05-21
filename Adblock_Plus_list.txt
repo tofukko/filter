@@ -3069,8 +3069,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||twitter.com/account/access?
 	!動画見れない
 @@||tsyndicate.com/sdk/v1/n.js
-	! 動画見れない
-@@||vidoza.net/js/ads.js$domain=vidoza.net
 @@||yimg.jp^*/lib2obf_*.js
 @@||yimg.jp/bdv/yahoo/darla/*/darla-secure-beacons-min.js$domain=mail.yahoo.co.jp
 @@||yimg.jp/bdv/yahoo/darla/*/darla-dynamic-beacons-min.js$domain=mail.yahoo.co.jp
