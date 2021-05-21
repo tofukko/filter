@@ -2379,6 +2379,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.quads-location
 ##.related-ad-unit-area
 ##.sponsor-h2-center
+##.thk_ps_widget
 !あれなやつ
 ##[id^="post-"][class*=post-] [class^="cta-"]
 ##[id^="post-"][class*=post-] [class$="-cta"]
