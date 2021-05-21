@@ -6,8 +6,7 @@
 !
 !--------通販サイト--------!
 
-||e-nls.com^$third-party
-
+!||e-nls.com^$third-party
 !||dgpot.com^$third-party,domain=~dgpot.com
 !||digiket.com^$third-party
 !||digiket.net^$third-party,domain=~digiket.com
@@ -106,7 +105,6 @@ _ads.js
 /prebid/*
 /prebid-
 /prebid?
-/pop.js|
 /popunder.
 /www/delivery/*
 	!/afr.php?
@@ -2216,7 +2214,6 @@ game.nicovideo.jp#?#.Modal__Modal__Overlay:-abp-has(> .GamePageModal__GamePageMo
 game.nicovideo.jp##+js(nano-stb, u(!0), 5000)
 game.nicovideo.jp##+js(nano-stb, [native code], 15000)
 @@||resource.game.nicovideo.jp/core/player/js/ads.js$script,domain=game.nicovideo.jp
-@@||resource.game.nicovideo.jp^*/Pop.js$script,domain=resource.game.nicovideo.jp
 @@||html5.nicogame.jp/misc/ads.js$script,domain=game.nicovideo.jp
 !コモンズ
 com.nicovideo.jp###community_pc_top
@@ -3074,7 +3071,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||tsyndicate.com/sdk/v1/n.js
 	! 動画見れない
 @@||vidoza.net/js/ads.js$domain=vidoza.net
-@@||vidoza.net/js/pop.js$domain=vidoza.net
 @@||yimg.jp^*/lib2obf_*.js
 @@||yimg.jp/bdv/yahoo/darla/*/darla-secure-beacons-min.js$domain=mail.yahoo.co.jp
 @@||yimg.jp/bdv/yahoo/darla/*/darla-dynamic-beacons-min.js$domain=mail.yahoo.co.jp
