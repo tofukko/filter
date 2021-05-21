@@ -1122,7 +1122,7 @@ $script,third-party,domain=javtorrent.re
 ||zokugo-dict.com^*/ac.js
 
 !-----------------------非表示フィルタ-----------------------!
-###ad
+	!###ad
 ###ad1
 ###ad2
 ###ads
