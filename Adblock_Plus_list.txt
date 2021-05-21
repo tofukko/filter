@@ -2220,7 +2220,7 @@ com.nicovideo.jp###community_pc_top
 !ニコニコインフォ
 blog.nicovideo.jp##.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-aside-prlist-title)
 
-@@||dcdn.cdn.nicovideo.jp/shared_httpd/log.gif?$xhr,domain=nicovideo.jp
+@@||dcdn.cdn.nicovideo.jp/shared_httpd/log.gif?$xmlhttprequest,domain=nicovideo.jp
 
 !easylist
 ||nicoad.nicovideo.jp^$domain=~blog.nicovideo.jp|~live2.nicovideo.jp|~nicoad.nicovideo.jp,badfilter
@@ -2483,7 +2483,7 @@ games.wkb.jp##.top-ad
 ||games.softgames.com/modules/p2-ads-client.js
 ||dop3jnx8my3ym.cloudfront.net/sg-track-sdk.js$script,domain=softgames.com
 games.softgames.com##.sgYMenuContainer + div
-@@||games.softgames.com^$script,other,xhr,domain=games.softgames.com
+@@||games.softgames.com^$script,other,xmlhttprequest,domain=games.softgames.com
 !result
 !games.softgames.com###popup-backdrop
 !games.softgames.com###yahooScoreResult
@@ -2960,7 +2960,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 !--------ホワイトリスト--------!
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-||pubads.g.doubleclick.net/gampad/ads$xhr,redirect=nooptext,domain=imasdk.googleapis.com
+||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
 ||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
@@ -2999,7 +2999,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!トップページ他
 @@||cinema.pia.co.jp/img/ad/$image,domain=cinema.pia.co.jp
 	! https://github.com/tofukko/filter/issues/17 次の話へ移動できない
-@@||comic-boost.com/api4js/advertisement/$xhr,domain=comic-boost.com
+@@||comic-boost.com/api4js/advertisement/$xmlhttprequest,domain=comic-boost.com
 @@||comic-boost.com/gentosha/advertisement_view.html$frame,domain=comic-boost.com
 	!右サイド
 @@||cookpad-ads.com^$domain=cookpad.com
@@ -3011,7 +3011,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
 	! https://github.com/tofukko/filter/issues/18 次の話へ移動できない
-@@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xhr,domain=ganma.jp
+@@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xmlhttprequest,domain=ganma.jp
 	!http://www.jp.square-enix.com/jc3/
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
@@ -3135,9 +3135,9 @@ wiimk2.net#@#.advertisement
 yakkun.com##.ad + div:style(clear: both !important;)
 
 !-------------------anti adblock-------------------------!
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=nooptext
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect-rule=nooptext
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
-||googleads.g.doubleclick.net/pagead/id^$xhr,redirect-rule=nooptext
+||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext
 
 	! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
