@@ -1142,7 +1142,7 @@ $script,third-party,domain=javtorrent.re
 ##.ad-rectangle
 ##.ad1
 ##.ad2
-##.ads
+	!##.ads
 ##.adsense
 ##.adv
 ##.advertisement
@@ -1333,6 +1333,21 @@ yakkun.com##.ad
 !wp系のアレなやつ
 ###side > aside > div.ad:first-child
 ###content.clearfix > aside > div.ad:first-child
+
+! ##.ads
+2nn.jp##.ads
+alphapolis.co.jp##.ads
+atwiki.jp##.ads
+bang-dream-news.com##.ads
+blogcircle.jp##.ads
+chixi.jp##.ads
+chugoku-np.co.jp##.ads
+gori.me##.ads
+imashun-navi.com##.ads
+karapaia.com##.ads
+komachi.yomiuri.co.jp##.ads
+ryusoku.com##.ads
+savevideo.me##.ads
 
 
 1000mg.jp##.main-top
@@ -2983,7 +2998,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
 	!トップページ他
 @@||cinema.pia.co.jp/img/ad/$image,domain=cinema.pia.co.jp
-cinema.pia.co.jp#@#.ads
 	! https://github.com/tofukko/filter/issues/17 次の話へ移動できない
 @@||comic-boost.com/api4js/advertisement/$xhr,domain=comic-boost.com
 @@||comic-boost.com/gentosha/advertisement_view.html$frame,domain=comic-boost.com
@@ -3094,8 +3108,6 @@ htb.co.jp#@##advertisement
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
 magcomi.com#@#.adv
-	!本文
-mail.google.com#@#.ads
 	!トップバナー
 mamastar.jp#@#a[href*="http://ad."]
         ! https://github.com/tofukko/filter/issues/11
@@ -3105,8 +3117,6 @@ news.mynavi.jp##.articleRelated_postList:style(width: 100% !important;)
 news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !important;)
 	! https://github.com/tofukko/filter/issues/11 サイドバー
 news.nifty.com##.sidebar_fixed:style(position: static !important;)
-	!検索 ランキングの「宣伝」部分が消える
-www.nicovideo.jp#@#.ads
 	!header辺り
 no-ichigo.jp##div[style="height:41px;"]:style(height: 42px !important;)
 no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
@@ -3153,7 +3163,6 @@ ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoo
 gametter.com##+js(acis, addEventListener, google_ad_client)
 
 gigaho.com##+js(aopr, onload)
-gigaho.com#@#.ads
 gigaho.com#@#.adsbygoogle
 gigaho.com##ins.adsbygoogle
 
@@ -3163,7 +3172,6 @@ knshow.com##+js(acis, load, .ads)
 !@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=knshow.com
 !@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=knshow.com
 !knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
-!knshow.com#@#.ads
 !knshow.com#@#.adsbygoogle
 
 manga1000.com##+js(aopw, $)
@@ -3172,6 +3180,8 @@ my0nio.seesaa.net#@#.adsbygoogle
 my0nio.seesaa.net#@#.adv
 my0nio.seesaa.net#@#.adsense
 
+	! https://github.com/uBlockOrigin/uAssets/issues/3874
+savevideo.me##+js(acis, $, banner)
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
