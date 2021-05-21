@@ -1693,6 +1693,8 @@ new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
 news.mixi.jp##.adsenseBannerArea
 news.mynavi.jp##.c-sidePickup
+news.tbs.co.jp##.cp-pcAd
+news.tbs.co.jp##.cp-spAd
 news24.jp###adText01
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
