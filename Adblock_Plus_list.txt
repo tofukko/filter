@@ -3004,6 +3004,8 @@ cinema.pia.co.jp#@#.ads
 @@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
 	!真っ白
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
+	! https://github.com/easylist/easylist/pull/7907
+@@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	!nakanohito https://github.com/easylist/easylist/issues/7760
