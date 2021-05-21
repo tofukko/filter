@@ -2239,17 +2239,17 @@ xtech.nikkei.com##.p-article_ad
 
 !------------rakuten-楽天------------!
 ||adroll.com^$third-party
-||afl.rakuten.co.jp^
+||afl.rakuten.co.jp^$third-party
 ||dynamic.rakuten.co.jp^
-||ias.rakuten.co.jp^$domain=~event.rakuten.co.jp
-||xml.affiliate.rakuten.co.jp^
+||ias.rakuten.co.jp^$third-party,domain=~event.rakuten.co.jp|~search.rakuten.co.jp
+||xml.affiliate.rakuten.co.jp^$third-party
 ||books.rakuten.co.jp/pzd_contents/js/ranking-ad/*
 ||rakuten.co.jp/com/js/d/$domain=~item.rakuten.co.jp
 ||rakuten-static.com/1/grp/banner/js/create.js
 ||rakuprop.net^$third-party
 ||pzd.rakuten.co.jp^
 ||rat.rakuten.co.jp^
-||rd.rakuten.co.jp^$domain=~rd.rakuten.co.jp
+||rd.rakuten.co.jp^$third-party
 ||rt.rakuten.co.jp^
 ||rakuten.co.jp/common00/omuniture/
 ||websearch.rakuten.co.jp/elog?
@@ -2264,6 +2264,8 @@ recipe.rakuten.co.jp##.section_common_banner
 @@||image.www.rakuten.co.jp/com/js/d/
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/78861
+@@||rmp.rakuten.co.jp/ads/$domain=edy.rakuten.co.jp
 
 ||r10s.jp/com/js/d/ad_liquid_table/
 ||rakuten-static.com/1/grp/banner/js/create.js
