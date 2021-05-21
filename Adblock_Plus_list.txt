@@ -1504,6 +1504,7 @@ google.com,google.co.jp###wmxmsg
 google.com,google.co.jp###\5f Ltg
 !サイト内検索
 www.google.co.jp##TABLE[cellpadding="0"][style="border: 1px solid #369"]
+gori.me##.sidebar-single-ad
 greasyfork.org##.ad-entry
 hentai-foundry.com##main > center
 hentai-only.com##.force-foreground.alert.alert-link.alert-dismissible
