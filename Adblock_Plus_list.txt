@@ -455,6 +455,7 @@ _ads.js
 ||adnium.com^$third-party
 ||adreactor.com^$third-party
 ||adsafeprotected.com^$third-party
+||adskeeper.com^$third-party
 ||adsterra.com^$third-party
 ||adtechus.com^$third-party
 ||adtng.com^$third-party
