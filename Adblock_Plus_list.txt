@@ -2478,6 +2478,8 @@ search.yahoo.co.jp##.Ad
 
 ||yimg.jp/images/listing/tool/yads/yads-iframe.html?
 
+	! https://github.com/tofukko/filter/issues/22
+@@||yjtag.jp/tag.js$script,domain=mail.yahoo.co.jp
 
 !worker bee
 ||games.wkb.jp/html5games/play/jewelexplode/ads-
