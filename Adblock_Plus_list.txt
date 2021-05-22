@@ -1280,6 +1280,7 @@ _ads.js
 2chmm.com##.ad
 55sedori.com##.ad
 alphapolis.co.jp##.ad
+anime-hiroba.com##.ad
 apowersoft.jp##.ad
 ascii.jp##.ad
 bikebros.co.jp##.ad
