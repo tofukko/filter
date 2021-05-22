@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/22 9:51
+! 最終更新 2021/05/22 16:49
 !
 !--------通販サイト--------!
 
@@ -147,6 +147,7 @@ _ads.js
 
 /^https?:\/\/[a-z0-9]{5,}\.[a-z]{2,6}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}\.js/$script,third-party
 /^https?:\/\/[a-z0-9]{5,}\.[a-z]{2,6}\/[0-9a-f]{32}\/invoke\.js$/$script,third-party
+
 
 .biz/ad/
 .biz/ads/
@@ -569,7 +570,6 @@ _ads.js
 ||realsrv.com^
 ||runative-syndicate.com^
 
-$script,third-party,domain=javtorrent.re
 
 ||2ch.vet/img/ani_
 ||4chan-ads.org^
@@ -2101,6 +2101,10 @@ gamer.ne.jp##.adInfeedArticle
 gamer.ne.jp##[class^="ad"][class$="_pc"]
 gamer.ne.jp##[class^="ad"][class$="_sp"]
 onlinegamer.jp##.trackingWrap > .contentWrap:style(margin-top: 90px !important;)
+
+
+!g-----------javtorrent.re-------!
+||directpaper.name^
 
 !g-----------kissanime-----------!
 !nz
