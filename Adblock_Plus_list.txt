@@ -2480,6 +2480,9 @@ search.yahoo.co.jp##.Ad
 
 	! https://github.com/tofukko/filter/issues/22
 @@||yjtag.jp/tag.js$script,domain=mail.yahoo.co.jp
+	! https://github.com/tofukko/filter/issues/23
+@@||s.yjtag.jp^$domain=accounts.yahoo.co.jp
+
 
 !worker bee
 ||games.wkb.jp/html5games/play/jewelexplode/ads-
