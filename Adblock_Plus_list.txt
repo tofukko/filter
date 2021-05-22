@@ -3195,6 +3195,8 @@ my0nio.seesaa.net#@#.adsbygoogle
 my0nio.seesaa.net#@#.adv
 my0nio.seesaa.net#@#.adsense
 
+nazolog.com#@#.adsbygoogle
+
 	! https://github.com/uBlockOrigin/uAssets/issues/3874
 savevideo.me##+js(acis, $, banner)
 
