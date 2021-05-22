@@ -1789,9 +1789,10 @@ pokemon-matome.net###header_rtranking:style(top: 120px !important;)
 pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
 prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
-qiita.com##.ad-300x250
-qiita.com##.p-home_ad
+qiita.com##.it-Ads_afterBodyContainer
 qiita.com##.it-Ads_afterBodyContainer:upward(2)
+qiita.com##.p-home_ad
+qiita.com##[id^=logly-lif]
 qiita.com##[id^=logly-lif]:upward(2)
 qoly.jp##.banner
 qoly.jp##div[style="height:90px; width:728px;"]
