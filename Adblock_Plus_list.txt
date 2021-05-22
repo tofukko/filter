@@ -1591,6 +1591,7 @@ kakijun.jp###migi > .divcenter
 kakijun.jp###migi > [style="width:160px;height:600px;overflow:hidden;"]
 kakijun.jp##.gadcenter
 kakijun.jp###hidari:style(top: unset !important)
+kakomonn.com##[class^=ctr_ad_]
 kakuyomu.jp##[class*="widget-ad-"]
 kakaku.com###listingPr
 kakaku.com###yAuctionBox
