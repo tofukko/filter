@@ -3124,19 +3124,12 @@ comicride.jp#@##ad1
 comicride.jp#@##ad2
 	!サイド 広告だから消しても良い気もする
 cookpad.com#@##ad
-	! https://github.com/tofukko/filter/issues/9 アドベンチャー
-digiket.com#@#.adv
-	!REALTIME
-fashionsnap.com#@#.adv
 	!https://www.kadokawa.co.jp/product/322003000737/
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
-	! 気象警報・注意報（表形式）が消える
-jma.go.jp#@#.adv
 	! http://www.htb.co.jp/onigiri/index.html
 htb.co.jp#@##advertisement
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
-magcomi.com#@#.adv
 	!トップバナー
 mamastar.jp#@#a[href*="http://ad."]
         ! https://github.com/tofukko/filter/issues/11
@@ -3206,7 +3199,6 @@ knshow.com##+js(acis, load, .ads)
 manga1000.com##+js(aopw, $)
 
 my0nio.seesaa.net#@#.adsbygoogle
-my0nio.seesaa.net#@#.adv
 my0nio.seesaa.net#@#.adsense
 
 nazolog.com#@#.adsbygoogle
