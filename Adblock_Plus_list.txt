@@ -2006,6 +2006,9 @@ ero-video.net##+js(aeld, DOMContentLoaded, showPopUpBanner)
 !------------eroterest.net--------!
 /kok/*$domain=eroterest.net
 ||okbp.xyz^
+!eroterest系ブログ
+||bpm.eroterest.net^
+||kok.eroterest.net^
 eroterest.net##.adAreaNative
 eroterest.net##.adAreaNativeDmm
 
