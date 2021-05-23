@@ -284,13 +284,14 @@ _ads.js
 ||fun9.net^$third-party
 ||fwmrm.net^$third-party
 ||fxjapan-inc.biz^$third-party
-||gsspat.jp^$third-party
+||gumgum.com^$third-party
 ||gl-cash.com^$third-party
 ||glam.com^$third-party
 ||glam.jp^$third-party
 ||glssp.net^$third-party
 ||gmodmp.jp^$third-party
 ||googleadservices.com^$third-party
+||gsspat.jp^$third-party
 ||iid-network.jp^$third-party
 ||impact-ad.jp^$third-party
 ||infocart.jp^$third-party
@@ -736,6 +737,7 @@ _ads.js
 ! lexus.jp　ueナビバー
 /analytics.js$domain=~bbc.co.uk|~lexus.jp|~xhamster.com
 -analytics.js$domain=~www.apple.com|~youtube.com
+_analytics.js?
 /analytics?
 /analyze.cgi?
 !ログイン出来ぬ login.aliexpress.com Verification Codeがエラー
@@ -1646,6 +1648,8 @@ lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
 linkfang.org###LinkFang_Horizontal
+livefans.jp##.adCenter
+livefans.jp##.bannerBox
 lmaga.jp##.contents_ad
 lmaga.jp##.header_ad
 loveh.org#?##newvideos:-abp-has(> .menubar > .entrytitlein:-abp-contains(ラブエッチのおすすめ無料アダルトサイト))
@@ -3019,6 +3023,16 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 
 @@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
 
+
+	!nakanohito https://github.com/easylist/easylist/issues/7760
+@@||cm-beacon.nakanohito.jp/at/ranking/$script
+@@||cm-beacon.nakanohito.jp/cm/comment_$xmlhttprequest
+@@||cm-beacon.nakanohito.jp/cm/comment_count/$xmlhttprequest
+@@||cm-widget.nakanohito.jp/cm/$script,stylesheet
+@@||cm-widget.nakanohito.jp/img/$image
+@@||support-beacon.nakanohito.jp/widget/$xmlhttprequest
+@@||support-widget.nakanohito.jp/chatbot$script,stylesheet
+
 	!トップバナー
 @@||accesstrade.net/m/m_img/$image,domain=mamastar.jp
 	!動画未練
@@ -3074,18 +3088,12 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
 	!真っ白
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
+	!
+@@||files.mycloud.com/js/analytics/google_analytics.js
 	! https://github.com/easylist/easylist/pull/7907
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
-	!nakanohito https://github.com/easylist/easylist/issues/7760
-@@||cm-beacon.nakanohito.jp/at/ranking/$script
-@@||cm-beacon.nakanohito.jp/cm/comment_$xmlhttprequest
-@@||cm-beacon.nakanohito.jp/cm/comment_count/$xmlhttprequest
-@@||cm-widget.nakanohito.jp/cm/$script,stylesheet
-@@||cm-widget.nakanohito.jp/img/$image
-@@||support-beacon.nakanohito.jp/widget/$xmlhttprequest
-@@||support-widget.nakanohito.jp/chatbot$script,stylesheet
 	! 動画見れない
 @@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
 @@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
@@ -3109,7 +3117,7 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	!注目アバター
 @@||site-banner.hange.jp/adshow$subdocument,domain=animallabo.hange.jp
 	!TOP 総合ランキング
-@@||smp.sankei.co.jp/js/analytics/skd.Analysis.js
+@@||smp.sankei.co.jp/js/analytics/skd.Analysis.js$domain=www.sankei.com
 	!サムネイルが表示されない
 @@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
 	! 地図が無反応 
