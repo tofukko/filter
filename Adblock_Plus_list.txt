@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/23 10:25
+! 最終更新 2021/05/23 14:42
 !
 !--------通販サイト--------!
 
@@ -1386,7 +1386,13 @@ hameets.com##.advertisement
 48idol.tv###custom_html-4
 48idol.tv##.ads-above-single-player
 48idol.tv##.pum-overlay
-48idol.tv##.pum-open-overlay:style(overflow: auto!important)
+48idol.tv##.pum-open-overlay:style(overflow: auto!important;)
+4gamer.net##.ad_top
+4gamer.net##.banner_left_4g
+4gamer.net##.hot_game_now
+4gamer.net##.medipartner:style(position: static !important;)
+4gamer.net##.sidetop
+4gamer.net##.satellite_banner
 9ketsuki.info##.manual_ads
 9ketsuki.info##.widget_custom_html.widget-main
 a-kimama.com##.widget--ad
