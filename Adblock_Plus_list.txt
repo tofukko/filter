@@ -1821,6 +1821,7 @@ projectdesign.jp###base-register
 qiita.com##.it-Ads_afterBodyContainer
 qiita.com##.it-Ads_afterBodyContainer:upward(2)
 qiita.com##.p-home_ad
+qiita.com##.p-items_toc > .mt-2
 qiita.com##[id^=logly-lif]
 qiita.com##[id^=logly-lif]:upward(2)
 qoly.jp##.banner
