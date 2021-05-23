@@ -2007,6 +2007,23 @@ news.biglobe.ne.jp###SPbanner
 news.biglobe.ne.jp###gadsOverlayUnit
 weather.biglobe.ne.jp###header:style(height: 60px !important;)
 
+!------------bloomberg.co.jp----!
+||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
+||bbthat.com^$script,$third-party
+||crwdcntrl.net^$third-party
+||indexww.com^$third-party
+||youborafds01.com^$third-party
+
+@@||cdn.gotraffic.net^$domain=bloomberg.co.jp|bloomberg.com
+@@||cdx.cedexis.net^$domain=bloomberg.co.jp|bloomberg.com
+@@||js.spotx.tv/directsdk/$script,domain=bloomberg.co.jp|bloomberg.com
+@@||spotxcdn.com/integration/directsdk/$script,domain=bloomberg.co.jp|bloomberg.com
+@@||search.spotxchange.com^$xhr,domain=bloomberg.co.jp|bloomberg.com
+@@||sourcepointcmp.bloomberg.com/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
+@@||sourcepointcmp.bloomberg.*/mms/get_site_data$xmlhttprequest,domain=bloomberg.co.jp|bloomberg.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
+
 !g----------coolrom.com------!
 coolrom.com.au###grumftFeMainContainer
 coolrom.com.au##td[width="325"][height="250"]
