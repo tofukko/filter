@@ -252,6 +252,7 @@ _ads.js
 ||caribbeancom.com^$third-party
 ||casalemedia.com^$third-party
 ||checkm8.com^$third-party
+||clickfuse.com^$third-party
 ||clicktx.jp^$third-party
 ||coinurl.com^$third-party
 ||contents-search-windows.com^$third-party
