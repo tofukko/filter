@@ -1129,6 +1129,7 @@ _ads.js
 	!##.ad:not([class*="widget_"])
 	!##.adv
 	!##.ads
+	!##.adsense
 ###ad1
 ###ad2
 ##.ad-area
@@ -1143,7 +1144,6 @@ _ads.js
 ##.ad-rectangle
 ##.ad1
 ##.ad2
-##.adsense
 ##.advertisement
 
 ! https://www.hearst.co.jp/digital/web
