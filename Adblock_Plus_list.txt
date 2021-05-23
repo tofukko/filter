@@ -3220,7 +3220,6 @@ knshow.com##+js(acis, load, .ads)
 manga1000.com##+js(aopw, $)
 
 my0nio.seesaa.net#@#.adsbygoogle
-my0nio.seesaa.net#@#.adsense
 
 nazolog.com#@#.adsbygoogle
 
