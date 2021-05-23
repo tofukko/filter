@@ -988,6 +988,7 @@ _ads.js
 ||statcounter.com^$third-party
 ||swcs.jp^$third-party
 ||targetingnow.com^$third-party
+||team-rec.jp^$third-party
 ||thebrighttag.com^$third-party
 ||trackfeed.com^$third-party
 ||trackword.$third-party
