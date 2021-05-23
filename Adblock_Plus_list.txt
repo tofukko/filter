@@ -640,6 +640,7 @@ _ads.js
 ||japan.cnet.com/parts/frame/
 ||japanese.engadget.com^$subdocument
 ||japanese.joins.com/HomeAds/
+||joysound.com/web/src/s/ad/
 ||jugem.jp/ad/
 ||kakaku.com^*/kakakuad/
 ||kakaku.com^*/RdmReviewAd.js
