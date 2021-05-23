@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/23 8:35
+! 最終更新 2021/05/23 10:25
 !
 !--------通販サイト--------!
 
@@ -1348,6 +1348,15 @@ karapaia.com##.ads
 komachi.yomiuri.co.jp##.ads
 ryusoku.com##.ads
 savevideo.me##.ads
+
+! ##.adsense
+battle-one.com##.adsense
+dacelo.space##.adsense
+gurum.biz##.adsense
+otonasalone.jp##.adsense
+sk-hanbai.com##.adsense
+sk-seisan.com##.adsense
+www-creators.com##.adsense
 
 ! ##.adv
 androck.jp##.adv
