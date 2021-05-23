@@ -1130,6 +1130,7 @@ _ads.js
 	!##.adv
 	!##.ads
 	!##.adsense
+	!##.advertisement
 ###ad1
 ###ad2
 ##.ad-area
@@ -1144,7 +1145,6 @@ _ads.js
 ##.ad-rectangle
 ##.ad1
 ##.ad2
-##.advertisement
 
 ! https://www.hearst.co.jp/digital/web
 ##.breaker-ad
@@ -1276,6 +1276,10 @@ _ads.js
 ##.side a[href*="item.rakuten.co.jp/"]
 
 
+! ###ads
+atwiki.jp###ads
+duckduckgo.com###ads
+
 ! ##.ad
 2chmm.com##.ad
 55sedori.com##.ad
@@ -1365,9 +1369,9 @@ facebookcorewwwi.onion##.adv
 inazumanews2.com##.adv
 medibangpaint.com##.adv
 
-! ###ads
-atwiki.jp###ads
-duckduckgo.com###ads
+! ##.advertisement
+digiday.jp##.advertisement
+hameets.com##.advertisement
 
 
 1000mg.jp##.main-top
@@ -3121,8 +3125,6 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||hydra-media.cursecdn.com/minecraft-ja.gamepedia.com/*/Beacon$image,domain=minecraft-ja.gamepedia.com
 @@||atwikiimg.com/www26.atwiki.jp/minecraft/*/beacon.png$image,domain=www26.atwiki.jp
 
-	!body直下
-appmk2.net#@#.advertisement
 bookmeter.com#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
@@ -3163,8 +3165,6 @@ f.tabtter.jp###scolmain:style(height: calc(100% - 20px) !important; overflow-y: 
 f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 56px !important;)
 	!本文
 tofukko.com#@#.adsbygoogle
-	!body直下
-wiimk2.net#@#.advertisement
 	! https://github.com/tofukko/filter/issues/12 float
 yakkun.com##.ad + div:style(clear: both !important;)
 
