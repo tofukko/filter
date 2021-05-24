@@ -617,6 +617,7 @@ _ads.js
 ||egone.org/js/amazon_
 ||exploader.net/images/nls/
 ||estar.jp/page/ad/
+||famitsu.com^*/amazon_ranking.js
 	! 2017/07/16 動画見れないらしいがこれで見れるらしい
 ||fod.fujitv.co.jp/pc/image/wbhjfr/
 ||fod.fujitv.co.jp/mz/
@@ -1503,6 +1504,7 @@ exploader.net##article > div[style^="margin-bottom: 10px"]
 famitsu.com##.article-body__contents-pr-primary
 famitsu.com##.banner-pc
 famitsu.com##.banner-top-header
+famitsu.com##.l-contents-block--article-amazon
 	app.famitsu.com###widget-ad-rect
 	wiki.famitsu.com###ad-wiki-content-lower
 	wiki.famitsu.com###ad-wiki-content-upper
