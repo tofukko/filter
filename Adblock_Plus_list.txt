@@ -1779,6 +1779,7 @@ nazology.net##.ads-wide
 news.dwango.jp##.bnrs
 nikkansports.com##.adBECOME
 nlab.itmedia.co.jp###globalHeader
+nlab.itmedia.co.jp##.cmsAmazonWrap
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 northwood.blog60.fc2.com###menu1Block > .menuBlockBase:first-child
