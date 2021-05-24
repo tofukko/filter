@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/24 9:03
+! 最終更新 2021/05/24 10:18
 !
 !--------通販サイト--------!
 
@@ -1113,7 +1113,6 @@ _analytics.js?
 !||mixi.jp^*/analysis.
 ||moeeki.net/cgi-bin/accessmoe/accessmoe.cgi?
 ||nifty.com/pubc0m/js/tag/_nif_tag.js
-||pvcnt.okwave.jp^
 ||rover.ebay.com^
 ||seesaa.net/analytics-seesaa-net.js?
 ||silk.woopieapi.com^$domain=woopie.jp
@@ -1788,7 +1787,9 @@ nuwton.com##[class*="banner-"]
 nyaa.si##.servers-cost-money1
 o-uccino.jp##[class^="float_banner_"]
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
-okwave.jp##.pickup
+okwave.jp##.adfunnel_main_special_box
+okwave.jp##.adfunnel_osusume_box_pc:style(height: auto !important;)
+okwave.jp##.adfunnel_special_box_pc
 open2ch.net##.kokoku
 or2.mobi##.single_ad
 or2.mobi##.top_ad
@@ -3115,6 +3116,8 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
 @@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
 @@||rtoaster.jp^$script,domain=www.kanaloco.jp
+	! https://github.com/tofukko/filter/issues/24 サイドバー
+@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
 	!画像
 @@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!チャットのポップアップ
@@ -3198,8 +3201,6 @@ news.nifty.com##.sidebar_fixed:style(position: static !important;)
 	!header辺り
 no-ichigo.jp##div[style="height:41px;"]:style(height: 42px !important;)
 no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
-	!右
-okwave.jp#@#.ad_area
 	!記事
 server-setting.info#@#.adsbygoogle
 	!記事
