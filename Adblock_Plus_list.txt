@@ -1585,6 +1585,8 @@ idol-blog.com##[id^="post-"] + .box ~ div
 ign.com##.zad.billboard:style(min-height: 0 !important;)
 img.favsite.jp##[class$="-lg"]
 img.favsite.jp##[href*="dlsite.com/"]
+imgur.com##.ad-slot
+imgur.com##.BottomAd-container
 irasutoya.com##[class^="entryadwrapper"]
 iwate-np.co.jp#?#article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
