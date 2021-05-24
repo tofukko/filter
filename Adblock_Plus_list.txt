@@ -1397,6 +1397,7 @@ hameets.com##.advertisement
 9ketsuki.info##.manual_ads
 9ketsuki.info##.widget_custom_html.widget-main
 a-kimama.com##.widget--ad
+accuweather.com###connatix
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
