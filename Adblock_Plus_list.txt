@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/24 10:18
+! 最終更新 2021/05/24 20:07
 !
 !--------通販サイト--------!
 
@@ -589,6 +589,7 @@ _ads.js
 ||akibablog.net/right-side2.html
 ||angel-bbs.com/ssi/koukoku_
 ||anyporn.com/aa/
+||appget.com/c/wp-content/themes/twentyten/js/agad2.js?
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
 ||asg.to/ad/
@@ -1411,6 +1412,7 @@ animeanime.jp##.sidebox-ad
 apkpure.com##.ad-box-auto
 apkpure.com##.left > .box[style="overflow: hidden; padding-bottom: 20px"]
 apkpure.com##div[style="margin: 0 auto 20px auto;position: relative;width:100%;overflow: hidden;height: 306px;"]
+appget.com##.adsence
 arban-mag.com##.side-banner
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
