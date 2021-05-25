@@ -1434,6 +1434,9 @@ bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bike-news.jp##.left.box300
 bing.com##.b_ad:remove()
 bizspa.jp##.ad-wrap
+blog.esuteru.com,otakomu.jp###more > blockquote:last-of-type
+blog.esuteru.com,otakomu.jp###more > center:last-of-type
+blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
 blog.ss-blog.jp###ad-days-area
 blogmura.com##.ad-header
 blogmura.com##.ad-overlay
@@ -2915,11 +2918,6 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/goldennews/settings/ad.js"] + sc
 !ハター報
 ||blog.livedoor.jp/hamusoku*/amazon
 hamusoku.com##.amazon
-
-!はちまき ota
-blog.esuteru.com,otakomu.jp###more > blockquote:last-of-type
-blog.esuteru.com,otakomu.jp###more > center:last-of-type
-blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
 
 !働くモノ http://workingnews.blog117.fc2.com/
 ||fc2.com/w/o/r/workingnews/meerkat_side_double_js2.js
