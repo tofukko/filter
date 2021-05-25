@@ -1495,6 +1495,7 @@ e-typing.ne.jp##.adbox_468
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
+egotter.com##[id^="async-adsense-"]
 eparet.net##div[style="width:300px;height:250px;float:left;border:#ffaaaa double 3px;margin:0px auto;"]
 eparet.net##div[style="width:620px;float:right;"]:style(float: none !important;)
 erogazopple.com###single-content > [id^="text-"]
@@ -3241,6 +3242,10 @@ yakkun.com##.ad + div:style(clear: both !important;)
 @@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
 battlecats-db.com##body:style(display: block !important)
+
+	! https://github.com/AdguardTeam/AdguardFilters/issues/64186
+@@||cloudfront.net/adsense.js$domain=egotter.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 
 f.tabtter.jp#@#.adsbygoogle
 f.tabtter.jp#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
