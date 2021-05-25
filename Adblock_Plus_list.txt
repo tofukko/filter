@@ -1962,8 +1962,15 @@ xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
-zyuken.net##.AdImg
-
+!上
+zyuken.net###AdminPage > .Centering.MarginTop10Bottom10
+zyuken.net###SchoolPage > .Centering.MarginTop10Bottom10
+!中
+zyuken.net##.MenuBox[style="padding: 5px; min-height: 280px;"]
+!下
+zyuken.net###AdminPage > .MenuBox + .SimpleBox.PaddingRight10Left10:has(> div:first-child)
+zyuken.net###CenterBox > .SimpleBox.PaddingRight10Left10:has(> div:first-child)
+zyuken.net##.SimpleBox.PaddingRight10Left10[style*="margin-bottom:5px;"]
 
 !------------5ch pink------------!
 ||i2ad.jp^
