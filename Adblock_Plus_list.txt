@@ -3033,12 +3033,13 @@ xvideos.com##.sponsor-popup
 xvideos.com##^script:has-text(checkVideoAds)
 
 !-----------avgle.com
-avgle.com##img[src*=".php"]
+*$3p,popup,domain=avgle.com
+*$frame,script,3p,denyallow=cloudflare.com|cloudflare.net|google.com|gstatic.com|hcaptcha.com|jsdelivr.net|recaptcha.net|webflow.com,domain=avgle.com
 avgle.com###player_3x2_close:style(font-size: 250% !important;)
-avgle.com##+js(abort-on-property-read.js, AaDetector)
-avgle.com##+js(abort-on-property-read.js, ExoLoader.serve)
-avgle.com##+js(nowebrtc.js)
-avgle.com##+js(set-constant.js, showBlockIf, noopFunc)
+avgle.com###ps32-container
+avgle.com##a[href*="/redirect"]
+avgle.com##img[src*=".php"]
+avgle.com##+js(nowebrtc)
 
 
 !-----------jav系
