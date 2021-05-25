@@ -1966,6 +1966,9 @@ xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
+zch-vip.com###article_center_ad
+zch-vip.com###article_bottom_ad
+zch-vip.com##.ad_tb
 !上
 zyuken.net###AdminPage > .Centering.MarginTop10Bottom10
 zyuken.net###SchoolPage > .Centering.MarginTop10Bottom10
