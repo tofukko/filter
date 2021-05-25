@@ -1850,6 +1850,8 @@ realsound.jp###adEntry2rec
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
 resemom.jp##.sidebox-ad
+rastaneko-blog.com##[class^="header-ad-outer"]
+rastaneko-blog.com##[class^="kijinaka-outer"]
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
