@@ -1968,8 +1968,8 @@ zyuken.net###SchoolPage > .Centering.MarginTop10Bottom10
 !中
 zyuken.net##.MenuBox[style="padding: 5px; min-height: 280px;"]
 !下
-zyuken.net###AdminPage > .MenuBox + .SimpleBox.PaddingRight10Left10:has(> div:first-child)
-zyuken.net###CenterBox > .SimpleBox.PaddingRight10Left10:has(> div:first-child)
+zyuken.net#?##AdminPage > .MenuBox + .SimpleBox.PaddingRight10Left10:-abp-has(> div:first-child)
+zyuken.net#?##CenterBox > .SimpleBox.PaddingRight10Left10:-abp-has(> div:first-child)
 zyuken.net##.SimpleBox.PaddingRight10Left10[style*="margin-bottom:5px;"]
 
 !------------5ch pink------------!
