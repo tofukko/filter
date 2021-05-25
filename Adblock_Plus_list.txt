@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/25 8:16
+! 最終更新 2021/05/25 21:51
 !
 !--------通販サイト--------!
 
@@ -2736,6 +2736,10 @@ video.fc2.com##.promotion
 video.fc2.com##.l-ctnt_ls--flex_side_sec
 video.fc2.com##.l-ctnt_ls:style(margin-top: 16px !important;)
 video.fc2.com##.sectionCrd + .sectionCrd
+
+!live.fc2.com
+||live.fc2.com/friendlyAd.php?
+live.fc2.com##.m-viewAd
 
 ||vip.chps-api.fc2.com/apis/footer/
 ||video.fc2.com/a/pagead/
