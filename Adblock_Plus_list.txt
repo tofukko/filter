@@ -779,6 +779,7 @@ _analytics.js?
 /google-analyticator/*
 /google_tag/*
 /googleanalytics.
+/fingerprintjs2.
 /foresee/*
 /freelog.
 /hana.cgi?
