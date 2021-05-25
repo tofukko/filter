@@ -1664,6 +1664,8 @@ kurashi-no.jp##[style="width: 300px; height: 600px;"]
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
 kyoko-np.net#?#section:-abp-has(> h3:-abp-contains(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
+lifehack2ch.livedoor.biz##.elsebody
+lifehack2ch.livedoor.biz##.yahoo-ad1b
 lifehacker.jp##.amazItem
 lifehacker.jp##.lh-banner
 lifehacker.jp##.lh-amazonSec
@@ -2889,10 +2891,6 @@ figsoku.net##.wama
 figsoku.net##.textwidget [href^="http://px.a8.net/svt/ejp"]
 figsoku.net##.textwidget [href^="http://click.linksynergy.com/"]
 figsoku.net##.textwidget [href^="https://www.amazon.co"]
-
-!ライフハック
-lifehack2ch.livedoor.biz##.elsebody
-lifehack2ch.livedoor.biz##.yahoo-ad1b
 
 !α波
 ||blogmaterial.nicoblomaga.jp/material/279/SP300x250-$script,domain=alfalfalfa.com
