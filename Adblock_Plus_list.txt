@@ -2702,12 +2702,6 @@ amazon.co.jp###nav-swmslot
 
 @@||images-fe.ssl-images-amazon.com^*/beacon._TTW_.svg
 
-!ブックマークレット動作 http://www.amazon.co.jp/wishlist/get-button
-@@||amazon.co.jp*/wishlist/
-@@||images-fe.ssl-images-amazon.com/images/G/09/misc/transparent-pixel._CB192259222_.gif
-@@||images-fe.ssl-images-amazon.com/images/G/09/x-locale/communities/gifting/universal/bkm/
-
-
 
 
 !------------fc2------------!
