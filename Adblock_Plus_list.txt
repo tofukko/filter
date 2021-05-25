@@ -1968,6 +1968,7 @@ xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
+yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
 zch-vip.com###article_center_ad
 zch-vip.com###article_bottom_ad
 zch-vip.com##.ad_tb
@@ -2934,9 +2935,6 @@ workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 ||majikichi.com/js/rad_head_
 majikichi.com###left_menu
 majikichi.com##^#left_menu
-
-!やらおn
-yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5
 
 !はれぞ http://blog.livedoor.jp/darkm/
 blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT + DIV + .container #article-over
