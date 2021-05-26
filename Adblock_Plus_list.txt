@@ -1635,6 +1635,7 @@ kabu-sokuhou.com##.sponsoredlink
 kabu-sokuhou.com##.topadba
 kai-you.net##.l-recommend-product
 kai-you.net##.l-side-common-banner-outer
+kakijun.com##.cgrid-ga
 kakijun.jp###header1 > div
 kakijun.jp###migi > #kakijun_books
 kakijun.jp###migi > .divcenter
