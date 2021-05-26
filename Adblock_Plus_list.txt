@@ -649,6 +649,7 @@ _ads.js
 ||kakaku.com^*/kakakuad/
 ||kakaku.com^*/RdmReviewAd.js
 ||kakaku.k-img.com^*/ad/
+||kakijun.jp/js/u_kakijun_books%
 ||kidslink.jp/cgi-bin/esb/main.cgi?
 ||kidslink.jp^*/dummy.html
 ||koepota.jp/js/amazon.js
@@ -1637,11 +1638,9 @@ kai-you.net##.l-recommend-product
 kai-you.net##.l-side-common-banner-outer
 kakijun.com##.cgrid-ga
 kakijun.jp###header1 > div
-kakijun.jp###migi > #kakijun_books
-kakijun.jp###migi > .divcenter
-kakijun.jp###migi > [style="width:160px;height:600px;overflow:hidden;"]
-kakijun.jp##.gadcenter
 kakijun.jp###hidari:style(top: unset !important)
+kakijun.jp###rcounter > div:not([style="margin:20px auto;text-align:center;font-size:12px;"])
+kakijun.jp##.gadcenter
 kakomonn.com##[class^=ctr_ad_]
 kakuyomu.jp##[class*="widget-ad-"]
 kakaku.com###listingPr
