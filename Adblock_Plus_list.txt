@@ -2612,22 +2612,33 @@ amazon.co.jp###nav-swmslot
 ||fc2.com/video/img/b/
 ||fc2.com/static/video/js/plr/tg/
 ||fc2.com/video/*/banner/
+||video.fc2.com/a/pagead/
+||video.fc2.com/pagead/
 video.fc2.com###pjx-search [href="/a/promo/samples"]
 video.fc2.com##[class^="c-ad"]
 video.fc2.com##.ad_panelAR
+video.fc2.com##.ads-container
 video.fc2.com##.banner
 video.fc2.com##.clmn-side > div[id]
-video.fc2.com##.promotion
 video.fc2.com##.l-ctnt_ls--flex_side_sec
 video.fc2.com##.l-ctnt_ls:style(margin-top: 16px !important;)
+video.fc2.com##.list-subCont > li[style]
+video.fc2.com##.promotion
 video.fc2.com##.sectionCrd + .sectionCrd
+video.fc2.com##.side_banner
+video.fc2.com##.with-ad:style(width: 100% !important;)
+video.fc2.com##.with-ad .content-wrap:style(width: 100% !important;)
+video.fc2.com##.with-ad .main-header:style(width: 100% !important;)
 
 !live.fc2.com
 ||live.fc2.com/friendlyAd.php?
 live.fc2.com##.m-viewAd
 
 ||vip.chps-api.fc2.com/apis/footer/
-||video.fc2.com/a/pagead/
+
+fc2.com###ad-content
+fc2.com###ad-footer
+
 admin.blog.fc2.com##.adimn_pr_txt
 admin.blog.fc2.com###ad_sidebody
 admin.blog.fc2.com###ad_sidebar
