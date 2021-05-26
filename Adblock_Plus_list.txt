@@ -1762,6 +1762,7 @@ myoji-yurai.net###main_slider2
 myoji-yurai.net##.ad336
 myoji-yurai.net##.adResponsive
 nagasaki-np.co.jp##.article_ad:remove()
+naming-dic.com##.sidebar-box3
 navitime.co.jp###under-advertisement
 nazology.net##.side-adblock
 new-akiba.com###bannerJ
