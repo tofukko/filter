@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/26 12:36
+! 最終更新 2021/05/26 16:02
 !
 !--------通販サイト--------!
 
@@ -1841,6 +1841,7 @@ pokemon-matome.net###header_rtranking:style(top: 120px !important;)
 pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
 prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
+pulpxstyle.com##.adsbygoogle:upward(1)
 qiita.com##.it-Ads_afterBodyContainer
 qiita.com##.it-Ads_afterBodyContainer:upward(2)
 qiita.com##.p-home_ad
