@@ -1305,6 +1305,7 @@ e-words.jp##.ad
 epub-tw.com##.ad
 gogo.gs##.ad
 greasyfork.org##.ad
+guitarmagazine.jp##.ad
 gundam-futab.info##.ad
 gyao.yahoo.co.jp##.ad
 getnavi.jp##.ad
