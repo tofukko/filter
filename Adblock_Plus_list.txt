@@ -1075,7 +1075,7 @@ _analytics.js?
 ||veritrans.co.jp/bcon/
 
 
-||access*.utamap.com^
+||access*.utamap.com^$script,~third-party
 ||access.news.mynavi.jp^
 ||ack.mynv.jp^$domain=mynavi.jp
 ||analysis1.sbs-blog.com^
@@ -3179,6 +3179,9 @@ sankakucomplex.com###post-content:style(padding-top: 0px !important;)
 @@||twitter.com/account/access?
 	!動画見れない
 @@||tsyndicate.com/sdk/v1/n.js
+	! https://github.com/tofukko/filter/issues/25
+@@||utamap.com/banner/dvd.jpg$image,domain=utamap.com
+@@||utamap.com/banner/y_ran_$image,domain=utamap.com
 @@||yimg.jp^*/lib2obf_*.js
 @@||yimg.jp/bdv/yahoo/darla/*/darla-secure-beacons-min.js$domain=mail.yahoo.co.jp
 @@||yimg.jp/bdv/yahoo/darla/*/darla-dynamic-beacons-min.js$domain=mail.yahoo.co.jp
