@@ -1761,6 +1761,7 @@ myoji-yurai.net###adTop
 myoji-yurai.net###main_slider2
 myoji-yurai.net##.ad336
 myoji-yurai.net##.adResponsive
+namedic.jp###ad-side_top
 nagasaki-np.co.jp##.article_ad:remove()
 naming-dic.com##.sidebar-box3
 navitime.co.jp###under-advertisement
