@@ -361,6 +361,7 @@ _ads.js
 ||quant.jp^$third-party
 ||r-ad.ne.jp^$third-party
 ||rakuword.com^$third-party
+||reajyu.net^$third-party
 ||realvu.net^$third-party
 ||rentracks.jp^$third-party
 ||rightsnetwork.net^$third-party
