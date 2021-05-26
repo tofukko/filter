@@ -2448,9 +2448,6 @@ www.vector.co.jp##body[vlink], body[id^="v_"], #wrapper:style(background-image: 
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_search:style(top: 81px !important;)
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #lib_tab:style(top: 132px !important;)
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_wrapper:style(padding-top: 180px !important;)
-www.vector.co.jp##:-webkit-any(body[vlink], body[id^="v_"], #wrapper) #v_search:style(top: 81px !important;)
-www.vector.co.jp##:-webkit-any(body[vlink], body[id^="v_"], #wrapper) #lib_tab:style(top: 132px !important;)
-www.vector.co.jp##:-webkit-any(body[vlink], body[id^="v_"], #wrapper) #v_wrapper:style(padding-top: 180px !important;)
 www.vector.co.jp###v_header:style(height: unset !important;)
 www.vector.co.jp##td[width="304"][bgcolor="#eeeeee"][align="center"]:style(vertical-align: top !important;)
 
