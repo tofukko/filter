@@ -1654,6 +1654,8 @@ kamigame.jp##[id^="ad_right_"]
 kanaloco.jp##.blk-bnr02
 kanaloco.jp##.bnr01
 kanaloco.jp##.top-head-bnr
+kanjitisiki.com##.category-ue:first-child
+kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
 karapaia.com###overlay
 karapaia.com##.readmore-header
 karapaia.com##[class^=ads-label]
