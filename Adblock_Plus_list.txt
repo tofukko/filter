@@ -584,9 +584,6 @@ _ads.js
 ||adbkm.com/js/adscrpt.min.js
 ||ads-twitter.com^$third-party
 ||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
-||akibablog.net/ad-
-||akibablog.net/banner-
-||akibablog.net/right-side2.html
 ||angel-bbs.com/ssi/koukoku_
 ||anyporn.com/aa/
 ||appget.com/c/wp-content/themes/twentyten/js/agad2.js?
@@ -2006,6 +2003,17 @@ bbspink.com##[class$="_banner"]:not(.sidemenu_banner)
 bbspink.com##[class^="banner_"]
 bbspink.com###bbspink-bottom-ads
 pinktower.com##div
+
+!------------akibablog.net---------!
+||akibablog.net/ad-
+||akibablog.net/ads-
+||akibablog.net/banner-
+||blog.livedoor.jp/geek/ad-
+||blog.livedoor.jp/geek/button-ab.html
+akibablog.net##+js(ra, href, .side > font > a:first-child)
+akibablog.net#?#.sidetitle:-abp-has(+ .side > font > a + br:last-child)
+akibablog.net#?#.side:-abp-has(> font > a + br:last-child)
+akibablog.net##.side > font > .link:first-child:style(text-decoration: none !important;)
 
 !------------alphapolis------------!
 ||alphapolis.co.jp/html/ad_
