@@ -1920,6 +1920,7 @@ togetter.com##.ad_custom_fluid
 togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
 togetter.com##.ad_topics_custom
+tokyo-sports.co.jp##.head-bnr-area
 touhouyaruosure.com##[href*="dlsite.com"]
 touhouyaruosure.com##[href*="dmm.co.jp"]
 touhouyaruosure.com##[href*="suruga-ya.jp"]
