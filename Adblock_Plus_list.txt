@@ -1874,7 +1874,6 @@ server-setting.info###pr_bottom
 server-setting.info###pr_side_top
 share-videos.se###ad_html
 share-videos.se###new_ad_html
-thinkit.co.jp##.region-top-ad
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sound.jp###adfloat
@@ -1954,7 +1953,6 @@ vidoza.net##.pvr
 waifu2x.udp.jp##.all-page > div[style="min-height: 270px; margin: 1em"]
 waifu2x.udp.jp##.dmm-games
 walkerplus.com##.m-prbnr
-watch.impress.co.jp##.billboard
 web-ace.jp##[class^="ad_rect"]
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
@@ -2196,6 +2194,14 @@ hs-exp.jp##.entry-footer > div:last-child:style(margin: 0em auto !important;)
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
 hs-exp.jp#@#.adsbygoogle
 
+!------------impress.co.jp-------!
+ganref.jp##[id^="gpt-ad-"]:upward(1)
+it.impress.co.jp##.ad-pr-text
+netshop.impress.co.jp###bancho_adsense_nodefooter
+thinkit.co.jp##.region-top-ad
+watch.impress.co.jp##.billboard
+watch.impress.co.jp##[id$="-amazon-ranking"]
+webtan.impress.co.jp###webtan_adsense_nodefooter
 
 !------------ixll.co.jp----------!
 figgy.jp##.wrapper:style(margin-top: 90px !important;)
@@ -2204,7 +2210,6 @@ gamer.ne.jp##.adInfeedArticle
 gamer.ne.jp##[class^="ad"][class$="_pc"]
 gamer.ne.jp##[class^="ad"][class$="_sp"]
 onlinegamer.jp##.trackingWrap > .contentWrap:style(margin-top: 90px !important;)
-
 
 !g-----------javtorrent.re-------!
 ||directpaper.name^
