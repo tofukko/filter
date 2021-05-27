@@ -1155,6 +1155,7 @@ _analytics.js?
 ##.adsbygoogle
 ##.google-user-ad
 ###gStickyAd
+###im_panel
 
 
 ||rtoaster.jp^$third-party
