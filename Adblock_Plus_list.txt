@@ -3269,8 +3269,6 @@ battlecats-db.com##body:style(display: block !important)
 @@||cloudfront.net/adsense.js$domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 
-f.tabtter.jp#@#.adsbygoogle
-f.tabtter.jp#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 
 ff14angler.com##.adsbygoogle:style(height: 0 !important;)
