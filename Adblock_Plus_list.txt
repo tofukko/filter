@@ -171,10 +171,8 @@ _ads.js
 .to/ads/
 .tv/ads/
 
-|http://ad.
-|https://ad.
-
-||ads.
+://ad.$third-party
+://ads.$third-party
 
 -ad.com^$third-party
 -ad.net^$third-party
@@ -1211,7 +1209,7 @@ _analytics.js?
 ##[style*="width:728px;"][style*="height:90px;"]
 ##[style*="width: 728px;"][style*="height: 90px;"]
 
-##a[href*="http://ad."]
+!##a[href*="http://ad."]
 ##a[href*="infotop.jp/click.php?"]
 ##a[href*="/traffic.php?"]
 
@@ -3101,11 +3099,11 @@ ashemaletube.com##+js(aopr, open)
 	!トップバナー
 @@||accesstrade.net/m/m_img/$image,domain=mamastar.jp
 	!動画未練
-@@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
+!@@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
 	!記事崩れ ×ボタン
-@@||ad.impress.co.jp/topics/css/$stylesheet
+!@@||ad.impress.co.jp/topics/css/$stylesheet
 	! 全部
-@@||ad.shinmai.co.jp^$domain=ad.shinmai.co.jp
+!@@||ad.shinmai.co.jp^$domain=ad.shinmai.co.jp
 	! ゲーム
 @@||ad-link.jp*/index.php?
 	!http://www.jp.square-enix.com/seiken2_som/news.html
