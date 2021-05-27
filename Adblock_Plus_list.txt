@@ -1503,6 +1503,10 @@ eroido.jp##[class^="adv_"]
 eromazofu.com##.c_c_t_w
 exploader.net###nls
 exploader.net##article > div[style^="margin-bottom: 10px"]
+f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
+f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 56px) !important;)
+f.tabtter.jp###scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
+f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 56px !important;)
 famitsu.com##.article-body__contents-pr-primary
 famitsu.com##.banner-pc
 famitsu.com##.banner-top-header
@@ -3242,10 +3246,6 @@ no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
 server-setting.info#@#.adsbygoogle
 	!記事
 saitama-np.co.jp#@#div[id^="div-gpt-ad"]
-f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
-f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 56px) !important;)
-f.tabtter.jp###scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
-f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 56px !important;)
 	!本文
 tofukko.com#@#.adsbygoogle
 	! https://github.com/tofukko/filter/issues/12 float
