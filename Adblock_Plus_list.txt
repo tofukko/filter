@@ -1876,6 +1876,7 @@ server-setting.info###pr_bottom
 server-setting.info###pr_side_top
 share-videos.se###ad_html
 share-videos.se###new_ad_html
+thinkit.co.jp##.region-top-ad
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sound.jp###adfloat
