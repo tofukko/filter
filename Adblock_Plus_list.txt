@@ -163,7 +163,7 @@ _ads.js
 .jp/ad_
 .jp/ads/
 .net/ad/$domain=~big-up.style
-.net/ads/$domain=~itest.2ch.net
+.net/ads/
 .org/ad/
 .org/ads/
 .ru/ads/
