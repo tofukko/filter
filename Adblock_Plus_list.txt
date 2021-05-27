@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/26 23:06
+! 最終更新 2021/05/27 10:12
 !
 !--------通販サイト--------!
 
@@ -399,7 +399,6 @@ _ads.js
 ||themediaplanets.com^$third-party
 ||tofutyama.org^$third-party
 ||toki-aiad.com^$third-party
-||tophatenar.com^$third-party
 ||topsurfer.com^$third-party
 ||traffic-exchange.tv^$third-party
 ||trafficgate.net^$third-party
@@ -2172,6 +2171,7 @@ game.goo.ne.jp##.ad_super
 	!hatenadiary.com,jp,org
 ##.sleeping-ads
 ##.insentence-adsense
+##.insentense-adsense
 anond.hatelabo.jp,hatena.ne.jp##.double-rectangle
 hatenanews.com##.ads-250
 a.hatena.ne.jp##.side-ad
@@ -2181,8 +2181,7 @@ b.hatena.ne.jp##[class^="entrylist-ad-"]
 !？
 b.hatena.ne.jp##.js-hotentries.is-nativeads-loading > li:nth-child(4) > .entrylist-contents > .entrylist-contents-main,.js-hotentries.is-nativeads-loading > li:nth-child(8) > .entrylist-contents > .entrylist-contents-main:style(display: block !important;)
 b.hatena.ne.jp##[class^="entry-ad-"]
-d.hatena.ne.jp#?#div:-abp-has(> div > div > [id^="ad-hba-"])
-d.hatena.ne.jp##section > div:not([id]):not([class])
+d.hatena.ne.jp###hot-topics + div
 q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
 !言及先エントリを開くが消える
