@@ -1965,6 +1965,7 @@ web-ace.jp##[class^="ad_rect"]
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
 wikiwiki.jp###pc-bottom-parent-ad-container
+writening.net##.section-ad
 www.asahi.com###HometopAd
 www.asahi.com##.AdMod
 www.j-cast.com##.ad-rectangle-bnr
