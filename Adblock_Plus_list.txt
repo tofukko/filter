@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/28 16:11
+! 最終更新 2021/05/29 7:28
 !
 !--------通販サイト--------!
 
@@ -253,6 +253,7 @@ _ads.js
 ||coinurl.com^$third-party
 ||contents-search-windows.com^$third-party
 ||contextweb.com^$third-party
+||creativecdn.com^$third-party
 ||criteo.com^$third-party
 ||criteo.net^$third-party
 ||cyber-traffic.net^$third-party
@@ -298,6 +299,7 @@ _ads.js
 ||jsadapi.com^$third-party
 ||juicyads.com^$third-party
 ||jword.jp^$third-party
+||kaiu-marketing.com^$third-party
 ||kau.li^$third-party
 ||koukoku.$third-party
 ||krxd.net^$third-party
@@ -422,6 +424,7 @@ _ads.js
 ||xmax.jp^$third-party
 ||yieldmanager.com^$third-party
 ||zedo.com^$third-party
+||zemanta.com^$third-party
 
 !----18
 ||angel-group.net^$third-party
@@ -981,6 +984,7 @@ _analytics.js?
 ||sitebro.$third-party
 ||sitemeter.com^$third-party
 ||sitesnapi.com^$third-party
+||sitest.jp^$third-party
 ||statcounter.com^$third-party
 ||swcs.jp^$third-party
 ||targetingnow.com^$third-party
@@ -1013,7 +1017,7 @@ _analytics.js?
 ||alcmpn.com^$third-party
 ||anymind360.com^$third-party
 ||bidswitch.net^$third-party
-||clarity.ms^$$third-party
+||clarity.ms^$third-party
 ||dc-tag.jp^$third-party
 ||f-tra.com^$third-party
 ||hanaprop.com^$third-party
@@ -2289,7 +2293,6 @@ kissanime.*##+js(set, check_adblock, true)
 ||adform.net^$third-party
 ||adxpub.com^$third-party
 ||bidadx.com^$third-party
-||creativecdn.com^$third-party
 ||tapad.com^$third-party
 ||viglink.com^$third-party
 ||vlitag.com^$third-party
@@ -2816,7 +2819,7 @@ mediafire.com##+js(aeld, click, ClickHandler)
 ||yeas.yahoo.co.jp^
 ||shopping.yahooapis.jp/ShoppingWebService/
 ||yimg.jp/bdv/
-
+||yimg.jp/images/listing/tool/yads/yads-iframe.html?
 !top枠が残る 2018/04/30
 yahoo.co.jp###brandpanel
 
@@ -2852,7 +2855,7 @@ search.yahoo.co.jp##.Ad
 ||yahoo.co.jp/b?P=
 ||yjtag.jp^
 
-||yimg.jp/images/listing/tool/yads/yads-iframe.html?
+||s.yimg.jp/images/listing/tool/cv/ytag.js
 
 	! https://github.com/tofukko/filter/issues/22
 @@||yjtag.jp/tag.js$script,domain=mail.yahoo.co.jp
@@ -2868,12 +2871,6 @@ games.wkb.jp##.footer-ad
 games.wkb.jp##.left-ad
 games.wkb.jp##.top-ad
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
-!result
-!games.wkb.jp##.result-modal.game-result
-!yahoo
-!games.wkb.jp##.other-games-links:style(height: 100% !important;)
-!games.wkb.jp###dialog
-!games.wkb.jp###dialog-mask
 
 !SOFTGAMES
 ||vntsm.com^$third-party
@@ -2881,9 +2878,6 @@ games.wkb.jp##.top-ad
 ||dop3jnx8my3ym.cloudfront.net/sg-track-sdk.js$script,domain=softgames.com
 games.softgames.com##.sgYMenuContainer + div
 @@||games.softgames.com^$script,other,xmlhttprequest,domain=games.softgames.com
-!result
-!games.softgames.com###popup-backdrop
-!games.softgames.com###yahooScoreResult
 
 !Aeria
 minigame.aeriagames.jp###centerADBox
@@ -2893,10 +2887,6 @@ minigame.aeriagames.jp###zumba-ad
 minigame.aeriagames.jp##+js(nano-stb, aeriaGamesAdCountDown(), 1000)
 @@||minigame.aeriagames.jp*/ae-tpgs-$domain=minigame.aeriagames.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=minigame.aeriagames.jp
-!result
-!minigame.aeriagames.jp###aeriaGamesResultBox
-!minigame.aeriagames.jp###aeriaGamesContent:style(display: block !important;)
-!minigame.aeriagames.jp###yLayer
 
 !SUCCESS
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=y.honkakuha.success-games.net
@@ -2908,8 +2898,6 @@ japan.gamepix.com###SquareBanner1
 japan.gamepix.com###ColumnAdv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamepix.com
 @@||play.gamepix.com/player/ads/2.0.0/prebid.js$script,domain=play.gamepix.com
-!result
-!japan.gamepix.com##.GamePopupResult
 
 ! CoolGames
 yahoo-jp.portal.connectedgamestore.com##.yahoo_jp_left_sidebar_ad
@@ -2917,14 +2905,8 @@ yahoo-jp.portal.connectedgamestore.com###floatingAd
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=connectedgamestore.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=games.connectedgamestore.com
 @@||securepubads.g.doubleclick.net/gpt/*$script,domain=games.connectedgamestore.com
-!result
-!yahoo-jp.portal.connectedgamestore.com###booster-highscore-popup
-!||yahoo-jp.portal.connectedgamestore.com/sdk.highscore/highscore?$subdocument,domain=games.connectedgamestore.com
 
 !Synk
-!result
-!ycp.synk-casualgames.com###result_dialog
-!play.neos-easygames.com###result_dialog
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=ycp.synk-casualgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=play.neos-easygames.com
 
