@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/28 13:42
+! 最終更新 2021/05/28 16:11
 !
 !--------通販サイト--------!
 
@@ -400,7 +400,8 @@ _ads.js
 ||traffic-exchange.tv^$third-party
 ||trafficgate.net^$third-party
 ||traffichaus.com^$third-party
-||trafficjunky.$third-party
+||trafficjunky.com^$third-party
+||trafficjunky.net^$third-party
 ||trafficsway.net^$third-party
 ||triver.jp^$third-party
 ||trustclick.ne.jp^$third-party
@@ -527,9 +528,6 @@ _ads.js
 ||zerezas.com^$third-party
 
 !$popup
-||ban-ban-boin.com^$popup
-||cherry-lovepour.com^$popup
-||cherry-galpagos.com^$popup
 ||ero-advertising.com^$popup
 ||iwanttodeliver.com^$popup
 ||livejasmin.com^$popup
@@ -697,7 +695,6 @@ _ads.js
 ||urasma.com/dmm_
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
-||wav.tv/support/adFrame?
 ! 例のアレ
 ||webnewtype.com/img/pc/common/spacer1.gif
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
@@ -2486,6 +2483,11 @@ www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #lib_tab:style(top:
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_wrapper:style(padding-top: 180px !important;)
 www.vector.co.jp###v_header:style(height: unset !important;)
 www.vector.co.jp##td[width="304"][bgcolor="#eeeeee"][align="center"]:style(vertical-align: top !important;)
+
+!-----------wav.tv--------------!
+||pokoran.com^
+||wav.tv/support/adFrame?
+wav.tv##+js(ra, data-popup-url)
 
 !-----------weblio.jp-----------!
 ||llnwd.net^*/ejje_ads_$script,domain=ejje.weblio.jp
