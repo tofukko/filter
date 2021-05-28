@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/28 12:42
+! 最終更新 2021/05/28 13:42
 !
 !--------通販サイト--------!
 
@@ -61,7 +61,6 @@ _ad.js
 /adparts/*
 /adplayer.
 /ads.cgi
-/ads.js
 _ads.js
 /ads?
 /ads2.
@@ -619,6 +618,7 @@ _ads.js
 	! 2017/07/16 動画見れないらしいがこれで見れるらしい
 ||fod.fujitv.co.jp/pc/image/wbhjfr/
 ||fod.fujitv.co.jp/mz/
+||gamegift.jp/js/ads.js
 ||gamespark.jp/feature/advertising/
 ||gehasoku.com/JS/newama.js
 ||getchu.com/mbanner/$~image
@@ -2265,6 +2265,7 @@ kissanime.*##+js(set, check_adblock, true)
 ||coppedex.com^
 ||counter2.blog.livedoor.com/c?ro=1&act=rss
 ||livedoor.jp/js/c2.js
+||news.livedoor.com/js/ads.
 ||t.blog.livedoor.jp^
 ###meerkat-contents
 	!blog cookie承認バナー
