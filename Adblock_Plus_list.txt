@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/27 19:44
+! 最終更新 2021/05/28 12:42
 !
 !--------通販サイト--------!
 
@@ -44,7 +44,7 @@ _728_90.
 /ad_plugin.js
 /ad.cgi?
 _ad.html|
-/ad.js
+/ad.js?slot
 !facebook.com アルバム投稿できない
 -ad.js$domain=~facebook.com
 _ad.js
@@ -585,6 +585,7 @@ _ads.js
 ||angel-bbs.com/ssi/koukoku_
 ||anyporn.com/aa/
 ||appget.com/c/wp-content/themes/twentyten/js/agad2.js?
+||arban-mag.com/wp-content/themes/arban_v2.5/common/js/ad.js
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
 ||asg.to/ad/
@@ -633,9 +634,6 @@ _ads.js
 ||hentai-foundry.com/themes/default/js/activebar.js
 ||horne.red/banner/
 ||i-bbs.sijex.net/js/jquery.scrollfollow.js
-||itmedia.co.jp/css/sa.js
-||itmedia.co.jp/js/adRequest.js
-||itmedia.jp/adsv/
 ||jalan.net/jalan/doc/top/js/randombanner.js
 ||japan.cnet.com/parts/frame/
 ||japanese.engadget.com^$subdocument
@@ -674,6 +672,7 @@ _ads.js
 	||ura-akiba.jp^$subdocument
 ||newsweekjapan.jp/images/bnr/newsweek_ad_
 ||nhentai.net/api/
+||nijie.info/js/ad.js?
 ||nijie.net/*/banner/
 ||open2ch.net/test/dd.cgi/
 ||pawoo.net/packs/media/pawoo/images/about/banner-
@@ -690,6 +689,7 @@ _ads.js
 ||tatituteto.net/images/banner/
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
+||tv-tokyo.co.jp/tbcms/javascripts/ad.js
 ||twitter.com/i/videoads/
 ||undernavi.com^$domain=adbkm.com
 ||uraaka-joshi.com/pr$subdocument
@@ -1796,8 +1796,6 @@ sp.nijie.info###tieup_column
 nazology.net##.ads-wide
 news.dwango.jp##.bnrs
 nikkansports.com##.adBECOME
-nlab.itmedia.co.jp###globalHeader
-nlab.itmedia.co.jp##.cmsAmazonWrap
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 northwood.blog60.fc2.com###menu1Block > .menuBlockBase:first-child
@@ -1998,6 +1996,8 @@ zyuken.net##.SimpleBox.PaddingRight10Left10[style*="margin-bottom:5px;"]
 ||thench.net^
 ||banpro.in.coocan.jp^
 ||5ch.net/_ads/
+||5ch.net/js/ad.js?
+||bbspink.com/js/ad.js?
 ||bbspink.com/css/ad.css
 5ch.net,bbspink.com###banner
 5ch.net##[id^="js--banners--"]
@@ -2211,6 +2211,16 @@ watch.impress.co.jp##.billboard
 watch.impress.co.jp##[id$="-amazon-ranking"]
 webtan.impress.co.jp###webtan_adsense_nodefooter
 
+!------------itmedia.co.jp-------!
+||atmarkit.co.jp^*/ad.js?
+||ednjapan.com^*/ad.js?
+||itmedia.co.jp^*/ad.js?
+||itmedia.co.jp/css/sa.js
+||itmedia.co.jp/js/adRequest.js
+||itmedia.jp/adsv/
+nlab.itmedia.co.jp###globalHeader
+nlab.itmedia.co.jp##.cmsAmazonWrap
+
 !------------ixll.co.jp----------!
 figgy.jp##.wrapper:style(margin-top: 90px !important;)
 gamer.ne.jp##.contentWrap:style(margin-top: 90px !important;)
@@ -2247,6 +2257,7 @@ kissanime.digital##main + script + div[class]
 kissanime.*##+js(set, check_adblock, true)
 
 !------------livedoor------------!
+/settings/ad.js
 ||gsspcln.jp^
 ||coppedex.com^
 ||counter2.blog.livedoor.com/c?ro=1&act=rss
@@ -3168,6 +3179,8 @@ ashemaletube.com##+js(aopr, open)
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
+	! abp検知？
+@@||lineblog.me^*/settings/ad.js
 	! https://github.com/easylist/easylist/pull/7907
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	!ランキングは消さないでおこう
@@ -3177,6 +3190,8 @@ ashemaletube.com##+js(aopr, open)
 @@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
 	! https://github.com/tofukko/filter/issues/13 ページ移動しない
 @@||npttech.com/advertising.js$script,domain=wired.jp
+	! abp検知？
+@@||official-blog.line.me/ja/settings/ad.js
 	! 右側の勝率などの欄が非表示
 @@||opgg-static.akamaized.net/js3/tracker.js?*$domain=op.gg
 	! 全部
