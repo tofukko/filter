@@ -1981,6 +1981,7 @@ yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-
 zch-vip.com###article_center_ad
 zch-vip.com###article_bottom_ad
 zch-vip.com##.ad_tb
+zokugo-dict.com##.koukokusm
 !上
 zyuken.net###AdminPage > .Centering.MarginTop10Bottom10
 zyuken.net###SchoolPage > .Centering.MarginTop10Bottom10
