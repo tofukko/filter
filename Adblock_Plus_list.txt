@@ -4,15 +4,6 @@
 !
 ! 最終更新 2021/05/29 7:28
 !
-!--------通販サイト--------!
-
-!||e-nls.com^$third-party
-!||dgpot.com^$third-party,domain=~dgpot.com
-!||digiket.com^$third-party
-!||digiket.net^$third-party,domain=~digiket.com
-!||getchu.com^$third-party
-!||r18.com^$third-party,domain=~japanhub.net|~javhdporn.net|~javxxx.me|~t.jav4.me
-!-------ここまで-------!
 
 !2011年10月07日閉鎖予定
 nicovideo.jp##.ads_list_area
