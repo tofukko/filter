@@ -94,7 +94,6 @@ _ads.js
 /images/ads/*
 /js/ad_
 /js/ad/*
-/js/ads.
 /js/ads-
 /js/ads_
 /js.ng/site=
