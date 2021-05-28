@@ -2236,7 +2236,7 @@ onlinegamer.jp##.trackingWrap > .contentWrap:style(margin-top: 90px !important;)
 ||directpaper.name^
 
 !g-----------kissanime-----------!
-!nz
+!si
 ||demand.supply^$third-party
 ||ga.kvideo.io^
 ||ikunselt.com^
@@ -2245,6 +2245,7 @@ onlinegamer.jp##.trackingWrap > .contentWrap:style(margin-top: 90px !important;)
 ||opsoomet.net^
 ||ptoushoa.com^
 ||vipicmou.net^
+||ad.kissanime.si^
 ||kissanime.nz/api/pop.php
 ||kissanime.nz/rmad.php?
 !ws
