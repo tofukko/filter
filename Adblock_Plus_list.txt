@@ -1420,6 +1420,9 @@ atwiki.jp##[id^="advp"]
 atwiki.jp##.atwiki-ads-margin
 atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
+!article
+auone.jp##.rectangle-ad
+auone.jp##.side__ad-box
 automaton-media.com##.ai_widget
 automaton-media.com##.td-a-rec
 bakufu.jp###prBox
