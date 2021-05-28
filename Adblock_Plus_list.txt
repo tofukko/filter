@@ -1440,7 +1440,6 @@ blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
 blog.ss-blog.jp###ad-days-area
 blogmura.com##.ad-header
 blogmura.com##.ad-overlay
-bloomberg.co.jp##.leaderboard-ad-dummy
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
 businessinsider.jp##.f-ad
@@ -2064,7 +2063,7 @@ weather.biglobe.ne.jp###header:style(height: 60px !important;)
 ||crwdcntrl.net^$third-party
 ||indexww.com^$third-party
 ||youborafds01.com^$third-party
-
+bloomberg.co.jp##.leaderboard-container
 @@||cdn.gotraffic.net^$domain=bloomberg.co.jp|bloomberg.com
 @@||cdx.cedexis.net^$domain=bloomberg.co.jp|bloomberg.com
 @@||js.spotx.tv/directsdk/$script,domain=bloomberg.co.jp|bloomberg.com
