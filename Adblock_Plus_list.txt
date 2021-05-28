@@ -1452,7 +1452,6 @@ ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
 charmer-media.com,elife-media.jp,firststyle.jp,frequ.jp,miima.jp,platabi.com,trip-partner.jp,vivre-media.jp##.my-1
-chart.sekai-kabuka.com###aswift_0_expand
 chat.shalove.net,skypemeet.net##.right_cont
 chat.shalove.net##[id].hearttext:style(display: inline !important;)
 chikuwachan.com##.right_advs
