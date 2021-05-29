@@ -1340,6 +1340,7 @@ chugoku-np.co.jp##.ads
 gori.me##.ads
 imashun-navi.com##.ads
 karapaia.com##.ads
+keyakizaka46matomerabo.com##.ads
 komachi.yomiuri.co.jp##.ads
 ryusoku.com##.ads
 savevideo.me##.ads
