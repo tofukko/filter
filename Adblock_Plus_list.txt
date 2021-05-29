@@ -1887,19 +1887,19 @@ storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 storie.jp##[class^="banner"]
 sukusuku.com##.aside_ad_pr
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
-supersolenoid.jp##.krb-amzlt-box
-supersolenoid.jp##.krb-amzlt-box + a
-supersolenoid.jp##.krb-amzlt-box + a + a
-supersolenoid.jp##.krb-amzlt-box + a + a + a
-supersolenoid.jp##.EntryMore > h2 + a + br + a + a + a ~ a:not([title]):not([href^="https://blog-imgs"])
-supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href^="https://affiliate.suruga-ya.jp/"]
-supersolenoid.jp##.EntryMore > h2:last-of-type ~ a[href*="://www.amazon.co.jp"]
-supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://hb.afl.rakuten.co.jp"]
-supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://affiliate.suruga-ya.jp/"]
-supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href*="://www.amazon.co.jp"]
-supersolenoid.jp##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="http://px.a8.net"]
-supersolenoid.jp#?#.menuBlock:-abp-has(> .menuTitle:-abp-contains(/スポンサード・リンク|オススメ|新商品/))
-supersolenoid.jp##.menuBlock3 + center
+supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box
+supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box + a
+supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box + a + a
+supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box + a + a + a
+supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2 + a + br + a + a + a ~ a:not([title]):not([href^="https://blog-imgs"])
+supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type ~ a[href^="https://affiliate.suruga-ya.jp/"]
+supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type ~ a[href*="://www.amazon.co.jp"]
+supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://hb.afl.rakuten.co.jp"]
+supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="https://affiliate.suruga-ya.jp/"]
+supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href*="://www.amazon.co.jp"]
+supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="http://px.a8.net"]
+supersolenoid.jp,supersolenoid.blog.fc2.com#?#.menuBlock:-abp-has(> .menuTitle:-abp-contains(/スポンサード|オススメ|新商品/))
+supersolenoid.jp,supersolenoid.blog.fc2.com##.menuBlock3 + center
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
