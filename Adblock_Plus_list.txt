@@ -1184,7 +1184,7 @@ _analytics.js?
 ###WIX_ADS
 
 
-*##div[id^="div-gpt-ad"]:only-child:upward(1)
+*##[id^="div-gpt-ad"]:only-child:upward(1)
 *##script[src*="//cdn-fluct.sh.adingo.jp/f.js?"]:first-child + script:last-child:upward(1)
 *##script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 *##script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child:upward(1)
@@ -1194,7 +1194,7 @@ _analytics.js?
 ##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
 ##div[id^="crt-"][style]
 
-##div[id^="div-gpt-ad"]
+##[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
 ##[class^="google-user-ad"]
 ##[id^="div_fam_async_"]
@@ -1903,6 +1903,7 @@ supersolenoid.jp##.menuBlock3 + center
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
+tabelog.com##[class^="ad-min-size-"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 taskle.jp##.ad-widget
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
