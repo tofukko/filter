@@ -1790,7 +1790,7 @@ news.dwango.jp##.bnrs
 nikkansports.com##.adBECOME
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
-northwood.blog60.fc2.com###menu1Block > .menuBlockBase:first-child
+northwood.blog.fc2.com#?#.menuBlockBase:-abp-has(> .menuBlockHead > .menuTitle:-abp-contains(PCパーツショップ))
 npn.co.jp###arata5
 nuwton.com##[class*="banner-"]
 nyaa.si##.servers-cost-money1
