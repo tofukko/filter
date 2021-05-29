@@ -1971,6 +1971,8 @@ xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
+yourei.jp##.side-component:not([id])
+yourei.jp#?##sentence-6:-abp-has(> .side-component)
 zch-vip.com###article_center_ad
 zch-vip.com###article_bottom_ad
 zch-vip.com##.ad_tb
