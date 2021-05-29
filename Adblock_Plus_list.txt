@@ -2838,6 +2838,7 @@ mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
 mail.yahoo.co.jp##.panescroll.scrollable #shellcontent:style(top: 28px !important;)
 mail.yahoo.co.jp##.fullpage.withsky #shellcontent:style(top: 56px !important;)
 search.yahoo.co.jp##.Ad
+sports.yahoo.co.jp##.yf-lrec
 
 ||analytics.yahoo.co
 ||b90.yahoo.co.jp^
