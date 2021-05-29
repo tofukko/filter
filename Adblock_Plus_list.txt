@@ -1564,7 +1564,7 @@ www.google.co.jp##TABLE[cellpadding="0"][style="border: 1px solid #369"]
 gori.me##.sidebar-single-ad
 greasyfork.org##.ad-entry
 hentai-covers.site##.ad-banner
-hentai-foundry.com##main > center
+hentai-foundry.com##main > p[style="text-align: center"]
 hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not(:nth-of-type(n+11))
 himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
