@@ -2859,6 +2859,8 @@ search.yahoo.co.jp##.Ad
 @@||yjtag.jp/tag.js$script,domain=mail.yahoo.co.jp
 	! https://github.com/tofukko/filter/issues/23
 @@||s.yjtag.jp^$domain=accounts.yahoo.co.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/84106
+@@||yads.c.yimg.jp/js/yads-async.js$domain=yahoo.co.jp
 
 
 !worker bee
