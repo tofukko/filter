@@ -2124,6 +2124,7 @@ www.excite.co.jp##.extra
 www.excite.co.jp##.ad728
 www.excite.co.jp###rakutenMW
 exblog.jp#?#div:-abp-has(> #gpt_pc_blog_header)
+www.excite.co.jp##[class^="ex-ad-rectangle"]
 
 !------------exploader.net------!
 ||daotag.com^$domain=exploader.net
