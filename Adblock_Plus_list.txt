@@ -2951,7 +2951,7 @@ jin115.com##a[href*="amazon.co"]
 jin115.com###sponsered
 
 !カ速
-kanasoku.info##.adset
+kanasoku.info##.adset-Cover
 kanasoku.info##.cent_top
 
 !金時 http://blog.livedoor.jp/goldennews/
@@ -2976,20 +2976,8 @@ workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
 majikichi.com###left_menu
 majikichi.com##^#left_menu
 
-!はれぞ http://blog.livedoor.jp/darkm/
-blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT + DIV + .container #article-over
-
 /js/cm_anpop.js
 /js/cm_rank_widget.js
-
-! http://blog.livedoor.jp/darkm/
-	! http://blog.livelog.biz/script/js/hrz_sp01.js
-	! http://blog.livelog.biz/script/js/hrz_sp02.js
-	! http://blog.livelog.biz/script/js/hrz_sp03.js
-!　？？？？  http://beelzeboulxxx.com/
-	! ||blog.livelog.biz/script/js/maob_sp.js
-||blog.livelog.biz^
-
 
 
 
