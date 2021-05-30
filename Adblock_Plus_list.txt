@@ -1466,6 +1466,7 @@ comici.jp##.a-banner-box
 cookien.com##.pr_content
 cookpad.com###sticky_reference_element
 coromoo.com##.amazon-link
+courrier.jp##.pre_banner_area
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
 cyclestyle.net##.sidebox-ad
