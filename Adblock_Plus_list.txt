@@ -3238,8 +3238,6 @@ comicride.jp#@##ad1
 comicride.jp#@##ad2
 	!https://www.kadokawa.co.jp/product/322003000737/
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
-	! http://www.htb.co.jp/onigiri/index.html
-htb.co.jp#@##advertisement
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
 	!トップバナー
