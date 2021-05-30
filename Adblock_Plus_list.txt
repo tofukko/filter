@@ -1582,6 +1582,7 @@ hobonichielog.com##.mainwidget > [id^="text-"]
 hokkaido-np.co.jp##.detailAdsense
 hokkaido-np.co.jp##.pr
 hokkaidofan.com##.vce-ad-container
+hosyusokuhou.jp#?#.sidewrapper:-abp-has(> .sidetitle:-abp-contains(★))
 housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
 hub.vroid.com###Model-adView-2lWBn
