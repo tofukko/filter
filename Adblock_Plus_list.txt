@@ -1246,16 +1246,17 @@ _analytics.js?
 ##.t_h ~ .t_b ~ .amazon
 
 !----e-nls
-##.plugin-freearea a[href*="e-nls.com/access"]
-##.sidewrapper a[href*="e-nls.com/access"]
-###left a[href*="e-nls.com/access"]
+~e-nls.com##.plugin-freearea a[href*="e-nls.com/access"]
+~e-nls.com##.sidewrapper a[href*="e-nls.com/access"]
+~e-nls.com###left a[href*="e-nls.com/access"]
 !----dmm
 !艦これスタートボタン
-~dmm.com##a[href^="http://ad.dmm.com/ad/p/r?"]
-~dmm.com##a[href^="https://ad.dmm.com/ad/p/r?"]
-##.plugin-freearea a[href*="dmm.co"]
-###sidebar a[href*="dmm.co.jp"]
-##.sidewrapper a[href*="dmm.co.jp"]
+~dmm.com,~dmm.co.jp##a[href^="http://ad.dmm.com/ad/p/r?"]
+~dmm.com,~dmm.co.jp##a[href^="https://ad.dmm.com/ad/p/r?"]
+~dmm.com,~dmm.co.jp##.plugin-freearea a[href*="dmm.co"]
+~dmm.com,~dmm.co.jp###sidebar a[href*="dmm.co.jp"]
+~dmm.com,~dmm.co.jp##.sidewrapper a[href*="dmm.co.jp"]
+~dmm.com,~dmm.co.jp##a[href^="https://al.dmm.co.jp/?"][href*="&af_id="][href*="&ch="]
 !----dlsite
 ~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
 ~dlsite.com##.sidewrapper a[href*="dlsite.co"]
