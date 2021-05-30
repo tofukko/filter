@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/05/30 23:23
+! 最終更新 2021/05/31 8:16
 !
 
 !2011年10月07日閉鎖予定
@@ -1042,7 +1042,7 @@ _analytics.js?
 ||dw-eu.com.com^
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
 ||google-analytics.com/ga.js$script,redirect=google-analytics_ga.js
-||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
+!||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||gpr.hu/pr.pr?
 ||itgear.jp*/ax.js
@@ -2200,7 +2200,7 @@ d.hatena.ne.jp###hot-topics + div
 q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
 !言及先エントリを開くが消える
-@@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
+!@@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
 !------------hs-exp.jp-----------!
 hs-exp.jp###footer > .footer-widget-area > .column:first-child
@@ -3085,7 +3085,7 @@ ashemaletube.com##+js(aopr, open)
 !--------ホワイトリスト--------!
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 ||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
-||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
+!||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
@@ -3151,14 +3151,14 @@ ashemaletube.com##+js(aopr, open)
 	!http://www.jp.square-enix.com/jc3/
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
-@@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
+!@@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
 @@||rtoaster.jp^$script,domain=www.kanaloco.jp
 	! https://github.com/tofukko/filter/issues/24 サイドバー
-@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
+!@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
 	!画像
-@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
+!@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!チャットのポップアップ
-@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
+!@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
 	!真っ白
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!
