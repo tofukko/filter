@@ -541,6 +541,7 @@ _ads.js
 ||digiket.com/xml/ad/
 ||dietnavi.com/pc/banner/
 ||dogma-annex.com/media/affiliate/
+||e-nls.com/pict_af/
 ||free-video-movie.com^
 ||googlesyndication.com/pagead/
 ||gunosy.com/adnet/
