@@ -2691,6 +2691,8 @@ admin.blog.fc2.com##.editor_header_ad
 admin.blog.fc2.com##.column-left_ad
 admin.blog.fc2.com##.notify_ad
 
+error.fc2.com###ad_middle
+
 fc2.com###fc2_text_ad
 fc2.com,fc2blog.net##.AdContainer
 ###fc2_bottom_bnr
