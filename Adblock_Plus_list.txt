@@ -585,6 +585,7 @@ _ads.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
 ||blog.with2.net/ad_frame.php?
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
+||buhidoh.net/uploads/setting/$subdocument
 ||chaberi.com/html/br/
 ||chem-station.com^*/adrotate-pro/
 ||chixi.jp/img.php?filename=b
@@ -1433,6 +1434,7 @@ blogmura.com##.ad-header
 blogmura.com##.ad-overlay
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
+buhidoh.net###center-left:style(height: auto !important)
 businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
