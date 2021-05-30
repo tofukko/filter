@@ -2545,6 +2545,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.sponsor-h2-center
 ##.sponsor-top
 ##.thk_ps_widget
+##.widget_common_ad
 !あれなやつ
 ##[id^="post-"][class*=post-] [class^="cta-"]
 ##[id^="post-"][class*=post-] [class$="-cta"]
