@@ -2698,7 +2698,7 @@ admin.blog.fc2.com##.notify_ad
 error.fc2.com###ad_middle
 
 fc2.com###fc2_text_ad
-fc2.com,fc2blog.net##.AdContainer
+fc2.com,fc2.xxx,fc2blog.net##.AdContainer
 ###fc2_bottom_bnr
 fc2.com##table[width="140"][cellspacing="1"][cellpadding="1"][border="0"]
 fc2web.com##table[width="100%"] td[colspan="4"][height="1"]
