@@ -190,6 +190,7 @@ _ads.js
 ||adjustnetwork.com^$third-party
 ||adlantis.jp^$third-party
 ||adlpo.com^$third-party
+||admatrix.jp$third-party
 ||adnxs.com^$third-party
 ||adplan7.com^$third-party
 ||adprost.com^$third-party
