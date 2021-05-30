@@ -1824,6 +1824,8 @@ picrew.me##.c_ad_wrapper
 picrew.me##.discovery_list_ad
 picrew.me##.imagemaker_ad_wrapper
 picrew.me##.imagemaker_container:style(height: 100% !important;)
+pixabay.com##.carbon-ad
+pixabay.com##.show-gtty-item
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net#?#div:-abp-has(> iframe:not([src]))
 pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
