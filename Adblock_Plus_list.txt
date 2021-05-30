@@ -3127,6 +3127,8 @@ ashemaletube.com##+js(aopr, open)
 @@||ad-link.jp*/index.php?
 	!http://www.jp.square-enix.com/seiken2_som/news.html
 @@||ads-twitter.com/oct.js$domain=jp.square-enix.com
+	! https://github.com/tofukko/filter/issues/26
+@@||affiliate.dmm.com/img/ad_about_ad/$image,domain=affiliate.dmm.com
 	! トップバナー
 @@||afi-b.com/assets/dist/img/general/top/img/ad/*$image,domain=afi-b.com
 	!動画見れない
