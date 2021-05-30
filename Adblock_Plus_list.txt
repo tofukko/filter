@@ -2277,6 +2277,7 @@ kissanime.*##+js(set, check_adblock, true)
 ###meerkat-contents
 	!blog cookie承認バナー
 ###gdpr-banner
+blog.livedoor.*,blog.jp,doorblog.jp##.plugin-memo:-abp-has(.sidetitlebody > .sidetitle:-abp-contains(スポンサード))
 
 !g--------loveheaven.net---------!
 !         lovehug.net
