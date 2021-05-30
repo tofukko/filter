@@ -3240,8 +3240,6 @@ comicride.jp#@##ad2
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
-	!トップバナー
-mamastar.jp#@#a[href*="http://ad."]
         ! https://github.com/tofukko/filter/issues/11
 	!画像リスト最大化 ついでに、編集部が選ぶ関連記事も横幅いっぱいに広げる
 news.mynavi.jp##.photo_table--hold:style(clear:both)
