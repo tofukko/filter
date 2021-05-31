@@ -1142,7 +1142,7 @@ _analytics.js?
 ##.ad2
 
 	!google
-##.adsbygoogle
+##ins.adsbygoogle
 ##.google-user-ad
 ###gStickyAd
 ###im_panel
