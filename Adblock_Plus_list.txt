@@ -2147,6 +2147,16 @@ exploader.net###nls
 exploader.net##.dl_items
 exploader.net##.items
 
+!-----------foto.ne.jp-------------!
+||cg-foto.jp/share/v5/img/stock_bnr_
+||food-foto.jp/share/v5/img/stock_bnr_
+||model-foto.jp/share/v5/img/stock_bnr_
+cg-foto.jp,food-foto.jp,model-foto.jp,pro-foto.jp###ads
+cg-foto.jp,food-foto.jp,model-foto.jp,pro-foto.jp##.stock_bnr_block
+cg-foto.jp,food-foto.jp,model-foto.jp,pro-foto.jp##[class|="ad_block"]
+free.foto.ne.jp##.ad_full
+free.foto.ne.jp##.adsbygoogle:upward(1)
+
 !------------futaba-------------!
 ||2chan.net/bin/*.htm
 ||free2.jp^$domain=2chan.net
