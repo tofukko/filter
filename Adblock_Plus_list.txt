@@ -2034,6 +2034,8 @@ akibablog.net##+js(ra, href, .side > font > a:first-child)
 akibablog.net#?#.sidetitle:-abp-has(+ .side > font > a + br:last-child)
 akibablog.net#?#.side:-abp-has(> font > a + br:last-child)
 akibablog.net##.side > font > .link:first-child:style(text-decoration: none !important;)
+!jack
+blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ div[style^="top:0px;position:fixed;"]
 
 !------------alphapolis------------!
 ||alphapolis.co.jp/html/ad_
