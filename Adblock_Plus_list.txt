@@ -1664,7 +1664,11 @@ karapaia.com###overlay
 karapaia.com##.readmore-header
 karapaia.com##[class^=ads-label]
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
+kobe-np.co.jp###prBox
 kobe-np.co.jp##.active.native
+kobe-np.co.jp#?#.banner:-abp-has(> #knpc-rec1)
+kobe-np.co.jp##.bottomPrArea
+kobe-np.co.jp##div[id^=knpc-]
 kotobank.jp##.pc-iframe-ad
 ktkm.net###custom_html-43
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
