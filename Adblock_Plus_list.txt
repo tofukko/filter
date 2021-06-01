@@ -982,6 +982,7 @@ _analytics.js?
 ||sitemeter.com^$third-party
 ||sitesnapi.com^$third-party
 ||sitest.jp^$third-party
+||solutionshindsight.net^$third-party
 ||statcounter.com^$third-party
 ||swcs.jp^$third-party
 ||targetingnow.com^$third-party
@@ -1041,6 +1042,7 @@ _analytics.js?
 ||blogtoy.net/add_log?
 ||blozoo.info/js/inouttool/blogparts.js
 ||code.usergram.info^
+||confiant-integrations.global.ssl.fastly.net^
 ||deqwas.net^
 ||disqus.com/stats.html
 ||dw-eu.com.com^
