@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/01 12:34
+! 最終更新 2021/06/01 19:29
 !
 
 !2011年10月07日閉鎖予定
@@ -539,6 +539,7 @@ _ads.js
 ||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
+||btopc.jp/css/ec-468x67
 ||coincheck.com/images/affiliates/
 ||digiket.com/xml/ad/
 ||dietnavi.com/pc/banner/
@@ -1139,8 +1140,6 @@ _analytics.js?
 ##.ad-container
 ##.ad-center
 ##.ad-footer
-	!アンテナメーカーだけでもyosage?
-##.ad_footer
 ##.ad-rectangle
 ##.ad1
 ##.ad2
@@ -1394,6 +1393,8 @@ hameets.com##.advertisement
 4gamer.net##.satellite_banner
 9ketsuki.info##.manual_ads
 9ketsuki.info##.widget_custom_html.widget-main
+a-antenam.info,antenam.biz,antenam.info,antenam.jp,atna.jp,readers.jp##.ad_footer
+a-antenam.info,antenam.biz,antenam.info,antenam.jp,atna.jp,readers.jp#?#.content:-abp-has(.ad_footer)
 a-kimama.com##.widget--ad
 accuweather.com###connatix
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adbottom_box
