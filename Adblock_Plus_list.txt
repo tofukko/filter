@@ -1429,6 +1429,7 @@ auone.jp##.rectangle-ad
 auone.jp##.side__ad-box
 automaton-media.com##.ai_widget
 automaton-media.com##.td-a-rec
+bakufu.jp###entryPrBox
 bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
