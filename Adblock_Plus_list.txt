@@ -533,7 +533,6 @@ _ads.js
 
 
 !----third-party
-||150601.fc2rs.com^
 ||ad999.biz^
 ||af.fukuishimbun.co.jp^
 ||amazonaws.com/affiliate-img.docomo.ne.jp/banner/$third-party
@@ -2109,6 +2108,7 @@ coolrom.com.au##div[style="min-height:250px;"]
 coolrom.com.au##+js(set-constant, time, 0)
 
 !------------dmm-------------!
+||aztool.org$third-party
 ||dmm.ad-s.org^$third-party
 ||dmm.afisapo.com^$third-party
 ||dmm-rank.com^$third-party
