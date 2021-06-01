@@ -583,7 +583,7 @@ _ads.js
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
 ||asg.to/ad/
-||assets-momentum.akamaized.net^$domain=this.kiji.is
+||assets-momentum.akamaized.net^$domain=this.kiji.is|nordot.app
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
 ||blog.with2.net/ad_frame.php?
@@ -1936,7 +1936,8 @@ teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
-this.kiji.is###js-ur
+nordot.app,this.kiji.is###js-ur
+nordot.app,this.kiji.is##.page__listPageAd
 tinami.com###banner_view
 tinami.com##.view_ad
 ! jack?
@@ -3322,7 +3323,7 @@ gigaho.com##+js(aopr, onload)
 gigaho.com#@#.adsbygoogle
 gigaho.com##ins.adsbygoogle
 
-kiji.is##+js(acis, document.createElement, admiral)
+nordot.app,this.kiji.is##+js(acis, document.createElement, admiral)
 
 knshow.com##+js(acis, onload, .ads)
 !@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=knshow.com
