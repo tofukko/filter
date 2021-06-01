@@ -2109,6 +2109,7 @@ coolrom.com.au##+js(set-constant, time, 0)
 
 !------------dmm-------------!
 ||aztool.org$third-party
+||150601.fc2rs.com^
 ||dmm.ad-s.org^$third-party
 ||dmm.afisapo.com^$third-party
 ||dmm-rank.com^$third-party
