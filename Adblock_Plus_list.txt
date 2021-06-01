@@ -2429,6 +2429,8 @@ www.nikkei.com##.k-hub-layout__container--ad-recommend
 www.nikkei.com##.k-hub-layout__container--section-top-trendwatch
 www.nikkei.com##.k-hub-pr
 www.nikkei.com##.newsTrendWatch
+business.nikkei.com##.dag_bunner.p-rectangle_banner
+business.nikkei.com##.p-articlePanel_item:style(margin-right: 31px !important;)
 xtech.nikkei.com###sticky1 > section.l-asideSection:first-child
 xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
