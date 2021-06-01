@@ -3155,6 +3155,8 @@ ashemaletube.com##+js(aopr, open)
 @@||afi-b.com/assets/dist/img/general/top/img/ad/*$image,domain=afi-b.com
 	!動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
+	! https://github.com/Yuki2718/adblock/issues/20
+@@||api.docodoco.jp^$script,domain=jrtours.co.jp
 	!全体的に
 @@||asahi.com/ad/$css,font,image,script,domain=asahi.com
 	!全部
