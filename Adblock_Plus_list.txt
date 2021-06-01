@@ -1536,6 +1536,7 @@ fnn.jp##.sherpa-component[data-ad_type]
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
+friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fukuishimbun.co.jp##.admeasure
 gamewiki.jp###pc_overlay
