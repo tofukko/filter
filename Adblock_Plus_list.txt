@@ -1376,6 +1376,7 @@ hameets.com##.advertisement
 ! https://www.hearst.co.jp/digital/web
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.breaker-ad
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.leaderboard-ad
+2ch-c.net#?#li:-abp-has(> .nend_text_ad)
 373news.com###ad_prinfo
 373news.com##.mns_bn
 48idol.tv###custom_html-4
