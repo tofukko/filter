@@ -598,6 +598,7 @@ _ads.js
 ||clipstudio.net^*/banner_
 ||cookpad.com/iframe/
 ||cosp.jp/images/spacer.gif
+||cyclingtime.com/adimg/
 ||diced.jp/webs/
 ||dl8x.com/banner/
 ||dl8x.com/product?
