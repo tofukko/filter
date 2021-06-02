@@ -2877,6 +2877,9 @@ yahoo.co.jp###brandpanel
 ||adserver-apne.tidaltv.com
 
 auctions.yahoo.co.jp##.ss
+carview.yahoo.co.jp###ad-lrec
+carview.yahoo.co.jp###ydn-bot
+carview.yahoo.co.jp###ydn-top
 chiebukuro.yahoo.co.jp##.lstAd
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
 detail.chiebukuro.yahoo.co.jp##aside[class^="ClapLv3SubList_Chie"]
