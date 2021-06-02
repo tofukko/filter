@@ -1945,6 +1945,8 @@ teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
+traicy.com##.pc-ad
+traicy.com##.pc-ad-wide
 nordot.app,this.kiji.is###js-ur
 nordot.app,this.kiji.is##.page__listPageAd
 tinami.com###banner_view
