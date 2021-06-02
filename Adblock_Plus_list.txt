@@ -1305,6 +1305,7 @@ hamazo.tv##.ad
 horiemon.com##.ad
 huyosoku.com##.ad
 iwate-np.co.jp##.ad
+japan.techrepublic.com##.ad
 japan-attractions.jp##.ad
 japandesign.ne.jp##.ad
 japanese.joins.com##.ad
