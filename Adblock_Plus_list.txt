@@ -1779,6 +1779,7 @@ mag.osdn.jp##[id^="div-gpt-osdn_mag_"]
 muvc.net##body > div[align="right"]:last-of-type
 myjitsu.jp##.ad-box
 myjitsu.jp##[id^=related-post-ad]
+mylifenews.net##.side_squer
 myoji-yurai.net###adSideTop
 myoji-yurai.net###adSideTop + li
 myoji-yurai.net###adTop
