@@ -1625,6 +1625,7 @@ japanese.engadget.com##div.Mih\(250px\)
 japanese.engadget.com##div.Mih\(90px\)
 japanese.joins.com##.mainTopAd
 japanese.joins.com##.YahooAds
+jbbs.shitaraba.net###ads_fieldOuter
 jbbs.shitaraba.net###footer-menu + br + table + hr + div
 jbbs.shitaraba.net###footer-menu + br + table + hr + table
 jbbs.shitaraba.net##.seesaa_channel
