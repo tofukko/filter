@@ -1542,6 +1542,8 @@ favolog.org###side > div:first-child
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
 fnn.jp##.sherpa-component[data-ad_type]
+freem.ne.jp##.ad-horizontal-wrapper
+freem.ne.jp##.game-list-ad
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
