@@ -1994,7 +1994,7 @@ walkerplus.com##.m-prbnr
 web-ace.jp##[class^="ad_rect"]
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
-wikiwiki.jp###pc-bottom-parent-ad-container
+wikiwiki.jp##[id$="-ad-container"]
 writening.net##.section-ad
 www.asahi.com###HometopAd
 www.asahi.com##.AdMod
