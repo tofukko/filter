@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/04 19:07
+! 最終更新 2021/06/04 23:08
 !
 
 !2011年10月07日閉鎖予定
@@ -3311,6 +3311,8 @@ comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 	! https://github.com/tofukko/filter/issues/20
 comicride.jp#@##ad1
 comicride.jp#@##ad2
+	! https://github.com/tofukko/filter/issues/28 サイドバー
+daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
 	!https://www.kadokawa.co.jp/product/322003000737/
 www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	! サイドバー
