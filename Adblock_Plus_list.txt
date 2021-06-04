@@ -1588,6 +1588,8 @@ google.com,google.co.jp###\5f Ltg
 !サイト内検索
 www.google.co.jp##TABLE[cellpadding="0"][style="border: 1px solid #369"]
 gori.me##.sidebar-single-ad
+gqjapan.jp##[data-test-id="AdBannerWrapper"]
+gqjapan.jp##[data-test-id="AdDisplayWrapper"]
 greasyfork.org##.ad-entry
 hentai-covers.site##.ad-banner
 hentai-foundry.com##main > p[style="text-align: center"]
