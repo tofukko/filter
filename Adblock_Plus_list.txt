@@ -1542,6 +1542,9 @@ fate-twitter-matome.com###js-popup
 fate-twitter-matome.com###mainEntity > div:not(.clearfix):not(.meta-box)
 fate-twitter-matome.com###pc-text-widget
 favolog.org###side > div:first-child
+fgamers.saikyou.biz###ad-area-1
+fgamers.saikyou.biz###ad-area-2
+fgamers.saikyou.biz###subAmazon
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
 fnn.jp##.sherpa-component[data-ad_type]
