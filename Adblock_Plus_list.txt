@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/02 19:43
+! 最終更新 2021/06/04 19:07
 !
 
 !2011年10月07日閉鎖予定
@@ -3317,6 +3317,8 @@ news.nifty.com##.sidebar_fixed:style(position: static !important;)
 	!header辺り
 no-ichigo.jp##div[style="height:41px;"]:style(height: 42px !important;)
 no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
+        ! https://github.com/tofukko/filter/issues/27
+oshiete.goo.ne.jp#@##ad1
 	!記事
 server-setting.info#@#.adsbygoogle
 	!記事
