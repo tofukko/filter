@@ -1730,6 +1730,7 @@ mainichi.jp##.ArticleAdKW
 making.pipa.jp##.NoFrame.RelatedWorkRight
 mamadays.tv##[class*="_ads__"]
 mamadays.tv##[class^="style_ad_"]
+mamagirl.jp##.p-ad
 manga.okiba.info,manga.okiba.jp##.amazon-ranking-outer
 mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
 manager-life.net##[id^="ad_"]
