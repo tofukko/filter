@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/05 15:53
+! 最終更新 2021/06/05 19:53
 !
 
 !2011年10月07日閉鎖予定
@@ -1957,6 +1957,7 @@ supersolenoid.jp,supersolenoid.blog.fc2.com##.menuBlock3 + center
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
+tabelog.com##.side-adbanner-wrap
 tabelog.com##[class^="ad-min-size-"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 taskle.jp##.ad-widget
