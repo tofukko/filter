@@ -1536,6 +1536,7 @@ famitsu.com##.l-contents-block--article-amazon
 	!微妙系
 	!famitsu.com##[class^="l-contents-block--tie-up-"]
 	!famitsu.com#?#.border-col-bottom > [class^="col-"]:-abp-has(> .card > [class*="ad-native-campaign"])
+fandom.com##.aff-unit__disclaimer-message
 fandom.com##.aff-unit__wrapper
 fandom.com##.wikia-ad
 fate-twitter-matome.com###js-popup
