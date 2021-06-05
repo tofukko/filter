@@ -672,6 +672,7 @@ _ads.js
 ||nhentai.net/api/
 ||nijie.info/js/ad.js?
 ||nijie.net/*/banner/
+||nissen.co.jp/BtoB/$subdocument
 ||open2ch.net/test/dd.cgi/
 ||pawoo.net/packs/media/pawoo/images/about/banner-
 ||phileweb.com/count/
