@@ -1327,6 +1327,7 @@ picmix.com##.ad
 qoly.jp##.ad
 repeat-drama.info##.ad
 rocketnews24.com##.ad
+smt-cinema.com##.ad
 sukusuku.com##.ad
 taskle.jp##.ad
 techacademy.jp##.ad
