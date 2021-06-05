@@ -1217,6 +1217,7 @@ _analytics.js?
 ##a[href*="ac.ebis.ne.jp/tr_set.php?"]
 ##a[href*="accesstrade.net/at/"]
 ##a[href*="accesstrade.net/sp/"]
+##a[href*="af-next.com/link.php"]
 ##a[href*="affiliate.fc2.com/cgi-bin/click.cgi?"]
 ##a[href*="bannerbridge.net/click"]
 ##a[href*="click.duga.jp/"]
