@@ -2237,8 +2237,11 @@ gamebox.gesoten.com##.ad_super
 ||ams900.goo.ne.jp^
 goo.ne.jp##[id^="gooad-"]
 blog.goo.ne.jp###mod-advertising
+blog.goo.ne.jp#?##mod-freearea-main:-abp-has([id^="gooad-"])
 blog.goo.ne.jp###mod-goo-recommends
+blog.goo.ne.jp##.mod-entry-set-goo-ad
 blog.goo.ne.jp##.navbar__link--left
+blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
 dictionary.goo.ne.jp##.NR-ad
 ||log000.goo.ne.jp^
 !gesoten
