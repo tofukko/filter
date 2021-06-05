@@ -1899,14 +1899,15 @@ qoly.jp##.banner
 qoly.jp##div[style="height:90px; width:728px;"]
 	!https://hobbyjapan.co.jp/comic/series/
 r.binb.jp###adp
+rastaneko-blog.com##[class^="header-ad-outer"]
+rastaneko-blog.com##[class^="kijinaka-outer"]
 rbbtoday.com##.cx-top-news
 realsound.jp###ad_entryBottom
 realsound.jp###adEntry2rec
+recipe-blog.jp##[id^="reb_pc_"]
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
 resemom.jp##.sidebox-ad
-rastaneko-blog.com##[class^="header-ad-outer"]
-rastaneko-blog.com##[class^="kijinaka-outer"]
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
