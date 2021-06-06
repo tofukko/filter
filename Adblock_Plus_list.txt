@@ -1333,6 +1333,7 @@ smt-cinema.com##.ad
 sukusuku.com##.ad
 taskle.jp##.ad
 techacademy.jp##.ad
+thetv.jp##.ad
 tripadvisor.jp##.ad
 tvlife.jp##.ad
 vippers.jp##.ad
