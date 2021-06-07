@@ -2847,6 +2847,7 @@ ameblo.jp###subAInner:style(position: static !important; margin-top: auto !impor
 ||youtube.com/api/stats/qoe?
 ||youtube.com/ptracking?
 youtube.com###masthead-ad
+youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-display-ad-renderer:upward(2)
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
