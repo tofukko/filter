@@ -2024,6 +2024,8 @@ web-ace.jp##[class^="ad_rect"]
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
 wikiwiki.jp##[id$="-ad-container"]
+wowgame.jp##[style="width:300px; height:250px;"]
+wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
 writening.net##.section-ad
 www.asahi.com###HometopAd
 www.asahi.com##.AdMod
@@ -3372,6 +3374,9 @@ yakkun.com##.ad + div:style(clear: both !important;)
 
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83410
 @@||48idol.tv/wp-includes/js/ad_pub_300x250.js
+
+	! https://www.wowgame.jp/game_html/10064.html
+@@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
 battlecats-db.com##body:style(display: block !important)
 
