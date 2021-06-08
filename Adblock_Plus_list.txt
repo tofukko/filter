@@ -2963,7 +2963,8 @@ sports.yahoo.co.jp##.yf-lrec
 @@||s.yjtag.jp^$domain=accounts.yahoo.co.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84106
 @@||yads.c.yimg.jp/js/yads-async.js$domain=yahoo.co.jp
-
+	! https://github.com/AdguardTeam/AdguardFilters/issues/55823
+@@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
 
 !worker bee
 ||games.wkb.jp/html5games/play/jewelexplode/ads-
