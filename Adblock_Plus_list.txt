@@ -2388,6 +2388,7 @@ kissanime.*##+js(set, check_adblock, true)
 
 !g--------loveheaven.net---------!
 !         lovehug.net
+/lovehug.js
 ||a.vdo.ai^
 ||cogleapad.com^
 ||dyecowwhy.com^
