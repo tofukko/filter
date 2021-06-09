@@ -1526,6 +1526,7 @@ easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 ecclab.empowershop.co.jp##.wrap-advert
 egotter.com##[id^="async-adsense-"]
+ehonnavi.net##table[width="300"][height="260"]
 eparet.net##div[style="width:300px;height:250px;float:left;border:#ffaaaa double 3px;margin:0px auto;"]
 eparet.net##div[style="width:620px;float:right;"]:style(float: none !important;)
 erogazopple.com###single-content > [id^="text-"]
