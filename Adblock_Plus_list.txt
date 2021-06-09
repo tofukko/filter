@@ -3427,8 +3427,6 @@ knshow.com##+js(acis, onload, .ads)
 	!knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 	!knshow.com#@#.adsbygoogle
 
-manga1000.com##+js(aopw, $)
-
 my0nio.seesaa.net#@#.adsbygoogle
 
 nazolog.com#@#.adsbygoogle
