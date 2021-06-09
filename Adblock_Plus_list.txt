@@ -2337,6 +2337,8 @@ onlinegamer.jp##.trackingWrap > .contentWrap:style(margin-top: 90px !important;)
 
 !------------j-cast.com----------!
 bg-mania.jp##div[style="width: 624px; margin-bottom: 20px; height: 270px; margin: 0 auto;"]
+books.j-cast.com##.adobject
+books.j-cast.com##.adunit
 j-town.net##.ad-unit
 www.j-cast.com##.ad-rectangle-bnr
 www.j-cast.com##.ad_entry_toptext
