@@ -853,6 +853,9 @@ _analytics.js?
 /xtcore.js
 /ywa.js
 
+!google
+://analytics.*/collect
+
 ||2-only.page.ne.jp^$third-party
 ||2o7.net^$third-party
 ||33across.com^$third-party
