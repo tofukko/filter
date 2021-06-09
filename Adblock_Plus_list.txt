@@ -1413,6 +1413,7 @@ adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
 akiba-souken.com##.middleBnr
+altema.jp##.adsClick
 animatetimes.com##[class^="c-banner-"][class*="--w3"]
 animatetimes.com##.l-content-aside > .c-banner-aside:first-child
 ! jack
