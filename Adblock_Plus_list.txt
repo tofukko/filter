@@ -1970,6 +1970,8 @@ syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
 tabelog.com##.side-adbanner-wrap
 tabelog.com##[class^="ad-min-size-"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
+tagindex.com###ads_top
+tagindex.com###post
 taskle.jp##.ad-widget
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
