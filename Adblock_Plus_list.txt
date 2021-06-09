@@ -1494,6 +1494,7 @@ coromoo.com##.amazon-link
 coron.tech###custom_html-5
 coron.tech#?#div[style]:not(#sidebar1):-abp-has(.adsbygoogle)
 courrier.jp##.pre_banner_area
+crank-in.net###banner
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
 cyclestyle.net##.sidebox-ad
