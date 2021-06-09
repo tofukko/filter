@@ -613,8 +613,6 @@ _ads.js
 ||egone.org/js/amazon_
 ||estar.jp/page/ad/
 ||famitsu.com^*/amazon_ranking.js
-	! 2017/07/16 動画見れないらしいがこれで見れるらしい
-||fod.fujitv.co.jp/pc/image/wbhjfr/
 ||fod.fujitv.co.jp/mz/
 ||gamegift.jp/js/ads.js
 ||gamespark.jp/feature/advertising/
