@@ -2074,6 +2074,13 @@ bbspink.com##[class$="_banner"]:not(.sidemenu_banner)
 bbspink.com##[class^="banner_"]
 bbspink.com###bbspink-bottom-ads
 pinktower.com##div
+!Mobile
+itest.5ch.net###instant_ad
+itest.5ch.net##.ad-native-comment
+itest.5ch.net##.res_ad
+itest.5ch.net##[id^="js-bottom-ad-"]
+itest.5ch.net##[class^="sproutad_frame"]
+itest.5ch.net##[class^="js-ad_iframe"]
 
 !------------akibablog.net---------!
 ||akibablog.net/ad-
