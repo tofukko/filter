@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/09 11:34
+! 最終更新 2021/06/09 12:46
 !
 
 !2011年10月07日閉鎖予定
@@ -2247,7 +2247,7 @@ gesoten.com##.l-wrapper--pagejack:style(background-image: none !important;)
 gamebox.gesoten.com##.ad_half
 gamebox.gesoten.com##.ad_rectangle
 gamebox.gesoten.com##.ad_super
-!@@||gamebox.gesoten.com/googleads_ima_html5_samples/advanced/ads.js?$script,domain=gamebox.gesoten.com
+	!@@||gamebox.gesoten.com/googleads_ima_html5_samples/advanced/ads.js?$script,domain=gamebox.gesoten.com
 @@||imasdk.googleapis.com/js/core/$subdocument,domain=gamebox.gesoten.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamebox.gesoten.com
 
@@ -2272,7 +2272,7 @@ sports.goo.ne.jp##div[style="margin: 1em 0 0; min-height: 90px; display: flex; j
 game.goo.ne.jp##.ad_half
 game.goo.ne.jp##.ad_rectangle
 game.goo.ne.jp##.ad_super
-!@@||game.goo.ne.jp/googleads_ima_html5_samples/advanced/ads.js?$script,domain=game.goo.ne.jp
+	!@@||game.goo.ne.jp/googleads_ima_html5_samples/advanced/ads.js?$script,domain=game.goo.ne.jp
 @@||imasdk.googleapis.com/js/core/$subdocument,domain=game.goo.ne.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.goo.ne.jp
 
@@ -2295,8 +2295,8 @@ b.hatena.ne.jp##[class^="entry-ad-"]
 d.hatena.ne.jp###hot-topics + div
 q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
-!言及先エントリを開くが消える
-!@@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
+	!言及先エントリを開くが消える
+	!@@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
 !------------hs-exp.jp-----------!
 hs-exp.jp###footer > .footer-widget-area > .column:first-child
@@ -2430,7 +2430,7 @@ nicosub.net###seigarakuten
 
 !------------nicovideo ニコニコ動画------------!
 !アンケート
-!||enquete.nicovideo.jp/static/
+	!||enquete.nicovideo.jp/static/
 !動画
 www.nicovideo.jp###head_ads
 www.nicovideo.jp###web_pc_footer
@@ -2467,8 +2467,8 @@ dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
 game.nicovideo.jp#?#.Modal__Modal__Overlay:-abp-has(> .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
 game.nicovideo.jp##+js(nano-stb, u(!0), 5000)
 game.nicovideo.jp##+js(nano-stb, [native code], 15000)
-!@@||resource.game.nicovideo.jp/core/player/js/ads.js$script,domain=game.nicovideo.jp
-!@@||html5.nicogame.jp/misc/ads.js$script,domain=game.nicovideo.jp
+	!@@||resource.game.nicovideo.jp/core/player/js/ads.js$script,domain=game.nicovideo.jp
+	!@@||html5.nicogame.jp/misc/ads.js$script,domain=game.nicovideo.jp
 !コモンズ
 com.nicovideo.jp###community_pc_top
 !ニコニコインフォ
@@ -2508,7 +2508,7 @@ xtech.nikkei.com###sticky1 > section.l-asideSection:first-child
 xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
 xtech.nikkei.com##.p-article_ad
-! https://tofukko.blog.fc2.com/blog-entry-405.html#comment830
+	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment830
 @@||vdata.nikkei.com/newsgraphics/coronavirus-japan-chart/js/modules/ga.js?$script,domain=vdata.nikkei.com
 
 !------------pixiv------------------!
@@ -2707,12 +2707,7 @@ otekomachi.yomiuri.co.jp##.widget_sidead
 ||images-amazon.com/images/*/browser-scripts/DA-
 
 amazon.co.jp###nav-swmslot
-!amazon.co.jp###pageContent > a:first-child + div
 
-!||chem-station.com^*/amazonjs/
-!||chem-station.com^*/amazonjs.
-!||photo-studio9.com/wp-content/plugins/amazonjs/
-!||photo-studio9.com/wp-content/plugins/amazonjs/js/amazonjs.js?
 /amazonjs/*
 /amazonjs.
 
@@ -2735,7 +2730,7 @@ amazon.co.jp###nav-swmslot
 ||azlink.sakuratan.biz^
 ||blozoo.info/js/amatool/blogparts.js
 ||goodpic.com^*.ajaxamazon.js
-!||sakuratan.biz/azlink/widget/
+	!||sakuratan.biz/azlink/widget/
 /azlink/*
 ###amazon_rank
 ##[class^="amastep"]
@@ -3037,7 +3032,7 @@ yahoo-jp.portal.connectedgamestore.com###floatingAd
 
 
 !ニコニコ風ヘッダー
-!||nicoblomaga.jp^$third-party,script
+	!||nicoblomaga.jp^$third-party,script
 ###matomeSiteHeaderArea
 
 !bipブログ
@@ -3207,12 +3202,12 @@ ashemaletube.com##+js(aopr, open)
 !--------ホワイトリスト--------!
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 ||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
-!||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
+	!||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
 
-!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
+	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
 
 
 	!nakanohito https://github.com/easylist/easylist/issues/7760
