@@ -2031,6 +2031,9 @@ vidoza.net##.pvr
 waifu2x.udp.jp##.all-page > div[style="min-height: 270px; margin: 1em"]
 waifu2x.udp.jp##.dmm-games
 walkerplus.com##.m-prbnr
+web.gekisaka.jp###PC_SP_NEWS_D_GROUP
+web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
+web.gekisaka.jp##div[style*="min-height:250px;"]
 web-ace.jp##[class^="ad_rect"]
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
