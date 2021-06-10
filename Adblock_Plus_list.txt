@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/09 12:46
+! 最終更新 2021/06/10 9:37
 !
 
 !2011年10月07日閉鎖予定
@@ -1440,6 +1440,10 @@ atwiki.jp##div[style="width: 160px;height:600px"]
 !article
 auone.jp##.rectangle-ad
 auone.jp##.side__ad-box
+autoc-one.jp###pc_autocone_glonavi
+autoc-one.jp##.ad_bigbanner
+autoc-one.jp##.ad-rectangle__row
+autoc-one.jp##[id^="jp_mota_pc_"][id$="_right_1st"]
 automaton-media.com##.ai_widget
 automaton-media.com##.td-a-rec
 bakufu.jp###entryPrBox
