@@ -537,6 +537,7 @@ _ads.js
 ||ad999.biz^
 ||af.fukuishimbun.co.jp^
 ||amazonaws.com/affiliate-img.docomo.ne.jp/banner/$third-party
+||assets-momentum.akamaized.net^
 ||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
@@ -585,7 +586,6 @@ _ads.js
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
 ||asg.to/ad/
-||assets-momentum.akamaized.net^$domain=this.kiji.is|nordot.app
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
 ||blog.with2.net/ad_frame.php?
