@@ -977,6 +977,7 @@ _analytics.js?
 ||revsci.net^$third-party
 ||rfihub.com^$third-party
 ||rlcdn.com^$third-party
+||s-onetag.com^$third-party
 ||scorecardresearch.com^$third-party
 ||searchforce.net^$third-party
 ||sentry.io^$third-party
