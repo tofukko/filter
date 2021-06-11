@@ -1789,6 +1789,9 @@ middle-edge.jp###detad
 mimizun.com##.ad300x250
 mimizun.com###thread:style(position: relative; left: -312px;)
 minkara.carview.co.jp##.overlay-ad
+minpo.jp##.ads730
+minpo.jp##.ads970:style(min-height: 0 !important;)
+minpo.jp##.side-ads
 mitok.info##.mybox-right-narrow
 mixi.jp##.adsenseBannerArea
 mmm.me###imadv
