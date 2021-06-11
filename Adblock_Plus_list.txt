@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/11 9:08
+! 最終更新 2021/06/11 12:55
 !
 
 !2011年10月07日閉鎖予定
@@ -1940,8 +1940,6 @@ say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
 search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
-sekai-kabuka.com##table[id][width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td[align="center"] > div[id][class]:style(height: 1px !important;)
-sekai-kabuka.com##.tb-r2 > table > tbody > tr > td:not([valign="top"])
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
 server-setting.info###pr_bottom
@@ -2593,6 +2591,17 @@ romhustler.org##+js(nano-sib, timer.remove, , 0.02)
 ||msgose.com^
 ||otaserve.net^$domain=chan.sankakucomplex.com
 sankakucomplex.com##+js(aeld, DOMContentLoaded, prestitialData)
+
+!------------sekai-kabuka.com-------------!
+||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
+sekai-kabuka.com###neko_ad
+sekai-kabuka.com###link_url_td > div:last-of-type
+sekai-kabuka.com##.tb-r2 > table > tbody > tr > td:not([valign="top"])
+sekai-kabuka.com##table[id][width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td[align="center"] > div[id][class]:style(height: 1px !important;)
+realtime-chart.info###neko_ad
+realtime-chart.info###neko_ad + a
+realtime-chart.info###neko_ad + a + a
+realtime-chart.info##body > div > div:first-child td:not(:nth-of-type(2))
 
 !------------sitemix・tok2.com------------!
 /ad.min.js
