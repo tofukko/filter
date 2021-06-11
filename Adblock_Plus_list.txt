@@ -1630,6 +1630,9 @@ housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
+huffingtonpost.jp###_popIn_recommend_right_div:style(position: static !important;)
+huffingtonpost.jp##.ad_spot
+huffingtonpost.jp##.leaderboard-flex-placeholder
 idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
 idol-blog.com##[id^="post-"] + .box ~ div
