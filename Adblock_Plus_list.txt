@@ -1122,7 +1122,6 @@ _analytics.js?
 ||sony.co.jp/ct/sc.js
 ||smp.sankei.co.jp^
 ||square-enix.com/sitestratos/ss_squareenix.js
-||stats.wordpress.com^
 ||toyokeizai.net/oo/
 ||tv-asahi.co.jp/common/js/analysis*.js
 ||twitter.com/i/jot
@@ -2661,6 +2660,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.diver_widget_adarea
 ##.master-post-advert
 ##.quads-location
+##.related-ad-area
 ##.related-ad-unit-area
 ##.sponsor-h2-center
 ##.sponsor-top
@@ -2682,6 +2682,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 /aurora-heatmap-
 ||pixel.wp.com^
 ||stats.wp.com^
+||stats.wordpress.com^
 
 !------------xrea.com------------!
 ||imgj.xrea.com^
