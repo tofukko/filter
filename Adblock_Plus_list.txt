@@ -149,7 +149,7 @@ _ads.js
 .eu/ads/
 .fr/ads/
 .gs/ads/
-.jp/ad/$domain=~gakushuin.ac.jp
+.jp/ad/$domain=~gakushuin.ac.jp|~minpo.jp
 .jp/ad_
 .jp/ads/
 .net/ad/$domain=~big-up.style
