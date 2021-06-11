@@ -2670,6 +2670,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.thk_ps_widget
 ##.widget_common_ad
 ##.widget_fit_aditem_class
+##[id^="adswidget"][id*="-quick-adsense-"]
 !あれなやつ
 ##[id^="post-"][class*=post-] [class^="cta-"]
 ##[id^="post-"][class*=post-] [class$="-cta"]
