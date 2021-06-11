@@ -1072,6 +1072,7 @@ _analytics.js?
 ||seg.sharethis.com^
 ||suteki-tool.com/al
 ||suteki-tool.com/pr
+||l.typesquare.com^
 ||tatsumi-sys.jp*.asp?uid=
 ||tr.webantenna.info^
 ||tracer.jp^
