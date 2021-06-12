@@ -1648,6 +1648,7 @@ jbbs.shitaraba.net##dd + table[cellspacing="0"][cellpadding="0"][border="0"]:not
 jbbs.shitaraba.net##div[style="width:300px; height:250px; margin:20px 0;"]
 jbpress.ismedia.jp##.ad-billboard
 jbpress.ismedia.jp##.ad-block
+jbpress.ismedia.jp##.ad-gate
 jiji.com##.ArticleInnerAD
 jisin.jp##.add_left
 jisin.jp##.add_right
