@@ -372,7 +372,6 @@ _ads.js
 ||taggyad.jp^$third-party
 ||tagtoru.tokyo^$third-party
 ||tapone.jp^$third-party
-||taxel.jp^$third-party
 ||tcs-asp.net^$third-party
 ||textad.net^$third-party
 ||tf1.fr^$third-party
@@ -1142,6 +1141,7 @@ _analytics.js?
 ||outbrain.com^$third-party
 ||speee-ad.akamaized.net^
 ||taboola.com^$third-party
+||taxel.jp^$third-party
 	!reco
 ||logly.co.jp^$third-party
 	
