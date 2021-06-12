@@ -117,9 +117,10 @@ _ads.js
 ##AMP-AD
 
 !geniee
-/^https?:\/\/(?:js|[0-9]{6})\.[-.0-9a-z]+\/t/[0-9]{3}\/[0-9]{3}\/a[0-9]{7,9}\.js$/$script,third-party
+/^https?:\/\/(?:js|[0-9]{6})\.[-.0-9a-z]+\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script,third-party
 
 ||geniee.jp^$third-party
+||glssp.net^$third-party
 ||ad-spire.net^$third-party
 
 !g
@@ -268,7 +269,6 @@ _ads.js
 ||gl-cash.com^$third-party
 ||glam.com^$third-party
 ||glam.jp^$third-party
-||glssp.net^$third-party
 ||gmodmp.jp^$third-party
 ||googleadservices.com^$third-party
 ||gsspat.jp^$third-party
