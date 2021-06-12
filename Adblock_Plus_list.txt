@@ -1130,6 +1130,7 @@ _analytics.js?
 ##.ad-rectangle
 ##.ad1
 ##.ad2
+##.article_ad
 
 	!google
 ##.google-user-ad
