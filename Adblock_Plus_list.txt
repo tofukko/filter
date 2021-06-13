@@ -3429,6 +3429,7 @@ jp.ff14angler.com##ins.adsbygoogle:style(height: 1px !important;min-height: 1px 
 ff14angler.com##+js(set, document.aswift_0, 1)
 ff14angler.com##+js(set, document._goog_efp_called_, 1)
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
+@@||googleads.g.doubleclick.net/pagead/ads?*&h=$domain=ff14angler.com
 
 gametter.com##+js(acis, addEventListener, google_ad_client)
 
