@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/13 13:50
+! 最終更新 2021/06/13 17:55
 !
 
 !2011年10月07日閉鎖予定
@@ -561,8 +561,6 @@ _ads.js
 ||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
 ||aacdn.jp/js/allabout-request-async.js?$domain=allabout.co.jp
 ||aacdn.jp/js/mtx/$domain=allabout.co.jp
-||adbkm.com/api/ad/
-||adbkm.com/js/adscrpt.min.js
 ||ads-twitter.com^$third-party
 ||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
 ||angel-bbs.com/ssi/koukoku_
@@ -646,7 +644,6 @@ _ads.js
 	!minnano-av.com
 ||minnano-*.com/top_center_bn/
 ||mixi.jp^*/adnetwork/
-||mmmzy.jp^$domain=adbkm.com
 ||muvc.com/winopen.js$domain=muvc.net
 ||muvc.com/winlayer.jse$domain=muvc.net
 ||new-akiba.com/images/banner/
@@ -677,7 +674,6 @@ _ads.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
 ||twitter.com/i/videoads/
-||undernavi.com^$domain=adbkm.com
 ||uraaka-joshi.com/pr$subdocument
 ||urasma.com^$domain=ura-akiba.jp
 ||urasma.com/dmm_
