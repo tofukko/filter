@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/12 22:53
+! 最終更新 2021/06/13 13:50
 !
 
 !2011年10月07日閉鎖予定
@@ -1783,6 +1783,9 @@ mitok.info##.mybox-right-narrow
 mixi.jp##.adsenseBannerArea
 mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
+modalina.jp###advarea
+modalina.jp##.pbac
+modalina.jp##.tbold
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
@@ -3430,6 +3433,9 @@ gametter.com##+js(acis, addEventListener, google_ad_client)
 gigaho.com##+js(aopr, onload)
 gigaho.com#@#.adsbygoogle
 gigaho.com##ins.adsbygoogle
+
+modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
+modalina.jp###ggleadv:style(height: 60px !important;)
 
 nordot.app,this.kiji.is##+js(acis, document.createElement, admiral)
 
