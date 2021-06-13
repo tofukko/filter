@@ -839,9 +839,6 @@ _analytics.js?
 /xtcore.js
 /ywa.js
 
-!google
-://analytics.*/collect
-
 ||2-only.page.ne.jp^$third-party
 ||2o7.net^$third-party
 ||33across.com^$third-party
@@ -1044,6 +1041,9 @@ _analytics.js?
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
 ||google-analytics.com/ga.js$script,redirect=google-analytics_ga.js
 	!||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
+	!google
+	://analytics.*/collect
+	||google-analytics.com/g/collect?
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||gpr.hu/pr.pr?
 ||itgear.jp*/ax.js
