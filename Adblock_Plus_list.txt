@@ -1577,6 +1577,9 @@ gendai.ismedia.jp##.ad-in-article
 gendai.ismedia.jp##.articleBottomAd
 getchu.com###rectangle
 getchu.com##.banner
+getnews.jp###leftColumn > .widget_text:first-child
+getnews.jp###rightColumn > .widget_text:first-child
+getnews.jp##.bal_insert_ad
 gigafile.nu##[class*=banner_type_]
 gigazine.net##.e_ad
 gizmodo.jp##.l-ad
