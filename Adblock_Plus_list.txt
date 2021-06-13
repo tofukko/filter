@@ -2712,11 +2712,6 @@ otekomachi.yomiuri.co.jp##.widget_sidead
 
 
 
-
-!------------abema-------------!
-||ad.abema.io^
-||abema-adx.ameba.jp^
-
 !------------amazon------------!
 ||amazon-adsystem.com^$third-party
 ||assoc-amazon.$third-party
@@ -2854,15 +2849,18 @@ h.fc2.com##body > strong:nth-last-of-type(3)
 ||ameba.jp/ameblo/pc/js/bigfooter-
 ||ameba.jp/analytics/
 ||ameba.jp/blog/xml/mk_data/official/
-
 ||amebaowndme.com^*/pureAds|
-
 ameblo.jp##.subAdBannerArea
 ameblo.jp##.subAdBannerHeader
 ameblo.jp##.skin-entryAd
 ameblo.jp##[alt0="BlogAffiliate"]
 	! https://github.com/tofukko/filter/issues/14
 ameblo.jp###subAInner:style(position: static !important; margin-top: auto !important;)
+news.ameba.jp##[class^="MainAdModule__"]
+
+!abema
+||ad.abema.io^
+||abema-adx.ameba.jp^
 
 !------------nikkeibp------------!
 ||bizad.nikkeibp.co.jp^
