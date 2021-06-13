@@ -3394,11 +3394,11 @@ no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
         ! https://github.com/tofukko/filter/issues/27
 oshiete.goo.ne.jp#@##ad1
 	!記事
-server-setting.info#@#.adsbygoogle
+!server-setting.info#@#.adsbygoogle
 	!記事
 saitama-np.co.jp#@#div[id^="div-gpt-ad"]
 	!本文
-tofukko.com#@#.adsbygoogle
+tofukko.com#@#.ad-area
 	! https://github.com/tofukko/filter/issues/12 float
 yakkun.com##.ad + div:style(clear: both !important;)
 
@@ -3425,31 +3425,33 @@ battlecats-db.com##body:style(display: block !important)
 
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 
-ff14angler.com##.adsbygoogle:style(height: 0 !important;)
-ff14angler.com#@#.adsbygoogle
-ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
+!ff14angler.com##.adsbygoogle:style(height: 0 !important;)
+!ff14angler.com#@#.adsbygoogle
+!ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
+jp.ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+jp.ff14angler.com##ins.adsbygoogle:style(height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 
 gametter.com##+js(acis, addEventListener, google_ad_client)
 
-gigaho.com##+js(aopr, onload)
-gigaho.com#@#.adsbygoogle
-gigaho.com##ins.adsbygoogle
+!gigaho.com##+js(aopr, onload)
+!gigaho.com#@#.adsbygoogle
+!gigaho.com##ins.adsbygoogle
 
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
 modalina.jp###ggleadv:style(height: 60px !important;)
 
 nordot.app,this.kiji.is##+js(acis, document.createElement, admiral)
 
-knshow.com##+js(acis, onload, .ads)
+!knshow.com##+js(acis, onload, .ads)
 	!@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=knshow.com
 	!@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=knshow.com
 	!knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 	!knshow.com#@#.adsbygoogle
 
-my0nio.seesaa.net#@#.adsbygoogle
+!my0nio.seesaa.net#@#.adsbygoogle
 
-nazolog.com#@#.adsbygoogle
+!nazolog.com#@#.adsbygoogle
 
 	! https://github.com/uBlockOrigin/uAssets/issues/3874
 savevideo.me##+js(acis, $, banner)
