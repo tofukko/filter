@@ -651,7 +651,6 @@ _ads.js
 ||new-akiba.com/special/
 	||ura-akiba.jp^$subdocument
 ||newsweekjapan.jp/images/bnr/newsweek_ad_
-||nhentai.net/api/
 ||nijie.info/js/ad.js?
 ||nijie.net/*/banner/
 ||nissen.co.jp/BtoB/$subdocument
@@ -1362,6 +1361,7 @@ medibangpaint.com##.adv
 ! ##.advertisement
 digiday.jp##.advertisement
 hameets.com##.advertisement
+nhentai.net##.advertisement
 
 
 1000mg.jp##.main-top
