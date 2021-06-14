@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/13 17:55
+! 最終更新 2021/06/14 17:07
 !
 
 !2011年10月07日閉鎖予定
@@ -1918,6 +1918,8 @@ recipe-blog.jp##[id^="reb_pc_"]
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
 resemom.jp##.sidebox-ad
+response.jp##.main-ad
+response.jp##.sidebox-ad
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
