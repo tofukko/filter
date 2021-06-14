@@ -661,7 +661,6 @@ _ads.js
 ||photozou.jp/script/ad_sticky.js?
 ||relart.fresheye.com^
 ||resemom.jp/feature/cxense/overlay/
-||sankei2ad.durasite.net^
 ||savevideo.me/ads-fallback/
 ||seesaa.jp/frame/
 ||sexyvoice.org/banner/
