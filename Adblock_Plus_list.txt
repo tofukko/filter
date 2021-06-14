@@ -2903,10 +2903,6 @@ youtube.com,youtube-nocookie.com#@#+js(json-prune, *.playerResponse.adPlacements
 youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
 !#endif
 
-!g------------dailymotion------------!
-||dailymotion.com*/masscast/
-||dailymotion.com/logger/
-
 !------------sinobi------------!
 !3ヶ月以上放置
 /__sys__inactive_message.js
