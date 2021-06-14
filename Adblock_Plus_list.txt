@@ -678,6 +678,7 @@ _ads.js
 ||urasma.com/dmm_
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
+||vcomi.jp/page_ad/
 ! 例のアレ
 ||webnewtype.com/img/pc/common/spacer1.gif
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
