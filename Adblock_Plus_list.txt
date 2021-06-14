@@ -3418,8 +3418,6 @@ yakkun.com##.ad + div:style(clear: both !important;)
 	! https://www.wowgame.jp/game_html/10064.html
 @@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
-battlecats-db.com##body:style(display: block !important)
-
 	! https://github.com/AdguardTeam/AdguardFilters/issues/64186
 @@||cloudfront.net/adsense.js$domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
