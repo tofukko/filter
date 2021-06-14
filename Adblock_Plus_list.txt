@@ -3335,6 +3335,8 @@ ashemaletube.com##+js(aopr, open)
 @@||site-banner.hange.jp/adshow$subdocument,domain=animallabo.hange.jp
 	!TOP 総合ランキング
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js$domain=www.sankei.com
+	! https://github.com/tofukko/filter/issues/31
+@@||browserbench.org/Speedometer2.0/resources/todomvc/dependency-examples/flight/flight/app/js/*/stats.js
 	!サムネイルが表示されない
 @@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
 	! 地図が無反応 
