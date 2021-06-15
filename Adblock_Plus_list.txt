@@ -557,6 +557,7 @@ _ads.js
 
 
 ||2ch.vet/img/ani_
+||3751chat.com/ad/
 ||4chan-ads.org^
 ||49.212.219.243^$domain=jp-xvideos.info
 ||a.konachan.net^$domain=konachan.com
@@ -633,6 +634,7 @@ _ads.js
 ||kooss.com/*.htm$subdocument
 ||labaq.com/user/json/lq_amarray.js?
 ||linkage.kakaku.com^$domain=~kakaku.com
+||luvul.net/ad/
 ||mapion.co.jp*/adOverture/
 ||mapion.co.jp*/js/vl1.
 ||mangaz.com/virgo/adv/
