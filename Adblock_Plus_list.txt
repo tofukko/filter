@@ -94,8 +94,6 @@ _ads.js
 /koukoku/*
 /prebid.$domain=~prebid.org
 /prebid/*
-/prebid-
-/prebid?
 /popunder.
 /www/delivery/*
 	!/afr.php?
