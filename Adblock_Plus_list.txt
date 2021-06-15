@@ -1629,6 +1629,7 @@ img.favsite.jp##[class$="-lg"]
 img.favsite.jp##[href*="dlsite.com/"]
 imgur.com##.ad-slot
 imgur.com##.BottomAd-container
+investing.com##.midHeader
 irasutoya.com##[class^="entryadwrapper"]
 iwate-np.co.jp#?#article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
