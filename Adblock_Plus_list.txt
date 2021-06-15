@@ -390,6 +390,7 @@ _ads.js
 ||trustclick.ne.jp^$third-party
 ||tunnel-vision.info^$third-party
 ||tyrellsys.com^$third-party
+||unrulymedia.com^$third-party
 ||utarget.co.uk^$third-party
 ||valueclick.ne.jp^$third-party
 ||valuecommerce.com^$third-party
@@ -851,6 +852,7 @@ _analytics.js?
 ||adadvisor.net^$third-party
 ||adbuyer.com^$third-party
 ||addthisedge.com^$third-party
+||adrizer.com^$third-party
 ||afv.jp^$third-party
 ||al.l--l.jp^$third-party
 ||amung.us^$third-party
@@ -879,6 +881,7 @@ _analytics.js?
 ||cnzz.com^$third-party
 ||colossal.jp^$third-party
 ||connect.newzia.jp^$third-party
+||contentsfeed.com^$third-party
 ||coremetrics.com^$third-party
 ||decideinteractive.com^$third-party
 ||demandbase.com^$third-party
@@ -958,6 +961,7 @@ _analytics.js?
 ||rfihub.com^$third-party
 ||rlcdn.com^$third-party
 ||s-onetag.com^$third-party
+||sc-static.net^$third-party
 ||scorecardresearch.com^$third-party
 ||searchforce.net^$third-party
 ||sentry.io^$third-party
@@ -978,6 +982,7 @@ _analytics.js?
 ||team-rec.jp^$third-party
 ||thebrighttag.com^$third-party
 ||trackfeed.com^$third-party
+||trackonomics.net^$third-party
 ||trackword.$third-party
 ||traffimagic.com^$third-party
 ||treasuredata.com^$third-party
@@ -2970,6 +2975,7 @@ search.yahoo.co.jp##.Ad
 sports.yahoo.co.jp##.yf-lrec
 
 ||analytics.yahoo.co
+||b0.yahoo.co.jp^
 ||b90.yahoo.co.jp^
 ||b91.yahoo.co.jp^
 ||b92.yahoo.co.jp^
