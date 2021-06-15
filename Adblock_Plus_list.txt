@@ -683,6 +683,7 @@ _ads.js
 ||webnewtype.com/img/pc/common/spacer1.gif
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
+||yamakei-online.com/new_images/adv/banner/
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
 ||yomoyama-bbs.jp/image/ad_images/
 ||zyuken.net/juku_page/ads/
