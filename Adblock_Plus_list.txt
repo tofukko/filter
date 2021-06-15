@@ -1923,6 +1923,7 @@ rbbtoday.com##.cx-top-news
 realsound.jp###ad_entryBottom
 realsound.jp###adEntry2rec
 recipe-blog.jp##[id^="reb_pc_"]
+reddit.com##.promotedlink
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
 resemom.jp##.sidebox-ad
