@@ -676,6 +676,7 @@ _ads.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
 ||twitter.com/i/videoads/
+||twoucan.com/ad?name=
 ||uraaka-joshi.com/pr$subdocument
 ||urasma.com^$domain=ura-akiba.jp
 ||urasma.com/dmm_
