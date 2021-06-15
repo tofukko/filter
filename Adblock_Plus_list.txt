@@ -2525,6 +2525,13 @@ xtech.nikkei.com##.p-article_ad
 	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment830
 @@||vdata.nikkei.com/newsgraphics/coronavirus-japan-chart/js/modules/ga.js?$script,domain=vdata.nikkei.com
 
+!------------otapps.net-------------!
+! https://info.otapps.net/
+followcheck.itby.net##.mms
+followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> .uk-panel > .uk-margin-top > .adsbygoogle)
+followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> div > .adsbygoogle)
+followmanager.net##.ad
+
 !------------pixiv------------------!
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net#?#div:-abp-has(> iframe:not([src]))
