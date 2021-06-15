@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/14 17:07
+! 最終更新 2021/06/15 13:05
 !
 
 !2011年10月07日閉鎖予定
@@ -1766,6 +1766,8 @@ mangapedia.com##.description-bottom-ads
 mangaz.com###scroll-adv
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
+mapfan.com##.header-ad
+mapfan.com##.footer-ad
 mapion.co.jp##.ad-728x90
 matomedane.jp###footeradv
 matomedane.jp##.adv_top
