@@ -1495,6 +1495,7 @@ cyclowired.jp##.block.block-block.clearfix
 cyclowired.jp##.field-name-field-amazon-product1
 daily.co.jp##.pageAd
 daily.co.jp##aside.add
+dan-ball.jp##[class^="ad_div_"]
 daysneo.com###bnrTop
 denfaminicogamer.jp##.ad-box
 	wiki.denfaminicogamer.jp###ad-wiki-content-lower
