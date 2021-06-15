@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/15 13:05
+! 最終更新 2021/06/16 5:38
 !
 
 !2011年10月07日閉鎖予定
@@ -1790,6 +1790,7 @@ minpo.jp##.ads730
 minpo.jp##.ads970:style(min-height: 0 !important;)
 minpo.jp##.side-ads
 mitok.info##.mybox-right-narrow
+mixch.tv##.footer_ad
 mixi.jp##.adsenseBannerArea
 mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
@@ -3323,6 +3324,8 @@ ashemaletube.com##+js(aopr, open)
 @@||lineblog.me^*/settings/ad.js
 	! https://github.com/easylist/easylist/pull/7907
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
+	! https://github.com/tofukko/filter/issues/33
+@@||gstatic.com^*/firebase-analytics.js$script,third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
