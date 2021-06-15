@@ -1119,8 +1119,6 @@ _analytics.js?
 ||zokugo-dict.com^*/ac.js
 
 !-----------------------非表示フィルタ-----------------------!
-###ad1
-###ad2
 ##.ad-area
 	!seiga.nicovideo.jp logsoku等
 ##.ad_area
@@ -1129,8 +1127,6 @@ _analytics.js?
 ##.ad-center
 ##.ad-footer
 ##.ad-rectangle
-##.ad1
-##.ad2
 ##.article_ad
 
 	!google
@@ -3376,13 +3372,8 @@ ashemaletube.com##+js(aopr, open)
 bookmeter.com#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
-	! https://github.com/tofukko/filter/issues/20
-comic-valkyrie.com#@##ad1
 	!Amazon誘導ページ 紙で読む
 comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
-	! https://github.com/tofukko/filter/issues/20
-comicride.jp#@##ad1
-comicride.jp#@##ad2
 	! https://github.com/tofukko/filter/issues/28 サイドバー
 daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
 	!https://www.kadokawa.co.jp/product/322003000737/
@@ -3399,8 +3390,6 @@ news.nifty.com##.sidebar_fixed:style(position: static !important;)
 	!header辺り
 no-ichigo.jp##div[style="height:41px;"]:style(height: 42px !important;)
 no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
-        ! https://github.com/tofukko/filter/issues/27
-oshiete.goo.ne.jp#@##ad1
 	!記事
 !server-setting.info#@#.adsbygoogle
 	!記事
