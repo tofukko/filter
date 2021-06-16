@@ -2959,9 +2959,11 @@ mediafire.com##+js(aeld, click, ClickHandler)
 ||yeas.yahoo.co.jp^
 ||shopping.yahooapis.jp/ShoppingWebService/
 ||yimg.jp/bdv/
-||yimg.jp/images/listing/tool/yads/yads-iframe.html?
-!top枠が残る 2018/04/30
-yahoo.co.jp###brandpanel
+||yimg.jp/images/advertising/
+!||yimg.jp/images/listing/tool/yads/yads-iframe.html?
+||yimg.jp/images/listing/tool/yads/
+!top枠が残る 2021/06/16
+yahoo.co.jp##[id$=_ad_frame]
 
 !GYAOとか動画前広告
 ||adserver-apne.tidaltv.com
@@ -2980,6 +2982,7 @@ gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
 mail.yahoo.co.jp###theAd
 mail.yahoo.co.jp###shellcontent:style(right: 0 !important;)
 mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
+mail.yahoo.co.jp##.panescroll div#shellcontent[style*="top: 229px;"]:style(top: 176px !important;)
 mail.yahoo.co.jp##.panescroll.scrollable #shellcontent:style(top: 28px !important;)
 mail.yahoo.co.jp##.fullpage.withsky #shellcontent:style(top: 56px !important;)
 search.yahoo.co.jp##.Ad
@@ -2992,6 +2995,7 @@ sports.yahoo.co.jp##.yf-lrec
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp
 ||dcs.yahoo.co.jp^
+||dsb.yahoo.co.jp^
 ||geo.yahoo.com^
 ||logql.yahoo.co.jp^
 ||rd.yahoo.co.jp^
