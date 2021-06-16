@@ -2974,7 +2974,9 @@ carview.yahoo.co.jp###ydn-bot
 carview.yahoo.co.jp###ydn-top
 chiebukuro.yahoo.co.jp##.lstAd
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
-detail.chiebukuro.yahoo.co.jp##aside[class^="ClapLv3SubList_Chie"]
+! もう要らないかも 2021/06/16
+detail.chiebukuro.yahoo.co.jp#?#aside[class^=ClapLv3SubList_Chie-SubList__ListItem__]:-abp-has(> .infdAd)
+detail.chiebukuro.yahoo.co.jp#?#[class^="ClapLv3SearchList_Chie-SearchList__Item__"]:-abp-has(> div > [class^="ClapLv2ListItemSS_Chie-ListItem__Anchor__"] + [class^="ClapLv2ListItemSS_Chie-ListItem__Information__"])
 finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
 finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
 gyao.yahoo.co.jp##.yads-overlay
