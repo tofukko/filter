@@ -1446,6 +1446,7 @@ blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
 blog.ss-blog.jp###ad-days-area
 blogmura.com##.ad-header
 blogmura.com##.ad-overlay
+blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
 buhidoh.net###center-left:style(height: auto !important)
