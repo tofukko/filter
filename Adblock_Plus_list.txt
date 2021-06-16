@@ -2712,6 +2712,118 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ||value-domain.com/xrea_header.js
 ||ax.xrea.com^
 
+!------------yahoo------------!
+/yads.
+||ov.yahoo.co.jp^
+||yads.yahoo.co.jp^
+||yeas.yahoo.co.jp^
+||shopping.yahooapis.jp/ShoppingWebService/
+||yimg.jp/bdv/
+||yimg.jp/images/advertising/
+!||yimg.jp/images/listing/tool/yads/yads-iframe.html?
+||yimg.jp/images/listing/tool/yads/
+!top枠が残る 2021/06/16
+yahoo.co.jp##[id$=_ad_frame]
+
+!GYAOとか動画前広告
+||adserver-apne.tidaltv.com
+
+auctions.yahoo.co.jp##.ss
+carview.yahoo.co.jp###ad-lrec
+carview.yahoo.co.jp###ydn-bot
+carview.yahoo.co.jp###ydn-top
+chiebukuro.yahoo.co.jp##.lstAd
+chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
+! もう要らないかも 2021/06/16
+detail.chiebukuro.yahoo.co.jp#?#aside[class^=ClapLv3SubList_Chie-SubList__ListItem__]:-abp-has(> .infdAd)
+detail.chiebukuro.yahoo.co.jp#?#[class^="ClapLv3SearchList_Chie-SearchList__Item__"]:-abp-has(> div > [class^="ClapLv2ListItemSS_Chie-ListItem__Anchor__"] + [class^="ClapLv2ListItemSS_Chie-ListItem__Information__"])
+finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
+finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
+gyao.yahoo.co.jp##.yads-overlay
+gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
+mail.yahoo.co.jp###theAd
+mail.yahoo.co.jp###shellcontent:style(right: 0 !important;)
+mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
+mail.yahoo.co.jp##.panescroll div#shellcontent[style*="top: 229px;"]:style(top: 176px !important;)
+mail.yahoo.co.jp##.panescroll.scrollable #shellcontent:style(top: 28px !important;)
+mail.yahoo.co.jp##.fullpage.withsky #shellcontent:style(top: 56px !important;)
+search.yahoo.co.jp##.Ad
+sports.yahoo.co.jp##.yf-lrec
+
+||analytics.yahoo.co
+||b0.yahoo.co.jp^
+||b90.yahoo.co.jp^
+||b91.yahoo.co.jp^
+||b92.yahoo.co.jp^
+||b97.yahoo.co.jp
+||dcs.yahoo.co.jp^
+||dsb.yahoo.co.jp^
+||geo.yahoo.com^
+||logql.yahoo.co.jp^
+||rd.yahoo.co.jp^
+||visit.geocities.jp^
+||ybx.yahoo.co.jp^
+||yahoo.co.jp/b?P=
+||yjtag.jp^
+
+||s.yimg.jp/images/listing/tool/cv/ytag.js
+
+	! https://github.com/tofukko/filter/issues/22
+@@||yjtag.jp/tag.js$script,domain=mail.yahoo.co.jp
+	! https://github.com/tofukko/filter/issues/23
+@@||s.yjtag.jp^$domain=accounts.yahoo.co.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/84106
+@@||yads.c.yimg.jp/js/yads-async.js$domain=yahoo.co.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/55823
+@@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
+
+!worker bee
+||games.wkb.jp/html5games/play/jewelexplode/ads-
+games.wkb.jp##.content__left-side:style(grid-template-rows: 850px !important;)
+games.wkb.jp##.content__top
+games.wkb.jp##.footer-ad
+games.wkb.jp##.left-ad
+games.wkb.jp##.top-ad
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
+
+!SOFTGAMES
+||vntsm.com^$third-party
+||games.softgames.com/modules/p2-ads-client.js
+||dop3jnx8my3ym.cloudfront.net/sg-track-sdk.js$script,domain=softgames.com
+games.softgames.com##.sgYMenuContainer + div
+@@||games.softgames.com^$script,other,xmlhttprequest,domain=games.softgames.com
+
+!Aeria
+minigame.aeriagames.jp###centerADBox
+minigame.aeriagames.jp###aeriagamesBackground
+minigame.aeriagames.jp###footer-ad
+minigame.aeriagames.jp###zumba-ad
+minigame.aeriagames.jp##+js(nano-stb, aeriaGamesAdCountDown(), 1000)
+@@||minigame.aeriagames.jp*/ae-tpgs-$domain=minigame.aeriagames.jp
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=minigame.aeriagames.jp
+
+!SUCCESS
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=y.honkakuha.success-games.net
+
+!GamePix
+||play.gamepix.com/player/ads/2.0.0/smart-ads.min.js?
+japan.gamepix.com##.GamePix-Games-Ads
+japan.gamepix.com###SquareBanner1
+japan.gamepix.com###ColumnAdv
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamepix.com
+@@||play.gamepix.com/player/ads/2.0.0/prebid.js$script,domain=play.gamepix.com
+
+! CoolGames
+yahoo-jp.portal.connectedgamestore.com##.yahoo_jp_left_sidebar_ad
+yahoo-jp.portal.connectedgamestore.com###floatingAd
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=connectedgamestore.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=games.connectedgamestore.com
+@@||securepubads.g.doubleclick.net/gpt/*$script,domain=games.connectedgamestore.com
+
+!Synk
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=ycp.synk-casualgames.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=play.neos-easygames.com
+
 !------------yomiuri.co.jp-------!
 ||moviead.cdnext.stream.ne.jp/player/latest/MovieADPlayer.js$script,domain=yomiuri.co.jp
 yomiuri.co.jp##.home-2020-ad-wide
@@ -2951,119 +3063,6 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 !g------------mediafire.com------------
 ||mediafire.com^$subdocument
 mediafire.com##+js(aeld, click, ClickHandler)
-
-!------------yahoo------------!
-/yads.
-||ov.yahoo.co.jp^
-||yads.yahoo.co.jp^
-||yeas.yahoo.co.jp^
-||shopping.yahooapis.jp/ShoppingWebService/
-||yimg.jp/bdv/
-||yimg.jp/images/advertising/
-!||yimg.jp/images/listing/tool/yads/yads-iframe.html?
-||yimg.jp/images/listing/tool/yads/
-!top枠が残る 2021/06/16
-yahoo.co.jp##[id$=_ad_frame]
-
-!GYAOとか動画前広告
-||adserver-apne.tidaltv.com
-
-auctions.yahoo.co.jp##.ss
-carview.yahoo.co.jp###ad-lrec
-carview.yahoo.co.jp###ydn-bot
-carview.yahoo.co.jp###ydn-top
-chiebukuro.yahoo.co.jp##.lstAd
-chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
-! もう要らないかも 2021/06/16
-detail.chiebukuro.yahoo.co.jp#?#aside[class^=ClapLv3SubList_Chie-SubList__ListItem__]:-abp-has(> .infdAd)
-detail.chiebukuro.yahoo.co.jp#?#[class^="ClapLv3SearchList_Chie-SearchList__Item__"]:-abp-has(> div > [class^="ClapLv2ListItemSS_Chie-ListItem__Anchor__"] + [class^="ClapLv2ListItemSS_Chie-ListItem__Information__"])
-finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
-finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
-gyao.yahoo.co.jp##.yads-overlay
-gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
-mail.yahoo.co.jp###theAd
-mail.yahoo.co.jp###shellcontent:style(right: 0 !important;)
-mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
-mail.yahoo.co.jp##.panescroll div#shellcontent[style*="top: 229px;"]:style(top: 176px !important;)
-mail.yahoo.co.jp##.panescroll.scrollable #shellcontent:style(top: 28px !important;)
-mail.yahoo.co.jp##.fullpage.withsky #shellcontent:style(top: 56px !important;)
-search.yahoo.co.jp##.Ad
-sports.yahoo.co.jp##.yf-lrec
-
-||analytics.yahoo.co
-||b0.yahoo.co.jp^
-||b90.yahoo.co.jp^
-||b91.yahoo.co.jp^
-||b92.yahoo.co.jp^
-||b97.yahoo.co.jp
-||dcs.yahoo.co.jp^
-||dsb.yahoo.co.jp^
-||geo.yahoo.com^
-||logql.yahoo.co.jp^
-||rd.yahoo.co.jp^
-||visit.geocities.jp^
-||ybx.yahoo.co.jp^
-||yahoo.co.jp/b?P=
-||yjtag.jp^
-
-||s.yimg.jp/images/listing/tool/cv/ytag.js
-
-	! https://github.com/tofukko/filter/issues/22
-@@||yjtag.jp/tag.js$script,domain=mail.yahoo.co.jp
-	! https://github.com/tofukko/filter/issues/23
-@@||s.yjtag.jp^$domain=accounts.yahoo.co.jp
-	! https://github.com/AdguardTeam/AdguardFilters/issues/84106
-@@||yads.c.yimg.jp/js/yads-async.js$domain=yahoo.co.jp
-	! https://github.com/AdguardTeam/AdguardFilters/issues/55823
-@@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
-
-!worker bee
-||games.wkb.jp/html5games/play/jewelexplode/ads-
-games.wkb.jp##.content__left-side:style(grid-template-rows: 850px !important;)
-games.wkb.jp##.content__top
-games.wkb.jp##.footer-ad
-games.wkb.jp##.left-ad
-games.wkb.jp##.top-ad
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
-
-!SOFTGAMES
-||vntsm.com^$third-party
-||games.softgames.com/modules/p2-ads-client.js
-||dop3jnx8my3ym.cloudfront.net/sg-track-sdk.js$script,domain=softgames.com
-games.softgames.com##.sgYMenuContainer + div
-@@||games.softgames.com^$script,other,xmlhttprequest,domain=games.softgames.com
-
-!Aeria
-minigame.aeriagames.jp###centerADBox
-minigame.aeriagames.jp###aeriagamesBackground
-minigame.aeriagames.jp###footer-ad
-minigame.aeriagames.jp###zumba-ad
-minigame.aeriagames.jp##+js(nano-stb, aeriaGamesAdCountDown(), 1000)
-@@||minigame.aeriagames.jp*/ae-tpgs-$domain=minigame.aeriagames.jp
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=minigame.aeriagames.jp
-
-!SUCCESS
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=y.honkakuha.success-games.net
-
-!GamePix
-||play.gamepix.com/player/ads/2.0.0/smart-ads.min.js?
-japan.gamepix.com##.GamePix-Games-Ads
-japan.gamepix.com###SquareBanner1
-japan.gamepix.com###ColumnAdv
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamepix.com
-@@||play.gamepix.com/player/ads/2.0.0/prebid.js$script,domain=play.gamepix.com
-
-! CoolGames
-yahoo-jp.portal.connectedgamestore.com##.yahoo_jp_left_sidebar_ad
-yahoo-jp.portal.connectedgamestore.com###floatingAd
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=connectedgamestore.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=games.connectedgamestore.com
-@@||securepubads.g.doubleclick.net/gpt/*$script,domain=games.connectedgamestore.com
-
-!Synk
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=ycp.synk-casualgames.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=play.neos-easygames.com
-
 
 
 
