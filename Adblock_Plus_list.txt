@@ -1671,6 +1671,8 @@ jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jugem.jp##.UBH_new
+! http://jugem.jp/theme/
+jugem.jp##div[style="height:280px;position: relative; margin-bottom:15px;"]
 jyouhouya3.net##.link_ra
 jyouhouya3.net##.side_syohin_entry
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="amazon.co"])
