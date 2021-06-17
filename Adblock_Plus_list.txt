@@ -47,7 +47,7 @@ _ad.js
 /ad3.
 /ad4.
 /adbutler/*
-/adframe.
+/adframe.$~script,~xmlhttprequest
 /adframe/*
 /adframes.
 ?adid=
@@ -58,21 +58,20 @@ _ad.js
 _ads.js
 /ads?
 /ads2.
-/adsense.
+/adsense.$~script
 /adsense/*
 /adsense_
-/adServe/*
 /adserver/*
 /adservice.
 /adshow?
 /adspace/*
 /advertise.
 /advertise/*
-/advertisement-
-/advertisement.
+/advertisement-$~script
+/advertisement.$~script
 /advertisement/*
-/advertisement_
-/advertising.
+/advertisement_$~script
+/advertising.$~script,~xmlhttprequest
 ?affid=
 /assets/ads/*
 /googleads.
@@ -2275,7 +2274,7 @@ gamebox.gesoten.com##.ad_super
 @@||imasdk.googleapis.com/js/core/$subdocument,domain=gamebox.gesoten.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamebox.gesoten.com
 
-@@||games.softgames.com/assets/advertisement.js$script,first-party
+	!@@||games.softgames.com/assets/advertisement.js$script,first-party
 
 !------------goo------------!
 ||adcdn.goo.ne.jp^
@@ -3437,10 +3436,12 @@ yakkun.com##.ad + div:style(clear: both !important;)
 /modal-dist/index.js
 
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83410
-@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
+!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
 	! https://www.wowgame.jp/game_html/10064.html
 @@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
+
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=crefan.jp
 
 	! https://github.com/AdguardTeam/AdguardFilters/issues/64186
 @@||cloudfront.net/adsense.js$domain=egotter.com
@@ -3448,9 +3449,6 @@ yakkun.com##.ad + div:style(clear: both !important;)
 
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 
-!ff14angler.com##.adsbygoogle:style(height: 0 !important;)
-!ff14angler.com#@#.adsbygoogle
-!ff14angler.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 jp.ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 jp.ff14angler.com##ins.adsbygoogle:style(height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 ff14angler.com##+js(set, document.aswift_0, 1)
