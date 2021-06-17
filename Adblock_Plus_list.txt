@@ -609,6 +609,7 @@ _ads.js
 ||google.com/uds/api/ads/
 ||mail-ads.google.com^
 ||myoji-yurai.net/images/banner/
+||news.merumo.ne.jp/ad/
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||hentai-foundry.com/themes/default/js/activebar.js
@@ -2734,6 +2735,8 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 !top枠が残る 2021/06/16
 yahoo.co.jp##[id$=_ad_frame]
 
+!mobage
+||yahoo-mbga.jp/ad/
 !GYAOとか動画前広告
 ||adserver-apne.tidaltv.com
 
