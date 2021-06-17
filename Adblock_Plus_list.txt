@@ -1688,6 +1688,9 @@ kabu-sokuhou.com##.sponsoredlink
 kabu-sokuhou.com##.topadba
 kai-you.net##.l-recommend-product
 kai-you.net##.l-side-common-banner-outer
+kaiten-heiten.com###text-18
+kaiten-heiten.com###text-20
+kaiten-heiten.com##.header_ad
 kakijun.com##.cgrid-ga
 kakijun.jp###header1 > div
 kakijun.jp###hidari:style(top: unset !important)
