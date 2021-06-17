@@ -1047,7 +1047,7 @@ _analytics.js?
 	!||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
 	!google
 	://analytics.*/collect
-	||google-analytics.com/g/collect?
+	||google-analytics.com^*/collect?
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||gpr.hu/pr.pr?
 ||itgear.jp*/ax.js
