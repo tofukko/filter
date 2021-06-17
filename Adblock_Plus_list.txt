@@ -584,6 +584,7 @@ _ads.js
 ||cosp.jp/images/spacer.gif
 ||ctv.co.jp/adjust/$subdocument
 ||cyclingtime.com/adimg/
+||daily.jp/Koukoku/
 ||diced.jp/webs/
 ||dl8x.com/banner/
 ||dl8x.com/product?
