@@ -629,6 +629,7 @@ _ads.js
 ||kakijun.jp/js/u_kakijun_books%
 ||kidslink.jp/cgi-bin/esb/main.cgi?
 ||kidslink.jp^*/dummy.html
+||koepota.jp/img/ad/
 ||koepota.jp/js/amazon.js
 ||kooss.com/*.htm$subdocument
 ||labaq.com/user/json/lq_amarray.js?
