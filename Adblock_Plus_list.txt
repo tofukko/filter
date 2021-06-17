@@ -576,7 +576,6 @@ _ads.js
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
 ||buhidoh.net/uploads/setting/$subdocument
 ||chaberi.com/html/br/
-||chem-station.com^*/adrotate-pro/
 ||chixi.jp/img.php?filename=b
 ||cinematoday.jp/widgets/
 ||clipstudio.net^*/banner_
@@ -2685,7 +2684,11 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 
 !-----------WordPress-----------!
 /ad-invalid-
+.adrotate.
+/adrotate-
+/adrotate/*
 /plugins/thirstyaffiliates/*
+
 ##.ad-label
 ##.ad-single
 ##.ad-single-h2
