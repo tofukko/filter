@@ -687,6 +687,7 @@ _ads.js
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
 ||yamakei-online.com/new_images/adv/banner/
+||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
 ||yomoyama-bbs.jp/image/ad_images/
 ||zyuken.net/juku_page/ads/
