@@ -582,6 +582,7 @@ _ads.js
 ||clipstudio.net^*/banner_
 ||cookpad.com/iframe/
 ||cosp.jp/images/spacer.gif
+||cosp.jp/inc/ad.js
 ||ctv.co.jp/adjust/$subdocument
 ||cyclingtime.com/adimg/
 ||daily.jp/Koukoku/
