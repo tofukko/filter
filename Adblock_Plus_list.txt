@@ -570,8 +570,6 @@ _ads.js
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
 ||asg.to/ad/
-||blog.seesaa.jp/js/insert-ad.min.js
-||blog.seesaa.jp/js/insert-ad-legacy.min.js
 ||blog.with2.net/ad_frame.php?
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
 ||buhidoh.net/uploads/setting/$subdocument
@@ -665,7 +663,6 @@ _ads.js
 ||relart.fresheye.com^
 ||resemom.jp/feature/cxense/overlay/
 ||savevideo.me/ads-fallback/
-||seesaa.jp/frame/
 ||sexyvoice.org/banner/
 ||share-videos.se/js/pjs.js
 	||admesia.com^$third-party
@@ -1110,7 +1107,6 @@ _analytics.js?
 ||moeeki.net/cgi-bin/accessmoe/accessmoe.cgi?
 ||nifty.com/pubc0m/js/tag/_nif_tag.js
 ||rover.ebay.com^
-||seesaa.net/analytics-seesaa-net.js?
 ||silk.woopieapi.com^$domain=woopie.jp
 ||sony.co.jp/ct/sc.js
 ||smp.sankei.co.jp^
@@ -1164,14 +1160,6 @@ _analytics.js?
 
 ###geniee_overlay
 ###geniee_overlay_outer
-	!seesaa系wiki独
-##.ads-box
-	!seesaablog
-	!60日間投稿がない場合
-###ad-60days-area
-###overlay-ad-div-id
-	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
-###seesaa-bnr
 
 	!wix.com
 ###WIX_ADS
@@ -2060,8 +2048,6 @@ web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
 web-ace.jp##[class^="ad_rect"]
-wiki.seesaa.jp##.banner
-wiki.seesaa.jp##.banner-footer
 wikiwiki.jp##[id$="-ad-container"]
 wowgame.jp##[style="width:300px; height:250px;"]
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
@@ -2619,6 +2605,24 @@ romhustler.org##+js(nano-sib, timer.remove, , 0.02)
 ||msgose.com^
 ||otaserve.net^$domain=chan.sankakucomplex.com
 sankakucomplex.com##+js(aeld, DOMContentLoaded, prestitialData)
+
+!------------seesaa.jp-----------!
+!seesaa系blog
+!seesaa.net,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他
+/ad_plugin.js
+||bblog.sso.biglobe.ne.jp/js/insert-ad.js
+||blog.seesaa.jp/js/insert-ad.min.js
+||blog.seesaa.jp/js/insert-ad-legacy.min.js
+||t.seesaa.net^
+###ad-60days-area
+###overlay-ad-div-id
+###seesaa-bnr
+##.seesaa-cmn__pr
+
+!seesaawiki
+##.ads-box
+wiki.seesaa.jp##.banner
+wiki.seesaa.jp##.banner-footer
 
 !------------sekai-kabuka.com-------------!
 ||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
