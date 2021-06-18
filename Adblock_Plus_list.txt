@@ -1740,6 +1740,7 @@ livefans.jp##.adCenter
 livefans.jp##.bannerBox
 lmaga.jp##.contents_ad
 lmaga.jp##.header_ad
+logw.jp##.ad_sidenavi
 loveh.org#?##newvideos:-abp-has(> .menubar > .entrytitlein:-abp-contains(ラブエッチのおすすめ無料アダルトサイト))
 loveh.org##.bottompr
 loveh.org##.toppr
