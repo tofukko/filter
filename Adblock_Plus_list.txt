@@ -3311,6 +3311,8 @@ ashemaletube.com##+js(aopr, open)
 @@||affiliate.dmm.com/img/ad_about_ad/$image,domain=affiliate.dmm.com
 	! トップバナー
 @@||afi-b.com/assets/dist/img/general/top/img/ad/*$image,domain=afi-b.com
+	! https://github.com/tofukko/filter/issues/35
+@@||aiasahi.jp/ads/$image,domain=japan.cnet.com|japan.techrepublic.com|japan.zdnet.com
 	!動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
 	! https://github.com/Yuki2718/adblock/issues/20
