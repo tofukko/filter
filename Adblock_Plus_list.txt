@@ -2482,10 +2482,12 @@ seiga.nicovideo.jp##.ads_prtext
 ||nimg.jp/relive/playerbanner/
 ||nicovideo.jp/api/v1/watch/*/playerbanner|
 live.nicovideo.jp###footer-ad
+live.nicovideo.jp###middle-ad
 live.nicovideo.jp###header-ad
 live.nicovideo.jp##.kokoku
 live.nicovideo.jp##[class^="___billboard-ad___"]
 live.nicovideo.jp##[class^="___banner-ad___"]
+live.nicovideo.jp##[class^="___player-ad-panel___"]
 live2.nicovideo.jp##[class^="___banner-panel___"]
 !大百科
 dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; width:300px; margin:0 0 4px 0;"]
