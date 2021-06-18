@@ -1168,6 +1168,8 @@ _analytics.js?
 	!seesaa系wiki独
 ##.ads-box
 	!seesaablog
+	!60日間投稿がない場合
+###ad-60days-area
 ###overlay-ad-div-id
 	!seesaa.net,seesaawiki.jp,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他独自ドメインあり
 ###seesaa-bnr
