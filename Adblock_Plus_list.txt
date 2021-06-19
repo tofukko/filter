@@ -570,6 +570,8 @@ _ads.js
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
 ||asg.to/ad/
+||atwiki.jp/common/dist/js/atwiki_autoads.js?
+||atwiki.jp/common/dist/js/moveads.js?
 ||blog.with2.net/ad_frame.php?
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
 ||buhidoh.net/uploads/setting/$subdocument
