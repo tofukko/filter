@@ -724,7 +724,6 @@ _ads.js
 ! bbc.co.uk　音出ない
 ! lexus.jp　ueナビバー
 /analytics.js$domain=~bbc.co.uk|~lexus.jp|~xhamster.com
--analytics.js$domain=~www.apple.com|~youtube.com
 _analytics.js?
 /analytics?
 /analyze.cgi?
@@ -749,6 +748,7 @@ _analytics.js?
 /co_tag.php?
 /coolyze.js
 /csi?v=
+/custom-analytics.js
 /dcs.gif?
 /dcw.cgi?
 /dsw.cgi?
@@ -3359,8 +3359,6 @@ ashemaletube.com##+js(aopr, open)
 @@||cxense.com/cx.js$script
 @@||api.cxense.com/public/widget/data^$script,xmlhttprequest
 @@||api.cxense.com/document/search?$script
-	!ご注文内容が表示されない
-@@||dominos.jp/Resources/Scripts/dominos.min/modules/voucher-tracker-analytics.js
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
@@ -3385,8 +3383,6 @@ ashemaletube.com##+js(aopr, open)
 @@||lineblog.me^*/settings/ad.js
 	! https://github.com/easylist/easylist/pull/7907
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
-	! https://github.com/tofukko/filter/issues/33
-@@||gstatic.com^*/firebase-analytics.js$script,third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
