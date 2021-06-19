@@ -2237,6 +2237,7 @@ eroterest.net##.adAreaNativeDmm
 !------------excite------------!
 ||excite.co.jp/jp/ad/
 ||excite.co.jp/jp/ox/
+laurier.excite.co.jp##.ad-header-banner
 newssearch.excite.co.jp,websearch.excite.co.jp##.searchResults > aside
 woman.excite.co.jp###header_bnr
 woman.excite.co.jp##div[style="text-align:center; overflow:hidden; margin: 0 auto 10px; width:610px;"]
