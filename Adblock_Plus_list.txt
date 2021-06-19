@@ -1347,6 +1347,7 @@ savevideo.me##.ads
 
 ! ##.adsense
 battle-one.com##.adsense
+cat.sc##.adsense
 dacelo.space##.adsense
 gurum.biz##.adsense
 otonasalone.jp##.adsense
