@@ -1619,6 +1619,8 @@ himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
 hinative.com##.mod_ads_trek_balloon
+hitomi.la##+js(aopw, _pop)
+hitomi.la##+js(aopr, open)
 hitomi.la##+js(aopr, pops)
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
 hobonichielog.com##.mainwidget > [id^="text-"]
