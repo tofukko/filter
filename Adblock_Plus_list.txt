@@ -132,7 +132,6 @@ _ads.js
 .co/ads/
 .com/ad/
 .com/ads/
-.com/ads-
 .eu/ads/
 .fr/ads/
 .gs/ads/
