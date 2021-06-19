@@ -600,6 +600,8 @@ _ads.js
 ||estar.jp/page/ad/
 ||famitsu.com^*/amazon_ranking.js
 ||fod.fujitv.co.jp/mz/
+||gakuryou.net/fb/
+||gakuryou.net/right-banner/
 ||gamegift.jp/js/ads.js
 ||gamespark.jp/feature/advertising/
 ||gehasoku.com/JS/newama.js
