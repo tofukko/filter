@@ -1717,6 +1717,7 @@ kanaloco.jp##.bnr01
 kanaloco.jp##.top-head-bnr
 kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
+kantsuri.com##.featured.section-inverse
 karapaia.com###overlay
 karapaia.com##.readmore-header
 karapaia.com##[class^=ads-label]
