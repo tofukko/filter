@@ -1556,6 +1556,7 @@ freem.ne.jp##.game-list-ad
 freesoft.tvbok.com###left_box3
 freesoft.tvbok.com###right_box1
 freesoft.tvbok.com##.topad
+french-wine-jiten.com##.ad_footer
 friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fukuishimbun.co.jp##.admeasure
