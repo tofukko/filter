@@ -1558,6 +1558,7 @@ freesoft.tvbok.com##.topad
 friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fukuishimbun.co.jp##.admeasure
+gakuryou.net##[id^="ADw"]
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
 galleria.emotionflow.com##.Ad3Tile
