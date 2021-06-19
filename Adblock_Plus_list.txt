@@ -561,6 +561,7 @@ _ads.js
 ||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
 ||aacdn.jp/js/allabout-request-async.js?$domain=allabout.co.jp
 ||aacdn.jp/js/mtx/$domain=allabout.co.jp
+||adimg.net^$domain=bipblog.com
 ||ads-twitter.com^$third-party
 ||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
 ||angel-bbs.com/ssi/koukoku_
