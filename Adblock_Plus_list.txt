@@ -1605,6 +1605,7 @@ gori.me##.sidebar-single-ad
 gqjapan.jp##[data-test-id="AdBannerWrapper"]
 gqjapan.jp##[data-test-id="AdDisplayWrapper"]
 greasyfork.org##.ad-entry
+gyo.tc,megalodon.jp##form[action="https://www.google.co.jp/search"] + .row
 hentai-covers.site##.ad-banner
 hentai-foundry.com##main > p[style="text-align: center"]
 hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not(:nth-of-type(n+11))
