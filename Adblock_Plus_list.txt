@@ -1412,6 +1412,10 @@ apkpure.com##.ad-box-auto
 apkpure.com##.left > .box[style="overflow: hidden; padding-bottom: 20px"]
 apkpure.com##div[style="margin: 0 auto 20px auto;position: relative;width:100%;overflow: hidden;height: 306px;"]
 appget.com##.adsence
+!jack
+appmedia.jp##[id^="ad_jack_"]
+appmedia.jp##.sidebar_content > div[style="position:sticky;top:0;"]
+appmedia.jp##.sidebar_content[style*="min-height:"]:style(min-height: auto !important;)
 arban-mag.com##.side-banner
 arukumachikyoto.jp##.ad_header_frame
 arukumachikyoto.jp###ad_footer_space
