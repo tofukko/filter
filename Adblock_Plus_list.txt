@@ -130,7 +130,6 @@ _ads.js
 .biz/ads/$third-party
 .com/ad/$third-party
 .com/ads/$third-party
-.com/ads-$third-party
 .jp/ad/$third-party
 .jp/ad_$third-party
 .jp/ads/$third-party
@@ -138,6 +137,7 @@ _ads.js
 .net/ads/$third-party
 .org/ad/$third-party
 .org/ads/$third-party
+.to/ads/$third-party
 .tv/ads/$third-party
 
 ://ad.$third-party
