@@ -3381,8 +3381,6 @@ ashemaletube.com##+js(aopr, open)
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
-	! abp検知？
-@@||lineblog.me^*/settings/ad.js
 	! https://github.com/easylist/easylist/pull/7907
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	!ランキングは消さないでおこう
@@ -3413,8 +3411,6 @@ ashemaletube.com##+js(aopr, open)
 @@||site-banner.hange.jp/adshow$subdocument,domain=animallabo.hange.jp
 	!TOP 総合ランキング
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js$domain=www.sankei.com
-	! https://github.com/tofukko/filter/issues/31
-@@||browserbench.org/Speedometer2.0/resources/todomvc/dependency-examples/flight/flight/app/js/*/stats.js
 	!サムネイルが表示されない
 @@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
 	! 地図が無反応 
@@ -3508,6 +3504,9 @@ gametter.com##+js(acis, addEventListener, google_ad_client)
 !gigaho.com##+js(aopr, onload)
 !gigaho.com#@#.adsbygoogle
 !gigaho.com##ins.adsbygoogle
+
+	! abp検知？
+@@||lineblog.me^*/settings/ad.js
 
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
 modalina.jp###ggleadv:style(height: 60px !important;)
