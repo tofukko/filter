@@ -2247,6 +2247,9 @@ www.excite.co.jp###rakutenMW
 exblog.jp#?#div:-abp-has(> #gpt_pc_blog_header)
 www.excite.co.jp##[class^="ex-ad-rectangle"]
 
+! https://github.com/tofukko/filter/issues/36
+@@||www.google-analytics.com/analytics.js$script,domain=woman.excite.co.jp
+
 !------------exploader.net------!
 ||daotag.com^$domain=exploader.net
 ||dmm.co.jp^$domain=exploader.net
