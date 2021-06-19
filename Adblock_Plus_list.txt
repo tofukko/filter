@@ -1598,6 +1598,7 @@ gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
 gogo.gs##.ad3
+gorillawiki.jp##.new_koukokuwaku_wrapper
 google.com,google.co.jp###mbEnd
 google.com,google.co.jp###tads
 google.com,google.co.jp###tadsb
