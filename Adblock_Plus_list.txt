@@ -133,7 +133,7 @@ _ads.js
 .jp/ad/$third-party
 .jp/ad_$third-party
 .jp/ads/$third-party
-.net/ad/$third-party,domain=~big-up.style
+.net/ad/$third-party
 .net/ads/$third-party
 .org/ad/$third-party
 .org/ads/$third-party
@@ -3419,6 +3419,8 @@ ashemaletube.com##+js(aopr, open)
 @@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
 	! 地図が無反応 
 @@||stats.g.doubleclick.net/dc.js$domain=chintaistyle.jp
+	! https://github.com/tofukko/filter/issues/37
+@@||strpf.net/ad/$xmlhttprequest,domain=big-up.style
 	!https://tabelog.com/tokyo/map/ お店のリストと地図が出ない
 @@||tblg.k-img.com/javascripts/modules/rst/analytics.js$script,domain=tabelog.com
 	!ロックされたときとか
