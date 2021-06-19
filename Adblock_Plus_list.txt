@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/18 11:35
+! 最終更新 2021/06/19 14:08
 !
 
 !2011年10月07日閉鎖予定
@@ -667,7 +667,6 @@ _ads.js
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
 ||relart.fresheye.com^
-||resemom.jp/feature/cxense/overlay/
 ||savevideo.me/ads-fallback/
 ||sexyvoice.org/banner/
 ||share-videos.se/js/pjs.js
@@ -1949,7 +1948,6 @@ rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
 rastaneko-blog.com##[class^="header-ad-outer"]
 rastaneko-blog.com##[class^="kijinaka-outer"]
-rbbtoday.com##.cx-top-news
 realsound.jp###ad_entryBottom
 realsound.jp###adEntry2rec
 recipe-blog.jp##[id^="reb_pc_"]
@@ -2531,8 +2529,7 @@ blog.nicovideo.jp#?#.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-asid
 ||nikkei.*^*/SC2/
 ||nikkei.com/.resources/tracking/
 ||nikkei.jp^*/f1h_text1.js
-business.nikkei.com##.cbCxense
-business.nikkei.com##[class^=recommendAd]
+business.nikkei.com##[class*="recommendAd"]
 r.nikkei.com##.search__promo
 r.nikkei.com##.trendwatch
 style.nikkei.com##.ad_inview
@@ -3357,6 +3354,12 @@ ashemaletube.com##+js(aopr, open)
 @@||cookpad-ads.com^$domain=cookpad.com
 	!商品タブの切替が出来ない
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
+	!cxense.com
+||cxense.com^$third-party
+@@||cxense.com/cx.cce.js$script
+@@||cxense.com/cx.js$script
+@@||api.cxense.com/public/widget/data^$script,xmlhttprequest
+@@||api.cxense.com/document/search?$script
 	!ご注文内容が表示されない
 @@||dominos.jp/Resources/Scripts/dominos.min/modules/voucher-tracker-analytics.js
 	!検索結果
