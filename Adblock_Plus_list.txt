@@ -1412,6 +1412,8 @@ apkpure.com##.left > .box[style="overflow: hidden; padding-bottom: 20px"]
 apkpure.com##div[style="margin: 0 auto 20px auto;position: relative;width:100%;overflow: hidden;height: 306px;"]
 appget.com##.adsence
 arban-mag.com##.side-banner
+arukumachikyoto.jp##.ad_header_frame
+arukumachikyoto.jp###ad_footer_space
 ascii2d.net##.com
 ashinari.com##[class^="area-bnr"]
 atwiki.jp###body_footer .lazy
