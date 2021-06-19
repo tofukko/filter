@@ -604,6 +604,7 @@ _ads.js
 ||gakuryou.net/right-banner/
 ||gamegift.jp/js/ads.js
 ||gamespark.jp/feature/advertising/
+||gamewith.jp/js/dist/jp/gamewith/ad/index.js?
 ||gehasoku.com/JS/newama.js
 ||getchu.com/mbanner/$~image
 ||gigazine.net/pw/p.js
