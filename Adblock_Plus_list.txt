@@ -660,7 +660,6 @@ _ads.js
 ||pawoo.net/packs/media/pawoo/images/about/banner-
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
-||relart.fresheye.com^
 ||savevideo.me/ads-fallback/
 ||sexyvoice.org/banner/
 ||share-videos.se/js/pjs.js
@@ -1090,8 +1089,6 @@ _analytics.js?
 ||etoyota.net/include/js/measurementBeacon.js
 ||facebook.com*/impression.php
 ||facebook.com/xti.php?
-||fresheye.com^*/js/v
-||fresheye.com/s.gif
 ||fujitv.co.jp^*/rtx/
 ||github.com/_private/browser/stats
 ||gnavi.co.jp/analysis/
@@ -2267,6 +2264,18 @@ cg-foto.jp,food-foto.jp,model-foto.jp,pro-foto.jp##.stock_bnr_block
 cg-foto.jp,food-foto.jp,model-foto.jp,pro-foto.jp##[class|="ad_block"]
 free.foto.ne.jp##.ad_full
 free.foto.ne.jp##.adsbygoogle:upward(1)
+
+!------------fresheye.com----------!
+||relart.fresheye.com^
+||fresheye.com/parts/koma/parts_ad2_i.html
+fresheye.com###ad-ov1box
+fresheye.com##.ad-selfbox
+news.fresheye.com###ad_box_double
+news.fresheye.com##.ad-pbox.banner
+news.fresheye.com##.listing-ad
+news.fresheye.com##.nw-ad
+||fresheye.com^*/js/v
+||fresheye.com/s.gif
 
 !------------futaba-------------!
 ||2chan.net/bin/*.htm
