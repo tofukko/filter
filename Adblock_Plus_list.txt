@@ -667,6 +667,7 @@ _ads.js
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
 ||stv.jp/nnn/assets/$subdocument
 ||tatituteto.net/images/banner/
+||tgiw.info/amazon
 ||tinami.com/ad/
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
