@@ -1591,6 +1591,8 @@ gigazine.net##.e_ad
 gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
+glosbe.com###topBannerContainer
+glosbe.com##.right-sidebar-ads-container
 gogo.gs##.ad3
 gorillawiki.jp##.new_koukokuwaku_wrapper
 google.com,google.co.jp###mbEnd
