@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/20 13:35
+! 最終更新 2021/06/20 19:55
 !
 
 !2011年10月07日閉鎖予定
@@ -1668,6 +1668,8 @@ jisin.jp##.add_left
 jisin.jp##.add_right
 jisin.jp###wrap:style(width: unset !important;)
 jitenon.jp##.ads_wraptop2
+jmty.jp##.p-adsense-list-right-column-high-block
+jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 kochinews.co.jp##.pr_area
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
 jocr.jp##.side_adsbygoogle
