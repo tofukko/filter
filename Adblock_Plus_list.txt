@@ -2737,6 +2737,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 .adrotate.
 /adrotate-
 /adrotate/*
+/adtools.js
 /plugins/thirstyaffiliates/*
 
 ##.ad-label
@@ -2772,6 +2773,8 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 
 /aurora-heatmap/
 /aurora-heatmap-
+/event-tracking.js?
+
 ||pixel.wp.com^
 ||stats.wp.com^
 ||stats.wordpress.com^
