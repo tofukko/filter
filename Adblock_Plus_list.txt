@@ -2557,8 +2557,10 @@ blog.nicovideo.jp#?#.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-asid
 
 !------------nikkei------------!
 ||nikkei.com/.resources/k-components/rtoaster/
+||nikkei.com/.resources/static/nad/foneh-view.$subdocument
 ||nikkei.com/api/mainos/v4/trendwatch
 ||nikkei.com/fh/showad_
+||nkis.nikkei.com^
 ||astat.nikkei.com^
 ||nikkei.*^*/SC/
 ||nikkei.*^*/SC2/
@@ -2583,8 +2585,11 @@ xtech.nikkei.com###sticky1 > section.l-asideSection:first-child
 xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
 xtech.nikkei.com##.p-article_ad
+! 日経xwoman
+aria.nikkei.com,doors.nikkei.com,dual.nikkei.com,woman.nikkei.com###stickyArea1
+
 	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment830
-@@||vdata.nikkei.com/newsgraphics/coronavirus-japan-chart/js/modules/ga.js?$script,domain=vdata.nikkei.com
+@@||vdata.nikkei.com/newsgraphics/*/ga.js?$script,domain=vdata.nikkei.com
 
 !------------otapps.net-------------!
 ! https://info.otapps.net/
