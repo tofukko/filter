@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/19 22:22
+! 最終更新 2021/06/20 13:35
 !
 
 !2011年10月07日閉鎖予定
@@ -2388,27 +2388,49 @@ www.j-cast.com##.adunit
 !g-----------kissanime-----------!
 !si
 ||demand.supply^$third-party
-||ga.kvideo.io^
-||ikunselt.com^
-||in-page-push.com^
-||omfortsex.club^
-||opsoomet.net^
-||ptoushoa.com^
-||vipicmou.net^
 ||ad.kissanime.si^
-||kissanime.nz/api/pop.php
-||kissanime.nz/rmad.php?
-!ws
-||graizoah.com^
-||ntvsw.com^
-||painsko.com^
-||staitchu.com^
-||webpinp.com^
 !digital
 ||kissanime.digital/addons/*.gif|$image
 kissanime.digital##main + script + div[class]
+!ru
+||cdn4ads.com^
+||d3g5ovfngjw9bw.cloudfront.net^
 
-kissanime.*##+js(set, check_adblock, true)
+! kissanime. nz scammy 3p scripts
+kissanime.*##+js(acis, String.fromCharCode, /btoa|break/)
+kissanime.*###upgrade_pop
+embed.streamx.me##+js(noeval-if, debugger)
+||kissanime.*/api/pop.php$xhr,1p
+||kissasian.*/api/pop.php$xhr,1p
+||ad.kissasian.*^$script,1p
+||kisscartoon.*/api/pop.php$xhr,1p
+||ad.kisscartoon.*^$script,1p
+||kisstvshow.ru/api/pop.php$xhr,1p
+||ad.kisstvshow.ru^
+
+! https://github.com/uBlockOrigin/uAssets/issues/7308
+streamtape.*,streamta.pe,strtape.*##+js(acis, document.createElement, 'script')
+streamtape.*,streamta.pe,strtape.*##+js(aopw, _pop)
+streamtape.*,streamta.pe,strtape.*##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
+streamtape.*,streamta.pe,strtape.*##+js(nosiif, adblock)
+streamtape.*,streamta.pe,strtape.*##+js(nowoif)
+streamtape.*,streamta.pe,strtape.*##+js(ra, target, #downloadvideo)
+streamtape.*,streamta.pe,strtape.*##+js(set, towait, 0)
+streamtape.*,streamta.pe,strtape.*##[class*="bn-container"], div[style*="z-index: 300000;"]
+streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
+/sw.js$script,1p,domain=streamtape.*|streamta.pe|strtape.*
+*$3p,denyallow=tapecontent.net|google.com|gstatic.com|hcaptcha.com|recaptcha.net,domain=streamtape.*|strtape.*
+
+!ws
+/1clkn/*$script
+||disqus.com/ads-iframe/
+!2021/06/20
+||cpmstar.com^
+||denetsuk.com^
+||foowafoa.com^
+||graizoah.com^
+||roujaufu.net^
+||viatepigan.com^
 
 !------------livedoor------------!
 /settings/ad.js
