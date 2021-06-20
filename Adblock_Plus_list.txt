@@ -3431,6 +3431,8 @@ ashemaletube.com##+js(aopr, open)
 @@||files.mycloud.com/js/analytics/google_analytics.js
 	! https://github.com/easylist/easylist/pull/7907
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
+	! https://github.com/tofukko/filter/issues/38
+@@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
