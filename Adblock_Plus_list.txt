@@ -2063,6 +2063,11 @@ web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
 web-ace.jp##[class^="ad_rect"]
+webcartop.jp###jp_wct_pc_article_undernextpage
+webcartop.jp###main:style(padding-bottom: 0 !important)
+webcartop.jp##.left-ads
+webcartop.jp##.right-ads
+webcartop.jp##div[style="min-height: 90px;"]
 webkaru.net##[class^="ad-"]
 wikiwiki.jp##[id$="-ad-container"]
 wowgame.jp##[style="width:300px; height:250px;"]
