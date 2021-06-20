@@ -1496,7 +1496,7 @@ daily.co.jp##.pnl-aside
 daily.co.jp##aside.add
 dan-ball.jp##[class^="ad_div_"]
 daysneo.com###bnrTop
-denfaminicogamer.jp##.ad-box
+denfaminicogamer.jp###pc_article_billboard
 	wiki.denfaminicogamer.jp###ad-wiki-content-lower
 	wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 dengekionline.com##.gAdBanner.u-mbM
