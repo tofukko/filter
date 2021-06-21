@@ -555,6 +555,7 @@ _ads.js
 ||aacdn.jp/js/allabout-request-async.js?$domain=allabout.co.jp
 ||aacdn.jp/js/mtx/$domain=allabout.co.jp
 ||adimg.net^$domain=bipblog.com
+||ad.land.to^$domain=land.to
 ||ads-twitter.com^$third-party
 ||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
 ||angel-bbs.com/ssi/koukoku_
