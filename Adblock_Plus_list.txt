@@ -1844,6 +1844,8 @@ moviewalker.jp##.bl_adSPWrap
 moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"]
 mag.osdn.jp###head-ad-text
 mag.osdn.jp##[id^="div-gpt-osdn_mag_"]
+mudainodocument.com##.adset-Cover
+mudainodocument.com##.article-body-inner [href^="https://px.a8.net/"]
 muvc.net##body > div[align="right"]:last-of-type
 myjitsu.jp##.ad-box
 myjitsu.jp##[id^=related-post-ad]
