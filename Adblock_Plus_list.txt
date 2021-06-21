@@ -1561,6 +1561,7 @@ gakuryou.net##[id^="ADw"]
 gamesink.net##.footer_ov_ad
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
+gamewith.jp###ad-jack
 galleria.emotionflow.com##.Ad3Tile
 galleria.emotionflow.com##div[style="width: 1200px; height: 259px; margin: 20px auto 0 auto;"]
 gaugau.futabanet.jp##._popIn_recommend_header
