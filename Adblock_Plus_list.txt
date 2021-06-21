@@ -334,6 +334,7 @@ _ads.js
 ||rakuword.com^$third-party
 ||reajyu.net^$third-party
 ||realvu.net^$third-party
+||reemo-ad.jp$third-party
 ||rentracks.jp^$third-party
 ||rightsnetwork.net^$third-party
 ||rossoad.com^$third-party
