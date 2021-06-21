@@ -1238,7 +1238,6 @@ _analytics.js?
 ~dmm.com,~dmm.co.jp##.plugin-freearea a[href*="dmm.co"]
 ~dmm.com,~dmm.co.jp###sidebar a[href*="dmm.co.jp"]
 ~dmm.com,~dmm.co.jp##.sidewrapper a[href*="dmm.co.jp"]
-~dmm.com,~dmm.co.jp##a[href^="https://al.dmm.co.jp/?"][href*="&af_id="][href*="&ch="]
 !----dlsite
 ~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
 ~dlsite.com##.sidewrapper a[href*="dlsite.co"]
