@@ -2422,7 +2422,7 @@ www.j-cast.com##.ad_entry_toptext
 www.j-cast.com##.adunit
 
 !g-----------javtorrent.re-------!
-||directpaper.name^
+/a/pop/js/*
 
 !g-----------kissanime-----------!
 !si
