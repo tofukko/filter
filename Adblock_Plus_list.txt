@@ -2082,6 +2082,8 @@ webcartop.jp##.left-ads
 webcartop.jp##.right-ads
 webcartop.jp##div[style="min-height: 90px;"]
 webkaru.net##[class^="ad-"]
+webllica.com###headlinkad
+webllica.com##.sponsored_link
 wikiwiki.jp##[id$="-ad-container"]
 wowgame.jp##[style="width:300px; height:250px;"]
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
