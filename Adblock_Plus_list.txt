@@ -1447,6 +1447,7 @@ blogmura.com##.ad-overlay
 blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
+bravo-m.futabanet.jp##.m-ad-rectangle
 bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
 buhidoh.net###center-left:style(height: auto !important)
