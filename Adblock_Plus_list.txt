@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/22 7:45
+! 最終更新 2021/06/22 9:30
 !
 
 !2011年10月07日閉鎖予定
@@ -2521,6 +2521,20 @@ msn.com##.widead
 ||tool2.nan-net.com/exposure.jpg
 nan-net.com###banner
 nan-net.com#?#div[style$="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]:-abp-has([src^="//adm.shinobi.jp"])
+
+!------------newmatosoku.com--------!
+newmatosoku.com##.ako1
+newmatosoku.com##.ako2
+newmatosoku.com##.hed0
+newmatosoku.com##.hedsenden
+newmatosoku.com##.kanrenkijilink > [href^="https://www.amazon.co.jp"]
+gekimatosoku.com,newmatosoku.com##.kokowaku2
+newmatosoku.com##.sideh2:first-child
+gekimatosoku.com,newmatosoku.com#?#.waku-zentai:-abp-has(> .ako1)
+
+bazutore.com##.hed0
+bazutore.com##.kijikome3
+bazutore.com#?#.kijisita-itiran:-abp-has(> h3:-abp-contains(紹介))
 
 !------------nicosub.net------------!
 ||dlsite.com^$domain=nicosub.net
