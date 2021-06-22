@@ -826,7 +826,7 @@ _analytics.js?
 /tracker.js
 !getginger.jp英文法チェック入力欄
 !https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=荷物の番号 読み込まれるファイル https://tools.usps.com/go/styles/tracking.css
-/tracking.$domain=~tracking.post.japanpost.jp|~mlb.mlb.com|~getginger.jp|~usps.com
+!/tracking.$domain=~tracking.post.japanpost.jp|~mlb.mlb.com|~getginger.jp|~usps.com
 /treport.cgi?
 /trlink.cgi?
 /urchin.js
