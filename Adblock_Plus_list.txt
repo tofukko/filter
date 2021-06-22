@@ -2785,6 +2785,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.adWidget
 ##.dfad
 ##.diver_widget_adarea
+##.googlepublisherpluginad
 ##.master-post-advert
 ##.quads-location
 ##.related-ad-area
