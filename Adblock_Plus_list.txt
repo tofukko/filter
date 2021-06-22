@@ -2652,6 +2652,7 @@ recipe.rakuten.co.jp##.field_search__reccomend
 recipe.rakuten.co.jp##.ranking_recommend_recipe
 recipe.rakuten.co.jp##.recommend_official_recipe
 recipe.rakuten.co.jp##.section_common_banner
+websearch.rakuten.co.jp###ads-billboard
 
 @@||image.www.rakuten.co.jp/com/js/d/
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
