@@ -3424,7 +3424,7 @@ ashemaletube.com##+js(aopr, open)
 @@||cxense.com/cx.cce.js$script
 @@||cxense.com/cx.js$script
 @@||api.cxense.com/public/widget/data^$script,xmlhttprequest
-@@||api.cxense.com/document/search?$script
+@@||api.cxense.com/document/search?$script,xmlhttprequest
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
