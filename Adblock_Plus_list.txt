@@ -578,6 +578,7 @@ _ads.js
 ||cookpad.com/iframe/
 ||cosp.jp/images/spacer.gif
 ||cosp.jp/inc/ad.js
+||crooz.jp^*/popup.js$domain=blog.crooz.jp
 ||ctv.co.jp/adjust/$subdocument
 ||cyclingtime.com/adimg/
 ||daily.jp/Koukoku/
