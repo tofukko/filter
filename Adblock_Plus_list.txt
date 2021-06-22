@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/22 9:30
+! 最終更新 2021/06/22 20:11
 !
 
 !2011年10月07日閉鎖予定
@@ -2565,6 +2565,7 @@ seiga.nicovideo.jp##.ads_prtext
 !ニコ生
 ||nimg.jp/relive/playerbanner/
 ||nicovideo.jp/api/v1/watch/*/playerbanner|
+live.nicovideo.jp###billboard_ad
 live.nicovideo.jp###footer-ad
 live.nicovideo.jp###middle-ad
 live.nicovideo.jp###header-ad
