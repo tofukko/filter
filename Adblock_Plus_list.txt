@@ -1738,6 +1738,8 @@ kurashi-no.jp##[style="width: 300px; height: 600px;"]
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
 kyoko-np.net#?#section:-abp-has(> h3:-abp-contains(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
+last.fm##.full-bleed-ad-container
+last.fm##.sidebar-ad-container
 lee.hpplus.jp##.media-ad
 lifehack2ch.livedoor.biz##.elsebody
 lifehack2ch.livedoor.biz##.yahoo-ad1b
