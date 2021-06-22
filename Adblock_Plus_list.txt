@@ -1965,6 +1965,8 @@ resemom.jp##.sidebox-ad
 response.jp##.main-ad
 response.jp##.sidebox-ad
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
+! https://ryukyushimpo.jp/style/
+ryukyushimpo.jp##[class*="c_ads_google"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
 saitama-np.co.jp###ad_middle
