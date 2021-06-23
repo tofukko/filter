@@ -1255,6 +1255,7 @@ _analytics.js?
 ! ###ads
 atwiki.jp###ads
 duckduckgo.com###ads
+kachimai.jp###ads
 
 ! ##.ad
 2chmm.com##.ad
@@ -1705,6 +1706,8 @@ kabu-sokuhou.com###ResSearchAdBottom
 kabu-sokuhou.com###sub_banner_top
 kabu-sokuhou.com##.sponsoredlink
 kabu-sokuhou.com##.topadba
+!c-
+kachimai.jp###js-footer-banner
 kai-you.net##.l-recommend-product
 kai-you.net##.l-side-common-banner-outer
 kaiten-heiten.com###text-18
