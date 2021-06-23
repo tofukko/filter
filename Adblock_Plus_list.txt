@@ -1690,6 +1690,7 @@ jmty.jp##.p-adsense-list-right-column-high-block
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 kochinews.co.jp##.pr_area
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
+kotaro269.com##.ad-box
 jocr.jp##.side_adsbygoogle
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
