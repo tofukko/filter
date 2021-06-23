@@ -2407,6 +2407,7 @@ hs-exp.jp#@#.adsbygoogle
 !------------impress.co.jp-------!
 ||yamakei-online.com/new_images/adv/banner/
 ganref.jp##[id^="gpt-ad-"]:upward(1)
+game.watch.impress.co.jp###game-rakuten-ranking
 it.impress.co.jp##.ad-pr-text
 netshop.impress.co.jp###bancho_adsense_nodefooter
 thinkit.co.jp##.region-top-ad
