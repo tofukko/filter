@@ -433,6 +433,7 @@ _ads.js
 ||adreactor.com^$third-party
 ||adsafeprotected.com^$third-party
 ||adsco.re^$third-party
+||adskeeper.co.uk^
 ||adskeeper.com^$third-party
 ||adsterra.com^$third-party
 ||adtechus.com^$third-party
@@ -3474,9 +3475,6 @@ ashemaletube.com##+js(aopr, open)
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xmlhttprequest,domain=ganma.jp
 	!http://www.jp.square-enix.com/jc3/
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
-	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
-	!@@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
-@@||rtoaster.jp^$script,domain=www.kanaloco.jp
 	! https://github.com/tofukko/filter/issues/24 サイドバー
 	!@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
 	!画像
@@ -3487,6 +3485,9 @@ ashemaletube.com##+js(aopr, open)
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
+	!
+@@||jsc.adskeeper.co.uk/*/megaup.net$script,domain=megaup.net
+@@||servicer.adskeeper.co.uk^$script,domain=megaup.net
 	! https://github.com/easylist/easylist/pull/7907
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	! https://github.com/tofukko/filter/issues/38
@@ -3510,6 +3511,9 @@ ashemaletube.com##+js(aopr, open)
 @@||rd.yahoo.co.jp/jpr_sports/sumo_pickup/$image,domain=sports.yahoo.co.jp
 	! ||solty.biz^$third-party
 @@||rss.solty.biz/
+	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
+	!@@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
+@@||rtoaster.jp^$script,domain=www.kanaloco.jp
 	! 予約するポップアップ
 @@||rtoaster.jp/Rtoaster.js$script,domain=www.melonbooks.co.jp
 	!申し込みランキング
