@@ -1999,6 +1999,7 @@ seikeidenron.jp##.articleAdd
 seikeidenron.jp##.rightAdd
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
+serai.jp##.post_content--ad_area
 server-setting.info###pr_bottom
 server-setting.info###pr_side_top
 sexyvoice.org###side-scroll
