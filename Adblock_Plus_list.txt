@@ -1748,6 +1748,8 @@ kobe-np.co.jp##div[id^=knpc-]
 kotobank.jp##.pc-iframe-ad
 ktkm.net###custom_html-43
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
+kurukura.jp##.double-rectangle
+kurukura.jp#?#.single-sidebar:-abp-has(> .ad-bnr)
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
 kyoko-np.net#?#section:-abp-has(> h3:-abp-contains(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
