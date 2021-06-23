@@ -595,6 +595,7 @@ _ads.js
 ||eegg.fun/iframe/
 ||eegg.fun/js/
 ||egone.org/js/amazon_
+||enoge.org/js/amazon_
 ||estar.jp/page/ad/
 ||famitsu.com^*/amazon_ranking.js
 ||fod.fujitv.co.jp/mz/
