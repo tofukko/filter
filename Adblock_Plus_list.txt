@@ -1479,6 +1479,7 @@ chikuwachan.com##.right_advs
 clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 clipconverter.cc##+js(acis, Math, break;case $.)
+cinema.ne.jp##.ad-pc
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 cnn.co.jp###ad-large-header
