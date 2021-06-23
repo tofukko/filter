@@ -569,6 +569,7 @@ _ads.js
 ||asg.to/ad/
 ||atwiki.jp/common/dist/js/atwiki_autoads.js?
 ||atwiki.jp/common/dist/js/moveads.js?
+||bengo4.com/module/topicsSideBanner/
 ||blog.with2.net/ad_frame.php?
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
 ||buhidoh.net/uploads/setting/$subdocument
@@ -1441,6 +1442,7 @@ bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 bbc.com##[class^="AdContainer-sc-"]
+bengo4.com###ad_mid_topicsltd
 bikebros.co.jp##.adsw
 bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bike-news.jp##.left.box300
