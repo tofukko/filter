@@ -546,7 +546,7 @@ _ads.js
 ||queen-casino.info/affi/
 ||realsrv.com^
 ||runative-syndicate.com^
-
+||theta360.com/intl/common/inc/ad_banner.html?
 
 ||2ch.vet/img/ani_
 ||3751chat.com/ad/
@@ -730,6 +730,7 @@ _analytics.js?
 /analyzer.js
 /apricot.php?
 /astrack.js
+/assets/analytics-
 /autotrack.js
 /bcn.gif?
 ! amazon topページ 背景画像とかpngとか
@@ -1099,6 +1100,7 @@ _analytics.js?
 ||kadokawagakugei.com/js/ga2.js
 ||kooss.com/cgi-usr/accl/lkz.cgi?
 ||mainichi.jp/js/an.js
+||maps.google.com^*/stats.js
 ||milmil.cc/sys/asiato.cgi?
 ||milmil.cc/sys/kaiseki.cgi?
 ! つぶやきにコメントできなくなる
