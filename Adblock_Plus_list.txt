@@ -553,9 +553,6 @@ _ads.js
 ||4chan-ads.org^
 ||49.212.219.243^$domain=jp-xvideos.info
 ||a.konachan.net^$domain=konachan.com
-||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
-||aacdn.jp/js/allabout-request-async.js?$domain=allabout.co.jp
-||aacdn.jp/js/mtx/$domain=allabout.co.jp
 ||adimg.net^$domain=bipblog.com
 ||ad.land.to^$domain=land.to
 ||ads-twitter.com^$third-party
@@ -2179,6 +2176,15 @@ akibablog.net#?#.side:-abp-has(> font > a + br:last-child)
 akibablog.net##.side > font > .link:first-child:style(text-decoration: none !important;)
 !jack
 blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ div[style^="top:0px;position:fixed;"]
+
+!------------allabout.co.jp--------!
+||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
+||aacdn.jp/js/allabout-request-async.js?$domain=allabout.co.jp
+||aacdn.jp/js/mtx/$domain=allabout.co.jp
+allabout.co.jp##.aa_area-above-main
+allabout.co.jp##.aa_rec-box
+allabout.co.jp##.rakuten
+allabout.co.jp##.sys-ga-event-affiliate
 
 !------------alphapolis------------!
 ||alphapolis.co.jp/html/ad_
