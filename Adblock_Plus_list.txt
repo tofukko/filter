@@ -1984,6 +1984,9 @@ say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
 search.carview.co.jp##.side_ss
 search.carview.co.jp##.sponsor
+seikeidenron.jp##.advertising
+seikeidenron.jp##.articleAdd
+seikeidenron.jp##.rightAdd
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
 server-setting.info###pr_bottom
