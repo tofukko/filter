@@ -1080,7 +1080,6 @@ _analytics.js?
 ||analyzer2.curecos.com^
 ||bc.nhk.jp^
 ||bing.com/fd/ls/
-||blog.ocn.ne.jp/ac.php
 ||blogos.com/common/js/kotzen.analytics.js?
 ||bunshun.jp/oo/
 ||c.microsoft.com^
@@ -1121,7 +1120,6 @@ _analytics.js?
 
 !-----------------------非表示フィルタ-----------------------!
 ##.ad-area
-	!seiga.nicovideo.jp logsoku等
 ##.ad_area
 ##.ad-body
 ##.ad-container
