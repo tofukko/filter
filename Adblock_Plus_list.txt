@@ -1314,6 +1314,7 @@ techacademy.jp##.ad
 thetv.jp##.ad
 tripadvisor.jp##.ad
 tvlife.jp##.ad
+uptodown.com##.ad
 vippers.jp##.ad
 vogue.co.jp##.ad
 webcg.net##.ad
