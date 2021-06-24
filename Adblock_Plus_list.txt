@@ -1107,6 +1107,7 @@ _analytics.js?
 ||moeeki.net/cgi-bin/accessmoe/accessmoe.cgi?
 ||nifty.com/pubc0m/js/tag/_nif_tag.js
 ||rover.ebay.com^
+||shop-pro.jp/li.php?
 ||silk.woopieapi.com^$domain=woopie.jp
 ||sony.co.jp/ct/sc.js
 ||smp.sankei.co.jp^
