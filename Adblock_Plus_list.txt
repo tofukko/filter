@@ -690,6 +690,7 @@ _ads.js
 ||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
 ||yomoyama-bbs.jp/image/ad_images/
+||zyuken.net/ads/
 ||zyuken.net/juku_page/ads/
 
 !------------------------解析------------------------!
