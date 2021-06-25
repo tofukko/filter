@@ -3655,9 +3655,6 @@ gametter.com##+js(acis, addEventListener, google_ad_client)
 !gigaho.com#@#.adsbygoogle
 !gigaho.com##ins.adsbygoogle
 
-	! abp検知？
-@@||lineblog.me^*/settings/ad.js
-
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
 modalina.jp###ggleadv:style(height: 60px !important;)
 
@@ -3678,8 +3675,6 @@ savevideo.me##+js(acis, $, banner)
 
 	! https://github.com/uBlockOrigin/uAssets/issues/8461
 totv.org###ad
-
-@@||vippers.jp/settings/ad.js
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
