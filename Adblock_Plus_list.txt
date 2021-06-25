@@ -2955,7 +2955,7 @@ sports.yahoo.co.jp##.yf-lrec
 ||yahoo.co.jp/b?P=
 ||yjtag.jp^
 
-||s.yimg.jp/images/listing/tool/cv/conversion.js
+||s.yimg.*/cv/conversion.js^
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
 
 	! https://github.com/tofukko/filter/issues/22
