@@ -2024,6 +2024,9 @@ storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
+sukima.me##.popupad-box
+sukima.me###viewer-menu:style(overflow-y: scroll !important;height: 100% !important;)
+sukima.me##+js(set, adPopupStatus, undefined)
 sukusuku.com##.aside_ad_pr
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
 supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box
