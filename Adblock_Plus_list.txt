@@ -1551,6 +1551,7 @@ famitsu.com##.article-body__contents-pr-primary
 famitsu.com##.banner-pc
 famitsu.com##.banner-top-header
 famitsu.com##.l-contents-block--article-amazon
+famitsu.com#?#.l-contents-block:-abp-has(> .row > .col-12 > .card-game-sale-rank--amazon)
 	app.famitsu.com###widget-ad-rect
 	wiki.famitsu.com###ad-wiki-content-lower
 	wiki.famitsu.com###ad-wiki-content-upper
