@@ -2835,6 +2835,8 @@ translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
 
 !-----------WordPress-----------!
+/ad-inserter-
+/ad-inserter/*
 /ad-invalid-
 .adrotate.
 /adrotate-
