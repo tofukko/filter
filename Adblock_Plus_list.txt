@@ -734,6 +734,7 @@ _analytics.js?
 /astrack.js
 /assets/analytics-
 /autotrack.js
+/autotrack.custom.js
 /bcn.gif?
 ! amazon topページ 背景画像とかpngとか
 /beacon/*$domain=~amazon.com|~amazon.co.jp
@@ -2951,6 +2952,7 @@ sports.yahoo.co.jp##.yf-lrec
 ||yahoo.co.jp/b?P=
 ||yjtag.jp^
 
+||s.yimg.jp/images/listing/tool/cv/conversion.js
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
 
 	! https://github.com/tofukko/filter/issues/22
