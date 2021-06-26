@@ -2567,6 +2567,8 @@ lovehug.net##center
 !--------------msn----------------!
 ://c.*/c.gif?
 ||srtb.msn.com^
+msn.com##.ad-section
+msn.com##.nativeAd-DS-card1-1
 msn.com##.nativeadasideplaceholder
 msn.com##.nativeadserversidecontentmodule
 msn.com##.sameoab_ad_container
