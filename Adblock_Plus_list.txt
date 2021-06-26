@@ -2070,8 +2070,8 @@ tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
 traicy.com##.pc-ad
 traicy.com##.pc-ad-wide
-nordot.app,this.kiji.is###js-ur
-nordot.app,this.kiji.is##.page__listPageAd
+nordot.app###js-ur
+nordot.app##.page__listPageAd
 tinami.com###banner_view
 tinami.com##.view_ad
 ! jack?
@@ -3689,7 +3689,7 @@ gametter.com##+js(acis, addEventListener, google_ad_client)
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
 modalina.jp###ggleadv:style(height: 60px !important;)
 
-nordot.app,this.kiji.is##+js(acis, document.createElement, admiral)
+nordot.app##+js(acis, document.createElement, admiral)
 
 !knshow.com##+js(acis, onload, .ads)
 	!@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=knshow.com
