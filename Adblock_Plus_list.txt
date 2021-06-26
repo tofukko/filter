@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/25 18:59
+! 最終更新 2021/06/26
 !
 
 !2011年10月07日閉鎖予定
@@ -753,7 +753,6 @@ _analytics.js?
 /dcs.gif?
 /dcw.cgi?
 /dsw.cgi?
-/ga.js
 /ga_social_tracking.js
 /gaAddons.js
 /gaAddons-
