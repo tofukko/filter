@@ -2456,6 +2456,7 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||atmarkit.co.jp^*/ad.js?
 ||ednjapan.com^*/ad.js?
 ||itmedia.co.jp^*/ad.js?
+||itmedia.co.jp^*/insert_articles_ad.js
 ||itmedia.co.jp/css/sa.js
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
