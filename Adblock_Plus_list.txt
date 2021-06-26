@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/26
+! 最終更新 2021/06/26 22:04
 !
 
 !2011年10月07日閉鎖予定
@@ -684,6 +684,7 @@ _ads.js
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||vcomi.jp/page_ad/
+||wanchan.jp/js/text_ad.js
 ! 例のアレ
 ||webnewtype.com/img/pc/common/spacer1.gif
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
@@ -3456,6 +3457,8 @@ ashemaletube.com##+js(aopr, open)
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 ||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
+
+||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js
 
 	!||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
 !tver 芋
