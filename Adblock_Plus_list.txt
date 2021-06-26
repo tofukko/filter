@@ -883,6 +883,7 @@ _analytics.js?
 ||clickaider.com^$third-party
 ||clickanalyzer.jp^$third-party
 ||clicktale.net^$third-party
+||cloudflareinsights.com^$third-party
 ||clustrmaps.com^$third-party
 ||cnzz.com^$third-party
 ||colossal.jp^$third-party
