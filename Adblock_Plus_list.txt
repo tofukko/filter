@@ -2027,6 +2027,8 @@ share-videos.se###ad_html
 share-videos.se###new_ad_html
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
+smashop.jp###r1_advertisement
+smashop.jp##.ad_double_300_300
 sound.jp###adfloat
 sponichi.co.jp##[id^=space_shopping_]
 srad.jp###ads-article-left
