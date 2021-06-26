@@ -1470,6 +1470,9 @@ businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
 buttobi.net##div[style="position: relative; z-index:255;"]
+buzzap.jp###Cresponsive
+buzzap.jp###Cresponsive_2nd
+buzzap.jp##.afamazon-box
 buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
 career.joi.media###post-advertisement
