@@ -2101,6 +2101,7 @@ touhouyaruosure.com##[href*="dmm.co.jp"]
 touhouyaruosure.com##[href*="suruga-ya.jp"]
 touhouyaruosure.com##[style="margin:0;padding:5px;font-size:12px;word-break: break-all;"]
 toyokeizai.net###trend-library
+tsuiran.jp##article:not([id]):not([class])
 tsumanne.net###amazon
 tsumanne.net###cm
 tv-asahi.co.jp###rectangle-desktop
