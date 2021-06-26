@@ -3622,9 +3622,11 @@ tofukko.com#@#.ad-area
 yakkun.com##.ad + div:style(clear: both !important;)
 
 !-------------------anti adblock-------------------------!
+||fundingchoicesmessages.google.com$third-party
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect-rule=nooptext
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
 ||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext
+
 
 	! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
