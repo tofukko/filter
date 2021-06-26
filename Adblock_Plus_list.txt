@@ -600,6 +600,7 @@ _ads.js
 ||gakuryou.net/fb/
 ||gakuryou.net/right-banner/
 ||gamegift.jp/js/ads.js
+||gameranbu.jp/js/scrole_ad_
 ||gamespark.jp/feature/advertising/
 ||gamewith.*/ad/index.js?
 ||gehasoku.com/JS/newama.js
@@ -1586,6 +1587,11 @@ friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fukuishimbun.co.jp##.admeasure
 gakuryou.net##[id^="ADw"]
+gameranbu.jp###sub-col-wrap_top280:style(padding-top: 0px !important;)
+gameranbu.jp##.ad_center
+gameranbu.jp##.side_ad > .cf
+gameranbu.jp##.side_ad_top
+gameranbu.jp##.side_recomend_trac
 gamesink.net##.footer_ov_ad
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
