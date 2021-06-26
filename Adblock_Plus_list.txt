@@ -2717,6 +2717,7 @@ followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> div > .adsbygoogle)
 followmanager.net##.ad
 
 !------------pixiv------------------!
+||pximg.net/source/dic/javascript/side_ads.js?
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net#?#div:-abp-has(> iframe:not([src]))
 pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
