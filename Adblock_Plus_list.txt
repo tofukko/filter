@@ -3449,6 +3449,12 @@ ashemaletube.com##+js(aopr, open)
 
 	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
 
+	!cxense.com
+||cxense.com^$third-party
+@@||cxense.com/cx.cce.js$script
+@@||cxense.com/cx.js$script
+@@||api.cxense.com/public/widget/data^$script,xmlhttprequest
+@@||api.cxense.com/document/search?$script,xmlhttprequest
 
 	!nakanohito https://github.com/easylist/easylist/issues/7760
 @@||cm-beacon.nakanohito.jp/at/ranking/$script
@@ -3509,12 +3515,6 @@ ashemaletube.com##+js(aopr, open)
 @@||cookpad-ads.com^$domain=cookpad.com
 	!商品タブの切替が出来ない
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
-	!cxense.com
-||cxense.com^$third-party
-@@||cxense.com/cx.cce.js$script
-@@||cxense.com/cx.js$script
-@@||api.cxense.com/public/widget/data^$script,xmlhttprequest
-@@||api.cxense.com/document/search?$script,xmlhttprequest
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
@@ -3528,6 +3528,8 @@ ashemaletube.com##+js(aopr, open)
 	!@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!チャットのポップアップ
 	!@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
+	! https://github.com/uBlockOrigin/uAssets/issues/9458
+@@||google-analytics.com/ga.js$script,domain=daj.jp
 	!真っ白
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!
