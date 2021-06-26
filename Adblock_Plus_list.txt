@@ -2743,6 +2743,17 @@ websearch.rakuten.co.jp###ads-billboard
 ||rakuten-static.com/1/grp/banner/js/create.js
 ||rmp.rakuten.co.jp/js/aa.js$domain=~edy.rakuten.co.jp
 
+!-----------reverso.net-------------!
+reverso.net###rca
+reverso.net##.bottom-rca
+context.reverso.net###blocked-results-banner
+context.reverso.net##.blocked:style(filter: none !important;)
+context.reverso.net##.blocked .text:style(filter: none !important;-webkit-filter: none !important;)
+doushi.reverso.net##.bottom-horizontal
+doushi.reverso.net##.sticky
+doushi.reverso.net##.top-horizontal
+@@||cdn.reverso.net/abp/v1/Static/JS/advertising.js?
+
 !------------ribbon.to--------------!
 ||maid.to^$domain=ribbon.to
 ||majo.co.jp/jwd.js$domain=ribbon.to
