@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/26 22:04
+! 最終更新 2021/06/27 7:14
 !
 
 !2011年10月07日閉鎖予定
@@ -3652,7 +3652,7 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ||fundingchoicesmessages.google.com$third-party
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect-rule=nooptext
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
-||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext
+||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
 
 
 	! https://twitter.com/280blocker/status/1289903534385721344
