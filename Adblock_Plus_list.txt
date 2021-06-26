@@ -1905,6 +1905,7 @@ news.shitaraba.net##.sidebar_ad
 news.tbs.co.jp##.cp-pcAd
 news.tbs.co.jp##.cp-spAd
 news24.jp###adText01
+newswitch.jp##.banner-top
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
 nikkansports.com##[id^="sideAd"]
