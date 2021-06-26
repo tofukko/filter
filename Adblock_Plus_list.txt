@@ -958,6 +958,7 @@ _analytics.js?
 ||ptengine.jp^$third-party
 ||pvk.jp^$third-party
 ||pvranking.com^$third-party
+||qualaroo.com^$third-party
 ||quantserve.com^$third-party
 ||radarurl.com^$third-party
 ||reachword.com^$third-party
