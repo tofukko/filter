@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/27 20:11
+! 最終更新 2021/06/28 11:59
 !
 
 !2011年10月07日閉鎖予定
@@ -1470,7 +1470,6 @@ blogmura.com##.ad-overlay
 blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
-bravo-m.futabanet.jp##.m-ad-rectangle
 bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
 buhidoh.net###center-left:style(height: auto !important)
@@ -1604,8 +1603,6 @@ gamewiki.jp##.right_ad
 gamewith.jp###ad-jack
 galleria.emotionflow.com##.Ad3Tile
 galleria.emotionflow.com##div[style="width: 1200px; height: 259px; margin: 20px auto 0 auto;"]
-gaugau.futabanet.jp##._popIn_recommend_header
-gaugau.futabanet.jp##.r-ad-rectangle
 ! 現代ビジネス
 gendai.ismedia.jp###GB_pc_inArticle
 gendai.ismedia.jp##.reduce-CLS
@@ -2386,6 +2383,12 @@ news.fresheye.com##.nw-ad
 ||2chan.net/bin/count.swf
 ||2chan.net/bin/uuacount.php?*
 ||2chan.net/bin/uucount.php
+
+!-----------futabanet.jp---------!
+||futabanet.jp/oo/
+bravo-m.futabanet.jp##.m-ad-rectangle
+gaugau.futabanet.jp##._popIn_recommend_header
+gaugau.futabanet.jp##.r-ad-rectangle
 
 !----------gesoten.com-----------!
 !jack
