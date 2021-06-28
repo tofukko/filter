@@ -225,6 +225,7 @@ _ads.js
 ||clickfuse.com^$third-party
 ||clicktx.jp^$third-party
 ||coinurl.com^$third-party
+||cointraffic.io^$third-party
 ||contents-search-windows.com^$third-party
 ||contextweb.com^$third-party
 ||creativecdn.com^$third-party
