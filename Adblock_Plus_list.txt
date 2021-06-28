@@ -1094,6 +1094,7 @@ _analytics.js?
 ||cnn.co.jp/js/ga_social_tracking.js
 ||cnn.co.jp/js/sitesnapi.js
 ||collector.githubapp.com^
+||comicnettai.com/js/js-analytics.js
 ||counter-hosting.*/counter.php?
 ||diamond.jp/oo/
 ||etoyota.net/include/js/measurementBeacon.js
