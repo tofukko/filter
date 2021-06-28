@@ -3578,6 +3578,8 @@ ashemaletube.com##+js(aopr, open)
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	! https://github.com/tofukko/filter/issues/24 サイドバー
 	!@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
+        ! https://github.com/tofukko/filter/issues/24
+@@||google-analytics.com/analytics.js$script,domain=okwave.jp
 	!画像
 	!@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!チャットのポップアップ
