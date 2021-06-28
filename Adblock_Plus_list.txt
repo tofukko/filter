@@ -1060,6 +1060,7 @@ _analytics.js?
 	!google
 	://analytics.*/collect
 	||google-analytics.com^*/collect?
+||googletagmanager.com/gtag/$third-party
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||gpr.hu/pr.pr?
 ||itgear.jp*/ax.js
