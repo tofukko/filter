@@ -666,6 +666,7 @@ _ads.js
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
 ||savevideo.me/ads-fallback/
+||server-navi.info/cgi/book_
 ||sexyvoice.org/banner/
 ||share-videos.se/js/pjs.js
 	||admesia.com^$third-party
