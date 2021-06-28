@@ -718,6 +718,7 @@ _ads.js
 /acclog.
 /acctag.js
 /agcount.cgi?
+/akam/11/*
 /an.cgi?
 /ana.php?
 /ana_write.php?
@@ -766,6 +767,7 @@ _analytics.js?
 /getlog?
 /getstats.js
 /getstats.php
+/google.analytics.
 /google-analyticator/*
 /google_tag/*
 /googleanalytics.
