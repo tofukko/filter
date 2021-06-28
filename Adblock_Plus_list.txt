@@ -2975,6 +2975,7 @@ mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
 mail.yahoo.co.jp##.panescroll div#shellcontent[style*="top: 229px;"]:style(top: 176px !important;)
 mail.yahoo.co.jp##.panescroll.scrollable #shellcontent:style(top: 28px !important;)
 mail.yahoo.co.jp##.fullpage.withsky #shellcontent:style(top: 56px !important;)
+news.yahoo.co.jp##.adWrap
 search.yahoo.co.jp##.Ad
 sports.yahoo.co.jp##.yf-lrec
 
