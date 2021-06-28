@@ -1731,6 +1731,8 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="accesstrade.net/sp/"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
+ka-soku.com##.article-body > span:last-of-type ~ b
+ka-soku.com##.article-body > span:last-of-type ~ br
 kabu-sokuhou.com###HomeAdBottom
 kabu-sokuhou.com###ResSearchAdBottom
 kabu-sokuhou.com###sub_banner_top
