@@ -444,6 +444,7 @@ _ads.js
 ||advarkads.com^$third-party
 ||adxbid.info^$third-party
 ||adxpansion.com^$third-party
+||avantisvideo.com^$third-party
 ||awempire.com^$third-party
 ||awemwh.com^$third-party
 ||bebi.com^$third-party
