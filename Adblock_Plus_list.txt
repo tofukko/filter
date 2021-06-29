@@ -1362,6 +1362,7 @@ gurum.biz##.adsense
 otonasalone.jp##.adsense
 sk-hanbai.com##.adsense
 sk-seisan.com##.adsense
+travelbook.co.jp##.adsense
 www-creators.com##.adsense
 
 ! ##.adv
