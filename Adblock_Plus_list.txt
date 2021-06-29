@@ -1142,27 +1142,27 @@ _analytics.js?
 ##.ad-rectangle
 ##.article_ad
 
-	!google
+! ezoic
+##.adtester-container
+||ezoic.net^
+||ezodn.com^$3p
+
+! google
 ##.google-user-ad
 ###gStickyAd
 ###im_panel
 
-
+! popin
+##._popIn_recommend_article_ad
+##._popIn_recommend_article_ad_reserved
 ||rtoaster.jp^$third-party
 ||outbrain.com^$third-party
 ||speee-ad.akamaized.net^
 ||taboola.com^$third-party
 ||taxel.jp^$third-party
-	!reco
 ||logly.co.jp^$third-party
-	
-	!logly.co.jp
-	!##.logly-lift-ad:not(.logly-lift-article)
-	!popin
-##._popIn_recommend_article_ad
-##._popIn_recommend_article_ad_reserved
 
-	!microad
+! microad
 ##.c-ad
 	! http://2ch-matomenews.com/
 	! http://kankokunohannou.org/
@@ -1174,7 +1174,7 @@ _analytics.js?
 ###geniee_overlay
 ###geniee_overlay_outer
 
-	!wix.com
+! wix.com
 ###WIX_ADS
 
 
@@ -1217,7 +1217,6 @@ _analytics.js?
 ##a[href*="cross-system.com/click.php"]
 ##a[href*="dgpot.com"][href*="affiliate_banner_id"]
 ##a[href*="purelovers.com/lp"]
-##a[href*="game-news.biz"]
 ##a[href*="liveads.jp/cc.php?"]
 ##a[href*="nxcount.com/AdClick/"]
 
