@@ -1512,6 +1512,7 @@ comicbunch.com##.footer_comics_ad
 comicbunch.com##.footer_comics_ad:remove()
 comici.jp##.a-banner-box
 cookien.com##.pr_content
+cookpad.com##.ad_wrapper
 cookpad.com###sticky_reference_element
 coromoo.com##.amazon-link
 coron.tech###custom_html-5
