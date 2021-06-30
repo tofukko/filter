@@ -1785,6 +1785,7 @@ kotobank.jp##.pc-iframe-ad
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 ktkm.net###custom_html-43
 kurashi-no.jp##[style="width: 300px; height: 600px;"]
+kurashiru.com##.FooterAppPc-adsWrapper
 kurukura.jp##.double-rectangle
 kurukura.jp#?#.single-sidebar:-abp-has(> .ad-bnr)
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
