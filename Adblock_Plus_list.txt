@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/29 20:57
+! 最終更新 2021/06/30 21:18
 !
 
 !2011年10月07日閉鎖予定
@@ -1405,6 +1405,7 @@ nhentai.net##.advertisement
 9ketsuki.info##.widget_custom_html.widget-main
 a-antenam.info,antenam.biz,antenam.info,antenam.jp,atna.jp,readers.jp##.ad_footer
 a-antenam.info,antenam.biz,antenam.info,antenam.jp,atna.jp,readers.jp#?#.content:-abp-has(.ad_footer)
+a-kimama.com##.blogcard.banner
 a-kimama.com##.widget--ad
 accuweather.com###connatix
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adbottom_box
