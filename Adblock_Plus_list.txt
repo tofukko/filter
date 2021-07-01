@@ -2091,6 +2091,7 @@ tagindex.com###post
 taskle.jp##.ad-widget
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 tegaki.pipa.jp##.AdX300x250
+telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
 traicy.com##.pc-ad
