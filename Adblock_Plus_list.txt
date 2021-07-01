@@ -1776,6 +1776,7 @@ kantsuri.com##.featured.section-inverse
 karapaia.com###overlay
 karapaia.com##.readmore-header
 karapaia.com##[class^=ads-label]
+keisan-mondai.com##.head-ad
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
 kobe-np.co.jp###prBox
 kobe-np.co.jp##.active.native
