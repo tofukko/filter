@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/06/30 21:18
+! 最終更新 2021/07/01 23:12
 !
 
 !2011年10月07日閉鎖予定
@@ -3612,8 +3612,8 @@ ashemaletube.com##+js(aopr, open)
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! 動画見れない
-@@||nhkonline.hb.omtrdc.net/settings/*-adobeorg.xml?$domain=www3.nhk.or.jp
-@@||analytics.edgekey.net^$script,domain=www3.nhk.or.jp
+@@||analytics.edgekey.net/config/$xmlhttprequest,domain=www3.nhk.or.jp
+@@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=www3.nhk.or.jp
 	! https://github.com/tofukko/filter/issues/13 ページ移動しない
 @@||npttech.com/advertising.js$script,domain=wired.jp
 	! 右側の勝率などの欄が非表示
