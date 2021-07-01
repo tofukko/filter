@@ -1057,7 +1057,7 @@ _analytics.js?
 ||dw-eu.com.com^
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
 ||google-analytics.com/ga.js$script,redirect=google-analytics_ga.js
-	!||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
 	!google
 	://analytics.*/collect
 	||google-analytics.com^*/collect?
@@ -2475,7 +2475,7 @@ d.hatena.ne.jp###hot-topics + div
 q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
 	!言及先エントリを開くが消える
-	!@@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
+@@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
 !------------hs-exp.jp-----------!
 hs-exp.jp###footer > .footer-widget-area > .column:first-child
@@ -3505,7 +3505,7 @@ ashemaletube.com##+js(aopr, open)
 
 ||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js
 
-	!||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
+||googletagmanager.com/gtm.js$script,redirect=noop.js,domain=tv-asahi.co.jp
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
@@ -3596,13 +3596,12 @@ ashemaletube.com##+js(aopr, open)
 	!http://www.jp.square-enix.com/jc3/
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	! https://github.com/tofukko/filter/issues/24 サイドバー
-	!@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
-        ! https://github.com/tofukko/filter/issues/24
 @@||google-analytics.com/analytics.js$script,domain=okwave.jp
+@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
 	!画像
-	!@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
+@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
 	!チャットのポップアップ
-	!@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
+@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
 	! https://github.com/uBlockOrigin/uAssets/issues/9458
 @@||google-analytics.com/ga.js$script,domain=daj.jp
 	! 再生が始まらない
@@ -3636,7 +3635,7 @@ ashemaletube.com##+js(aopr, open)
 	! ||solty.biz^$third-party
 @@||rss.solty.biz/
 	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
-	!@@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
+@@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
 @@||rtoaster.jp^$script,domain=www.kanaloco.jp
 	! 予約するポップアップ
 @@||rtoaster.jp/Rtoaster.js$script,domain=www.melonbooks.co.jp
