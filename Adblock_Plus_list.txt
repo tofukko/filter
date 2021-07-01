@@ -1944,6 +1944,7 @@ nijie.info##._ad, [href^="/ad.php"]
 sp.nijie.info###header_ad
 sp.nijie.info###inter_background
 sp.nijie.info###tieup_column
+nikkansports.com###adPushdown
 nazology.net##.ads-wide
 news.dwango.jp##.bnrs
 nikkansports.com##.adBECOME
