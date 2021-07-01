@@ -2502,6 +2502,7 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.co.jp/css/sa.js
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
+||cdn.cxpublic.com/articleCenterInBody_$subdocument,domain=atmarkit.co.jp
 nlab.itmedia.co.jp###globalHeader
 nlab.itmedia.co.jp##.cmsAmazonWrap
 
