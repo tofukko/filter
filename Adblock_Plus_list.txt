@@ -2289,6 +2289,7 @@ weather.biglobe.ne.jp###header:style(height: 60px !important;)
 ||indexww.com^$third-party
 ||youborafds01.com^$third-party
 bloomberg.co.jp##.leaderboard-container
+bloomberg.co.jp##.leaderboard-wrapper
 @@||cdn.gotraffic.net^$domain=bloomberg.co.jp|bloomberg.com
 @@||cdx.cedexis.net^$domain=bloomberg.co.jp|bloomberg.com
 @@||js.spotx.tv/directsdk/$script,domain=bloomberg.co.jp|bloomberg.com
