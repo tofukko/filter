@@ -3609,12 +3609,22 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/tofukko/filter/issues/24 サイドバー
 @@||google-analytics.com/analytics.js$script,domain=okwave.jp
 @@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
-	!画像
+        ! 検索バーが表示されない
+@@||googletagmanager.com/gtm.js?$script,domain=resemom.jp
+	! 検索バーが表示されない
+@@||googletagmanager.com/gtm.js?$script,domain=response.jp
+	! TOP 株式
+@@||googletagmanager.com/gtm.js?$script,domain=reuters.com
+	! 画像
 @@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
-	!チャットのポップアップ
-@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
+	! 検索バーが表示されない
+@@||googletagmanager.com/gtm.js?$script,domain=scan.netsecurity.ne.jp
 	! https://github.com/tofukko/filter/issues/40
 @@||googletagmanager.com/gtm.js?$script,domain=tv-asahi.co.jp
+	! https://github.com/easylist/easylist/pull/8195
+@@||googletagmanager.com/gtm.js?$script,domain=viviennewestwood-tokyo.com
+	!チャットのポップアップ
+@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
 	! 再生が始まらない
 @@||googletagmanager.com/gtag/js?$script,domain=av01.tv
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84989
