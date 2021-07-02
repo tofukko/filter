@@ -1542,6 +1542,7 @@ dengekionline.com##.gAdBanner-pickUp
 dengekionline.com##.gMovBox.u-mtbS
 dengekionline.com##.gNews > .gAdBanner
 dengekionline.com##.gRankMoreNav
+diamond-fudosan.jp##.ad-header
 diskgarage.com##.cm_ads
 dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
