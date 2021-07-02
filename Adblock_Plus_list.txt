@@ -2429,6 +2429,7 @@ gamebox.gesoten.com##.ad_super
 !------------goo------------!
 ||adcdn.goo.ne.jp^
 ||ams900.goo.ne.jp^
+goo.ne.jp##.NR-pr
 goo.ne.jp##[id^="gooad-"]
 blog.goo.ne.jp###mod-advertising
 blog.goo.ne.jp#?##mod-freearea-main:-abp-has([id^="gooad-"])
