@@ -9,6 +9,9 @@
 nicovideo.jp##.ads_list_area
 ch.nicovideo.jp##.ads_nicovideo
 
+!2021/07/02
+||adimg.net^
+
 !----------------------------広告----------------------------!
 /300x250.
 /300x250_
@@ -555,7 +558,6 @@ _ads.js
 ||4chan-ads.org^
 ||49.212.219.243^$domain=jp-xvideos.info
 ||a.konachan.net^$domain=konachan.com
-||adimg.net^$domain=bipblog.com
 ||ad.land.to^$domain=land.to
 ||ads-twitter.com^$third-party
 ||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
