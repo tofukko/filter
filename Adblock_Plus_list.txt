@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/01 23:12
+! 最終更新 2021/07/02 21:49
 !
 
 !2011年10月07日閉鎖予定
@@ -1503,6 +1503,7 @@ clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 clipconverter.cc##+js(acis, Math, break;case $.)
 cinema.ne.jp##.ad-pc
+cinemarche.net##.adBoxWrap
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 cnn.co.jp###ad-large-header
