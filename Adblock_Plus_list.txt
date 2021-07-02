@@ -2451,6 +2451,10 @@ game.goo.ne.jp##.ad_super
 	!@@||game.goo.ne.jp/googleads_ima_html5_samples/advanced/ads.js?$script,domain=game.goo.ne.jp
 @@||imasdk.googleapis.com/js/core/$subdocument,domain=game.goo.ne.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.goo.ne.jp
+@@||googletagservices.com/tag/js/gpt.js$script,domain=game.goo.ne.jp
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=game.goo.ne.jp
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=game.goo.ne.jp
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=game.goo.ne.jp
 ! https://www.ocn.ne.jp/
 www.ocn.ne.jp##[id^="gooad-"]
 www.ocn.ne.jp##.banner
