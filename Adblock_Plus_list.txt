@@ -1333,6 +1333,7 @@ uptodown.com##.ad
 vippers.jp##.ad
 vogue.co.jp##.ad
 webcg.net##.ad
+women.benesse.ne.jp##.ad
 yakkun.com##.ad
 !wp系のアレなやつ
 ###side > aside > div.ad:first-child
