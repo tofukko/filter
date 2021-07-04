@@ -1443,6 +1443,7 @@ arealme.com##div[style="margin:auto;width:100%;min-height:250px;"]
 arukumachikyoto.jp##.ad_header_frame
 arukumachikyoto.jp###ad_footer_space
 ascii2d.net##.com
+ascii.jp##.ad_gam
 ashinari.com##[class^="area-bnr"]
 atwiki.jp###body_footer .lazy
 atwiki.jp###recommend
@@ -1450,6 +1451,9 @@ atwiki.jp##[id^="advp"]
 atwiki.jp##.atwiki-ads-margin
 atwiki.jp##.atwiki_ads
 atwiki.jp##div[style="width: 160px;height:600px"]
+aucfree.com###adOvl
+aucfree.com###md_similar_box
+aucfree.com##[class="results_bid"]
 !article
 auone.jp##.rectangle-ad
 auone.jp##.side__ad-box
@@ -3695,6 +3699,8 @@ ashemaletube.com##+js(aopr, open)
 @@||hydra-media.cursecdn.com/minecraft-ja.gamepedia.com/*/Beacon$image,domain=minecraft-ja.gamepedia.com
 @@||atwikiimg.com/www26.atwiki.jp/minecraft/*/beacon.png$image,domain=www26.atwiki.jp
 
+	! ヤフオクへのリンク
+aucfree.com#@#a[href*="liveads.jp/cc.php?"]
 bookmeter.com#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
