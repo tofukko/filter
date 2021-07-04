@@ -3781,10 +3781,9 @@ yakkun.com##.ad + div:style(clear: both !important;)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
-ff14angler.com###contents:style(display: block !important;)
-ff14angler.com##ins.adsbygoogle:style(height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+ff14angler.com#@#ins.adsbygoogle:style(height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+ff14angler.com##ins.adsbygoogle:style(position: absolute !important;)
 ff14angler.com##+js(set, document.aswift_0, 1)
-ff14angler.com###contents:style(display: block !important;)
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 
 gametter.com##+js(acis, addEventListener, google_ad_client)
