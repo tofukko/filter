@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/04 16:16
+! 最終更新 2021/07/04 17:38
 !
 
 !2011年10月07日閉鎖予定
@@ -1428,7 +1428,8 @@ animatetimes.com##.l-content-aside > .c-banner-aside:first-child
 animatetimes.com##.c-banner-lg-area
 animatetimes.com###times_affiliate-writer
 animatetimes.com##.c-reccomendArea-product
-animeanime.jp##.sidebox-ad
+animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
+animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
 apkcombo.com##.ad-box
 apkpure.com##.ad-box-auto
 apkpure.com##.left > .box[style="overflow: hidden; padding-bottom: 20px"]
@@ -1535,7 +1536,6 @@ courrier.jp##.pre_banner_area
 crank-in.net###banner
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
-cyclestyle.net##.sidebox-ad
 cyclowired.jp##.block.block-block.clearfix
 cyclowired.jp##.field-name-field-amazon-product1
 daily.co.jp##.pageAd
@@ -2036,9 +2036,6 @@ recipe-blog.jp##[id^="reb_pc_"]
 reddit.com##.promotedlink
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
-resemom.jp##.sidebox-ad
-response.jp##.main-ad
-response.jp##.sidebox-ad
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 ! https://ryukyushimpo.jp/style/
 ryukyushimpo.jp##[class*="c_ads_google"]
@@ -3620,27 +3617,35 @@ ashemaletube.com##+js(aopr, open)
 @@||google-analytics.com/ga.js$script,domain=daj.jp
 	! https://github.com/tofukko/filter/issues/24 サイドバー
 @@||google-analytics.com/analytics.js$script,domain=okwave.jp
-@@||googletagmanager.com/gtm.js?$script,domain=okwave.jp
-        ! 検索バーが表示されない
-@@||googletagmanager.com/gtm.js?$script,domain=resemom.jp
-	! 検索バーが表示されない
-@@||googletagmanager.com/gtm.js?$script,domain=response.jp
+@@||googletagmanager.com/gtm.js$script,domain=okwave.jp
 	! TOP 株式
-@@||googletagmanager.com/gtm.js?$script,domain=reuters.com
+@@||googletagmanager.com/gtm.js$script,domain=reuters.com
 	! 画像
-@@||googletagmanager.com/gtm.js?$script,domain=rocketnews24.com
-	! 検索バーが表示されない
-@@||googletagmanager.com/gtm.js?$script,domain=scan.netsecurity.ne.jp
+@@||googletagmanager.com/gtm.js$script,domain=rocketnews24.com
 	! https://github.com/tofukko/filter/issues/40
-@@||googletagmanager.com/gtm.js?$script,domain=tv-asahi.co.jp
+@@||googletagmanager.com/gtm.js$script,domain=tv-asahi.co.jp
 	! https://github.com/easylist/easylist/pull/8195
-@@||googletagmanager.com/gtm.js?$script,domain=viviennewestwood-tokyo.com
-	!チャットのポップアップ
-@@||googletagmanager.com/gtm.js?$script,domain=ymobile.jp
+@@||googletagmanager.com/gtm.js$script,domain=viviennewestwood-tokyo.com
+	! https://github.com/AdguardTeam/AdguardFilters/issues/75260
+@@||googletagmanager.com/gtm.js$script,domain=ymobile.jp
+	! IID 検索バー
+@@||googletagmanager.com/gtm.js$script,domain=animeanime.jp
+@@||googletagmanager.com/gtm.js$script,domain=carcareplus.jp
+@@||googletagmanager.com/gtm.js$script,domain=cinemacafe.net
+@@||googletagmanager.com/gtm.js$script,domain=cyclestyle.net
+@@||googletagmanager.com/gtm.js$script,domain=gamebusiness.jp
+@@||googletagmanager.com/gtm.js$script,domain=gamespark.jp
+@@||googletagmanager.com/gtm.js$script,domain=inside-games.jp
+@@||googletagmanager.com/gtm.js$script,domain=mycar-life.com
+@@||googletagmanager.com/gtm.js$script,domain=newscafe.ne.jp
+@@||googletagmanager.com/gtm.js$script,domain=resemom.jp
+@@||googletagmanager.com/gtm.js$script,domain=response.jp
+@@||googletagmanager.com/gtm.js$script,domain=scan.netsecurity.ne.jp
+@@||googletagmanager.com/gtm.js$script,domain=spyder7.com
 	! 再生が始まらない
-@@||googletagmanager.com/gtag/js?$script,domain=av01.tv
+@@||googletagmanager.com/gtag/js$script,domain=av01.tv
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84989
-@@||googletagmanager.com/gtag/js?$script,domain=kawasaki.com
+@@||googletagmanager.com/gtag/js$script,domain=kawasaki.com
 	! https://github.com/tofukko/filter/issues/39
 @@||harta.jp/bib/i/extensions/analytics/analytics.js$script,domain=harta.jp
 	!
