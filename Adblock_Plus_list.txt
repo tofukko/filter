@@ -2449,6 +2449,8 @@ blog.goo.ne.jp##.mod-entry-set-goo-ad
 blog.goo.ne.jp##.navbar__link--left
 blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
 dictionary.goo.ne.jp##.NR-ad
+map.goo.ne.jp###lnavi_site-cross
+map.goo.ne.jp###map-areamatch_wide
 news.goo.ne.jp##[class^="gooad_"]
 oshiete.goo.ne.jp##.gheader
 sports.goo.ne.jp##.clearfix[style="margin-top:20px;min-height:250px;"]
