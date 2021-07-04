@@ -3648,7 +3648,9 @@ ashemaletube.com##+js(aopr, open)
 @@||analytics.edgekey.net/config/$xmlhttprequest,domain=www3.nhk.or.jp
 @@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=www3.nhk.or.jp
 	! https://github.com/tofukko/filter/issues/13 ページ移動しない
-@@||npttech.com/advertising.js$script,domain=wired.jp
+@@||npttech.com/advertising.js$script,domain=wired.jp!
+	! https://github.com/easylist/easylist/pull/8202
+@@||omtrdc.net^*/mbox/standard?$script,domain=kenkoukazoku.co.jp
 	! 右側の勝率などの欄が非表示
 @@||opgg-static.akamaized.net/js3/tracker.js?*$domain=op.gg
 	! 全部
