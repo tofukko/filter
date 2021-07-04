@@ -1495,6 +1495,7 @@ buzzap.jp###Cresponsive_2nd
 buzzap.jp##.afamazon-box
 buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
+car-mo.jp##.pr-modal
 career.joi.media###post-advertisement
 career.joi.media##.banner
 ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
