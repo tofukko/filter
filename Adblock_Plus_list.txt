@@ -1362,6 +1362,7 @@ battle-one.com##.adsense
 cat.sc##.adsense
 dacelo.space##.adsense
 gurum.biz##.adsense
+haijin-boys.com##.adsense
 natsukimemo.com##.adsense
 otonasalone.jp##.adsense
 sk-hanbai.com##.adsense
