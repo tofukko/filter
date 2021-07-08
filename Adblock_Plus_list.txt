@@ -1872,6 +1872,7 @@ mangapedia.com##.description-bottom-ads
 mangaz.com###scroll-adv
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
+maonline.jp##.ad_box
 mapfan.com##.header-ad
 mapfan.com##.footer-ad
 mapion.co.jp##.ad-728x90
