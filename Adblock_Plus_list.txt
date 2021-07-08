@@ -2008,6 +2008,7 @@ osayama.com##[id^="osaya-"]
 otakei.otakuma.net###amazon-article
 otakei.otakuma.net##[class^="ad_side_widget_"]
 otapol.com###entryAdAmazonArea
+oursounds.net##.kijinai_ad
 oyakudachi2525.com##.add
 pakutaso.com##.banner
 pakutaso.com##.l-sidebar > .sidebarBlock:first-child
