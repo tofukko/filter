@@ -639,6 +639,7 @@ _ads.js
 ||kidslink.jp^*/dummy.html
 ||koepota.jp/img/ad/
 ||koepota.jp/js/amazon.js
+||kokuban.in/ad/
 ||kooss.com/*.htm$subdocument
 ||labaq.com/user/json/lq_amarray.js?
 ||linkage.kakaku.com^$domain=~kakaku.com
