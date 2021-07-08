@@ -2179,6 +2179,7 @@ web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
 web-ace.jp##[class^="ad_rect"]
 webcartop.jp###jp_wct_pc_article_undernextpage
+webcartop.jp###main > div[style="min-height: 250px;"]:first-child
 webcartop.jp###main:style(padding-bottom: 0 !important)
 webcartop.jp##.left-ads
 webcartop.jp##.right-ads
