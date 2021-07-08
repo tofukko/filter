@@ -1809,6 +1809,7 @@ kobe-np.co.jp##.active.native
 kobe-np.co.jp#?#.banner:-abp-has(> #knpc-rec1)
 kobe-np.co.jp##.bottomPrArea
 kobe-np.co.jp##div[id^=knpc-]
+kokuban.in##div[style="margin-top:15px; padding:5px 0px; text-align:center; font-size:10px; border-top: 1px dashed gray;"]
 kotobank.jp##.pc-iframe-ad
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 ktkm.net###custom_html-43
