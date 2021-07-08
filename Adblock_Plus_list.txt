@@ -3632,7 +3632,6 @@ ashemaletube.com##+js(aopr, open)
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
-@@||fwmrm.net^*/AdManager.swf?
 	! https://github.com/tofukko/filter/issues/18 次の話へ移動できない
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xmlhttprequest,domain=ganma.jp
 	! https://github.com/tofukko/filter/issues/41
