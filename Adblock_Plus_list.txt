@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/08 14:20
+! 最終更新 2021/07/08 19:42
 !
 
 !2011年10月07日閉鎖予定
@@ -3788,56 +3788,76 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
 
 
-	! https://twitter.com/280blocker/status/1289903534385721344
+! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
 /modal-dist/index.js
 
-	! https://github.com/AdguardTeam/AdguardFilters/issues/83410
-!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
+! 48idol.tv
+! https://github.com/AdguardTeam/AdguardFilters/issues/83410
+	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
-	! https://www.wowgame.jp/game_html/10064.html
+! wowgame.jp
+! https://www.wowgame.jp/game_html/10064.html
 @@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
+! crefan.jp
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=crefan.jp
 
-	! https://github.com/AdguardTeam/AdguardFilters/issues/64186
+! egotter.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/64186
 @@||cloudfront.net/adsense.js$domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 
+! f.tabtter.jp
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 
+! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 ff14angler.com#@#ins.adsbygoogle:style(height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 ff14angler.com##ins.adsbygoogle:style(position: absolute !important;)
 ff14angler.com##+js(set, document.aswift_0, 1)
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 
-gametter.com##+js(acis, addEventListener, google_ad_client)
+! gametter.com
+!gametter.com##+js(acis, addEventListener, google_ad_client)
 
-!gigaho.com##+js(aopr, onload)
-!gigaho.com#@#.adsbygoogle
-!gigaho.com##ins.adsbygoogle
+! gigaho.com
+	!gigaho.com##+js(aopr, onload)
+	!gigaho.com#@#.adsbygoogle
+	!gigaho.com##ins.adsbygoogle
 
+! modalina.jp
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
 modalina.jp###ggleadv:style(height: 60px !important;)
 
+! nordot.app
 nordot.app##+js(acis, document.createElement, admiral)
 
+! knshow.com
 !knshow.com##+js(acis, onload, .ads)
 	!@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=knshow.com
 	!@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=knshow.com
 	!knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 	!knshow.com#@#.adsbygoogle
 
-!my0nio.seesaa.net#@#.adsbygoogle
+! my0nio.seesaa.net
+	!my0nio.seesaa.net#@#.adsbygoogle
 
-!nazolog.com#@#.adsbygoogle
+! nazolog.com
+	!nazolog.com#@#.adsbygoogle
 
-	! https://github.com/uBlockOrigin/uAssets/issues/3874
+! savevideo.me
+! https://github.com/uBlockOrigin/uAssets/issues/3874
 savevideo.me##+js(acis, $, banner)
 
-	! https://github.com/uBlockOrigin/uAssets/issues/8461
+! totv.org
+! https://github.com/uBlockOrigin/uAssets/issues/8461
 totv.org###ad
+
+! youpouch.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/81308
+@@||fundingchoicesmessages.google.com^$script,domain=youpouch.com
+@@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com
 
 !-------------------Mobile用(オマケ)---------------------!
 ||ad-stir.com^$third-party
