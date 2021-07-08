@@ -2314,7 +2314,7 @@ news.biglobe.ne.jp###gadsOverlayUnit
 weather.biglobe.ne.jp###header:style(height: 60px !important;)
 
 	! https://github.com/tofukko/filter/issues/42
-@@||webryblog.biglobe.ne.jp/images/ad/*$image,domain=webryblog.biglobe.ne.jp
+@@||webryblog.biglobe.ne.jp/images/ad/$image,domain=webryblog.biglobe.ne.jp
 
 !------------bloomberg.co.jp----!
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
@@ -3124,7 +3124,7 @@ yahoo-jp.portal.connectedgamestore.com##.yahoo_jp_left_sidebar_ad
 yahoo-jp.portal.connectedgamestore.com###floatingAd
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=connectedgamestore.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=games.connectedgamestore.com
-@@||securepubads.g.doubleclick.net/gpt/*$script,domain=games.connectedgamestore.com
+@@||securepubads.g.doubleclick.net/gpt/$script,domain=games.connectedgamestore.com
 
 !Synk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=ycp.synk-casualgames.com
@@ -3599,7 +3599,7 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/tofukko/filter/issues/26
 @@||affiliate.dmm.com/img/ad_about_ad/$image,domain=affiliate.dmm.com
 	! トップバナー
-@@||afi-b.com/assets/dist/img/general/top/img/ad/*$image,domain=afi-b.com
+@@||afi-b.com/assets/dist/img/general/top/img/ad/$image,domain=afi-b.com
 	! https://github.com/tofukko/filter/issues/35
 @@||aiasahi.jp/ads/$image,domain=japan.cnet.com|japan.techrepublic.com|japan.zdnet.com
 	!動画見れない
@@ -3699,7 +3699,7 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/easylist/easylist/pull/8202
 @@||omtrdc.net^*/mbox/standard?$script,domain=kenkoukazoku.co.jp
 	! 右側の勝率などの欄が非表示
-@@||opgg-static.akamaized.net/js3/tracker.js?*$domain=op.gg
+@@||opgg-static.akamaized.net/js3/tracker.js?$domain=op.gg
 	! 全部
 @@||picrew.me/player/api/ads?$xmlhttprequest,domain=picrew.me
 	!ポイント貯めるサイト
