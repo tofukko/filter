@@ -1621,6 +1621,7 @@ freesoft.tvbok.com##.topad
 french-wine-jiten.com##.ad_footer
 friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
+fujitv.co.jp###fp-bhp-rectangle
 fukuishimbun.co.jp##.admeasure
 gakuryou.net##[id^="ADw"]
 gameranbu.jp###sub-col-wrap_top280:style(padding-top: 0px !important;)
