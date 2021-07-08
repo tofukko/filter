@@ -3765,7 +3765,7 @@ no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
 	!記事
 !server-setting.info#@#.adsbygoogle
 	!記事
-saitama-np.co.jp#@#div[id^="div-gpt-ad"]
+saitama-np.co.jp#@#[id^="div-gpt-ad"]
 	!本文
 tofukko.com#@#.ad-area
 	! https://github.com/tofukko/filter/issues/12 float
