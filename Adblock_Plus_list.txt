@@ -160,6 +160,7 @@ _ads.js
 ||ad-feed.com^$third-party
 ||ad-management.biz^$third-party
 ||ad-nex.com^$third-party
+||ad-stir.com^$third-party
 ||ad-tag.biz^$third-party
 ||ad-v.jp^$third-party
 ||ad-vortex.com^$third-party
@@ -181,6 +182,7 @@ _ads.js
 ||adresult.jp^$third-party
 ||ads-connect.com^$third-party
 ||ads-tool.$third-party
+||adsee.jp^$third-party
 ||adserver.$third-party
 ||adsrvr.org^$third-party
 ||adswizz.com^$third-party
@@ -209,6 +211,8 @@ _ads.js
 ||ag-affiliate.com^$third-party
 ||agilemedia.jp^$third-party
 ||alimama.cn^$third-party
+||alistcloud.com^$third-party
+||amoad.com^$third-party
 ||appollo.jp^$third-party
 ||appollo-plus.com^$third-party
 ||apvdr.com^$third-party
@@ -253,6 +257,7 @@ _ads.js
 ||flux-g.com^$third-party
 ||flux-training.com^$third-party
 ||fmpub.net^$third-party
+||focas.jp^$third-party
 ||fourmtagservices.com^$third-party
 ||fout.jp^$third-party
 ||free-video-movie.com^$third-party
@@ -266,6 +271,7 @@ _ads.js
 ||gmodmp.jp^$third-party
 ||googleadservices.com^$third-party
 ||gsspat.jp^$third-party
+||i-mobile.co.jp^$third-party
 ||iid-network.jp^$third-party
 ||impact-ad.jp^$third-party
 ||infocart.jp^$third-party
@@ -361,6 +367,7 @@ _ads.js
 ||smartadserver.com^$third-party
 ||smartclick.net^$third-party
 ||socdm.com^$third-party
+||speead.jp^$third-party
 ||sppp.jp^$third-party
 ||store-mix.com^$third-party
 ||sublimestore.jp^$third-party
@@ -385,6 +392,7 @@ _ads.js
 ||trustclick.ne.jp^$third-party
 ||tunnel-vision.info^$third-party
 ||tyrellsys.com^$third-party
+||unitedblades.co.jp^$third-party
 ||unrulymedia.com^$third-party
 ||utarget.co.uk^$third-party
 ||valueclick.ne.jp^$third-party
@@ -834,7 +842,6 @@ _analytics.js?
 /spc.gif?
 /spc.php?
 /stats.php
-/torimochi.js
 /topref.cgi?
 /trace.cgi?
 /track.js
@@ -1083,6 +1090,8 @@ _analytics.js?
 ||suteki-tool.com/al
 ||suteki-tool.com/pr
 ||l.typesquare.com^
+||line-cdn.net^*/torimochi.js
+||line-scdn.net^*/torimochi.js
 ||tatsumi-sys.jp*.asp?uid=
 ||tr.webantenna.info^
 ||tracer.jp^
@@ -1168,6 +1177,7 @@ _analytics.js?
 ||taboola.com^$third-party
 ||taxel.jp^$third-party
 ||logly.co.jp^$third-party
+||zucks.net$third-party
 
 ! microad
 ##.c-ad
@@ -3370,7 +3380,6 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 ||vis1.shinobi.jp/jsr/
 
 !g------------mediafire.com------------
-||mediafire.com^$subdocument
 mediafire.com##+js(aeld, click, ClickHandler)
 
 
@@ -3557,7 +3566,7 @@ ashemaletube.com##+js(aopr, open)
 
 	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
 
-	!cxense.com
+! cxense.com
 ||cxense.com^$third-party
 @@||cxense.com/cx.cce.js$script
 @@||cxense.com/cx.js$script
@@ -3565,7 +3574,8 @@ ashemaletube.com##+js(aopr, open)
 @@||api.cxense.com/public/widget/data^$script,xmlhttprequest
 @@||api.cxense.com/document/search?$script,xmlhttprequest
 
-	!nakanohito https://github.com/easylist/easylist/issues/7760
+! nakanohito
+! https://github.com/easylist/easylist/issues/7760
 @@||cm-beacon.nakanohito.jp/at/ranking/$script
 @@||cm-beacon.nakanohito.jp/cm/comment_$xmlhttprequest
 @@||cm-beacon.nakanohito.jp/cm/comment_count/$xmlhttprequest
@@ -3859,29 +3869,13 @@ totv.org###ad
 @@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com
 
 !-------------------Mobile用(オマケ)---------------------!
-||ad-stir.com^$third-party
-||adcrops.net^$third-party
-||adfurikun.jp^$third-party
-||adsee.jp^$third-party
-||alistcloud.com^$third-party
-||amoad.com^$third-party
-||aspm.jp^$third-party
-||astrsk.net^$third-party
-||bannerfarm.aolp.jp^$third-party
-||caprofitx.com^$third-party
-||focas.jp^$third-party
-||formulas.jp^$third-party
-||genieedmp.com^$third-party
-||i-mobile.co.jp^$third-party
-||ktai.pw^$third-party
-||moba8.net^$third-party
-||nend.net^$third-party
-||smartad-analytics.info^$third-party
-||speead.jp^$third-party
-||unitedblades.co.jp^$third-party
-||yicha.jp^$third-party
+!n
 ||z-profit.com^$third-party
-||zucks.net$third-party
+!c
+||genieedmp.com^$third-party
+!s
+||astrsk.net^$third-party
+||caprofitx.com^$third-party
+||nend.net^$third-party
 
-||amazonaws.com/ad-arata/$domain=fc2.com
-||sp-a.gree.net/g/u.html?
+
