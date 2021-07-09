@@ -775,7 +775,7 @@ _analytics.js?
 /ga_social_tracking.js
 /gaAddons.js
 /gaAddons-
-/gaaddons/
+/gaaddons/*
 /gatrack.
 /getlog.
 /getlog?
