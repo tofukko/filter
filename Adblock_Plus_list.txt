@@ -401,7 +401,6 @@ _ads.js
 ||visiblemeasures.com^$third-party
 ||webantenna.info^$third-party
 ||weborama.fr^$third-party
-||webpush.jp^$third-party
 ||whaleads.com^$third-party
 ||wyunion.com^$third-party
 ||x-lift.jp^$third-party
@@ -3654,6 +3653,8 @@ ashemaletube.com##+js(aopr, open)
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	! https://github.com/uBlockOrigin/uAssets/issues/9458
 @@||google-analytics.com/ga.js$script,domain=daj.jp
+	! ユーザーローカルAIコメント
+@@||googletagmanager.com/gtm.js$script,domain=maidonanews.jp
 	! https://github.com/tofukko/filter/issues/24 サイドバー
 @@||google-analytics.com/analytics.js$script,domain=okwave.jp
 @@||googletagmanager.com/gtm.js$script,domain=okwave.jp
@@ -3675,6 +3676,9 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=viviennewestwood-tokyo.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/75260
 @@||googletagmanager.com/gtm.js$script,domain=ymobile.jp
+        ! ユーザーローカルAIコメント
+@@||googletagmanager.com/gtm.js$script,domain=zakzak.co.jp
+@@||get.s-onetag.com^$script,domain=zakzak.co.jp
 	! IID 検索バー
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp
 @@||googletagmanager.com/gtm.js$script,domain=carcareplus.jp
