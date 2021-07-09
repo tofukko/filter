@@ -1170,7 +1170,7 @@ _analytics.js?
 ! popin
 ##._popIn_recommend_article_ad
 ##._popIn_recommend_article_ad_reserved
-||rtoaster.jp^$third-party
+	!||rtoaster.jp^$third-party
 ||outbrain.com^$third-party
 ||speee-ad.akamaized.net^
 ||taboola.com^$third-party
@@ -3653,6 +3653,8 @@ ashemaletube.com##+js(aopr, open)
 @@||googleadservices.com/pagead/conversion_async.js$domain=jp.square-enix.com
 	! https://github.com/uBlockOrigin/uAssets/issues/9458
 @@||google-analytics.com/ga.js$script,domain=daj.jp
+	! この商品を買った人は
+@@||googletagmanager.com/gtm.js$script,domain=e-earphone.jp
 	! ユーザーローカルAIコメント
 @@||googletagmanager.com/gtm.js$script,domain=maidonanews.jp
 	! https://github.com/tofukko/filter/issues/24 サイドバー
