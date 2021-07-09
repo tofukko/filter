@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/09 9:22
+! 最終更新 2021/07/10 0:51
 !
 
 !2011年10月07日閉鎖予定
@@ -739,9 +739,7 @@ _ads.js
 /analog/*
 /analys.js
 /analysis.js
-! bbc.co.uk　音出ない
-! lexus.jp　ueナビバー
-/analytics.js$domain=~bbc.co.uk|~lexus.jp|~xhamster.com
+/analytics.js
 _analytics.js?
 /analytics?
 /analyze.cgi?
