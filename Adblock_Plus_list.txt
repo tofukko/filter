@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/10 0:51
+! 最終更新 2021/07/11 10:05
 !
 
 !2011年10月07日閉鎖予定
@@ -3147,10 +3147,11 @@ yomiuri.co.jp##[id^="ad_dfp_news-txt"]
 yomiuri.co.jp##div[class^="p-ad-dfp"]
 !発言小町
 komachi.yomiuri.co.jp##.p-ads-center
-komachi.yomiuri.co.jp##.p-ads-flex
-komachi.yomiuri.co.jp##.p-ads-header
+komachi.yomiuri.co.jp##[id^="ad_gam_"]
+komachi.yomiuri.co.jp##[class^="p-ad_"]
 !OTEKOMACHI
-otekomachi.yomiuri.co.jp##.widget_sidead
+otekomachi.yomiuri.co.jp##.p-ads-middle-rec
+otekomachi.yomiuri.co.jp##[id^="ad_gam_"]
 
 
 
