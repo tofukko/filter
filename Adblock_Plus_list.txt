@@ -3761,6 +3761,8 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/tofukko/filter/issues/25
 @@||utamap.com/banner/dvd.jpg$image,domain=utamap.com
 @@||utamap.com/banner/y_ran_$image,domain=utamap.com
+	! キャンペーンバナー
+@@||vector.co.jp/img_cache/tq/p/service/special/sale/gachi/images/$image,domain=vector.co.jp
 @@||yimg.jp^*/lib2obf_*.js
 @@||yimg.jp/bdv/yahoo/darla/*/darla-secure-beacons-min.js$domain=mail.yahoo.co.jp
 @@||yimg.jp/bdv/yahoo/darla/*/darla-dynamic-beacons-min.js$domain=mail.yahoo.co.jp
