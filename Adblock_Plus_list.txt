@@ -1518,6 +1518,13 @@ car-me.jp##.p-article_kaitori_cta
 car-mo.jp##.pr-modal
 career.joi.media###post-advertisement
 career.joi.media##.banner
+cartoonnetwork.jp##.adbnrs
+cartoonnetwork.jp##.adBox
+cartoonnetwork.jp##.bnr350
+cartoonnetwork.jp##.bnrBottom
+cartoonnetwork.jp##.bnrBottomTop
+cartoonnetwork.jp##.campad
+cartoonnetwork.jp##.skyscraper
 ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
