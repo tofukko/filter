@@ -627,6 +627,7 @@ _ads.js
 ||news.merumo.ne.jp/ad/
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
+||gyazo.com/direct_ads/
 ||hentai-foundry.com/themes/default/js/activebar.js
 ||hinative.com/assets/banners/trek/
 ||horne.red/banner/
@@ -1695,6 +1696,7 @@ gori.me##.sidebar-single-ad
 gqjapan.jp##[data-test-id="AdBannerWrapper"]
 gqjapan.jp##[data-test-id="AdDisplayWrapper"]
 greasyfork.org##.ad-entry
+gyazo.com##.lower-ad
 gyo.tc,megalodon.jp##form[action="https://www.google.co.jp/search"] + .row
 hamachan.info###sidetop_ad_pc
 hentai-covers.site##.ad-banner
