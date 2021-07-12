@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/11 20:59
+! 最終更新 2021/07/12 16:51
 !
 
 !2011年10月07日閉鎖予定
@@ -3667,6 +3667,8 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=okwave.jp
 	! https://github.com/easylist/easylist/pull/8193
 @@||googletagmanager.com/gtm.js$script,domain=hatenacorp.jp
+	! カートに追加できない
+@@||googletagmanager.com/gtm.js$script,domain=junonline.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/78329
 @@||googletagmanager.com/gtm.js$script,domain=kakuyomu.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
@@ -3676,7 +3678,7 @@ ashemaletube.com##+js(aopr, open)
 	! 画像
 @@||googletagmanager.com/gtm.js$script,domain=rocketnews24.com
 	! https://github.com/hirorpt/filters/commit/5b41ca5e9a58de697459ef5c98132f131e887c15
-@@||googletagmanager.com/gtm.js$domain=stage.parco.jp
+@@||googletagmanager.com/gtm.js$script,domain=stage.parco.jp
 	! https://github.com/tofukko/filter/issues/40
 @@||googletagmanager.com/gtm.js$script,domain=tv-asahi.co.jp
 	! https://github.com/easylist/easylist/pull/8195
