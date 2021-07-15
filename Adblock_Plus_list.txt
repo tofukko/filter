@@ -2173,6 +2173,7 @@ togetter.com##.ad_custom_fluid
 togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
 togetter.com##.ad_topics_custom
+togetter.com##[class="list_box"]
 tokyo-sports.co.jp##.head-bnr-area
 toranoana.jp##.tora-ads
 touhouyaruosure.com##[href*="dlsite.com"]
