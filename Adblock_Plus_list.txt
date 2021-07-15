@@ -1300,6 +1300,7 @@ chat.shalove.net##.ad
 chaturbate.com##.ad
 daysneo.com##.ad
 downdetector.com##.ad
+e-mansion.co.jp##.ad
 e-typing.ne.jp##.ad
 e-words.jp##.ad
 epub-tw.com##.ad
@@ -1582,6 +1583,12 @@ diskgarage.com##.cm_ads
 dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
 dl-x.com##.vip-center
+e-mansion.co.jp###bottom_ad
+e-mansion.co.jp###bottom_bottom_ad
+e-mansion.co.jp###part_footer
+e-mansion.co.jp##.entry-body > p > a + br
+e-mansion.co.jp##.entry-body > p > a:-abp-contains([PR])
+e-mansion.co.jp##.main_present_thread > .padding > .right.column
 e-nenpi.com##.top_ads
 e-typing.ne.jp##[class^="ad"][class*="00"]
 e-typing.ne.jp##.adbox_468
