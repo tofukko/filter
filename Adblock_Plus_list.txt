@@ -1829,9 +1829,11 @@ kanaloco.jp##.top-head-bnr
 kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
 kantsuri.com##.featured.section-inverse
+karapaia.com###header-ad-o
 karapaia.com###overlay
-karapaia.com##.readmore-header
+karapaia.com##[id^="karapaia_"]
 karapaia.com##[class^=ads-label]
+karapaia.com##div[style="padding-top: 10px; height: 600px"]
 keisan-mondai.com##.head-ad
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
 kobe-np.co.jp###prBox
