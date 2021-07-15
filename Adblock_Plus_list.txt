@@ -680,6 +680,7 @@ _ads.js
 ||pawoo.net/packs/media/pawoo/images/about/banner-
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
+||piapro.jp/images/ads/
 ||savevideo.me/ads-fallback/
 ||server-navi.info/cgi/book_
 ||sexyvoice.org/banner/
