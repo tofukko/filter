@@ -1454,6 +1454,8 @@ apkcombo.com##.ad-box
 apkpure.com##.ad-box-auto
 apkpure.com##.left > .box[style="overflow: hidden; padding-bottom: 20px"]
 apkpure.com##div[style="margin: 0 auto 20px auto;position: relative;width:100%;overflow: hidden;height: 306px;"]
+app-liv.jp##.ad-bnr-words
+app-liv.jp##.adv-area
 appget.com##.adsence
 !jack
 appmedia.jp##[id^="ad_jack_"]
