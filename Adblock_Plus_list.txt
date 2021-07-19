@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/15 21:02
+! 最終更新 2021/07/20 6:54
 !
 
 !2011年10月07日閉鎖予定
@@ -3123,10 +3123,19 @@ games.wkb.jp##.top-ad
 
 !SOFTGAMES
 ||vntsm.com^$third-party
-||games.softgames.com/modules/p2-ads-client.js
-||dop3jnx8my3ym.cloudfront.net/sg-track-sdk.js$script,domain=softgames.com
 games.softgames.com##.sgYMenuContainer + div
-@@||games.softgames.com^$script,other,xmlhttprequest,domain=games.softgames.com
+@@||stats.g.doubleclick.net/*__utm.gif?$image,domain=games.softgames.com
+@@||stats.g.doubleclick.net/dc.js$script,domain=games.softgames.com
+@@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Fgames.softgames.com$xhr,domain=games.softgames.com|imasdk.googleapis.com
+@@||googletagservices.com/tag/js/gpt.js$script,domain=games.softgames.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.softgames.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=games.softgames.com
+||googlevideo.com/videoplayback?$media,redirect=noop-1s.mp4,domain=games.softgames.com|safeframe.googlesyndication.com
+@@||games.softgames.com/assets/advertisement.js$domain=games.softgames.com
+safeframe.googlesyndication.com###dialog_wrapper
+safeframe.googlesyndication.com##[class*="-towerVideo"]
+safeframe.googlesyndication.com##[class*="-landscapeVideo"]
+safeframe.googlesyndication.com###abgc
 
 !Aeria
 minigame.aeriagames.jp###centerADBox
