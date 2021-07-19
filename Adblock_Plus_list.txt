@@ -3731,6 +3731,8 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtag/js$script,domain=av01.tv
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84989
 @@||googletagmanager.com/gtag/js$script,domain=kawasaki.com
+        ! https://github.com/tofukko/filter/issues/44
+@@||grandjump.shueisha.co.jp/original/*/analytics.js$script,domain=grandjump.shueisha.co.jp
 	! https://github.com/tofukko/filter/issues/39
 @@||harta.jp/bib/i/extensions/analytics/analytics.js$script,domain=harta.jp
 	! https://github.com/easylist/easylist/pull/6920
