@@ -3720,6 +3720,7 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=cyclestyle.net
 @@||googletagmanager.com/gtm.js$script,domain=gamebusiness.jp
 @@||googletagmanager.com/gtm.js$script,domain=gamespark.jp
+@@||google-analytics.com/analytics.js$script,domain=gamespark.jp
 @@||googletagmanager.com/gtm.js$script,domain=inside-games.jp
 @@||googletagmanager.com/gtm.js$script,domain=mycar-life.com
 @@||googletagmanager.com/gtm.js$script,domain=newscafe.ne.jp
