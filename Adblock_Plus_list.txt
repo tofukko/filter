@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/20 6:54
+! 最終更新 2021/07/22 8:10
 !
 
 !2011年10月07日閉鎖予定
@@ -118,7 +118,7 @@ _ads.js
 ##AMP-AD
 
 !geniee
-/\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script,third-party
+/\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script
 
 ||geniee.jp^$third-party
 ||glssp.net^$third-party
@@ -637,6 +637,7 @@ _ads.js
 ||japan.cnet.com/parts/frame/
 ||japanese.engadget.com^$subdocument
 ||japanese.joins.com/HomeAds/
+||jma.go.jp/bosai/ad/
 ||joysound.com/web/src/s/ad/
 ||jugem.jp/ad/
 ||kabutan.jp/js/rand_ads.js?
