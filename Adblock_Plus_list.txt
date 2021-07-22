@@ -881,6 +881,7 @@ _analytics.js?
 ||adrizer.com^$third-party
 ||afv.jp^$third-party
 ||al.l--l.jp^$third-party
+||amplitude.com^$third-party
 ||amung.us^$third-party
 ||analysiswebtool.com^$third-party
 ||analytics.$third-party
