@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/22 8:10
+! 最終更新 2021/07/22 12:47
 !
 
 !2011年10月07日閉鎖予定
@@ -1793,6 +1793,11 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="amazon.co"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="accesstrade.net/sp/"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
+k-zone.co.jp##.adunit_640_250
+k-zone.co.jp##.textAdArea
+k-zone.co.jp###mainContents:style(float: left !important;padding-right: 0 !important;)
+k-zone.co.jp###sideContents:style(position: static !important;float: right !important;margin-top: 20px !important;)
+k-zone.co.jp##.pageTop_wr:style(clear: both !important;)
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
 ka-soku.com##.article-body > span:last-of-type ~ b
 ka-soku.com##.article-body > span:last-of-type ~ br
