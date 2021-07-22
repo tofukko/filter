@@ -2947,6 +2947,8 @@ tok2.com###tok2_footer
 !share-videos.se
 ||cstwpush.com^
 ||d2swpuhpwp3khd.cloudfront.net^
+||tokyo-motion.net/bnr/
+||video.fc2.com/api/v3/videoplay/$domain=tokyomotion.net
 osakamotion.net,tokyomotion.net###nuevoa
 
 !------------vector.co.jp-------------!
