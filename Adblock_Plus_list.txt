@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/22 12:47
+! 最終更新 2021/07/23 9:17
 !
 
 !2011年10月07日閉鎖予定
@@ -1630,6 +1630,7 @@ famitsu.com#?#.l-contents-block:-abp-has(> .row > .col-12 > .card-game-sale-rank
 	!微妙系
 	!famitsu.com##[class^="l-contents-block--tie-up-"]
 	!famitsu.com#?#.border-col-bottom > [class^="col-"]:-abp-has(> .card > [class*="ad-native-campaign"])
+fandom.com##.ad-slot-placeholder
 fandom.com##.aff-unit__disclaimer-message
 fandom.com##.aff-unit__wrapper
 fandom.com##.wikia-ad
