@@ -3655,8 +3655,11 @@ ashemaletube.com##+js(aopr, open)
 @@||afi-b.com/assets/dist/img/general/top/img/ad/$image,domain=afi-b.com
 	! https://github.com/tofukko/filter/issues/35
 @@||aiasahi.jp/ads/$image,domain=japan.cnet.com|japan.techrepublic.com|japan.zdnet.com
-	!動画見れない
+	! 動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
+	! 動画見れない https://sports.nhk.or.jp/olympic/
+	! 前にもあったので nhk.or.jp 全体で許可
+@@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=nhk.or.jp
 	! https://github.com/Yuki2718/adblock/issues/20
 @@||api.docodoco.jp^$script,domain=jrtours.co.jp
 	!全体的に
