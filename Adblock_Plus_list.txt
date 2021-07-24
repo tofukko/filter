@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/23 9:17
+! 最終更新 2021/07/24 21:08
 !
 
 !2011年10月07日閉鎖予定
@@ -2501,7 +2501,7 @@ gamebox.gesoten.com##.ad_super
 @@||imasdk.googleapis.com/js/core/$subdocument,domain=gamebox.gesoten.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamebox.gesoten.com
 
-	!@@||games.softgames.com/assets/advertisement.js$script,first-party
+||nifty.gesoten.com/n/banner/
 
 !------------goo------------!
 ||adcdn.goo.ne.jp^
