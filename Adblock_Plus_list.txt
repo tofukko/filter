@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/24 21:08
+! 最終更新 2021/07/25 9:26
 !
 
 !2011年10月07日閉鎖予定
@@ -2021,6 +2021,7 @@ sp.nijie.info###tieup_column
 nikkansports.com###adPushdown
 nazology.net##.ads-wide
 news.dwango.jp##.bnrs
+nhentai.net##+js(nowoif)
 nikkansports.com##.adBECOME
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
