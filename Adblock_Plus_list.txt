@@ -824,18 +824,6 @@ _analytics.js?
 /piwik.php
 /pphlogger.
 /report.cgi?
-
-
-	!2019/03/13 外した 雑すぎ
-	!dmmサンプルが見れなくなる
-	!途中からファイル名が変わったから下にも例外追加したがいつ元に戻るかわからないから2つとも例外のまま
-	!http://books.rakuten.co.jp/ranking/hourly/000/#!/1 ランキングが表示されない
-	!http://hotel.travel.rakuten.co.jp/hotelinfo/plan/108080 空室カレンダー消える
-!/s_code.$domain=~books.rakuten.co.jp|~dmm.co.jp|~hikaritv.net|~hotel.travel.rakuten.co.jp|~loppi.jp|~mora.jp|~mydocomo.com|~saisoncard.co.jp
-	!yahooショッピング カートに入れるボタンが押せない
-	! playstation.com next押しても反応無し
-!/s_code_*.js$domain=~dmm.co.jp|~dmm.com|~adobe.com|~shopping.yahoo.co.jp|~saisoncard.co.jp|~locate.apple.com|~playstation.com
-
 /sextans.cgi?log
 /sfa.php
 /sfga.js
