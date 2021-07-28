@@ -847,7 +847,6 @@ _analytics.js?
 /topref.cgi?
 /trace.cgi?
 /track.js
-/track.php?
 /tracker.js
 	!getginger.jp英文法チェック入力欄
 	!https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=荷物の番号 読み込まれるファイル https://tools.usps.com/go/styles/tracking.css
@@ -2278,6 +2277,10 @@ zyuken.net##.SimpleBox.PaddingRight10Left10[style*="margin-bottom:5px;"]
 ! https://グラビア画像.com/
 xn--cck1a7gsd645rnx7b.com##.container > .navbar-header:style(float: none !important;)
 xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//adframe.kohsoku.info/"])
+
+!------------@japan--------------!
+/clog_ad.js
+/track.php?
 
 !------------5ch pink------------!
 ||i2ad.jp^
