@@ -1360,6 +1360,7 @@ imashun-navi.com##.ads
 karapaia.com##.ads
 keyakizaka46matomerabo.com##.ads
 komachi.yomiuri.co.jp##.ads
+matomame.jp##.ads
 ryusoku.com##.ads
 savevideo.me##.ads
 
