@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/28 8:45
+! 最終更新 2021/07/29 12:36
 !
 
 !2011年10月07日閉鎖予定
@@ -698,7 +698,7 @@ _ads.js
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
-||twitter.com/i/videoads/
+||twitter.com^*/videoads/
 ||twoucan.com/ad?name=
 ||uraaka-joshi.com/pr$subdocument
 ||urasma.com^$domain=ura-akiba.jp
