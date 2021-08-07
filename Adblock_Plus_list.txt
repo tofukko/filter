@@ -2255,6 +2255,11 @@ yourei.jp#?##sentence-6:-abp-has(> .side-component)
 zch-vip.com###article_center_ad
 zch-vip.com###article_bottom_ad
 zch-vip.com##.ad_tb
+zekkei-matome.com###header + div[align=center]
+zekkei-matome.com##.col-md-12 > a[rel=nofollow]
+zekkei-matome.com##.col-md-4.foot_menu
+zekkei-matome.com##[class="contaimer"] > br
+zekkei-matome.com##[href^="https://www.cross-a.net"]
 zokugo-dict.com##.koukokusm
 !上
 zyuken.net###AdminPage > .Centering.MarginTop10Bottom10
