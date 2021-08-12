@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/08/07 22:28
+! 最終更新 2021/08/12 20:43
 !
 
 !2011年10月07日閉鎖予定
@@ -3108,7 +3108,9 @@ sports.yahoo.co.jp##.yf-lrec
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp
 ||dcs.yahoo.co.jp^
-||dsb.yahoo.co.jp^
+	! 視聴履歴が残らないかも
+	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment848
+	!||dsb.yahoo.co.jp^
 ||geo.yahoo.com^
 ||logql.yahoo.co.jp^
 ||rd.yahoo.co.jp^
