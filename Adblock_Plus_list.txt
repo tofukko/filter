@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/08/12 20:43
+! 最終更新 2021/08/13 8:55
 !
 
 !2011年10月07日閉鎖予定
@@ -3513,12 +3513,14 @@ majikichi.com##^#left_menu
 !pornhub
 ||phncdn.com/www-static/js/ph-tracking.js?
 ||phncdn.com/www-static/js/htmlPauseRoll/
-pornhub.com###hd-rightColVideoPage > .clearfix:first-child
-pornhub.com##.removeAdsStyle
-pornhub.com##.sniperModeEngaged
-pornhub.com##.video-wrapper > #player + [class]
-pornhub.com##+js(nowoif)
-pornhub.com##+js(window.open-defuser)
+pornhub.*,pornhubthbh7ap3u.onion###hd-rightColVideoPage > .clearfix:first-child
+pornhub.*,pornhubthbh7ap3u.onion##.sniperModeEngaged
+pornhub.*,pornhubthbh7ap3u.onion##.video-wrapper > #player + [class]
+pornhub.*,pornhubthbh7ap3u.onion##+js(aopw, isAdblockOn)
+pornhub.*,pornhubthbh7ap3u.onion##+js(acis, Object.defineProperty, trafficjunky)
+pornhub.*,pornhubthbh7ap3u.onion##+js(set, HTMLElement.prototype.attachShadow, null)
+pornhub.*,pornhubthbh7ap3u.onion##+js(nowoif)
+@@||static.trafficjunky.com/ab/ads_test.js$script,domain=pornhub.*|pornhubthbh7ap3u.onion
 
 !redtube
 redtube.com###content_container > .show_page_modals + div
