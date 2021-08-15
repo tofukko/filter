@@ -2087,6 +2087,7 @@ qoly.jp##div[style="height:90px; width:728px;"]
 r.binb.jp###adp
 rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
+rankingoo.net###bottom_overlay_area
 rastaneko-blog.com##[class^="header-ad-outer"]
 rastaneko-blog.com##[class^="kijinaka-outer"]
 realsound.jp###ad_entryBottom
