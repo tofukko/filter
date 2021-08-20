@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/08/15 16:09
+! 最終更新 2021/08/20 9:09
 !
 
 !2011年10月07日閉鎖予定
@@ -170,6 +170,7 @@ _ads.js.
 ||adap.tv^$third-party
 ||adapf.com^$third-party
 ||adbrite.com^$third-party
+||adcent.jp^$third-party
 ||addeluxe.jp^$third-party
 ||adingo.jp$third-party
 ||adjust-net.jp^$third-party
@@ -1056,6 +1057,7 @@ _analytics.js?
 ||blozoo.info/js/inouttool/blogparts.js
 ||code.usergram.info^
 ||confiant-integrations.global.ssl.fastly.net^
+||contx.net/collect.js
 ||deqwas.net^
 ||disqus.com/stats.html
 ||dw-eu.com.com^
@@ -1071,6 +1073,7 @@ _analytics.js?
 ||itgear.jp*/ax.js
 ||just-now.net/a?k=
 ||just-now.net/p?k=
+||k-crm.jp/tracking.js
 ||l.sharethis.com^
 ||l--l.jp/in.cgi?
 ||mc.yandex.ru^
