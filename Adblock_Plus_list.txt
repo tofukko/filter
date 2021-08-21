@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/08/20 9:09
+! 最終更新 2021/08/21 17:57
 !
 
 !2011年10月07日閉鎖予定
@@ -2690,12 +2690,16 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 
 !g--------loveheaven.net---------!
 !         lovehug.net
-/lovehug.js
+!	  welovemanga.net
+/prebidlink/*
 ||a.vdo.ai^
 ||cogleapad.com^
+||comasoiling.casa^
 ||dyecowwhy.com^
 ||exdynsrv.com^
 ||eyefuneve.com^
+||greeter.me^
+||inpage-push.com^
 ||jiltlargosirk.com^
 ||lzrikate.com^
 ||mehebborc.com^
@@ -2710,7 +2714,6 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||spolecznosci.net^$third-party
 ||inpagepush.com^$important
 
-lovehug.net##center
 
 !--------------msn----------------!
 ://c.*/c.gif?
