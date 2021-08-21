@@ -2695,6 +2695,7 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||a.vdo.ai^
 ||cogleapad.com^
 ||comasoiling.casa^
+||dramaco.xyz^
 ||dyecowwhy.com^
 ||exdynsrv.com^
 ||eyefuneve.com^
