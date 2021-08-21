@@ -2715,6 +2715,7 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||spolecznosci.net^$third-party
 ||inpagepush.com^$important
 
+welovemanga.net###id-custom_banner
 
 !--------------msn----------------!
 ://c.*/c.gif?
