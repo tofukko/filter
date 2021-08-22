@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/08/21 17:57
+! 最終更新 2021/08/22 18:53
 !
 
 !2011年10月07日閉鎖予定
@@ -1881,6 +1881,7 @@ loveh.org##.videobottompr320x100
 loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
 maho.jp##.Ad
+mag2.com##[id^="advads-"]
 magnet-novels.com##.adBox
 maidonanews.jp##[class^="module-ad"]
 maidonanews.jp##.module-list-articles__ad
