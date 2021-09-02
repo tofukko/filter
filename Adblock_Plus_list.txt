@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/08/26 9:31
+! 最終更新 2021/09/02 9:06
 !
 
 !2011年10月07日閉鎖予定
@@ -2383,7 +2383,6 @@ bloomberg.co.jp##.leaderboard-wrapper
 @@||spotxcdn.com/integration/directsdk/$script,domain=bloomberg.co.jp|bloomberg.com
 @@||search.spotxchange.com^$xhr,domain=bloomberg.co.jp|bloomberg.com
 @@||sourcepointcmp.bloomberg.com/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
-@@||sourcepointcmp.bloomberg.*/mms/get_site_data$xmlhttprequest,domain=bloomberg.co.jp|bloomberg.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
 
