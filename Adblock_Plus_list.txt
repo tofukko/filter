@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/11 9:36
+! 最終更新 2021/09/14 20:00
 !
 
 !2021年10月07日閉鎖予定
@@ -2091,8 +2091,6 @@ qiita.com##[id^=logly-lif]
 qiita.com##[id^=logly-lif]:upward(2)
 qoly.jp##.banner
 qoly.jp##div[style="height:90px; width:728px;"]
-	!https://hobbyjapan.co.jp/comic/series/
-r.binb.jp###adp
 rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
 rankingoo.net###bottom_overlay_area
