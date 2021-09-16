@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/16 13:24
+! 最終更新 2021/09/16 19:16
 !
 
 !2021年10月07日閉鎖予定
@@ -2034,9 +2034,11 @@ o-dan.net###spgLoadAd
 o-uccino.jp##[class^="float_banner_"]
 oceans-nadia.com###pc_tag_banner_area_1
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
+okwave.jp###fluct-pc-sticky-ad
 okwave.jp##.adfunnel_main_special_box
 okwave.jp##.adfunnel_osusume_box_pc:style(height: auto !important;)
 okwave.jp##.adfunnel_special_box_pc
+okwave.jp##div[style="min-height:122px;"]
 open2ch.net##.kokoku
 or2.mobi##.single_ad
 or2.mobi##.top_ad
