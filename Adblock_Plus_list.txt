@@ -1400,8 +1400,8 @@ nhentai.net##.advertisement
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.breaker-ad
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.leaderboard-ad
 2ch-c.net#?#li:-abp-has(> .nend_text_ad)
-30calclub.sakura.ne.jp##tr > td > font:-abp-contains(【期間限定セール情報】)
-30calclub.sakura.ne.jp##tr:-abp-has(> td[colspan="16"] > font[size="2"]:-abp-contains(/通販情報|FANZA/))
+30calclub.sakura.ne.jp#?#tr > td > font:-abp-contains(【期間限定セール情報】)
+30calclub.sakura.ne.jp#?#tr:-abp-has(> td[colspan="16"] > font[size="2"]:-abp-contains(/通販情報|FANZA/))
 373news.com###ad_prinfo
 373news.com##.mns_bn
 48idol.tv###custom_html-4
@@ -1590,7 +1590,7 @@ e-mansion.co.jp###bottom_ad
 e-mansion.co.jp###bottom_bottom_ad
 e-mansion.co.jp###part_footer
 e-mansion.co.jp##.entry-body > p > a + br
-e-mansion.co.jp##.entry-body > p > a:-abp-contains([PR])
+e-mansion.co.jp#?#.entry-body > p > a:-abp-contains([PR])
 e-mansion.co.jp##.main_present_thread > .padding > .right.column
 e-nenpi.com##.top_ads
 e-typing.ne.jp##[class^="ad"][class*="00"]
