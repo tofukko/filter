@@ -2379,7 +2379,7 @@ bloomberg.co.jp##.leaderboard-wrapper
 @@||cdx.cedexis.net^$domain=bloomberg.co.jp|bloomberg.com
 @@||js.spotx.tv/directsdk/$script,domain=bloomberg.co.jp|bloomberg.com
 @@||spotxcdn.com/integration/directsdk/$script,domain=bloomberg.co.jp|bloomberg.com
-@@||search.spotxchange.com^$xhr,domain=bloomberg.co.jp|bloomberg.com
+@@||search.spotxchange.com^$xmlhttprequest,domain=bloomberg.co.jp|bloomberg.com
 @@||sourcepointcmp.bloomberg.com/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
@@ -2639,12 +2639,12 @@ kissanime.digital##main + script + div[class]
 kissanime.*##+js(acis, String.fromCharCode, /btoa|break/)
 kissanime.*###upgrade_pop
 embed.streamx.me##+js(noeval-if, debugger)
-||kissanime.*/api/pop.php$xhr,1p
-||kissasian.*/api/pop.php$xhr,1p
+||kissanime.*/api/pop.php$xmlhttprequest,1p
+||kissasian.*/api/pop.php$xmlhttprequest,1p
 ||ad.kissasian.*^$script,1p
-||kisscartoon.*/api/pop.php$xhr,1p
+||kisscartoon.*/api/pop.php$xmlhttprequest,1p
 ||ad.kisscartoon.*^$script,1p
-||kisstvshow.ru/api/pop.php$xhr,1p
+||kisstvshow.ru/api/pop.php$xmlhttprequest,1p
 ||ad.kisstvshow.ru^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/7308
@@ -3152,7 +3152,7 @@ games.wkb.jp##.top-ad
 games.softgames.com##.sgYMenuContainer + div
 !@@||stats.g.doubleclick.net/*__utm.gif?$image,domain=games.softgames.com
 !@@||stats.g.doubleclick.net/dc.js$script,domain=games.softgames.com
-@@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Fgames.softgames.com$xhr,domain=games.softgames.com|imasdk.googleapis.com
+@@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Fgames.softgames.com$xmlhttprequest,domain=games.softgames.com|imasdk.googleapis.com
 @@||googletagservices.com/tag/js/gpt.js$script,domain=games.softgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.softgames.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=games.softgames.com
@@ -3805,7 +3805,7 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/tofukko/filter/issues/46
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=firecross.jp
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=firecross.jp
-@@||securepubads.g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Ffirecross.jp$xhr,domain=firecross.jp
+@@||securepubads.g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Ffirecross.jp$xmlhttprequest,domain=firecross.jp
 ||googlevideo.com/videoplayback?$media,redirect=noopmp4-1s,domain=safeframe.googlesyndication.com
 safeframe.googlesyndication.com##.left-container
 firecross.jp##.is-open.modal
