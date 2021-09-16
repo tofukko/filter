@@ -2,16 +2,12 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/16 11:11
+! 最終更新 2021/09/16 13:24
 !
 
 !2021年10月07日閉鎖予定
 nicovideo.jp##.ads_list_area
 ch.nicovideo.jp##.ads_nicovideo
-
-!2021/09/11 down
-waifu2x.udp.jp##.all-page > div[style="min-height: 270px; margin: 1em"]
-waifu2x.udp.jp##.dmm-games
 
 !2021/07/02
 ||adimg.net^
@@ -2226,6 +2222,8 @@ vidoza.net##.pvr
 vivi.tv##.adsArea
 voosuper.com##.ggbox
 voosuper.com#?#.mainlist > ul > li:-abp-has(> .ggbox)
+waifu2x.udp.jp##.all-page > div[style="min-height: 270px; margin: 1em"]
+waifu2x.udp.jp##.dmm-games
 walkerplus.com###wp_all_1r_gam
 walkerplus.com###wp_all_bb_gam
 walkerplus.com##.m-prbnr
@@ -2755,8 +2753,7 @@ nicosub.net###seigarakuten
 
 !------------nicovideo ニコニコ動画------------!
 ||nimg.jp/web/scripts/common/tracking/google_analytics.js?
-!アンケート
-	!||enquete.nicovideo.jp/static/
+
 !動画
 www.nicovideo.jp###head_ads
 www.nicovideo.jp###web_pc_footer
