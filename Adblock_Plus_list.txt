@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/16 19:16
+! 最終更新 2021/09/17 7:34
 !
 
 !2021年10月07日閉鎖予定
@@ -2965,10 +2965,10 @@ tok2.com###tok2_footer
 
 !------------tokyomotion.net------------!
 !share-videos.se
-||cstwpush.com^
+||bab7b663ef.391e04933a.com^
+||congrab.com/banner.
 ||d2swpuhpwp3khd.cloudfront.net^
 ||tokyo-motion.net/bnr/
-||video.fc2.com/api/v3/videoplay/$domain=tokyomotion.net
 osakamotion.net,tokyomotion.net###nuevoa
 
 !------------vector.co.jp-------------!
