@@ -2116,7 +2116,6 @@ ryukyushimpo.jp##[class*="c_ads_google"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
 saitama-np.co.jp###ad_middle
-sankakucomplex.com##[class^="adbmodal-"]
 sanspo.com##.article__inline-ad
 say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
@@ -2758,11 +2757,6 @@ bazutore.com##.hed0
 bazutore.com##.kijikome3
 bazutore.com#?#.kijisita-itiran:-abp-has(> h3:-abp-contains(紹介))
 
-!------------nicosub.net------------!
-||dlsite.com^$domain=nicosub.net
-||nicosub.net/api/dlsite/
-nicosub.net###seigarakuten
-
 !------------nicovideo ニコニコ動画------------!
 ||nimg.jp/web/scripts/common/tracking/google_analytics.js?
 
@@ -2928,7 +2922,7 @@ romhustler.org###section > .hidden-xs
 romhustler.org##.square_ad_big
 romhustler.org##.square_ad_small
 romhustler.org##div[style="padding-bottom:5px;padding-top:5px;"]
-romhustler.org##+js(nano-sib, timer.remove, , 0.02)
+romhustler.org##+js(nano-sib, timer.remove)
 
 !g-----------sankakucomplex.com-----------!
 ||msgose.com^
