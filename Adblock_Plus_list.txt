@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/17 7:34
+! 最終更新 2021/09/18 13:20
 !
 
 !2021年10月07日閉鎖予定
@@ -1927,7 +1927,7 @@ matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
 medibang.com##.asArtStreetTopIllustAd
 medibang.com##.mdbnAdBlock
-medibang.com##.mdModal
+medibang.com#?#.mdModal:-abp-has(.mdbnViewer__ad.-first)
 medibang.com##[class^="adBlock__"]
 	!mobile
 medibang.com##.mfp-ready
