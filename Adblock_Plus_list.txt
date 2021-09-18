@@ -2975,7 +2975,7 @@ tok2.com###tok2_footer
 
 !------------tokyomotion.net------------!
 !share-videos.se
-||bab7b663ef.391e04933a.com^
+/^https:\/\/[a-f0-9]{10}\.[a-f0-9]{10}\.com\/[a-f0-9]{32}\.js$/$script,domain=tokyomotion.net
 ||congrab.com/banner.
 ||d2swpuhpwp3khd.cloudfront.net^
 ||tokyo-motion.net/bnr/
