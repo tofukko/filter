@@ -1571,6 +1571,11 @@ courrier.jp##.pre_banner_area
 crank-in.net###banner
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
+! 漫画
+curazy.com##.jsViewer_overlay-dialogAd
+curazy.com##.jsViewer_dialog-ad
+curazy.com##.viewer_controller_footer_ad
+curazy.com##.viewer_controller_footer:style(height: auto !important;)
 cyclowired.jp##.block.block-block.clearfix
 cyclowired.jp##.field-name-field-amazon-product1
 daily.co.jp##.pageAd
