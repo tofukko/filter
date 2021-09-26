@@ -3182,7 +3182,7 @@ minigame.aeriagames.jp###centerADBox
 minigame.aeriagames.jp###aeriagamesBackground
 minigame.aeriagames.jp###footer-ad
 minigame.aeriagames.jp###zumba-ad
-minigame.aeriagames.jp##+js(nano-stb, aeriaGamesAdCountDown(), 1000)
+minigame.aeriagames.jp##+js(nano-stb, aeriaGamesAdCountDown)
 @@||minigame.aeriagames.jp*/ae-tpgs-$domain=minigame.aeriagames.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=minigame.aeriagames.jp
 
