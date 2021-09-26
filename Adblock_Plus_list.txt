@@ -2134,6 +2134,7 @@ sexyvoice.org###side-scroll
 sexyvoice.org##.block_ranking
 share-videos.se###ad_html
 share-videos.se###new_ad_html
+simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 smashop.jp###r1_advertisement
@@ -2188,6 +2189,11 @@ traicy.com##.pc-ad
 traicy.com##.pc-ad-wide
 nordot.app###js-ur
 nordot.app##.page__listPageAd
+timeout.jp##.ad-mpu
+timeout.jp##[id^="ad-promo-"]
+timeout.jp##[id^="ad-side-"]
+timeout.jp##[class^="_footer_ad_wrap_"]
+timeout.jp##[class^="_inlineAdWrapper_"]
 tinami.com###banner_view
 tinami.com##.view_ad
 ! jack?
