@@ -1549,6 +1549,7 @@ cinema.ne.jp##.ad-pc
 cinemarche.net##.adBoxWrap
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
+city.eniwa.hokkaido.jp##.fixed-ad-wrap
 cnn.co.jp###ad-large-header
 cnn.co.jp###ad-rect
 cnn.co.jp##.ad-txt
