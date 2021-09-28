@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/27 14:17
+! 最終更新 2021/09/29 0:28
 !
 
 !2021年10月07日閉鎖予定
@@ -3744,6 +3744,8 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=junonline.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/78329
 @@||googletagmanager.com/gtm.js$script,domain=kakuyomu.jp
+	! https://github.com/tofukko/filter/issues/48
+@@||googletagmanager.com/gtm.js$script,domain=mangaseek.net
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
 	! TOP 株式
