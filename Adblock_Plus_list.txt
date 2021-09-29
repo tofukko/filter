@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/29 0:28
+! 最終更新 2021/09/29 12:53
 !
 
 !2021年10月07日閉鎖予定
@@ -1791,6 +1791,8 @@ jitenon.jp##.ads_wraptop2
 jmty.jp##.p-adsense-list-right-column-high-block
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
+jp.dinggling.com,jp.voosuper.com##.videoinfo > .ggbox
+jp.dinggling.com,jp.voosuper.com##.popright > .mainlist > ul > li:nth-of-type(3)
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
@@ -2239,8 +2241,6 @@ uta-net.com##.ad-area-b:not(.pc-official-link)
 uta-net.com##.ad-area-c
 vidoza.net##.pvr
 vivi.tv##.adsArea
-voosuper.com##.ggbox
-voosuper.com#?#.mainlist > ul > li:-abp-has(> .ggbox)
 waifu2x.udp.jp##.all-page > div[style="min-height: 270px; margin: 1em"]
 waifu2x.udp.jp##.dmm-games
 walkerplus.com###wp_all_1r_gam
