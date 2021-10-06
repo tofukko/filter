@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/09/29 12:53
+! 最終更新 2021/10/06 14:30
 !
 
 !2021年10月07日閉鎖予定
@@ -3952,6 +3952,9 @@ nordot.app##+js(acis, document.createElement, admiral)
 	!@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=knshow.com
 	!knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 	!knshow.com#@#.adsbygoogle
+
+! musenboya.com
+musenboya.com##+js(nostif, google_jobrunner)
 
 ! my0nio.seesaa.net
 	!my0nio.seesaa.net#@#.adsbygoogle
