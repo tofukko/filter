@@ -2427,6 +2427,7 @@ coolrom.com.au##+js(set-constant, time, 0)
 ||dmm.co*/js/banner_placement.js?affiliate_id=
 ||dmm.co*/js/placement.js
 ##a[href*="dmm.ad-s.org"]
+p-town.dmm.com##.adnetwork-footer
 @@||pics.dmm.com/af/dmmad/*/dmm0*.jpg
 
 !------------dtiblog------------!
