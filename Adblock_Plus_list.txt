@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/10/09 13:49
+! 最終更新 2021/10/10 9:11
 !
 
 !2021年10月07日閉鎖予定
@@ -281,6 +281,7 @@ _ads.js.
 ||infolinks.com^$third-party
 ||infotop.$third-party
 ||insightexpressai.com^$third-party
+||insurads.com^$third-party
 ||j-a-net.jp^$third-party
 ||jsadapi.com^$third-party
 ||juicyads.com^$third-party
@@ -2278,6 +2279,12 @@ xvideo-jp.com##.p-dmmad
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 yamakei-online.com###text_ad
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
+yorozoonews.jp###yzpc-native1
+yorozoonews.jp###yzpc-nativeRelation
+yorozoonews.jp##.module-ad
+yorozoonews.jp##.module-ad-header
+yorozoonews.jp##.module-list-articles__ad
+yorozoonews.jp##.module-list-articles__item--ad
 yourei.jp##.side-component:not([id])
 yourei.jp#?##sentence-6:-abp-has(> .side-component)
 zch-vip.com###article_center_ad
