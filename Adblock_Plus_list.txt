@@ -1667,6 +1667,8 @@ front-row.jp##.after-btn-fb-nice-ad-pc
 fujitv.co.jp###fp-bhp-rectangle
 fukuishimbun.co.jp##.admeasure
 gakuryou.net##[id^="ADw"]
+gamebiz.jp##.main:style(overflow-x: unset !important;)
+gamebiz.jp##.takeover
 gameranbu.jp###sub-col-wrap_top280:style(padding-top: 0px !important;)
 gameranbu.jp##.ad_center
 gameranbu.jp##.side_ad > .cf
