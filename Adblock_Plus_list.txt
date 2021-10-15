@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/10/15 13:35
+! 最終更新 2021/10/15 20:12
 !
 
 !2021年10月07日閉鎖予定
@@ -1873,7 +1873,7 @@ kotaro269.com##.ad-box
 kotobank.jp##.pc-iframe-ad
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 ktkm.net###custom_html-43
-kurashi-no.jp##[style="width: 300px; height: 600px;"]
+kurashi-no.jp##.p-article__nro
 kurashiru.com##.FooterAppPc-adsWrapper
 kurukura.jp##.double-rectangle
 kurukura.jp#?#.single-sidebar:-abp-has(> .ad-bnr)
