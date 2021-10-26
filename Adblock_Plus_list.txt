@@ -1762,6 +1762,8 @@ imgur.com##.ad-slot
 imgur.com##.BottomAd-container
 investing.com##.midHeader
 irasutoya.com##[class^="entryadwrapper"]
+iromame-beans.jp##.ads3
+iromame-beans.jp##.ads4
 itaishinja.com##.ADW
 iwate-np.co.jp#?#.article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
