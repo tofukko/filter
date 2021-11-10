@@ -1543,6 +1543,7 @@ charmer-media.com,elife-media.jp,firststyle.jp,frequ.jp,miima.jp,platabi.com,tri
 chat.shalove.net,skypemeet.net##.right_cont
 chat.shalove.net##[id].hearttext:style(display: inline !important;)
 chikuwachan.com##.right_advs
+chisou-media.jp##.p-article div[style="min-height: 280px!important;min-width: 500px;"]
 chosunonline.com##.rectbanner
 clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
