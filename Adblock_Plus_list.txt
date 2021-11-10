@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/11/07 6:31
+! 最終更新 2021/11/10 13:06
 !
 
 !2021年10月07日閉鎖予定
@@ -3952,7 +3952,6 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 ff14angler.com#@#ins.adsbygoogle:style(height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
-ff14angler.com##ins.adsbygoogle:style(position: absolute !important;)
 ff14angler.com##+js(set, document.aswift_0, 1)
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 
