@@ -1802,8 +1802,7 @@ jma.go.jp##.ad-pc
 jmty.jp##.p-adsense-list-right-column-high-block
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
-jp.dinggling.com,jp.smallpopo.com,jp.voosuper.com##.videoinfo > .ggbox
-jp.dinggling.com,jp.smallpopo.com,jp.voosuper.com##.popright > .mainlist > ul > li:nth-of-type(3)
+jp.17gameworld.com,jp.angel-animals.com,jp.dinggling.com,jp.smallpopo.com,jp.voosuper.com##.ggbox
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
