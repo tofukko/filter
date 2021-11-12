@@ -876,6 +876,7 @@ _analytics.js?
 ||amung.us^$third-party
 ||analysiswebtool.com^$third-party
 ||analytics.$third-party
+||analyticsip.net^$third-party
 ||appsflyer.com^$third-party
 ||ashia.to^$third-party
 ||auriq.com^$third-party
