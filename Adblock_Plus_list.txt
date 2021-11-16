@@ -2644,7 +2644,6 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.jp/adsv/
 ||cdn.cxpublic.com/articleCenterInBody_$subdocument,domain=atmarkit.co.jp
 nlab.itmedia.co.jp###globalHeader
-nlab.itmedia.co.jp##.cmsAmazonWrap
 
 !------------ixll.co.jp----------!
 figgy.jp##.wrapper:style(margin-top: 90px !important;)
