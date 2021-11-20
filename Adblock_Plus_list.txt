@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/11/12 14:18
+! 最終更新 2021/11/20 12:16
 !
 
 !2021年10月07日閉鎖予定
@@ -1420,6 +1420,8 @@ nhentai.net##.advertisement
 4gamer.net##.medipartner:style(position: static !important;)
 4gamer.net##.sidetop
 4gamer.net##.satellite_banner
+4ndan.com##.adtop
+4ndan.com##.sponserdlink
 4shared.com##.jsReklBlock
 4shared.com##.rekl-right
 4shared.com##.rekl_top
