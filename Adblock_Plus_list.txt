@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/11/20 12:16
+! 最終更新 2021/11/25 19:56
 !
 
 !2021年10月07日閉鎖予定
@@ -1740,7 +1740,8 @@ himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
 hinative.com##.mod_ads_trek_balloon
-hitomi.la##+js(aopw, _pop)
+hitomi.la##div[class$="content"] > div[class^="hitomi-"]
+hitomi.la##+js(noeval)
 hitomi.la##+js(aopr, open)
 hitomi.la##+js(aopr, pops)
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
