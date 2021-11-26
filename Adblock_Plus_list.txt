@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/11/25 19:56
+! 最終更新 2021/11/27 7:32
 !
 
 !2021年10月07日閉鎖予定
@@ -1805,7 +1805,7 @@ jma.go.jp##.ad-pc
 jmty.jp##.p-adsense-list-right-column-high-block
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
-jp.17gameworld.com,jp.angel-animals.com,jp.dinggling.com,jp.smallpopo.com,jp.voosuper.com##.ggbox
+jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.voosuper.com##.ggbox
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
