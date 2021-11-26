@@ -1671,6 +1671,7 @@ friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fujitv.co.jp###fp-bhp-rectangle
 fukuishimbun.co.jp##.admeasure
+fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com##.ggbox
 gakuryou.net##[id^="ADw"]
 gamebiz.jp##.main:style(overflow-x: unset !important;)
 gamebiz.jp##.takeover
@@ -1805,7 +1806,6 @@ jma.go.jp##.ad-pc
 jmty.jp##.p-adsense-list-right-column-high-block
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
-jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.voosuper.com##.ggbox
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
