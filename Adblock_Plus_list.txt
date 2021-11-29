@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/11/28 10:37
+! 最終更新 2021/11/29 15:56
 !
 
 !2021/07/02
@@ -2634,14 +2634,11 @@ watch.impress.co.jp##[id$="-amazon-ranking"]
 webtan.impress.co.jp###webtan_adsense_nodefooter
 
 !------------itmedia.co.jp-------!
-||atmarkit.co.jp^*/ad.js?
-||ednjapan.com^*/ad.js?
 ||itmedia.co.jp^*/ad.js?
 ||itmedia.co.jp^*/insert_articles_ad.js
 ||itmedia.co.jp/css/sa.js
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
-||cdn.cxpublic.com/articleCenterInBody_$subdocument,domain=atmarkit.co.jp
 nlab.itmedia.co.jp###globalHeader
 
 !------------ixll.co.jp----------!
