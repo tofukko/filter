@@ -3817,7 +3817,7 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/tofukko/filter/issues/38
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 	! https://github.com/uBlockOrigin/uAssets/issues/10790
-@@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
+@@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! https://github.com/tofukko/filter/issues/13 ページ移動しない
