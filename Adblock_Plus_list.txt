@@ -1359,6 +1359,7 @@ bang-dream-news.com##.ads
 blogcircle.jp##.ads
 chixi.jp##.ads
 chugoku-np.co.jp##.ads
+color-sample.com##.ads
 diskgarage.com##.ads
 gaccom.jp##.ads
 gori.me##.ads
