@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/12/11 10:15
+! 最終更新 2021/12/12 11:45
 !
 
 !2021/07/02
@@ -1765,6 +1765,7 @@ img.favsite.jp##[href*="dlsite.com/"]
 imgur.com##.ad-slot
 imgur.com##.BottomAd-container
 investing.com##.midHeader
+irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
 iromame-beans.jp##.ads3
 iromame-beans.jp##.ads4
@@ -2872,6 +2873,11 @@ aria.nikkei.com,doors.nikkei.com,dual.nikkei.com,woman.nikkei.com###stickyArea1
 
 	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment830
 @@||vdata.nikkei.com/newsgraphics/*/ga.js?$script,domain=vdata.nikkei.com
+
+!------------nukistream.com---------!
+! ぬきスト系
+erry.one,hikaritube.com,iqoo.me,poyopara.com,sugirl.info##div[style^="width:100%;box-sizing:border-box;padding:1em"]
+nukistream.com##[href^="https://click.dtiserv2.com/Click185/"]
 
 !------------otapps.net-------------!
 ! https://info.otapps.net/
