@@ -50,6 +50,7 @@ _ad.js
 /adframe.$~script,~xmlhttprequest
 /adframe/*
 /adframes.
+/adfurikun/*$third-party
 ?adid=
 /adloader.
 /adparts/*
