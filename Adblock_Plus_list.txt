@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/12/20 20:03
+! 最終更新 2021/12/26 22:09
 !
 
 !2021/07/02
@@ -2225,7 +2225,7 @@ togetter.com##.ad_custom_fluid
 togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
 togetter.com##.ad_topics_custom
-togetter.com##[class="list_box"]
+togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 tokyo-sports.co.jp##.head-bnr-area
 tonarinoyj.jp##.js-page-ad
 toranoana.jp##.tora-ads
