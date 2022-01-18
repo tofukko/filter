@@ -1812,6 +1812,7 @@ jocr.jp##.side_adsbygoogle
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
+jprime.jp##div[style="min-height:250px;"]
 jugem.jp##.UBH_new
 ! http://jugem.jp/theme/
 jugem.jp##div[style="height:280px;position: relative; margin-bottom:15px;"]
