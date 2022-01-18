@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/12/26 22:09
+! 最終更新 2022/01/18 18:18
 !
 
 !2021/07/02
@@ -1601,6 +1601,8 @@ dengekionline.com##.gAdBanner-pickUp
 dengekionline.com##.gMovBox.u-mtbS
 dengekionline.com##.gNews > .gAdBanner
 dengekionline.com##.gRankMoreNav
+diamond.jp##.gpt-ad
+diamond.jp##.sub-ad
 diamond-fudosan.jp##.ad-header
 diskgarage.com##.cm_ads
 dl8x.com##[class^="dx-banner-"]
