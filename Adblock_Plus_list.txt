@@ -2149,6 +2149,7 @@ search.carview.co.jp##.sponsor
 seikeidenron.jp##.advertising
 seikeidenron.jp##.articleAdd
 seikeidenron.jp##.rightAdd
+seikyouiku-illust.com##.c-sponsorbanner
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
 serai.jp##.post_content--ad_area
