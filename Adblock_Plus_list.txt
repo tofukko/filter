@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/01/18 18:18
+! 最終更新 2022/01/21 11:51
 !
 
 !2021/07/02
@@ -3865,12 +3865,12 @@ ashemaletube.com##+js(aopr, open)
 @@||rtoaster.jp/Rtoaster.js$domain=3ple.jp
 @@||rt.rtoaster.jp^$domain=3ple.jp
 	! https://github.com/tofukko/filter/issues/46
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=firecross.jp
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=firecross.jp
-@@||securepubads.g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Ffirecross.jp$xmlhttprequest,domain=firecross.jp
-||googlevideo.com/videoplayback?$media,redirect=noopmp4-1s,domain=safeframe.googlesyndication.com
-safeframe.googlesyndication.com##.left-container
-firecross.jp##.is-open.modal
+	        !@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=firecross.jp
+	        !@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=firecross.jp
+	        !@@||securepubads.g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Ffirecross.jp$xmlhttprequest,domain=firecross.jp
+	        !||googlevideo.com/videoplayback?$media,redirect=noopmp4-1s,domain=safeframe.googlesyndication.com
+	        !safeframe.googlesyndication.com##.left-container
+	        !firecross.jp##.is-open.modal
 	!注目アバター
 @@||site-banner.hange.jp/adshow$subdocument,domain=animallabo.hange.jp
 	!TOP 総合ランキング
