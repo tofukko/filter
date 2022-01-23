@@ -11,7 +11,6 @@
 !----------------------------広告----------------------------!
 /300x250.
 /300x250_
-/300x250-
 _300x250.
 _300_250_
 _300_250.
@@ -3169,6 +3168,7 @@ mail.yahoo.co.jp#?##tagYadsSideColumn:upward(1)
 news.yahoo.co.jp##.adWrap
 search.yahoo.co.jp##.Ad
 sports.yahoo.co.jp##.yf-lrec
+weather.yahoo.co.jp##.ad-frame-fix
 
 ||analytics.yahoo.co
 ||b0.yahoo.co.jp^
