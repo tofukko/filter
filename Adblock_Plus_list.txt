@@ -1872,10 +1872,11 @@ karapaia.com##div[style="padding-top: 10px; height: 600px"]
 keisan-mondai.com##.head-ad
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
 kobe-np.co.jp###prBox
+kobe-np.co.jp##[id^="browsi_adWrapper_"]
 kobe-np.co.jp##.active.native
 kobe-np.co.jp#?#.banner:-abp-has(> #knpc-rec1)
 kobe-np.co.jp##.bottomPrArea
-kobe-np.co.jp##div[id^=knpc-]
+kobe-np.co.jp##div[id^="knpc-"]
 kochinews.co.jp##.pr_area
 kokuban.in##div[style="margin-top:15px; padding:5px 0px; text-align:center; font-size:10px; border-top: 1px dashed gray;"]
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
