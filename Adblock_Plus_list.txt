@@ -1660,6 +1660,7 @@ favolog.org###side > div:first-child
 fgamers.saikyou.biz###ad-area-1
 fgamers.saikyou.biz###ad-area-2
 fgamers.saikyou.biz##[id^="subAmzn"]
+firecross.jp###js-ad-modal
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
 fnn.jp##.sherpa-component[data-ad_type]
@@ -3881,7 +3882,6 @@ ashemaletube.com##+js(aopr, open)
 	        !@@||securepubads.g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Ffirecross.jp$xmlhttprequest,domain=firecross.jp
 	        !||googlevideo.com/videoplayback?$media,redirect=noopmp4-1s,domain=safeframe.googlesyndication.com
 	        !safeframe.googlesyndication.com##.left-container
-	        !firecross.jp##.is-open.modal
 	!注目アバター
 @@||site-banner.hange.jp/adshow$subdocument,domain=animallabo.hange.jp
 	!TOP 総合ランキング
