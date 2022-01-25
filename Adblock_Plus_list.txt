@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/01/23 20:00
+! 最終更新 2022/01/25 19:36
 !
 
 !2021/07/02
@@ -1529,6 +1529,7 @@ buzzap.jp##.afamazon-box
 buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
 caloo.jp##[id^="dfp-Caloo_"]
+campify.jp##.pc-overlay-ad
 car-me.jp##.p-article_kaitori_cta
 car-mo.jp##.pr-modal
 career.joi.media###post-advertisement
@@ -3097,6 +3098,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.related-ad-unit-area
 ##.sponsor-h2-center
 ##.sponsor-top
+##.tcdw_ad_widget
 ##.thk_ps_widget
 ##.widget_common_ad
 ##.widget_fit_aditem_class
