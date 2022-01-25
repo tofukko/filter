@@ -1155,13 +1155,16 @@ _analytics.js?
 ##.ad-rectangle
 ##.article_ad
 
-! fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com
-##.ggbox
-
 ! ezoic
 ##.adtester-container
 ||ezoic.net^
 ||ezodn.com^$3p
+
+! fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com
+##.ggbox
+
+! gacraft.jp
+##.sherpa-component[data-ad_type]
 
 ! google
 ##.google-user-ad
@@ -1664,7 +1667,6 @@ fgamers.saikyou.biz##[id^="subAmzn"]
 firecross.jp###js-ad-modal
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
-fnn.jp##.sherpa-component[data-ad_type]
 freem.ne.jp##.ad-horizontal-wrapper
 freem.ne.jp##.game-list-ad
 freesoft.tvbok.com###left_box3
@@ -2038,6 +2040,7 @@ new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
 news.mixi.jp##.adsenseBannerArea
 news.mynavi.jp##.c-sidePickup
+news.ntv.co.jp##.header-publicity
 news.shitaraba.net##.sidebar_ad
 news.tbs.co.jp##.cp-pcAd
 news.tbs.co.jp##.cp-spAd
