@@ -2063,11 +2063,11 @@ sp.nijie.info###tieup_column
 nikkansports.com###adPushdown
 nikkansports.com##.adBECOME
 northwood.blog.fc2.com#?#.menuBlockBase:-abp-has(> .menuBlockHead > .menuTitle:-abp-contains(PCパーツショップ))
+novel.prcm.jp##.app-scroll-lock:style(position: relative !important;)
 novel.prcm.jp##.footer__ad
 novel.prcm.jp##.header-ad
 novel.prcm.jp##app-refresher
 novel.prcm.jp##app-remote-ad-frame
-novel.prcm.jp##+js(ra, class, .app-scroll-lock)
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 npn.co.jp###arata5
