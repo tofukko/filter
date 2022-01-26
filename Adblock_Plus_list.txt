@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/01/25 19:36
+! 最終更新 2022/01/26 15:06
 !
 
 !2021/07/02
@@ -2031,6 +2031,7 @@ navitime.co.jp###under-advertisement
 navitime.co.jp##[class^="section-ad-"]
 nazo2.net##.ad_article_center
 nazo2.net##.footer_ad
+nazology.net##.ads-wide
 nazology.net##.side-adblock
 new-akiba.com###bannerJ
 new-akiba.com##.amazon-sidelist
@@ -2038,6 +2039,7 @@ new-akiba.com##.amazon-sidelist-right2
 new-akiba.com##.top-column-onsale
 new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
+news.dwango.jp##.bnrs
 news.mixi.jp##.adsenseBannerArea
 news.mynavi.jp##.c-sidePickup
 news.ntv.co.jp##.header-publicity
@@ -2046,6 +2048,7 @@ news.tbs.co.jp##.cp-pcAd
 news.tbs.co.jp##.cp-spAd
 news24.jp###adText01
 newswitch.jp##.banner-top
+nhentai.net##+js(nowoif)
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
 nikkansports.com##[id^="sideAd"]
@@ -2058,13 +2061,15 @@ sp.nijie.info###header_ad
 sp.nijie.info###inter_background
 sp.nijie.info###tieup_column
 nikkansports.com###adPushdown
-nazology.net##.ads-wide
-news.dwango.jp##.bnrs
-nhentai.net##+js(nowoif)
 nikkansports.com##.adBECOME
+northwood.blog.fc2.com#?#.menuBlockBase:-abp-has(> .menuBlockHead > .menuTitle:-abp-contains(PCパーツショップ))
+novel.prcm.jp##.footer__ad
+novel.prcm.jp##.header-ad
+novel.prcm.jp##app-refresher
+novel.prcm.jp##app-remote-ad-frame
+novel.prcm.jp##+js(ra, class, .app-scroll-lock)
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
-northwood.blog.fc2.com#?#.menuBlockBase:-abp-has(> .menuBlockHead > .menuTitle:-abp-contains(PCパーツショップ))
 npn.co.jp###arata5
 nuwton.com##[class*="banner-"]
 nyaa.si##.servers-cost-money1
