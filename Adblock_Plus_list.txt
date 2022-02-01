@@ -2298,6 +2298,8 @@ webkaru.net##[class^="ad-"]
 webllica.com###headlinkad
 webllica.com##.sponsored_link
 wikiwiki.jp##[id$="-ad-container"]
+wired.jp##.ad--mid-content
+wired.jp##.ad-stickyhero
 wowgame.jp##[style="width:300px; height:250px;"]
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
 writening.net##.section-ad
@@ -3858,8 +3860,6 @@ ashemaletube.com##+js(aopr, open)
 @@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
-	! https://github.com/tofukko/filter/issues/13 ページ移動しない
-@@||npttech.com/advertising.js$script,domain=wired.jp
 	! https://github.com/easylist/easylist/pull/8202
 @@||omtrdc.net^*/mbox/standard?$script,domain=kenkoukazoku.co.jp
 	! 右側の勝率などの欄が非表示
