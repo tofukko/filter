@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/01/26 20:46
+! 最終更新 2022/02/02 0:00
 !
 
 !2021/07/02
@@ -1123,7 +1123,6 @@ _analytics.js?
 ||ismedia.jp/oo/
 ||kadokawagakugei.com/js/ga2.js
 ||kooss.com/cgi-usr/accl/lkz.cgi?
-||mainichi.jp/js/an.js
 ||maps.google.com^*/stats.js
 ||milmil.cc/sys/asiato.cgi?
 ||milmil.cc/sys/kaiseki.cgi?
@@ -1920,9 +1919,7 @@ magnet-novels.com##.adBox
 maidonanews.jp##[class^="module-ad"]
 maidonanews.jp##.module-list-articles__ad
 maidonanews.jp##.module-list-articles__item--ad
-mainichi.jp###SuggestKeyWord
-mainichi.jp###SuperBanner
-mainichi.jp##.ArticleAdKW
+mainichi.jp##.ad-side-1
 making.pipa.jp##.NoFrame.RelatedWorkRight
 mamadays.tv##[class*="_ads__"]
 mamadays.tv##[class^="style_ad_"]
@@ -3791,11 +3788,6 @@ ashemaletube.com##+js(aopr, open)
 @@||google-analytics.com/ga.js$script,domain=daj.jp
 	! この商品を買った人は
 @@||googletagmanager.com/gtm.js$script,domain=e-earphone.jp
-	! ユーザーローカルAIコメント
-@@||googletagmanager.com/gtm.js$script,domain=maidonanews.jp
-	! https://github.com/tofukko/filter/issues/24 サイドバー
-@@||google-analytics.com/analytics.js$script,domain=okwave.jp
-@@||googletagmanager.com/gtm.js$script,domain=okwave.jp
 	! https://github.com/easylist/easylist/pull/8193
 @@||googletagmanager.com/gtm.js$script,domain=hatenacorp.jp
 	! カートに追加できない
@@ -3804,6 +3796,13 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=kakuyomu.jp
 	! https://github.com/tofukko/filter/issues/48
 @@||googletagmanager.com/gtm.js$script,domain=mangaseek.net
+	! ユーザーローカルAIコメント
+@@||googletagmanager.com/gtm.js$script,domain=maidonanews.jp
+	! https://github.com/tofukko/filter/issues/50
+@@||googletagmanager.com/gtm.js$script,domain=mainichi.jp
+	! https://github.com/tofukko/filter/issues/24 サイドバー
+@@||googletagmanager.com/gtm.js$script,domain=okwave.jp
+@@||google-analytics.com/analytics.js$script,domain=okwave.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
 	! TOP 株式
