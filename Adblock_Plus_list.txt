@@ -54,6 +54,7 @@ _ad.js
 /adloader.
 /adparts/*
 /adplayer.
+/ads/native.
 /ads.cgi
 _ads.js.
 /ads?
@@ -1289,6 +1290,7 @@ duckduckgo.com###ads
 kachimai.jp###ads
 
 ! ##.ad
+1rk.net##.ad
 2chmm.com##.ad
 55sedori.com##.ad
 alphapolis.co.jp##.ad
@@ -2219,6 +2221,7 @@ tagindex.com###ads_top
 tagindex.com###post
 taskle.jp##.ad-widget
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
+techcrunch.com##.ad-unit
 tegaki.pipa.jp##.AdX300x250
 telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
@@ -2252,6 +2255,7 @@ touhouyaruosure.com##[href*="dlsite.com"]
 touhouyaruosure.com##[href*="dmm.co.jp"]
 touhouyaruosure.com##[href*="suruga-ya.jp"]
 touhouyaruosure.com##[style="margin:0;padding:5px;font-size:12px;word-break: break-all;"]
+touken-world.jp##.pr_bnr_contents_block
 toyokeizai.net###trend-library
 tsuiran.jp##article:not([id]):not([class])
 tsumanne.net###amazon
@@ -3137,6 +3141,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 
 !------------yahoo------------!
 /yads.
+||jill.fc.yahoo.com^
 ||ov.yahoo.co.jp^
 ||yads.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
