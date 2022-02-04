@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/02/04 12:35
+! 最終更新 2022/02/04 12:55
 !
 
 !2021/07/02
@@ -2918,6 +2918,8 @@ followmanager.net##.ad
 
 !------------pixiv------------------!
 ||pximg.net/source/dic/javascript/side_ads.js?
+! header
+pixiv.net###root > div > div:first-child > div[style="position: static; z-index: auto;"] + div:last-child
 pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 pixiv.net#?#div:-abp-has(> iframe:not([src]))
 pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
