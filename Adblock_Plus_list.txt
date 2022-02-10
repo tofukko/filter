@@ -2117,9 +2117,6 @@ picrew.me##.imagemaker_ad_wrapper
 picrew.me##.imagemaker_container:style(height: 100% !important;)
 pixabay.com##.carbon-ad
 pixabay.com##.show-gtty-item
-privatter.net##.“hidden-print”
-privatter.net#?#.media:-abp-has(> .media-left)
-privatter.net##[href="/adcookie.php"]
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
 poipiku.com##.PcSideBarAd
@@ -2131,6 +2128,9 @@ pokemon-matome.net##.kiji_chuubu
 pokemon-matome.net###header_rtranking:style(top: 120px !important;)
 pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
 prcm.jp##.ad-rectangle
+privatter.net##.“hidden-print”
+privatter.net#?#.media:-abp-has(> .media-left)
+privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
 pulpxstyle.com##.adsbygoogle:upward(1)
 qiita.com##.it-Ads_afterBodyContainer
