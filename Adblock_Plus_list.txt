@@ -1578,6 +1578,10 @@ cookpad.com###sticky_reference_element
 coromoo.com##.amazon-link
 coron.tech###custom_html-5
 coron.tech#?#div[style]:not(#sidebar1):-abp-has(.adsbygoogle)
+corriente.top##.adbox
+corriente.top##.side_contents[style="margin-bottom: 35px;"]
+corriente.top##.sponsored-links
+corriente.top##div[style="width: 970px; margin: 0 auto 30px;"]
 courrier.jp##.pre_banner_area
 crank-in.net###banner
 curazy.com##.sponsor-link-text
