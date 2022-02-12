@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/02/08 22:53
+! 最終更新 2022/02/12 20:48
 !
 
 !2021/07/02
@@ -1638,6 +1638,7 @@ erogazopple.com###single-content > [id^="text-"]
 erogazoufactory.com###content [id^="text-"]
 eroido.jp##[class^="adv_"]
 eromazofu.com##.c_c_t_w
+exhentai.org###spa
 f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
 f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 56px) !important;)
 f.tabtter.jp###scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
