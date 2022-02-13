@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/02/12 20:48
+! 最終更新 2022/02/13 8:58
 !
 
 !2021/07/02
@@ -3668,20 +3668,13 @@ xhamster.com##.avdo.fr
 xhamster.com##^script:has-text(dataPopUnder)
 
 !-----------xvideos.com
-||xvideos.com/in.php?
-!popup
-||www.xvideos.com/video$xmlhttprequest
-!download
-@@||xvideos.com/video-download/
-!コメント見る用
-@@||www.xvideos.com/video-get-comments/
-!外部プレイヤー用
-||flashservice.xvideos.com/embedframe/$xmlhttprequest
-xvideos.com###video-ad
-xvideos.com###video-sponsor-links
-xvideos.com##.sponsor_popup
-xvideos.com##.sponsor-popup
-xvideos.com##^script:has-text(checkVideoAds)
+xvideos.com,xvideos2.com###video-ad
+xvideos.com,xvideos2.com###video-ad + div[class]
+xvideos.com,xvideos2.com##.banner-game
+xvideos.com,xvideos2.com##.videoad-title
+xvideos.com,xvideos2.com##+js(aopw, openpop)
+xvideos.com,xvideos2.com##+js(nowebrtc)
+xvideos.com,xvideos2.com##+js(nowoif)
 
 !-----------avgle.com
 *$3p,popup,domain=avgle.com
@@ -3740,6 +3733,19 @@ ashemaletube.com##+js(aopr, open)
 @@||47club.jp^*/images/ad_$image,domain=47club.jp
 @@||amazonaws.com^*/images/ad/$image,domain=47club.jp
 @@||amazonaws.com^*/images/ad_$image,domain=47club.jp
+
+	! https://github.com/AdguardTeam/AdguardFilters/issues/106875
+@@||googletagmanager.com/gtm.js$script,domain=www3.nissan.co.jp
+@@||googleadservices.com/pagead/conversion.js$script,domain=www3.nissan.co.jp
+@@||img.ak.impact-ad.jp/sr/$script,domain=www3.nissan.co.jp
+@@||img.ak.impact-ad.jp/ut/$script,domain=www3.nissan.co.jp
+@@||penta.a.one.impact-ad.jp^$script,domain=www3.nissan.co.jp
+@@||s.yimg.jp/images/listing/tool/cv/conversion.js$script,domain=www3.nissan.co.jp
+@@||s.yimg.jp/images/listing/tool/cv/ytag.js$script,domain=www3.nissan.co.jp
+@@||b90.yahoo.co.jp/conv.js$script,domain=www3.nissan.co.jp
+@@||b92.yahoo.co.jp/js/s_retargeting.js$script,domain=www3.nissan.co.jp
+@@||adsrvr.org/up_loader.$script,domain=www3.nissan.co.jp
+
 	!トップバナー
 @@||accesstrade.net/m/m_img/$image,domain=mamastar.jp
 	!動画未練
