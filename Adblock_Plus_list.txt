@@ -3668,9 +3668,11 @@ xhamster.com##.avdo.fr
 xhamster.com##^script:has-text(dataPopUnder)
 
 !-----------xvideos.com
+xvideos.com,xvideos2.com###video-sponsor-links
 xvideos.com,xvideos2.com###video-ad
 xvideos.com,xvideos2.com###video-ad + div[class]
 xvideos.com,xvideos2.com##.banner-game
+xvideos.com,xvideos2.com##.remove-ads
 xvideos.com,xvideos2.com##.videoad-title
 xvideos.com,xvideos2.com##+js(aopw, openpop)
 xvideos.com,xvideos2.com##+js(nowebrtc)
