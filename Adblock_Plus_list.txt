@@ -3675,7 +3675,6 @@ xvideos.com,xvideos2.com##.banner-game
 xvideos.com,xvideos2.com##.remove-ads
 xvideos.com,xvideos2.com##.videoad-title
 xvideos.com,xvideos2.com##+js(aopw, openpop)
-xvideos.com,xvideos2.com##+js(nowebrtc)
 xvideos.com,xvideos2.com##+js(nowoif)
 
 !-----------avgle.com
