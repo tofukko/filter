@@ -1834,11 +1834,10 @@ jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="amazon.co"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="accesstrade.net/sp/"])
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="px.a8.net/svt/ejp?"])
 jyouhouya3.net##[href*="=jyouhouya3"]
-k-zone.co.jp##.adunit_640_250
-k-zone.co.jp##.textAdArea
-k-zone.co.jp###mainContents:style(float: left !important;padding-right: 0 !important;)
-k-zone.co.jp###sideContents:style(position: static !important;float: right !important;margin-top: 20px !important;)
-k-zone.co.jp##.pageTop_wr:style(clear: both !important;)
+k-zone.co.jp##.bannerTopWrapper
+k-zone.co.jp##.yohaku_link
+k-zone.co.jp##[class^="adunit_"]
+	money.k-zone.co.jp##.sp-bottom-sidebar > a > img[src^="https://money.k-zone.co.jp/rails/active_storage/"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
 ka-soku.com##.article-body > span:last-of-type ~ b
 ka-soku.com##.article-body > span:last-of-type ~ br
