@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/02/13 8:58
+! 最終更新 2022/02/14 13:19
 !
 
 !2021/07/02
@@ -1649,6 +1649,7 @@ f.tabtter.jp###scolmain:style(height: calc(100% - 20px) !important; overflow-y: 
 f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 56px !important;)
 famitsu.com##.article-body__contents-pr-primary
 famitsu.com##.banner-pc
+famitsu.com##.banner-super-jack
 famitsu.com##.banner-top-header
 famitsu.com##.l-contents-block--article-amazon
 famitsu.com#?#.l-contents-block:-abp-has(> .row > .col-12 > .card-game-sale-rank--amazon)
