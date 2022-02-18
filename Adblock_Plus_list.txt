@@ -1671,6 +1671,9 @@ fgamers.saikyou.biz##[id^="subAmzn"]
 firecross.jp###js-ad-modal
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
+forbesjapan.com##.ad_header
+forbesjapan.com##.ad_under
+forbesjapan.com##[id^="ad-"]
 freem.ne.jp##.ad-horizontal-wrapper
 freem.ne.jp##.game-list-ad
 freesoft.tvbok.com###left_box3
