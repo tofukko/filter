@@ -3892,6 +3892,8 @@ ashemaletube.com##+js(aopr, open)
 @@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
+        ! https://github.com/tofukko/filter/issues/53
+@@||nittsu.com/Tracking/Scripts/Tracking/track.js$script,domain=nittsu.com
 	! https://github.com/easylist/easylist/pull/8202
 @@||omtrdc.net^*/mbox/standard?$script,domain=kenkoukazoku.co.jp
 	! 右側の勝率などの欄が非表示
