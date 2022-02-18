@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/02/14 13:19
+! 最終更新 2022/02/18 14:15
 !
 
 !2021/07/02
@@ -659,7 +659,6 @@ _ads.js.
 ||mangaz.com/virgo/adv/
 ||matomedane.jp/js/adv/
 ||matomedane.jp/js/right_navi/
-||mdpr.jp/imobile_iframe.html
 ||medibang.com/viewer/fixedAds/
 ||mgstage.com/js/mgs_Widget.js?
 	!minnano-av.com
@@ -1962,6 +1961,7 @@ mapion.co.jp##.ad-728x90
 matomedane.jp###footeradv
 matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
+mdpr.jp##.c-adBottomOverlay
 medibang.com##.asArtStreetTopIllustAd
 medibang.com##.mdbnAdBlock
 medibang.com#?#.mdModal:-abp-has(.mdbnViewer__ad.-first)
