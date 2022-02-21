@@ -1772,6 +1772,7 @@ hub.vroid.com##[class^="EventBanner-"]
 huffingtonpost.jp###_popIn_recommend_right_div:style(position: static !important;)
 huffingtonpost.jp##.ad_spot
 huffingtonpost.jp##.leaderboard-flex-placeholder
+i-njoy.net##.mobhalf
 iconbox.fun##.ad01
 idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
