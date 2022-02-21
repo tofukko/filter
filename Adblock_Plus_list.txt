@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/02/21 12:29
+! 最終更新 2022/02/21 20:30
 !
 
 !2021/07/02
@@ -1464,6 +1464,7 @@ apkpure.com##div[style="margin: 0 auto 20px auto;position: relative;width:100%;o
 app-liv.jp##.ad-bnr-words
 app-liv.jp##.adv-area
 appget.com##.adsence
+appget.com##.PC_header_ad
 !jack
 appmedia.jp##[id^="ad_jack_"]
 appmedia.jp##.sidebar_content > div[style="position:sticky;top:0;"]
