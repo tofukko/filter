@@ -1908,6 +1908,7 @@ kyounoryouri.jp###floating-banner
 last.fm##.full-bleed-ad-container
 last.fm##.sidebar-ad-container
 lee.hpplus.jp##.media-ad
+library.mitaka.tokyo.jp##.banner
 lifehack2ch.livedoor.biz##.elsebody
 lifehack2ch.livedoor.biz##.yahoo-ad1b
 lifehacker.jp##.amazItem
