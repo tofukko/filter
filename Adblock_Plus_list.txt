@@ -1927,6 +1927,10 @@ loveh.org##.toppr
 loveh.org##.videobottompr320x100
 loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
+lyrical-nonsense.com#?#.lyricside:-abp-has(> [id^="ezoic-pub-ad-placeholder-"])
+lyrical-nonsense.com##.playblockbtmcon
+lyrical-nonsense.com##.responsive0inc
+lyrical-nonsense.com##.responsive1inc
 maho.jp##.Ad
 mag.japaaan.com##.area_a
 mag2.com##[id^="advads-"]
