@@ -1198,7 +1198,7 @@ _analytics.js?
 *##script[src*="sh.adingo.jp/"]:first-child + script:last-child:upward(1)
 *##script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child:upward(1)
 
-*##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
+*##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;width: 1px !important;height: 1px !important;)
 *##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 
 
