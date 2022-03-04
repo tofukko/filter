@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/04 16:41
+! 最終更新 2022/03/04 20:08
 !
 
 !2021/07/02
@@ -4032,7 +4032,9 @@ yakkun.com##.ad + div:style(clear: both !important;)
 @@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
 ! crefan.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/81505
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=crefan.jp
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=crefan.jp
 
 ! egotter.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64186
