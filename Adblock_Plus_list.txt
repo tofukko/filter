@@ -2323,6 +2323,7 @@ webcartop.jp##div[style="min-height: 90px;"]
 webkaru.net##[class^="ad-"]
 webllica.com###headlinkad
 webllica.com##.sponsored_link
+wikihow.jp##.wh_ad_inner
 wikiwiki.jp##[id$="-ad-container"]
 wired.jp##.ad--mid-content
 wired.jp##.ad-stickyhero
