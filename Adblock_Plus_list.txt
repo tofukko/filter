@@ -534,6 +534,7 @@ _ads.js.
 ||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
+||blogroll.livedoor.net/blogroll/banner/
 ||btopc.jp/css/ec-468x67
 ||coincheck.com/images/affiliates/
 ||digiket.com/xml/ad/
