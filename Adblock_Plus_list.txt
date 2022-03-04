@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/02/21 20:30
+! 最終更新 2022/03/04 16:41
 !
 
 !2021/07/02
@@ -3588,7 +3588,6 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/goldennews/settings/ad.js"] + sc
 
 !ハター報
 ||blog.livedoor.jp/hamusoku*/amazon
-hamusoku.com##.amazon
 
 !働くモノ http://workingnews.blog117.fc2.com/
 ||fc2.com/w/o/r/workingnews/meerkat_side_double_js2.js
