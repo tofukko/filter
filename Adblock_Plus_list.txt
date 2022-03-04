@@ -1096,7 +1096,6 @@ _analytics.js?
 ||access.news.mynavi.jp^
 ||ack.mynv.jp^$domain=mynavi.jp
 ||analysis1.sbs-blog.com^
-||analytics.cocolog-nifty.com^
 ||analytics.edgekey.net^
 ||analyzer.wox.cc^
 ||analyzer2.curecos.com^
@@ -1127,7 +1126,6 @@ _analytics.js?
 ! つぶやきにコメントできなくなる
 !||mixi.jp^*/analysis.
 ||moeeki.net/cgi-bin/accessmoe/accessmoe.cgi?
-||nifty.com/pubc0m/js/tag/_nif_tag.js
 ||rover.ebay.com^
 ||shop-pro.jp/li.php?
 ||silk.woopieapi.com^$domain=woopie.jp
@@ -2618,8 +2616,6 @@ kantan.game##.ad_half
 kantan.game##.ad_rectangle
 kantan.game##.ad_super
 
-||nifty.gesoten.com/n/banner/
-
 !------------goo------------!
 ||adcdn.goo.ne.jp^
 ||ams900.goo.ne.jp^
@@ -2893,6 +2889,14 @@ ch.nicovideo.jp##.ads_nicovideo
 !ニコニコインフォ
 blog.nicovideo.jp###web_pc_prime
 blog.nicovideo.jp#?#.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-aside-prlist-title)
+
+!------------nifty-------------!
+||analytics.cocolog-nifty.com^
+||nifty.com/pubc0m/js/tag/_nif_tag.js
+||nifty.gesoten.com/n/banner/
+
+! nifty.softgames.com
+||improvedigital.com^$third-party
 
 !------------nikkei------------!
 ||nikkei.com/.resources/k-components/rtoaster/
