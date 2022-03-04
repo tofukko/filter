@@ -4071,8 +4071,9 @@ nordot.app##+js(acis, document.createElement, admiral)
 	!knshow.com#@#.adsbygoogle
 
 ! musenboya.com
-musenboya.com##+js(nostif, google_jobrunner)
-
+	!musenboya.com##+js(nostif, google_jobrunner)
+ musenboya.com##+js(nostif, adspace)
+ 
 ! my0nio.seesaa.net
 	!my0nio.seesaa.net#@#.adsbygoogle
 
