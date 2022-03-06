@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/06 11:59
+! 最終更新 2022/03/06 20:29
 !
 
 !2021/07/02
@@ -2338,6 +2338,17 @@ www.asahi.com###HometopAd
 www.asahi.com##.AdMod
 ! 朝目新聞
 www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) a[href^="https://amzn.to/"]
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) img[width="920"][height="210"]
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) img[width="920"][height="210"]:upward(1):style(display: block !important;width: 920px !important;)
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) img[width="218"][height="137"]
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) h3[align="center"] > a[href^="https://www.amazon.co.jp/"]:upward(1)
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) font:has-text(/今回イチオシ商品|－新商品|（Amazon）|Amazonコミックランキング/):upward(p)
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) font[color="#0000FF"]:has-text(●):upward(p)
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) td[bgcolor="#B0BCFF"] > div[align="left"] > [align="center"]
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) td[rowspan="2"][valign="middle"]:style(min-width: 134px !important;)
+www.ne.jp##:matches-path(/asahi/asame/shinbun/) p > font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"]):upward(p)
 xvideo-jp.com###dmmad
 xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
