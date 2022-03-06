@@ -1506,6 +1506,7 @@ bengo4.com###ad_mid_topicsltd
 bikebros.co.jp##.adsw
 bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bike-news.jp##.left.box300
+bing.com##.b_ad
 bing.com##.b_ad:remove()
 bizspa.jp##.ad-wrap
 blog.esuteru.com,otakomu.jp###more > blockquote:last-of-type
@@ -2040,6 +2041,7 @@ myoji-yurai.net###main_slider2
 myoji-yurai.net##.ad336
 myoji-yurai.net##.adResponsive
 namedic.jp###ad-side_top
+nagasaki-np.co.jp##.article_ad
 nagasaki-np.co.jp##.article_ad:remove()
 naming-dic.com##.sidebar-box3
 navitime.co.jp###under-advertisement
