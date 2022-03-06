@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/04 20:08
+! 最終更新 2022/03/06 11:59
 !
 
 !2021/07/02
@@ -2190,6 +2190,8 @@ sexyvoice.org###side-scroll
 sexyvoice.org##.block_ranking
 share-videos.se###ad_html
 share-videos.se###new_ad_html
+shimotsuke.co.jp##.article-body > .slide-wrapper
+shimotsuke.co.jp##.top-banner
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
