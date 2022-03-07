@@ -1727,6 +1727,7 @@ getnews.jp###leftColumn > .widget_text:first-child
 getnews.jp###rightColumn > .widget_text:first-child
 getnews.jp##.bal_insert_ad
 gigafile.nu##[class*=banner_type_]
+gigazine.net###LT
 gigazine.net##.e_ad
 gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
