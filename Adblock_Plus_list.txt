@@ -1611,6 +1611,7 @@ dengekionline.com##.gRankMoreNav
 diamond.jp##.gpt-ad
 diamond.jp##.sub-ad
 diamond-fudosan.jp##.ad-header
+discogs.com##.ads-ad
 diskgarage.com##.cm_ads
 dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
