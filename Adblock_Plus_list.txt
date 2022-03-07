@@ -1537,6 +1537,7 @@ caloo.jp##[id^="dfp-Caloo_"]
 campify.jp##.pc-overlay-ad
 car-me.jp##.p-article_kaitori_cta
 car-mo.jp##.pr-modal
+car-me.jp##.u-center.u-mb_l
 career.joi.media###post-advertisement
 career.joi.media##.banner
 cartoonnetwork.jp##.adbnrs
