@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/07 13:48
+! 最終更新 2022/03/07 20:45
 !
 
 !2021/07/02
@@ -2799,8 +2799,9 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp#?#.plugin-memo:-abp-has(> .sidetitlebody > .sidetitle:-abp-contains(スポンサード))
 
 !g--------loveheaven.net---------!
-!         lovehug.net
-!	  welovemanga.net
+!       lovehug.net
+!	welovemanga.net
+!	4uview.com
 /prebidlink/*
 ||a.vdo.ai^
 ||cogleapad.com^
@@ -2824,8 +2825,12 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||vlitag.com^$third-party
 ||spolecznosci.net^$third-party
 ||inpagepush.com^$important
-
-welovemanga.net###id-custom_banner
+||roataisa.net^
+||wpadmngr.com^
+||whcp4.com/apis-7.js
+||buram.xyz^
+||roataisa.net^
+||outoctillerytor.com^
 
 !--------------msn----------------!
 ://c.*/c.gif?
