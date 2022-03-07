@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/06 20:29
+! 最終更新 2022/03/07 13:48
 !
 
 !2021/07/02
@@ -1797,6 +1797,7 @@ jalan.net##.jsc-ad-bannerList
 japan.cnet.com##.ad_large
 japan.cnet.com##.inner-pr
 japan.cnet.com##.right-ad-block
+japan.zdnet.com##.ad_container
 japanese.engadget.com###module-engadget-deeplink-top-ad
 japanese.engadget.com###taboola-below-article-thumbnails-2nd
 japanese.engadget.com##div.Mih\(250px\)
