@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/07 20:45
+! 最終更新 2022/03/08 12:08
 !
 
 !2021/07/02
@@ -3225,7 +3225,6 @@ carview.yahoo.co.jp###ydn-bot
 carview.yahoo.co.jp###ydn-top
 chiebukuro.yahoo.co.jp##.lstAd
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
-! もう要らないかも 2021/06/16
 detail.chiebukuro.yahoo.co.jp#?#aside[class^=ClapLv3SubList_Chie-SubList__ListItem__]:-abp-has(> .infdAd)
 detail.chiebukuro.yahoo.co.jp#?#[class^="ClapLv3SearchList_Chie-SearchList__Item__"]:-abp-has(> div > [class^="ClapLv2ListItemSS_Chie-ListItem__Anchor__"] + [class^="ClapLv2ListItemSS_Chie-ListItem__Information__"])
 finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
@@ -3233,16 +3232,12 @@ finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
 gyao.yahoo.co.jp##.yads-overlay
 gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
 loco.yahoo.co.jp###yjAdsLrec
-mail.yahoo.co.jp###theAd
-! 旧デザイン 1月以降終了予定
-mail.yahoo.co.jp###shellcontent:style(right: 0 !important;)
-mail.yahoo.co.jp##.panescroll div#shellcontent:style(top: 145px !important;)
-mail.yahoo.co.jp##.panescroll div#shellcontent[style*="top: 229px;"]:style(top: 176px !important;)
-mail.yahoo.co.jp##.panescroll.scrollable #shellcontent:style(top: 28px !important;)
-mail.yahoo.co.jp##.fullpage.withsky #shellcontent:style(top: 56px !important;)
-! 新デザイン
-mail.yahoo.co.jp#?##tagYadsListTop:upward(1)
-mail.yahoo.co.jp#?##tagYadsSideColumn:upward(1)
+mail.yahoo.co.jp##.mainColumn > div:first-child:not(:only-child) > div:first-child
+mail.yahoo.co.jp##.mainColumn > div:first-child:not(:only-child) + div:last-child
+mail.yahoo.co.jp##.mainColumn > div:first-child:not(:only-child) > ul + article > div:last-child
+	!mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
+	!mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsSideColumn)
+	!mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsDetail)
 news.yahoo.co.jp##.adWrap
 search.yahoo.co.jp##.Ad
 sports.yahoo.co.jp##.yf-lrec
