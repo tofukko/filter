@@ -2157,6 +2157,7 @@ privatter.net#?#.media:-abp-has(> .media-left)
 privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
 pulpxstyle.com##.adsbygoogle:upward(1)
+puyogo.app##.pr-twitter
 qiita.com##.it-Ads_afterBodyContainer
 qiita.com##.it-Ads_afterBodyContainer:upward(2)
 qiita.com##.p-home_ad
