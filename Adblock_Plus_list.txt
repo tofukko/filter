@@ -2835,6 +2835,7 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||buram.xyz^
 ||roataisa.net^
 ||outoctillerytor.com^
+/aas/r45d/vki/*$script,third-party
 
 !--------------msn----------------!
 ://c.*/c.gif?
