@@ -579,6 +579,8 @@ _ads.js.
 ||asg.to/ad/
 ||atwiki.jp/common/dist/js/atwiki_autoads.js?
 ||atwiki.jp/common/dist/js/moveads.js?
+! jack
+||automaton-media.com/wp-content/plugins/wpsite-background-takeover-master/js/wpsite_clickable.js
 ||bengo4.com/module/topicsSideBanner/
 ||blog.with2.net/ad_frame.php?
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
@@ -1499,6 +1501,8 @@ autoc-one.jp##.ad-rectangle__row
 autoc-one.jp##[id^="jp_mota_pc_"][id$="_right_1st"]
 automaton-media.com##.ai_widget
 automaton-media.com##.td-a-rec
+! jack
+automaton-media.com##body:style(background: none!important)
 bakufu.jp###entryPrBox
 bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
@@ -2364,6 +2368,7 @@ xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 yamakei-online.com###text_ad
+yamareco.com###sidebar_right > .mb20[style="clear:both;"] + .box:style(clear: both !important;)
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
 yorozoonews.jp###yzpc-native1
 yorozoonews.jp###yzpc-nativeRelation
