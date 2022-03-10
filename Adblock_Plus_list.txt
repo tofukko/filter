@@ -3180,6 +3180,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ##.related-ad-unit-area
 ##.sponsor-h2-center
 ##.sponsor-top
+##.st-infeed-adunit
 ##.tcdw_ad_widget
 ##.thk_ps_widget
 ##.widget_common_ad
