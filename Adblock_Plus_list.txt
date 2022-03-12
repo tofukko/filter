@@ -3103,7 +3103,7 @@ tok2.com###tok2_footer
 
 !------------takeshobo.co.jp-------------!
 ||mangalifewin.takeshobo.co.jp/usr-data/units/bJava/disp.php?
-mangalifewin.takeshobo.co.jp##[id^="unit-"]:has(> .bJava)
+mangalifewin.takeshobo.co.jp#?#[id^="unit-"]:-abp-has(> .bJava)
 storia.takeshobo.co.jp##.mfp-ready
 storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 
