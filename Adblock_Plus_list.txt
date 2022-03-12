@@ -1865,8 +1865,12 @@ kabu-sokuhou.com##.sponsoredlink
 kabu-sokuhou.com##.topadba
 !c-
 kachimai.jp###js-footer-banner
+kai-you.net##.l-ad-article-under
+kai-you.net##.l-ad-pc
+kai-you.net##.l-pc_resp_all_inhouse_1st
 kai-you.net##.l-recommend-product
 kai-you.net##.l-side-common-banner-outer
+kai-you.net##.m-ad-pc-article-title
 kaiten-heiten.com###text-18
 kaiten-heiten.com###text-20
 kaiten-heiten.com##.header_ad
