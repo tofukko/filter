@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/10 20:35
+! 最終更新 2022/03/12 16:38
 !
 
 !2021/07/02
@@ -2223,8 +2223,6 @@ srad.jp###gpt-sd_index_rec
 srad.jp###tophat
 srad.jp##.srad-contentad-banner
 startpage.com###spon_links
-storia.takeshobo.co.jp##.mfp-ready
-storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
 sukima.me##.popupad-box
@@ -3102,6 +3100,12 @@ realtime-chart.info##body > div > div:first-child td:not(:nth-of-type(2))
 ||tok2.com/app/ad/
 tok2.com###meerkat-wrap
 tok2.com###tok2_footer
+
+!------------takeshobo.co.jp-------------!
+||mangalifewin.takeshobo.co.jp/usr-data/units/bJava/disp.php?
+mangalifewin.takeshobo.co.jp##[id^="unit-"]:has(> .bJava)
+storia.takeshobo.co.jp##.mfp-ready
+storia.takeshobo.co.jp##html:style(overflow:unset!important;)
 
 !------------tokyomotion.net------------!
 !share-videos.se
