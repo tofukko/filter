@@ -2344,6 +2344,12 @@ wikihow.jp##.wh_ad_inner
 wikiwiki.jp##[id$="-ad-container"]
 wired.jp##.ad--mid-content
 wired.jp##.ad-stickyhero
+withonline.jp##.banner-area-margin-bottom
+withonline.jp##div[id$=_InArticle-1]
+withonline.jp##div[id$=_inread]
+withonline.jp##div[style="max-width:970px;min-height:90px;text-align:center;margin:0 auto;"]
+withonline.jp##div[style="width:670px ; height:300px;"]
+withonline.jp##div[style="min-height:250px;"]
 wowgame.jp##[style="width:300px; height:250px;"]
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
 writening.net##.section-ad
