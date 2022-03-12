@@ -1511,6 +1511,7 @@ basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-chil
 battlecats-db.com##div[style="width:336px;float:right;"]
 bbc.com##[data-e2e="advertisement"]
 bengo4.com###ad_mid_topicsltd
+bg-mania.jp##.adunit
 bikebros.co.jp##.adsw
 bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bike-news.jp##.left.box300
