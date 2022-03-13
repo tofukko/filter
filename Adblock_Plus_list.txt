@@ -2,11 +2,14 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/12 16:38
+! 最終更新 2022/03/13 12:54
 !
 
 !2021/07/02
 ||adimg.net^
+
+!2022/03/13
+*$script,3p,denyallow=akamaiedge.net|cloudflare.com|edgecastcdn.net|facebook.com|fastly.net|googleapis.com|hatena.ne.jp|hcaptcha.com|line.me|twitter.com,domain=manga1000.com|manga1001.com
 
 !----------------------------広告----------------------------!
 /300x250.
@@ -562,7 +565,6 @@ _ads.js.
 ||runative-syndicate.com^
 ||theta360.com/intl/common/inc/ad_banner.html?
 
-*$script,3p,denyallow=akamaiedge.net|cloudflare.com|edgecastcdn.net|facebook.com|fastly.net|googleapis.com|hatena.ne.jp|hcaptcha.com|line.me|twitter.com,domain=manga1000.com|manga1001.com
 ||2ch.vet/img/ani_
 ||3751chat.com/ad/
 ||4chan-ads.org^
