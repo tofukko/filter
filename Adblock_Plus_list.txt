@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/13 12:54
+! 最終更新 2022/03/14
 !
 
 !2021/07/02
@@ -1784,9 +1784,10 @@ housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
-huffingtonpost.jp###_popIn_recommend_right_div:style(position: static !important;)
-huffingtonpost.jp##.ad_spot
+huffingtonpost.jp##.ad-right-rail-native-ad
+huffingtonpost.jp##.entry__right-rail-width-placeholder
 huffingtonpost.jp##.leaderboard-flex-placeholder
+huffingtonpost.jp##.right-rail-sticky__native-ad-container
 i-njoy.net##.mobhalf
 iconbox.fun##.ad01
 idol-blog.com###leftcol div[style]
