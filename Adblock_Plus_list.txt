@@ -2858,8 +2858,11 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||buram.xyz^
 ||roataisa.net^
 ||outoctillerytor.com^
+||wpush.org^
 /aas/r45d/vki/*$script,third-party
-
+/api/spots/*&ev$script
+/api/spots/*?s1=%$script
+ 
 !--------------msn----------------!
 ://c.*/c.gif?
 ||srtb.msn.com^
