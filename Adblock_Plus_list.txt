@@ -3264,12 +3264,9 @@ finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
 gyao.yahoo.co.jp##.yads-overlay
 gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
 loco.yahoo.co.jp###yjAdsLrec
-mail.yahoo.co.jp##.mainColumn > div:first-child:not(:only-child) > div:first-child
-mail.yahoo.co.jp##.mainColumn > div:first-child:not(:only-child) + div:last-child
-mail.yahoo.co.jp##.mainColumn > div:first-child:not(:only-child) > ul + article > div:last-child
-	!mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
-	!mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsSideColumn)
-	!mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsDetail)
+mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsDetail)
+mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
+mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsSideColumn)
 news.yahoo.co.jp##.adWrap
 search.yahoo.co.jp##.Ad
 sports.yahoo.co.jp##.yf-lrec
