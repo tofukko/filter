@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/14
+! 最終更新 2022/03/14 15:53
 !
 
 !2021/07/02
@@ -3267,6 +3267,8 @@ loco.yahoo.co.jp###yjAdsLrec
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsDetail)
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsSideColumn)
+movies.yahoo.co.jp###ad-lrec
+movies.yahoo.co.jp##[class^="overlay-ad_"]
 news.yahoo.co.jp##.adWrap
 search.yahoo.co.jp##.Ad
 sports.yahoo.co.jp##.yf-lrec
