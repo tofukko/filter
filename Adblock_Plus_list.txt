@@ -1676,6 +1676,11 @@ fandom.com##.aff-unit__disclaimer-message
 fandom.com##.aff-unit__wrapper
 fandom.com##.wikia-ad
 fandom.com##div[data-campaign]
+fashionsnap.com###mainArticleBottom_leftUnit
+fashionsnap.com###mainArticleBottom_rightUnit
+fashionsnap.com###mainFooterUnit
+fashionsnap.com###mainTop_ATFUnit
+fashionsnap.com###sideTop_ATFUnit
 fate-twitter-matome.com###js-popup
 fate-twitter-matome.com###mainEntity > div:not(.clearfix):not(.meta-box)
 fate-twitter-matome.com###pc-text-widget
