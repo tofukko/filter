@@ -2231,6 +2231,9 @@ sirogohan.com##.ad-sponsor
 smashop.jp###r1_advertisement
 smashop.jp##.ad_double_300_300
 so-net.ne.jp##.box-ad
+soco-st.com##.footer_ad
+soco-st.com##.post_ad
+soco-st.com##.post_ad:remove()
 sound.jp###adfloat
 sponichi.co.jp##[id^=space_shopping_]
 srad.jp###ads-article-left
