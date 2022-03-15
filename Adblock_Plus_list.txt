@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/15 9:25
+! 最終更新 2022/03/15 16:05
 !
 
 !2021/07/02
@@ -1692,6 +1692,7 @@ fgamers.saikyou.biz###ad-area-1
 fgamers.saikyou.biz###ad-area-2
 fgamers.saikyou.biz##[id^="subAmzn"]
 firecross.jp###js-ad-modal
+firecross.jp###stage:style(max-height: 100% !important;)
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
 forbesjapan.com##.ad_header
