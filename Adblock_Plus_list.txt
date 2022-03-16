@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/15 16:05
+! 最終更新 2022/03/16 21:56
 !
 
 !2021/07/02
@@ -2120,7 +2120,6 @@ novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 npn.co.jp###arata5
 nuwton.com##[class*="banner-"]
-nyaa.si##.servers-cost-money1
 o-dan.net###spgLoadAd
 	clone.o-dan.net##.apiRsltAd
 	clone.o-dan.net##.apiRsltFigAd
