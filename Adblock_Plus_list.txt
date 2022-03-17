@@ -2750,6 +2750,7 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
 nlab.itmedia.co.jp###globalHeader
+nlab.itmedia.co.jp##.bannar
 
 !------------ixll.co.jp----------!
 figgy.jp##.wrapper:style(margin-top: 90px !important;)
