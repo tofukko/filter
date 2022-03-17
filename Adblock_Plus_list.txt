@@ -3937,7 +3937,7 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=viviennewestwood-tokyo.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/75260
 @@||googletagmanager.com/gtm.js$script,domain=ymobile.jp
-        ! ユーザーローカルAIコメント
+	! ユーザーローカルAIコメント
 	! https://github.com/tofukko/filter/issues/55
 @@||googletagmanager.com/gtm.js$script,domain=zakzak.co.jp
 @@||get.s-onetag.com^$script,domain=zakzak.co.jp
@@ -3976,6 +3976,8 @@ ashemaletube.com##+js(aopr, open)
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	! https://github.com/tofukko/filter/issues/38
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+        ! https://github.com/tofukko/filter/issues/56
+@@||log000.goo.ne.jp/gcgw.js$script,domain=nttxstore.jp
 	! https://github.com/uBlockOrigin/uAssets/issues/10790
 @@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
 	!ランキングは消さないでおこう
