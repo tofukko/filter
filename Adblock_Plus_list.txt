@@ -2203,6 +2203,8 @@ soco-st.com##.footer_ad
 soco-st.com##.post_ad
 soco-st.com##.post_ad:remove()
 sound.jp###adfloat
+spaia.jp##.ad
+spaia.jp##.ad-wrapper
 sponichi.co.jp##[id^=space_shopping_]
 srad.jp###ads-article-left
 srad.jp###ads-index-text
