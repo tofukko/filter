@@ -2373,8 +2373,6 @@ withonline.jp##div[style="min-height:250px;"]
 wowgame.jp##[style="width:300px; height:250px;"]
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
 writening.net##.section-ad
-www.asahi.com###HometopAd
-www.asahi.com##.AdMod
 ! 朝目新聞
 www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
 www.ne.jp##:matches-path(/asahi/asame/shinbun/) a[href^="https://amzn.to/"]
@@ -2502,6 +2500,20 @@ angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; p
 artemisweb.jp###active_overlay
 artemisweb.jp##body > center:first-of-type
 artemisweb.jp#?#body > center:last-of-type:-abp-has(a[href="http://www.artemisweb.jp/"][target="_blank"])
+
+!------------asahi.com----------!
+www.asahi.com###HometopAd
+www.asahi.com##.AdMod
+globe.asahi.com##.module-content-footer__ad
+globe.asahi.com##.module-side-notice
+	!全体的に
+@@||asahi.com/ad/$css,font,image,script,domain=asahi.com
+	!全部
+@@||asahi.com/ads/$css,font,image,script,domain=asahi.com
+	!ad
+@@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
+	!動画プレイヤー
+@@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
 
 !------------biglobe------------!
 biglobe.ne.jp###h_bar
@@ -3866,14 +3878,6 @@ ashemaletube.com##+js(aopr, open)
 @@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=nhk.or.jp
 	! https://github.com/Yuki2718/adblock/issues/20
 @@||api.docodoco.jp^$script,domain=jrtours.co.jp
-	!全体的に
-@@||asahi.com/ad/$css,font,image,script,domain=asahi.com
-	!全部
-@@||asahi.com/ads/$css,font,image,script,domain=asahi.com
-	!ad
-@@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
-	!動画プレイヤー
-@@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
 	!sideランキング12345
 @@||ascii.jp/img/ad/$image,domain=ascii.jp
 	!できない
