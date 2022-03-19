@@ -1553,6 +1553,7 @@ car-mo.jp##.pr-modal
 car-me.jp##.u-center.u-mb_l
 career.joi.media###post-advertisement
 career.joi.media##.banner
+careergarden.jp##.base-inner-slim[style$=";padding:15px 0"]
 cartoonnetwork.jp##.adbnrs
 cartoonnetwork.jp##.adBox
 cartoonnetwork.jp##.bnr350
