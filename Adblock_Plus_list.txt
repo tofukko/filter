@@ -2504,6 +2504,7 @@ artemisweb.jp#?#body > center:last-of-type:-abp-has(a[href="http://www.artemiswe
 !------------asahi.com----------!
 www.asahi.com###HometopAd
 www.asahi.com##.AdMod
+www.asahi.com##.p-rectangleAd
 globe.asahi.com##.module-content-footer__ad
 globe.asahi.com##.module-side-notice
 	!全体的に
