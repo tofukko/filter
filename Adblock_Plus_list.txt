@@ -1337,6 +1337,8 @@ adultcomic.dbsearch.net##.img-spc-box.sph250
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
+akiba-souken.com###adGameRanking
+akiba-souken.com##.articleGoodsBox
 akiba-souken.com##.middleBnr
 alba.co.jp###header_lower
 alba.co.jp##.result_table > tbody > tr:nth-child(16n):not([class])
