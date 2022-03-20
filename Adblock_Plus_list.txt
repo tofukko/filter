@@ -2720,6 +2720,15 @@ q.hatena.ne.jp##.sidebar-banner
 	!言及先エントリを開くが消える
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
+!------------Hrs-Game-----------!
+hrs-game.main.jp##[class^="ads_"]
+hrs-game.main.jp##.columm + .ads_native + section:style(clear:both !important;)
+main-hrs-game.ssl-lolipop.jp##[class^="ads_"]
+main-hrs-game.ssl-lolipop.jp##.columm + .ads_native + section:style(clear:both !important;)
+123hrs.web.fc2.com##script[src^="http://adm.shinobi.jp/"]:only-child:upward(1)
+123hrs.web.fc2.com##[id^="rakuten_"]
+123hrs.web.fc2.com###menu > #a8 > li:last-child
+
 !------------hs-exp.jp-----------!
 hs-exp.jp###footer > .footer-widget-area > .column:first-child
 hs-exp.jp##.entry-footer > #text-59
