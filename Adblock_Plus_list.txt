@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/20 13:10
+! 最終更新 2022/03/21 23:21
 !
 
 !2021/07/02
@@ -3758,18 +3758,19 @@ txxx.*##+js(no-setTimeout-if, t()?n())
 ||txxx.*^$csp=script-src  'self' 'unsafe-eval' 'unsafe-inline' blob:
 
 !-----------xhamster
-|https://$subdocument,domain=xhamster.com
-||xhamster.com/cnt.php?
-||xhcdn.com/js/m.js
+||faphouse.com^$subdocument,third-party
+||tsyndicate.com^
+||hpyrdr.com^
 
-!埋め込み動画
-||static-ec.xhcdn.com/id2/swf/*
-||xhcdn.com^*/ads_
+||collector.xhamster.com^
+||xhcdn.com/js/track.
 
-xhamster.com##.adVideo
-xhamster.com##.sponsorBottom
-xhamster.com##.avdo.fr
-xhamster.com##^script:has-text(dataPopUnder)
+xhamster.com##.player-container > div[class*="-"]:not([class*="player"])
+xhamster.com##.thumb-list--promoted-video-banner:style(width: auto !important;)
+xhamster.com##.thumb-list--sidebar .thumb-list__look-like-item
+xhamster.com##.thumb-list > .video-thumb:style(margin-right: 0px !important;)
+xhamster.com##.wio-y
+xhamster.com##.wio-ypremium-overlay
 
 !-----------xvideos.com
 xvideos.com,xvideos2.com###video-sponsor-links
