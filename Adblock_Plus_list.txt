@@ -2201,6 +2201,8 @@ sk-seisan.com##.adsense
 smashop.jp###r1_advertisement
 smashop.jp##.ad_double_300_300
 smt-cinema.com##.ad
+snapdish.co##.book-detail__promotion
+snapdish.co##.side__ad
 so-net.ne.jp##.box-ad
 soco-st.com##.footer_ad
 soco-st.com##.post_ad
