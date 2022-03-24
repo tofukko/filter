@@ -2332,6 +2332,8 @@ walkerplus.com###wp_all_1r_gam
 walkerplus.com###wp_all_bb_gam
 walkerplus.com##.m-prbnr
 walkerplus.com##.m-prlist
+wanchan.jp##.detail_footer__ad
+wanchan.jp##.top_ad
 web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
