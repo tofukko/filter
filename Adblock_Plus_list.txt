@@ -1611,6 +1611,7 @@ favolog.org###side > div:first-child
 fgamers.saikyou.biz###ad-area-1
 fgamers.saikyou.biz###ad-area-2
 fgamers.saikyou.biz##[id^="subAmzn"]
+financial-field.com##.ad
 firecross.jp###js-ad-modal
 firecross.jp###stage:style(max-height: 100% !important;)
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
