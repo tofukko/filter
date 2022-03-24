@@ -1910,6 +1910,7 @@ lyrical-nonsense.com##.playblockbtmcon
 lyrical-nonsense.com##.responsive0inc
 lyrical-nonsense.com##.responsive1inc
 maho.jp##.Ad
+mag.japaaan.com##.after_go_next
 mag.japaaan.com##.area_a
 mag2.com##[id^="advads-"]
 magnet-novels.com##.ad
