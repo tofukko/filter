@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/24 17:27
+! 最終更新 2022/03/25 20:56
 !
 
 !2021/07/02
@@ -2851,7 +2851,8 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ##.main-container-ads
 2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp#?#.plugin-memo:-abp-has(> .sidetitlebody > .sidetitle:-abp-contains(スポンサード))
 
-!g--------loveheaven.net---------!
+!g--------manga------------------!
+!	loveheaven.net
 !       lovehug.net
 !	welovemanga.net
 !	4uview.com
@@ -2886,9 +2887,12 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||outoctillerytor.com^
 ||wpush.org^
 ||wovazaix.com^
+||totlnkbn.com^
 /aas/r45d/vki/*$script,third-party
 /api/spots/*&ev$script
 /api/spots/*?s1=%$script
+/lv/esnk/*$script,3p
+/i/npage/*/code.js|$script,3p
  
 !--------------msn----------------!
 ://c.*/c.gif?
