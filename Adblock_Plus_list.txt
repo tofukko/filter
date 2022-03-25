@@ -1402,6 +1402,8 @@ automaton-media.com##.ai_widget
 automaton-media.com##.td-a-rec
 ! jack
 automaton-media.com##body:style(background: none!important)
+baby-calendar.jp##.bnr
+baby-calendar.jp##[id^="JP_BABY_resp_"]
 bakufu.jp###entryPrBox
 bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
