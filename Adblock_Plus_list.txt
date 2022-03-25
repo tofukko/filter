@@ -2170,6 +2170,11 @@ rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 ! https://ryukyushimpo.jp/style/
 ryukyushimpo.jp##[class*="c_ads_google"]
 ryusoku.com##.ads
+ryutsuu.biz###adText
+ryutsuu.biz##.home-main-ad
+ryutsuu.biz##.main-ad
+ryutsuu.biz##.singleAd
+ryutsuu.biz##[class^="side-adarea"]
 saga-s.co.jp##.double-rectangle
 saga-s.co.jp##.top-banner
 sai-zen-sen.jp##.ad
