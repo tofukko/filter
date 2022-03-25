@@ -2231,6 +2231,8 @@ srad.jp###ads-index-text
 srad.jp###gpt-sd_index_rec
 srad.jp###tophat
 srad.jp##.srad-contentad-banner
+st.benesse.ne.jp##.mb_normal[style="height: 250px"]
+st.benesse.ne.jp##[id^="div-M_MD_kiji_fluid_"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
