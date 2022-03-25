@@ -1949,6 +1949,8 @@ mangapedia.com##.contents-bottom-ads
 mangapedia.com##.description-bottom-ads
 mangaseek.net##.sidebar_ad
 mangaz.com###scroll-adv
+	vw.mangaz.com##.adv
+	vw.mangaz.com##.ad-page
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
 maonline.jp##.ad_box
