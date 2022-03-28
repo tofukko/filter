@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/25 20:56
+! 最終更新 2022/03/28 17:21
 !
 
 !2021/07/02
@@ -1528,6 +1528,8 @@ daysneo.com###bnrTop
 daysneo.com##.ad:not(.mt60)
 daysneo.com##[class="mt30"] >[href^="/banner/"]
 denfaminicogamer.jp###pc_article_billboard
+	news.denfaminicogamer.jp###ad_jack
+	news.denfaminicogamer.jp##.amazon-wdgt-wrap
 	wiki.denfaminicogamer.jp###ad-wiki-content-lower
 	wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 dengekionline.com##.gAdBanner.u-mbM
