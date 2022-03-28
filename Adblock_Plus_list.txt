@@ -3239,6 +3239,10 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 /adtools.js
 /plugins/thirstyaffiliates/*
 
+||hs-scripts.com^
+||hs-banner.com^
+||hs-analytics.net
+
 ##.ad-label
 ##.ad-single
 ##.ad-single-h2
