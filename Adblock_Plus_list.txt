@@ -3537,9 +3537,9 @@ video.fc2.com##.list-subCont > li[style]
 video.fc2.com##.promotion
 video.fc2.com##.sectionCrd + .sectionCrd
 video.fc2.com##.side_banner
-video.fc2.com##.with-ad:style(width: 100% !important;)
-video.fc2.com##.with-ad .content-wrap:style(width: 100% !important;)
-video.fc2.com##.with-ad .main-header:style(width: 100% !important;)
+video.fc2.com##.main.only-one-row.with-ad:style(width: 100% !important;)
+video.fc2.com##.main.only-one-row.with-ad[data-layout="list"] .content-wrap:style(width: 100% !important;)
+video.fc2.com##.main.only-one-row.with-ad[data-layout="list"] .main-header:style(width: 100% !important;)
 
 !live.fc2.com
 ||live.fc2.com/friendlyAd.php?
