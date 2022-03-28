@@ -1898,9 +1898,9 @@ lee.hpplus.jp##.media-ad
 library.mitaka.tokyo.jp##.banner
 lifehack2ch.livedoor.biz##.elsebody
 lifehack2ch.livedoor.biz##.yahoo-ad1b
-lifehacker.jp##.amazItem
-lifehacker.jp##.lh-banner
-lifehacker.jp##.lh-amazonSec
+lifehacker.jp##[class^="articles_pArticles_List__"] > a:not([href])
+lifehacker.jp##[class^="articles_pArticles_HeroLink"]:not([href])
+lifehacker.jp##[class^="bodyAd_BodyAd__"]
 linkfang.org###LinkFang_Horizontal
 livefans.jp##.adCenter
 livefans.jp##.bannerBox
