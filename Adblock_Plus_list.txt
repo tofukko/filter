@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/03/28 17:21
+! 最終更新 2022/03/30 12:25
 !
 
 !2021/07/02
@@ -4179,6 +4179,11 @@ ff14angler.com#@#[style*="width: 728px;"][style*="height: 90px;"]
 	!gigaho.com##+js(aopr, onload)
 	!gigaho.com#@#.adsbygoogle
 	!gigaho.com##ins.adsbygoogle
+
+! helpsupport.blog.fc2.com
+helpsupport.blog.fc2.com###topspace
+helpsupport.blog.fc2.com###container:style(display: initial !important;)
+@@||blog-imgs-148-origin.fc2.com/h/e/l/helpsupport/googleads.html$subdocument,domain=helpsupport.blog.fc2.com
 
 ! modalina.jp
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
