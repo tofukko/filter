@@ -1936,6 +1936,7 @@ making.pipa.jp##.NoFrame.RelatedWorkRight
 mamadays.tv##[class*="_ads__"]
 mamadays.tv##[class^="style_ad_"]
 mamagirl.jp##.p-ad
+manager-life.net##[id^="ad_"]
 manga.okiba.info,manga.okiba.jp##.amazon-ranking-outer
 manga-zero.com##.carousel-item:style(padding-bottom: 0 !important;)
 manga-zero.com##.carousel-item__touch:style(width: auto !important;)
@@ -1944,7 +1945,7 @@ manga-zero.com##.viewer-canvas > div:style(height: 100% !important;)
 manga-zero.com##.canvas:style(width: auto !important;)
 mangabank.org##+js(acis, document.querySelectorAll, popMagic)
 mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
-manager-life.net##[id^="ad_"]
+mangacross.jp##.ad-box
 mangahack.com##[class^="ad_"]
 mangalove.me##.lastInterstitial
 mangalove.me##.interstitial
