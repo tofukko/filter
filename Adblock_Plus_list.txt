@@ -4205,7 +4205,8 @@ nordot.app##+js(acis, document.createElement, admiral)
 
 ! musenboya.com
 	!musenboya.com##+js(nostif, google_jobrunner)
- musenboya.com##+js(nostif, adspace)
+ 	!musenboya.com##+js(nostif, adspace)
+ musenboya.com##+js(acis, onload, 広告)
  
 ! my0nio.seesaa.net
 	!my0nio.seesaa.net#@#.adsbygoogle
