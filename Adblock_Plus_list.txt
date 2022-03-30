@@ -4197,7 +4197,7 @@ modalina.jp###ggleadv:style(height: 60px !important;)
 nordot.app##+js(acis, document.createElement, admiral)
 
 ! knshow.com
-!knshow.com##+js(acis, onload, .ads)
+knshow.com##+js(acis, onload, .ads)
 	!@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=knshow.com
 	!@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=knshow.com
 	!knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
