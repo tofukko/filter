@@ -2887,6 +2887,12 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 
 !g--------manga------------------!
 /prebidlink/*
+/aas/r45d/vki/*$script,third-party
+/api/spots/*&ev$script
+/api/spots/*?s1=%$script
+/lv/esnk/*$script,third-party
+/i/npage/*/code.js|$script,third-party
+
 ||a.vdo.ai^
 ||cogleapad.com^
 ||comasoiling.casa^
@@ -2918,11 +2924,9 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||wpush.org^
 ||wovazaix.com^
 ||totlnkbn.com^
-/aas/r45d/vki/*$script,third-party
-/api/spots/*&ev$script
-/api/spots/*?s1=%$script
-/lv/esnk/*$script,third-party
-/i/npage/*/code.js|$script,third-party
+||exmarketplace.com^$third-party
+||pubfuture.com^$third-party
+||your-notice.com^
  
 !--------------msn----------------!
 ://c.*/c.gif?
