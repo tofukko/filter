@@ -2181,6 +2181,9 @@ reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
 repeat-drama.info##.ad
 rocketnews24.com##.ad
+rollingstonejapan.com##.addHead
+rollingstonejapan.com##.addSide
+rollingstonejapan.com##.articleDetailAdd
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 ! https://ryukyushimpo.jp/style/
 ryukyushimpo.jp##[class*="c_ads_google"]
