@@ -3244,6 +3244,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 /adrotate-
 /adrotate/*
 /adtools.js
+/plugins/betube-ads/*
 /plugins/thirstyaffiliates/*
 
 ||hs-scripts.com^
