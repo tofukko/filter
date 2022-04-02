@@ -2062,6 +2062,7 @@ new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
 news.dwango.jp##.bnrs
 news.mixi.jp##.adsenseBannerArea
+news.mixi.jp##.NEWS_recentTopicsList__itemAd
 news.mynavi.jp##.c-sidePickup
 news.ntv.co.jp##.header-publicity
 news.shitaraba.net##.sidebar_ad
