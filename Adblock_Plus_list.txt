@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/02 11:45
+! 最終更新 2022/04/03 13:28
 !
 
 !2021/07/02
@@ -3254,6 +3254,8 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 /adrotate-
 /adrotate/*
 /adtools.js
+/plugins/ads-
+/plugins/ads/*
 /plugins/betube-ads/*
 /plugins/thirstyaffiliates/*
 
@@ -3287,12 +3289,6 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 !あれなやつ
 ###side > aside > div.ad:first-child
 ###content.clearfix > aside > div.ad:first-child
-##[id^="post-"][class*=post-] [class^="cta-"]
-##[id^="post-"][class*=post-] [class$="-cta"]
-##[id^="post-"][class*=post-] [class*="-cta-"]
-##.cps-post [class^="cta-"]
-##.cps-post [class$="-cta"]
-##.cps-post [class*="-cta-"]
 ##[id][class*="post-"] div[id*="-"][class*="-"][class*="%e"]
 ##.cps-post div[id*="-"][class*="-"][class*="%e"]
 ##div[class][data-index][style^="float: none; margin:"]
