@@ -3168,14 +3168,20 @@ wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
 
 !------------sekai-kabuka.com-------------!
+||realtime-chart.info/-$subdocument,domain=sekai-kabuka.com
 ||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
 sekai-kabuka.com###neko_ad
 sekai-kabuka.com###link_url_td > div:last-of-type
+sekai-kabuka.com###瞎慥o
+sekai-kabuka.com###柮亳o
+sekai-kabuka.com###榮搴l0:style(margin-top: 64px !important;)
 sekai-kabuka.com##.tb-r2 > table > tbody > tr > td:not([valign="top"])
-sekai-kabuka.com##table[id][width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td[align="center"] > div[id][class]:style(height: 1px !important;)
+
 realtime-chart.info###neko_ad
 realtime-chart.info###neko_ad + a
 realtime-chart.info###neko_ad + a + a
+realtime-chart.info###孥ﾞl.孥ﾞl > .news_l
+realtime-chart.info##.amasearch
 realtime-chart.info##body > div > div:first-child td:not(:nth-of-type(2))
 
 !------------sitemix・tok2.com------------!
