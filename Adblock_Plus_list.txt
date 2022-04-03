@@ -3195,9 +3195,6 @@ storia.takeshobo.co.jp###r-googleads
 storia.takeshobo.co.jp#?#.bnr__section:-abp-has([src^="https://js.ad-stir.com/js/adstir.js?"])
 
 !------------tokyomotion.net------------!
-!share-videos.se
-/^https:\/\/[a-f0-9]{10}\.[a-f0-9]{10}\.com\/[a-f0-9]{32}\.js$/$script,domain=tokyomotion.net
-||congrab.com/banner.
 ||d2swpuhpwp3khd.cloudfront.net^
 ||tokyo-motion.net/bnr/
 osakamotion.net,tokyomotion.net###nuevoa
