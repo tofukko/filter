@@ -2180,6 +2180,8 @@ recipe-blog.jp##[id^="reb_pc_"]
 reddit.com##.promotedlink
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
+renote.jp##.ad__bit
+renote.jp##[class$="__ad__container"]
 repeat-drama.info##.ad
 rocketnews24.com##.ad
 rollingstonejapan.com##.addHead
