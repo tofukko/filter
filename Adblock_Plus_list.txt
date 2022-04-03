@@ -1375,6 +1375,9 @@ arealme.com##.lowerad
 arealme.com##div[style="margin:auto;width:100%;min-height:250px;"]
 arukumachikyoto.jp##.ad_header_frame
 arukumachikyoto.jp###ad_footer_space
+as-web.jp###imgUpperRectangle
+as-web.jp###topbillboard
+as-web.jp##.p-bannar_payment_old
 ascii2d.net##.com
 ascii.jp##.ad
 ascii.jp##.ad_gam
