@@ -3167,23 +3167,6 @@ sankakucomplex.com##+js(aeld, DOMContentLoaded, prestitialData)
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
 
-!------------sekai-kabuka.com-------------!
-||realtime-chart.info/-$subdocument,domain=sekai-kabuka.com
-||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
-sekai-kabuka.com###neko_ad
-sekai-kabuka.com###link_url_td > div:last-of-type
-sekai-kabuka.com###瞎慥o
-sekai-kabuka.com###柮亳o
-sekai-kabuka.com###榮搴l0:style(margin-top: 64px !important;)
-sekai-kabuka.com##.tb-r2 > table > tbody > tr > td:not([valign="top"])
-
-realtime-chart.info###neko_ad
-realtime-chart.info###neko_ad + a
-realtime-chart.info###neko_ad + a + a
-realtime-chart.info###孥ﾞl.孥ﾞl > .news_l
-realtime-chart.info##.amasearch
-realtime-chart.info##body > div > div:first-child td:not(:nth-of-type(2))
-
 !------------sitemix・tok2.com------------!
 /ad.min.js
 ###sitemix_pr_footer_js
@@ -4085,12 +4068,6 @@ ashemaletube.com##+js(aopr, open)
 	!申し込みランキング
 @@||rtoaster.jp/Rtoaster.js$domain=3ple.jp
 @@||rt.rtoaster.jp^$domain=3ple.jp
-	! https://github.com/tofukko/filter/issues/46
-	        !@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=firecross.jp
-	        !@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=firecross.jp
-	        !@@||securepubads.g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Ffirecross.jp$xmlhttprequest,domain=firecross.jp
-	        !||googlevideo.com/videoplayback?$media,redirect=noopmp4-1s,domain=safeframe.googlesyndication.com
-	        !safeframe.googlesyndication.com##.left-container
 	!注目アバター
 @@||site-banner.hange.jp/adshow$subdocument,domain=animallabo.hange.jp
 	!TOP 総合ランキング
@@ -4175,10 +4152,6 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83410
 	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
-! wowgame.jp
-! https://www.wowgame.jp/game_html/10064.html
-@@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
-
 ! crefan.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81505
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=crefan.jp
@@ -4240,9 +4213,29 @@ knshow.com##+js(acis, onload, .ads)
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
 savevideo.me##+js(acis, $, banner)
 
+! sekai-kabuka.com
+||realtime-chart.info/-$subdocument,domain=sekai-kabuka.com
+||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
+sekai-kabuka.com###neko_ad
+sekai-kabuka.com###link_url_td > div:last-of-type
+sekai-kabuka.com###瞎慥o
+sekai-kabuka.com###柮亳o
+sekai-kabuka.com###榮搴l0:style(margin-top: 64px !important;)
+sekai-kabuka.com##.tb-r2 > table > tbody > tr > td:not([valign="top"])
+realtime-chart.info###neko_ad
+realtime-chart.info###neko_ad + a
+realtime-chart.info###neko_ad + a + a
+realtime-chart.info###孥ﾞl.孥ﾞl > .news_l
+realtime-chart.info##.amasearch
+realtime-chart.info##body > div > div:first-child td:not(:nth-of-type(2))
+
 ! totv.org
 ! https://github.com/uBlockOrigin/uAssets/issues/8461
 totv.org###ad
+
+! wowgame.jp
+! https://www.wowgame.jp/game_html/10064.html
+@@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
 ! youpouch.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81308
