@@ -3470,6 +3470,17 @@ otekomachi.yomiuri.co.jp##[id^="ad_gam_"]
 ||images-amazon.com/images/*/browser-scripts/DA-
 
 amazon.co.jp###nav-swmslot
+amazon.co.jp###sponsoredProducts2_feature_div
+amazon.co.jp###sponsoredProducts2_feature_div
+amazon.co.jp##.AdHolder
+amazon.co.jp##.sbv-video-single-product
+amazon.co.jp##div[cel_widget_id*="_SponsoredProducts"]
+amazon.co.jp##div[cel_widget_id*="_ad-placements-"]
+amazon.co.jp##div[cel_widget_id^="adplacements:"]
+amazon.co.jp##div[cel_widget_id="desktop-dp-sims_sb-dp-id"]
+amazon.co.jp##div[cel_widget_id="dpx-sponsored-products-detail_csm_instrumentation_wrapper"]
+amazon.co.jp##div[data-cel-widget^="MAIN-SHOPPING_ADVISER-"]
+amazon.co.jp##div[id^="sp_detail"]
 
 /amazonjs/*
 /amazonjs.
