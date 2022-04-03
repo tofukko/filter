@@ -1540,6 +1540,7 @@ dengekionline.com##.gAdBanner-pickUp
 dengekionline.com##.gMovBox.u-mtbS
 dengekionline.com##.gNews > .gAdBanner
 dengekionline.com##.gRankMoreNav
+diamond.jp###piano-cframe
 diamond.jp##.gpt-ad
 diamond.jp##.sub-ad
 diamond-fudosan.jp##.ad-header
