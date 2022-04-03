@@ -4151,8 +4151,7 @@ yakkun.com##.ad + div:style(clear: both !important;)
 
 !-------------------anti adblock-------------------------!
 ||fundingchoicesmessages.google.com$third-party
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect-rule=nooptext
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect-rule=googlesyndication_adsbygoogle.js:5
 ||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
 
 
