@@ -1245,7 +1245,6 @@ _analytics.js?
 ~amazon.*###left a[href*="amazon.co.jp"], #left a[href*="amzn.to"]
 ~amazon.*###right a[href*="amazon.co.jp"], #right a[href*="amzn.to"]
 ~amazon.*###side a[href*="amazon.co.jp"], #side a[href*="amzn.to"]
-~amazon.*###sidebar a[href*="amazon.co.jp"], #sidebar a[href*="amzn.to"]
 ~amazon.*###sidemenu a[href*="amazon.co.jp"], #sidemenu a[href*="amzn.to"]
 ~amazon.*###sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 ~amazon.*##.column-inner-2 a[href*="amazon.co.jp"], .column-inner-2 a[href*="amzn.to"]
@@ -1256,7 +1255,6 @@ _analytics.js?
 ~amazon.*##.right-column-inner a[href*="amazon.co.jp"], .right-column-inner a[href*="amzn.to"]
 ~amazon.*##.right-container a[href*="amazon.co.jp"], .right-container a[href*="amzn.to"]
 ~amazon.*##.side a[href*="amazon.co.jp"], .side a[href*="amzn.to"]
-~amazon.*##.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 ~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], .sidemenu2 a[href*="amzn.to"]
 ~amazon.*##.sidewrapper a[href*="amazon.co.jp"], .sidewrapper a[href*="amzn.to"]
 ##.t_h ~ .t_b ~ [href^="https://www.amazon.co.jp/"]
@@ -1276,7 +1274,6 @@ _analytics.js?
 !----dlsite
 ~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
 ~dlsite.com##.sidewrapper a[href*="dlsite.co"]
-~dlsite.com##a[href^="https://www.dlsite.com/"][href*="https%3A%2F%2Fwww.dlsite.com%2F"]
 ~dlsite.com##[href*="dlsite.com"][rel="noopener sponsored"]
 !----楽天
 ##.column-inner-2 a[href*="afl.rakuten.co.jp"]
@@ -3365,7 +3362,7 @@ weather.yahoo.co.jp##.ad-frame-fix
 @@||yads.c.yimg.jp/js/yads-async.js$domain=yahoo.co.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/55823
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
-        ! https://github.com/tofukko/filter/issues/57
+	! https://github.com/tofukko/filter/issues/57
 @@||s.yimg.jp/images/news-web/all/images/jsonld_image_300x250.png$image,domain=news.yahoo.co.jp
 
 !worker bee
@@ -3946,7 +3943,7 @@ ashemaletube.com##+js(aopr, open)
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
-        ! https://github.com/tofukko/filter/issues/51
+	! https://github.com/tofukko/filter/issues/51
 @@||expocity-mf.com/expo/js/access.js$script,domain=expocity-mf.com
 	!真っ白
 @@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
@@ -4021,7 +4018,7 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtag/js$script,domain=av01.tv
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84989
 @@||googletagmanager.com/gtag/js$script,domain=kawasaki.com
-        ! https://github.com/tofukko/filter/issues/44
+	! https://github.com/tofukko/filter/issues/44
 @@||grandjump.shueisha.co.jp/original/*/analytics.js$script,domain=grandjump.shueisha.co.jp
 	! https://github.com/tofukko/filter/issues/39
 @@||harta.jp/bib/i/extensions/analytics/analytics.js$script,domain=harta.jp
@@ -4036,13 +4033,13 @@ ashemaletube.com##+js(aopr, open)
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	! https://github.com/tofukko/filter/issues/38
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
-        ! https://github.com/tofukko/filter/issues/56
+	! https://github.com/tofukko/filter/issues/56
 @@||log000.goo.ne.jp/gcgw.js$script,domain=nttxstore.jp
 	! https://github.com/uBlockOrigin/uAssets/issues/10790
 @@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
 	!ランキングは消さないでおこう
 @@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
-        ! https://github.com/tofukko/filter/issues/53
+	! https://github.com/tofukko/filter/issues/53
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js$script,domain=nittsu.com
 	! https://github.com/easylist/easylist/pull/8202
 @@||omtrdc.net^*/mbox/standard?$script,domain=kenkoukazoku.co.jp
@@ -4050,7 +4047,7 @@ ashemaletube.com##+js(aopr, open)
 @@||opgg-static.akamaized.net/js3/tracker.js?$domain=op.gg
 	! https://github.com/AdguardTeam/AdguardFilters/issues/96901
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=followcheck.itby.net
-        ! https://github.com/tofukko/filter/issues/49
+	! https://github.com/tofukko/filter/issues/49
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=heim.jp
 	! 全部
 @@||picrew.me/player/api/ads?$xmlhttprequest,domain=picrew.me
@@ -4106,20 +4103,15 @@ ashemaletube.com##+js(aopr, open)
 
 	! ヤフオクへのリンク
 aucfree.com#@#a[href*="liveads.jp/cc.php?"]
-bookmeter.com#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
 	!Amazon誘導ページ 紙で読む
 comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
-        ! https://github.com/tofukko/filter/issues/54
-curazy.com#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	! https://github.com/tofukko/filter/issues/28 サイドバー
 daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
-	!https://www.kadokawa.co.jp/product/322003000737/
-www.kadokawa.co.jp#@#.sidebar a[href*="amazon.co.jp"], .sidebar a[href*="amzn.to"]
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
-        ! https://github.com/tofukko/filter/issues/11
+	! https://github.com/tofukko/filter/issues/11
 	!画像リスト最大化 ついでに、編集部が選ぶ関連記事も横幅いっぱいに広げる
 news.mynavi.jp##.photo_table--hold:style(clear:both)
 news.mynavi.jp##.articleRelated_postList:style(width: 100% !important;)
@@ -4251,4 +4243,3 @@ totv.org###ad
 ||astrsk.net^$third-party
 ||caprofitx.com^$third-party
 ||nend.net^$third-party
-
