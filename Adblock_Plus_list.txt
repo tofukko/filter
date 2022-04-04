@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/03 15:56
+! 最終更新 2022/04/05 8:08
 !
 
 !2021/07/02
@@ -4148,7 +4148,7 @@ yakkun.com##.ad + div:style(clear: both !important;)
 
 ! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
-/modal-dist/index.js
+/modal-dist/index.
 
 ! 48idol.tv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83410
