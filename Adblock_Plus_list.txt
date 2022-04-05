@@ -3080,21 +3080,19 @@ blog.nicovideo.jp#?#.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-asid
 ||nikkei.*^*/SC2/
 ||nikkei.com/.resources/tracking/
 ||nikkei.jp^*/f1h_text1.js
-business.nikkei.com##[class*="recommendAd"]
 r.nikkei.com##.search__promo
 r.nikkei.com##.trendwatch
-style.nikkei.com##.ad_inview
-style.nikkei.com##.ccZzQU
-style.nikkei.com##.fxllUl
-style.nikkei.com##.jJEPlL
 www.nikkei.com##.PRb
 www.nikkei.com##.k-ad__text
 www.nikkei.com##.k-hub-layout__container--ad-recommend
 www.nikkei.com##.k-hub-layout__container--section-top-trendwatch
 www.nikkei.com##.k-hub-pr
 www.nikkei.com##.newsTrendWatch
+www.nikkei.com##[class*="adForLarge_"]:not([class^="anchor_"])
 business.nikkei.com##.dag_bunner.p-rectangle_banner
 business.nikkei.com##.p-articlePanel_item:style(margin-right: 31px !important;)
+business.nikkei.com##[class*="recommendAd"]
+style.nikkei.com##div[id][class^=sc-]:empty
 xtech.nikkei.com###sticky1 > section.l-asideSection:first-child
 xtech.nikkei.com##.bptable + .l-section
 xtech.nikkei.com##.p-article + .l-section
