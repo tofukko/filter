@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/05 8:08
+! 最終更新 2022/04/05 16:08
 !
 
 !2021/07/02
@@ -544,6 +544,7 @@ _ads.js.
 ||ad999.biz^
 ||af.fukuishimbun.co.jp^
 ||amazonaws.com/affiliate-img.docomo.ne.jp/banner/$third-party
+||api.primecaster.net^
 ||assets-momentum.akamaized.net^
 ||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
@@ -567,6 +568,7 @@ _ads.js.
 ||mgstage.com/afscript/
 ||mgstage.com/js/mgs_Widget
 ||mkd777.net/pd/
+||munchkin.marketo.net^
 ||pagead2.googlesyndication.com^
 ||partner*.become.co.jp^
 ||pikkur.com/bn/
@@ -911,6 +913,7 @@ _analytics.js?
 ||connect.newzia.jp^$third-party
 ||contentsfeed.com^$third-party
 ||coremetrics.com^$third-party
+||datasign.co^$third-party
 ||decideinteractive.com^$third-party
 ||demandbase.com^$third-party
 ||displaymarketplace.com^$third-party
@@ -925,9 +928,11 @@ _analytics.js?
 ||extreme-dm.com^$third-party
 ||ezworks.jp^$third-party
 ||fastonlineusers.com^$third-party
+||fireworkanalytics.com^$third-party
 ||fivecdm.com^$third-party
 ||flagcounter.com^$third-party
 ||fpop.net^$third-party
+||fwpixel.com^$third-party
 ||gemius.pl^$third-party
 ||geotg.jp^$third-party
 ||geovisite.com^$third-party
@@ -1346,6 +1351,7 @@ alba.co.jp##.result_table > tbody > tr:nth-child(16n):not([class]):remove()
 	sokuho.alba.co.jp##.table-w650-live tr:nth-child(16n):not([class])
 	sokuho.alba.co.jp##.table-w650-live tr:nth-child(16n):not([class]):remove()
 altema.jp##.adsClick
+ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
 animageplus.jp##.addHead
 animageplus.jp##.addSide
@@ -1445,6 +1451,7 @@ blogmura.com##.ad-overlay
 blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
+brutus.jp##.c-widget-adbanner-frame
 bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
 buhidoh.net###center-left:style(height: auto !important)
@@ -1472,6 +1479,7 @@ cartoonnetwork.jp##.bnrBottom
 cartoonnetwork.jp##.bnrBottomTop
 cartoonnetwork.jp##.campad
 cartoonnetwork.jp##.skyscraper
+casabrutus.com##[id^="ads-"]
 cat.sc##.adsense
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
@@ -1726,6 +1734,8 @@ haijin-boys.com##.adsense
 hamachan.info###sidetop_ad_pc
 hamazo.tv##.ad
 hameets.com##.advertisement
+hanako.tokyo##.ad-banner
+hanakomama.jp##.ad-banner
 heim.jp##.p-article__adTop
 hentai-covers.site##.ad-banner
 hentai-foundry.com##main > p[style="text-align: center"]
@@ -2175,6 +2185,7 @@ pokemon-matome.net##.inner_footer
 pokemon-matome.net##.kiji_chuubu
 pokemon-matome.net###header_rtranking:style(top: 120px !important;)
 pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
+popeyemagazine.jp##.ad
 prcm.jp##.ad-rectangle
 privatter.net##.“hidden-print”
 privatter.net#?#.media:-abp-has(> .media-left)
