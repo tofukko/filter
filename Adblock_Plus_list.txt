@@ -100,6 +100,12 @@ _ads.js.
 /prebid.$domain=~prebid.org
 /prebid/*
 /prebid_$script,third-party
+/prebid1.
+/prebid2.
+/prebid3.
+/prebid4.
+/prebid5.
+/prebid6.
 /popunder.
 /www/delivery/*
 	!/afr.php?
@@ -1679,6 +1685,7 @@ gigazine.net###LT
 gigazine.net##.e_ad
 ginzamag.com###gn_sp-top_rectangle_middle
 ginzamag.com###gn_sp-top_rectangle_under
+ginzamag.com##.banner
 ginzamag.com##.gnz-top-banner
 ginzamag.com##[id^="gn_pc-"][id$="_billboard"]
 ginzamag.com##[id^="gn_pc-"][id$="_jack_header"]
