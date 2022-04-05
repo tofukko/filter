@@ -2610,7 +2610,9 @@ p-town.dmm.com##.adnetwork-footer
 ||dtiblog.com*/kokuchi/
 ||analyzer*.dtiblog.com^
 ||dtiblog.com/hist_count.php
-dtiblog.com###meerkat-wrap
+dtiblog.com,~staff.dtiblog.com###ad2
+dtiblog.com###wrapper_header
+dtiblog.com##script[src="https://xxx.dtiblog.com/pr_ad/ad.js"] + div[style="text-align:center;"]
 
 !------------ero-video.net------------!
 *$third-party,domain=ero-video.net
