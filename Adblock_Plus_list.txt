@@ -1661,6 +1661,7 @@ gamewiki.jp##.right_ad
 gamewith.jp###ad-jack
 galleria.emotionflow.com##.Ad3Tile
 galleria.emotionflow.com##div[style="width: 1200px; height: 259px; margin: 20px auto 0 auto;"]
+gardenstory.jp##.sponserd
 ! 現代ビジネス
 gendai.ismedia.jp###GB_pc_inArticle
 gendai.ismedia.jp##.reduce-CLS
@@ -2000,6 +2001,7 @@ medibangpaint.com##.adv
 meitou.info###aside
 meitou.info##[href^="https://amzn.to/"], [href^="https://www.amazon.co.jp/"]
 meitou.info##[href^="https://amzn.to/"] + small
+merkmal-biz.jp##aside.box[style="min-height:900px"]
 mi-mollet.com##.ad-bnr
 mi-mollet.com###MM_PC_rectangle_1st
 middle-edge.jp###detad
