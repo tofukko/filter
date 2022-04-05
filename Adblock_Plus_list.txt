@@ -978,6 +978,7 @@ _analytics.js?
 ||optimizely.com^$third-party
 ||owneriq.net^$third-party
 ||pagerank.$third-party
+||permutive.com^$third-party
 ||pr-icon.com^$third-party
 ||ptengine.jp^$third-party
 ||pvk.jp^$third-party
@@ -2216,6 +2217,8 @@ reference.hyper-text.org##.block-books
 renote.jp##.ad__bit
 renote.jp##[class$="__ad__container"]
 repeat-drama.info##.ad
+reuters.com##div[class^="AdSlot__container"]
+reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
 rocketnews24.com##.ad
 rollingstonejapan.com##.addHead
 rollingstonejapan.com##.addSide
@@ -4034,8 +4037,6 @@ ashemaletube.com##+js(aopr, open)
 @@||google-analytics.com/analytics.js$script,domain=okwave.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
-	! TOP 株式
-@@||googletagmanager.com/gtm.js$script,domain=reuters.com
 	! 画像
 @@||googletagmanager.com/gtm.js$script,domain=rocketnews24.com
 	! https://github.com/hirorpt/filters/commit/5b41ca5e9a58de697459ef5c98132f131e887c15
@@ -4076,6 +4077,10 @@ ashemaletube.com##+js(aopr, open)
 @@||harta.jp/bib/i/extensions/analytics/analytics.js$script,domain=harta.jp
 	! https://github.com/easylist/easylist/pull/6920
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=t-mall.kantangame.com
+	! https://github.com/uBlockOrigin/uAssets/issues/8447#issuecomment-1077703228
+	! TOP 株式
+@@||googletagmanager.com/gtm.js$script,domain=reuters.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$script,domain=reuters.com
 	! https://game.yomipo.yomiuri.co.jp/quiz/ クイズできない
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.yomipo.yomiuri.co.jp
 	!
