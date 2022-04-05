@@ -1432,7 +1432,9 @@ bike-news.jp##.left.box300
 bing.com##.b_ad
 bing.com##.b_ad:remove()
 bioweather.net##.ad
+bizspa.jp###innerAdsense
 bizspa.jp##.ad-wrap
+bizspa.jp##.page-ad-wrap
 blog.esuteru.com,otakomu.jp###more > blockquote:last-of-type
 blog.esuteru.com,otakomu.jp###more > center:last-of-type
 blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
