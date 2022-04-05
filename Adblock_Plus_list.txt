@@ -254,6 +254,7 @@ _ads.js.
 ||cyber-traffic.net^$third-party
 ||cybershop-affiliate.jp^$third-party
 ||d-064.com^$third-party
+||d2-apps.net^$third-party
 ||devo.jp^$third-party
 ||dl-rms.com^$third-party
 ||doubleclick.net^$third-party
@@ -1106,8 +1107,6 @@ _analytics.js?
 
 
 ||access*.utamap.com^$script,~third-party
-||access.news.mynavi.jp^
-||ack.mynv.jp^$domain=mynavi.jp
 ||analysis1.sbs-blog.com^
 ||analytics.edgekey.net^
 ||analyzer.wox.cc^
@@ -2085,7 +2084,6 @@ new-akiba.com##.top-column-sidelist2
 news.dwango.jp##.bnrs
 news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
-news.mynavi.jp##.c-sidePickup
 news.ntv.co.jp##.header-publicity
 news.shitaraba.net##.sidebar_ad
 news.tbs.co.jp##.cp-pcAd
@@ -2767,7 +2765,6 @@ wpedia.goo.ne.jp##.NR-pr
 www.ocn.ne.jp##[id^="gooad-"]
 www.ocn.ne.jp##.banner
 
-
 !-----------hatena-----------!
 	!hateblo.jp,
 	!hatenablog.com,jp,
@@ -2964,6 +2961,18 @@ msn.com##.nativeadasideplaceholder
 msn.com##.nativeadserversidecontentmodule
 msn.com##.sameoab_ad_container
 msn.com##.widead
+
+!------------mynavi.jp------------!
+||news.mynavi.jp/assets/adomik-
+agri.mynavi.jp##.upper_ad
+news.mynavi.jp##.c-sidePickup
+woman.mynavi.jp##.is-side-sponsored
+woman.mynavi.jp##.is-sponsored
+! https://github.com/tofukko/filter/issues/11
+! 画像リスト最大化 ついでに、編集部が選ぶ関連記事も横幅いっぱいに広げる
+news.mynavi.jp##.photo_table--hold:style(clear:both)
+news.mynavi.jp##.articleRelated_postList:style(width: 100% !important;)
+news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !important;)
 
 !------------nan-net.com-------------!
 ||mbadw.nan.co.jp^
@@ -4144,11 +4153,6 @@ comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
-	! https://github.com/tofukko/filter/issues/11
-	!画像リスト最大化 ついでに、編集部が選ぶ関連記事も横幅いっぱいに広げる
-news.mynavi.jp##.photo_table--hold:style(clear:both)
-news.mynavi.jp##.articleRelated_postList:style(width: 100% !important;)
-news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !important;)
 	! https://github.com/tofukko/filter/issues/11 サイドバー
 news.nifty.com##.sidebar_fixed:style(position: static !important;)
 	!header辺り
