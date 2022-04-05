@@ -1527,6 +1527,7 @@ corriente.top##.sponsored-links
 corriente.top##div[style="width: 970px; margin: 0 auto 30px;"]
 courrier.jp##.pre_banner_area
 crank-in.net###banner
+crank-in.net##.ad-area-list
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
 ! 漫画
