@@ -1677,6 +1677,11 @@ getnews.jp##.bal_insert_ad
 gigafile.nu##[class*=banner_type_]
 gigazine.net###LT
 gigazine.net##.e_ad
+ginzamag.com###gn_sp-top_rectangle_middle
+ginzamag.com###gn_sp-top_rectangle_under
+ginzamag.com##.gnz-top-banner
+ginzamag.com##[id^="gn_pc-"][id$="_billboard"]
+ginzamag.com##[id^="gn_pc-"][id$="_jack_header"]
 gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
