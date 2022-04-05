@@ -2025,6 +2025,7 @@ moeeki.net##.clearLeft + br + br ~ .imagebox
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
+moguravr.com##.box.is-radiusless:not(.mg-articles-widget)
 momon-ga.com###menu-pr
 mora.jp##.jack
 mora.jp##.newrelease_adBox
@@ -3261,6 +3262,8 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 /adrotate-
 /adrotate/*
 /adtools.js
+/advanced-ads-$domain=~wordpress.org
+/advanced-ads/*$domain=~wordpress.org
 /plugins/ads-
 /plugins/ads/*
 /plugins/betube-ads/*
