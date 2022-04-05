@@ -2966,6 +2966,7 @@ msn.com##.widead
 ||news.mynavi.jp/assets/adomik-
 agri.mynavi.jp##.upper_ad
 news.mynavi.jp##.c-sidePickup
+osusume.mynavi.jp##.ad-widget
 woman.mynavi.jp##.is-side-sponsored
 woman.mynavi.jp##.is-sponsored
 ! https://github.com/tofukko/filter/issues/11
