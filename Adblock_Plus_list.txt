@@ -4210,6 +4210,10 @@ ff14angler.com###main > ins.adsbygoogle
 ff14angler.com###sidebar > .adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 
+! g-pc.info
+! https://github.com/AdguardTeam/AdguardFilters/issues/96832
+g-pc.info##+js(set, adsbygoogle.loaded, true)
+
 ! gametter.com
 !gametter.com##+js(acis, addEventListener, google_ad_client)
 
