@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/05 16:08
+! 最終更新 2022/04/06 11:13
 !
 
 !2021/07/02
@@ -4180,6 +4180,8 @@ no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
 saitama-np.co.jp#@#[id^="div-gpt-ad"]
 	!本文
 tofukko.com#@#.ad-area
+        ! https://github.com/tofukko/filter/issues/58
+trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
 	! https://github.com/tofukko/filter/issues/12 float
 yakkun.com##.ad + div:style(clear: both !important;)
 
