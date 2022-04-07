@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/06 20:23
+! 最終更新 2022/04/07 14:35
 !
 
 !2021/07/02
@@ -2966,6 +2966,47 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||exmarketplace.com^$third-party
 ||pubfuture.com^$third-party
 ||your-notice.com^
+
+!-----------mozakin.com---------!
+mozakin.com##body > div > div[style="height: 300px;"]
+mozakin.com##body > div > div[style="height: 840px; padding: 6px; margin: 0px 0px 16px;"]
+mozakin.com###ad960x540
+||mozakin.com/ad/
+bbs4.mozakin.com##.trend_body > div:nth-of-type(1)
+bbs4.mozakin.com##.txtad
+||mozakin.com/v4/ad/
+||mozakin.com/auto_updater/nls/ranking_list.js
+!||mozakin.com/auto_updater/dti_get.php?
+bbs4.mozakin.com##.adsepa:style(height:0!important;overflow:auto!important;)
+bbs4.mozakin.com###left_ad_body
+bbs4.mozakin.com##div[style="z-index: 105; position: fixed; bottom: 1px; left: 3px; width: 202px; height: 170px; border: 1px solid gray;"]
+bbs4.mozakin.com###ad_right
+bbs4.mozakin.com###main_tbl_right > div[style="width: 360px; z-index: 100; padding: 1px; margin-top: 2px;"] > div:last-child:not([style])
+mozakin.com###dti_movie
+||aff.jskyservices.com^
+bbs4.mozakin.com##[id^="movie_"] > div[style^="margin-bottom: 4px;"]
+bbs4.mozakin.com##[id^="movie_"] > video[style*="display: none;"]:style(display:block!important;)
+||1pondo.tv^$media,domain=mozakin.com
+||10musume.com^$domain=mozakin.com
+||pacopacomama.com$domain=mozakin.com
+mozakin.com##.ad700x200
+mozakin.com##.adbd[style="background-color: rgb(255, 0, 96); color: white; text-align: center; font-size: 13px;"]
+mozakin.com##.tabpain[style="left: -260px; top: 280px;"]:style(top:0!important;)
+mozakin.com##.tabpain[style="top: 550px; left: 0px;"]:style(top:-1120px!important;)
+mozakin.com###wrap01:style(height:2300px!important;)
+bbs4.mozakin.com###ad_bottom
+bbs4.mozakin.com##div[style="margin-bottom: 16px;"]
+bbs4.mozakin.com##.reply_txad:style(border:0!important;)
+bbs4.mozakin.com##div[style="background-color: black; overflow: hidden; color: white; border-radius: 6px; box-sizing: border-box; padding: 0px 2px 6px;"]
+bbs4.mozakin.com###dtiovervideo
+bbs4.mozakin.com##div[style="overflow: hidden; margin: 4px 0px;"]
+!||mozakin.com/v4/js/bbs/dynamic/popup_pc.js
+||mozakin.com/v4/js/imgx/imgd.js
+bbs4.mozakin.com##div.thread_txad:style(border:0!important;)
+||heyzo.com^$image,domain=mozakin.com
+bbs4.mozakin.com###thread_index_adt > div[style]
+bbs4.mozakin.com###thread_index_adb > div[style]
+||1pondo.tv^$domain=mozakin.com
  
 !--------------msn----------------!
 ://c.*/c.gif?
