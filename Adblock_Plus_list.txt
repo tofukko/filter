@@ -2822,6 +2822,12 @@ hs-exp.jp##.entry-footer > div:last-child:style(margin: 0em auto !important;)
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
 hs-exp.jp#@#.adsbygoogle
 
+!----------i-bbs.sijex.net------!
+||dmm.co.jp^$domain=i-bbs.sijex.net
+||e-nls.com^$domain=i-bbs.sijex.net
+i-bbs.sijex.net##[href^="https://www.e-nls.com/"]
+i-bbs.sijex.net##span[style="display:block;margin:5px 0 0 0;padding:0;text-align:center;"]
+
 !------------impress.co.jp-------!
 ||yamakei-online.com/new_images/adv/banner/
 ganref.jp##[id^="gpt-ad-"]:upward(1)
