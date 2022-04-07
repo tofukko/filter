@@ -647,7 +647,6 @@ _ads.js.
 ||hentai-foundry.com/themes/default/js/activebar.js
 ||hinative.com/assets/banners/trek/
 ||horne.red/banner/
-||i-bbs.sijex.net/js/jquery.scrollfollow.js
 ||jalan.net/jalan/doc/top/js/randombanner.js
 ||japan.cnet.com/parts/frame/
 ||japanese.engadget.com^$subdocument
