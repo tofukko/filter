@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/07 14:35
+! 最終更新 2022/04/08 17:58
 !
 
 !2021/07/02
@@ -2318,6 +2318,7 @@ tagindex.com###post
 taskle.jp##.ad
 taskle.jp##.ad-widget
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
+techacademy.jp###pum-75846
 techacademy.jp##.ad
 techcrunch.com##.ad-unit
 tegaki.pipa.jp##.AdX300x250
