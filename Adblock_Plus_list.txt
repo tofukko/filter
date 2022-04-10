@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/10 20:46
+! 最終更新 2022/04/11 7:45
 !
 
 !2021/07/02
@@ -1367,7 +1367,7 @@ anime-hiroba.com##.ad
 ! IID
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
-apkcombo.com##.ad-box
+apkcombo.com##.revamp-ads
 apkpure.com##.ad-box-auto
 apkpure.com##.left > .box[style="overflow: hidden; padding-bottom: 20px"]
 apkpure.com##div[style="margin: 0 auto 20px auto;position: relative;width:100%;overflow: hidden;height: 306px;"]
