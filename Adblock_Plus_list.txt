@@ -1507,6 +1507,7 @@ cnn.co.jp###ad-rect
 cnn.co.jp##.ad-txt
 coinpost.jp##.googlead
 coliss.com##.googleAd
+coliss.com###recommend
 coliss.com###sponsors
 coliss.com###sponsorsTop
 color-sample.com##.ads
