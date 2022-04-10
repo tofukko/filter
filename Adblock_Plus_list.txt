@@ -693,7 +693,6 @@ _ads.js.
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
 ||piapro.jp/images/ads/
-||savevideo.me/ads-fallback/
 ||server-navi.info/cgi/book_
 ||sexyvoice.org/banner/
 ||share-videos.se/js/pjs.js
@@ -1588,7 +1587,6 @@ e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 ecclab.empowershop.co.jp##.wrap-advert
-egotter.com##[id^="async-adsense-"]
 ehonnavi.net##table[width="300"][height="260"]
 ekitan.com##.na-bottom-wrap
 ekitan.com##.sidebar-ad-item
@@ -1603,11 +1601,6 @@ erogazoufactory.com###content [id^="text-"]
 eroido.jp##[class^="adv_"]
 eromazofu.com##.c_c_t_w
 exhentai.org###spa
-f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
-f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 80px !important;)
-f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 80px) !important;)
-f.tabtter.jp###scolpanel[style="display: none;"] + #scolmain:style(height: 100%!important; overflow-y: auto !important;)
-f.tabtter.jp###scolpanel:not([style="display: none;"]) + #scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
 facebook.com##.adv
 facebookcorewwwi.onion##.adv
 famitsu.com##.article-body__contents-pr-primary
@@ -1783,7 +1776,6 @@ img.favsite.jp##[href*="dlsite.com/"]
 imgur.com##.ad-slot
 imgur.com##.BottomAd-container
 inazumanews2.com##.adv
-investing.com##.midHeader
 irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
 iromame-beans.jp##.ads3
@@ -2034,9 +2026,6 @@ mixch.tv##.footer_ad
 mixi.jp##.adsenseBannerArea
 mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
-modalina.jp###advarea
-modalina.jp##.pbac
-modalina.jp##.tbold
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
@@ -2057,9 +2046,6 @@ mora.jp##.wide_adBox_footer
 mora.jp##.special_adBox
 mora.jp###special_adBox_bg
 moto-neta.com##.add
-motorsport.com##.lgux-banner
-motorsport.com##.ms-apb
-motorsport.com##.ms-hapb
 movie.jorudan.co.jp##.ad
 moviewalker.jp##.bl_adSPWrap
 moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"]
@@ -2242,7 +2228,6 @@ saga-s.co.jp##.top-banner
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
 sanspo.com##.article__inline-ad
-savevideo.me##.ads
 say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
 search.carview.co.jp##.side_ss
@@ -2334,8 +2319,6 @@ traicy.com##.pc-ad-wide
 travelbook.co.jp##.adsense
 tripadvisor.jp##.ad
 tvlife.jp##.ad
-nordot.app###js-ur
-nordot.app##.page__listPageAd
 timeout.jp##.ad-mpu
 timeout.jp##[id^="ad-promo-"]
 timeout.jp##[id^="ad-side-"]
@@ -2429,7 +2412,6 @@ withonline.jp##div[style="max-width:970px;min-height:90px;text-align:center;marg
 withonline.jp##div[style="width:670px ; height:300px;"]
 withonline.jp##div[style="min-height:250px;"]
 women.benesse.ne.jp##.ad
-wowgame.jp##[style="width:300px; height:250px;"]
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
 writening.net##.section-ad
 ! 朝目新聞
@@ -4258,10 +4240,16 @@ yakkun.com##.ad + div:style(clear: both !important;)
 
 ! egotter.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64186
+egotter.com##[id^="async-adsense-"]
 @@||cloudfront.net/adsense.js$domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 
 ! f.tabtter.jp
+f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
+f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 80px !important;)
+f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 80px) !important;)
+f.tabtter.jp###scolpanel[style="display: none;"] + #scolmain:style(height: 100%!important; overflow-y: auto !important;)
+f.tabtter.jp###scolpanel:not([style="display: none;"]) + #scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 
 ! ff14angler.com
@@ -4287,16 +4275,34 @@ helpsupport.blog.fc2.com###topspace
 helpsupport.blog.fc2.com###container:style(display: initial !important;)
 @@||blog-imgs-148-origin.fc2.com/h/e/l/helpsupport/googleads.html$subdocument,domain=helpsupport.blog.fc2.com
 
+! investing.com
+! https://github.com/uBlockOrigin/uAssets/issues/10098
+! https://github.com/uBlockOrigin/uAssets/issues/11009
+investing.com##.midHeader
+investing.com##.rightColumnAd
+investing.com##div[class^="ad_"]
+investing.com##+js(no-fetch-if, ads)
+investing.com##+js(set, google_ad_status, 1)
+
 ! modalina.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/85641
+modalina.jp###advarea
+modalina.jp##.pbac
+modalina.jp##.tbold
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
 modalina.jp###ggleadv:style(height: 60px !important;)
 
 ! motorsport.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81464
+motorsport.com##.lgux-banner
+motorsport.com##.ms-apb
+motorsport.com##.ms-hapb
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=motorsport.tv
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 
 ! nordot.app
+nordot.app###js-ur
+nordot.app##.page__listPageAd
 nordot.app##+js(acis, document.createElement, admiral)
 
 ! knshow.com
@@ -4319,6 +4325,7 @@ knshow.com##+js(acis, onload, .ads)
 
 ! savevideo.me
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
+savevideo.me##.ads
 savevideo.me##+js(acis, $, banner)
 
 ! sekai-kabuka.com
@@ -4343,6 +4350,7 @@ totv.org###ad
 
 ! wowgame.jp
 ! https://www.wowgame.jp/game_html/10064.html
+wowgame.jp##[style="width:300px; height:250px;"]
 @@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
 ! youpouch.com
