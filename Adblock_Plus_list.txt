@@ -4238,9 +4238,6 @@ daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margi
 livedoorblogstyle.jp#@#.ad-center
 	! https://github.com/tofukko/filter/issues/11 サイドバー
 news.nifty.com##.sidebar_fixed:style(position: static !important;)
-	!header辺り
-no-ichigo.jp##div[style="height:41px;"]:style(height: 42px !important;)
-no-ichigo.jp###rightmenu:style(margin-top: 42px !important;)
 	!記事
 !server-setting.info#@#.adsbygoogle
 	!記事
