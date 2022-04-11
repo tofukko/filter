@@ -1158,7 +1158,7 @@ _analytics.js?
 ! ezoic
 ##.adtester-container
 ||ezoic.net^
-||ezodn.com^$3p
+||ezodn.com^$third-party
 
 ! fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com
 ##.ggbox
@@ -2550,9 +2550,9 @@ www.asahi.com##.p-rectangleAd
 globe.asahi.com##.module-content-footer__ad
 globe.asahi.com##.module-side-notice
 	!全体的に
-@@||asahi.com/ad/$css,font,image,script,domain=asahi.com
+@@||asahi.com/ad/$stylesheet,font,image,script,domain=asahi.com
 	!全部
-@@||asahi.com/ads/$css,font,image,script,domain=asahi.com
+@@||asahi.com/ads/$stylesheet,font,image,script,domain=asahi.com
 	!ad
 @@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
 	!動画プレイヤー
@@ -4056,7 +4056,7 @@ ashemaletube.com##+js(aopr, open)
 @@||cinema.pia.co.jp/img/ad/$image,domain=cinema.pia.co.jp
 	! https://github.com/tofukko/filter/issues/17 次の話へ移動できない
 @@||comic-boost.com/api4js/advertisement/$xmlhttprequest,domain=comic-boost.com
-@@||comic-boost.com/gentosha/advertisement_view.html$frame,domain=comic-boost.com
+@@||comic-boost.com/gentosha/advertisement_view.html$subdocument,domain=comic-boost.com
 	!右サイド
 @@||cookpad-ads.com^$domain=cookpad.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84989
