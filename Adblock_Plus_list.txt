@@ -891,7 +891,8 @@ _analytics.js?
 ||cedexis.com^$third-party
 ||cetrk.com^$third-party
 ||chango.com^$third-party
-||chartbeat.$third-party
+||chartbeat.com^$third-party
+||chartbeat.net^$third-party
 ||clickaider.com^$third-party
 ||clickanalyzer.jp^$third-party
 ||clicktale.net^$third-party
@@ -1384,6 +1385,15 @@ ascii2d.net##.com
 ascii.jp##.ad
 ascii.jp##.ad_gam
 ashinari.com##[class^="area-bnr"]
+at-s.com##._bnr
+at-s.com##.bnr_popup01
+at-s.com##.detailMainBannerGA01
+at-s.com##.sideBanner01
+at-s.com##.mainBannerGA01
+at-s.com##.mainBannerGA02
+at-s.com##.sideBannerGA01
+at-s.com##.sidePicup
+at-s.com##.topMainBannerGA01
 atwiki.jp###ads
 atwiki.jp###body_footer .lazy
 atwiki.jp###recommend
