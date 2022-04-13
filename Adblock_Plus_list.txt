@@ -2624,7 +2624,7 @@ dtiblog.com,~staff.dtiblog.com###ad2
 dtiblog.com###wrapper_header
 dtiblog.com##script[src="https://xxx.dtiblog.com/pr_ad/ad.js"] + div[style="text-align:center;"]
 
-!------------ero-video.net------------!
+! --- ero-video.net --- !
 *$third-party,domain=ero-video.net
 ||ero-video.net/advert/*
 ero-video.net##+js(aeld, DOMContentLoaded, showPopUpBanner)
@@ -2780,7 +2780,7 @@ q.hatena.ne.jp##.sidebar-banner
 	!言及先エントリを開くが消える
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
-!------------Hrs-Game-----------!
+! --- Hrs-Game --- !
 hrs-game.main.jp##[class^="ads_"]
 hrs-game.main.jp##.columm + .ads_native + section:style(clear:both !important;)
 main-hrs-game.ssl-lolipop.jp##[class^="ads_"]
@@ -2789,7 +2789,7 @@ main-hrs-game.ssl-lolipop.jp##.columm + .ads_native + section:style(clear:both !
 123hrs.web.fc2.com##[id^="rakuten_"]
 123hrs.web.fc2.com###menu > #a8 > li:last-child
 
-!------------hs-exp.jp-----------!
+! --- hs-exp.jp --- !
 hs-exp.jp###footer > .footer-widget-area > .column:first-child
 hs-exp.jp##.entry-footer > #text-59
 hs-exp.jp##.entry-footer > .center
@@ -2799,7 +2799,7 @@ hs-exp.jp##.entry-footer > div:last-child:style(margin: 0em auto !important;)
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
 hs-exp.jp#@#.adsbygoogle
 
-!----------i-bbs.sijex.net------!
+! --- i-bbs.sijex.net --- !
 ||dmm.co.jp^$domain=i-bbs.sijex.net
 ||e-nls.com^$domain=i-bbs.sijex.net
 i-bbs.sijex.net##[href^="https://www.e-nls.com/"]
@@ -2833,7 +2833,7 @@ gamer.ne.jp##[class^="ad"][class$="_pc"]
 gamer.ne.jp##[class^="ad"][class$="_sp"]
 onlinegamer.jp##.trackingWrap > .contentWrap:style(margin-top: 90px !important;)
 
-!------------j-cast.com----------!
+! --- j-cast.com --- !
 bg-mania.jp##div[style="width: 624px; margin-bottom: 20px; height: 270px; margin: 0 auto;"]
 books.j-cast.com##.adobject
 books.j-cast.com##.adunit
@@ -3012,7 +3012,7 @@ news.mynavi.jp##.photo_table--hold:style(clear:both)
 news.mynavi.jp##.articleRelated_postList:style(width: 100% !important;)
 news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !important;)
 
-!------------nan-net.com-------------!
+! --- nan-net.com --- !
 ||mbadw.nan.co.jp^
 ||mbadv.nan.co.jp^
 ||tool2.nan-net.com/exposure.jpg
@@ -3970,7 +3970,7 @@ ashemaletube.com##+js(aopr, open)
 /code/native.js?h=
 
 
-!--------ホワイトリスト--------!
+!------------------------ホワイトリスト------------------------!
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 ||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
