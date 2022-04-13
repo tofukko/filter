@@ -1543,6 +1543,10 @@ curazy.com##.viewer_controller_footer_ad
 curazy.com##.viewer_controller_footer:style(height: auto !important;)
 cyclowired.jp##.block.block-block.clearfix
 cyclowired.jp##.field-name-field-amazon-product1
+cyzo.com###ad_rB
+cyzo.com###ad_rC
+cyzo.com###ad_rD
+cyzo.com###header-name:style(min-height: 60px !important;)
 cyzowoman.com##.ad
 dacelo.space##.adsense
 daily.co.jp##.pageAd
