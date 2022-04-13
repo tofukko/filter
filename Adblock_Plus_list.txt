@@ -2090,6 +2090,9 @@ nhentai.net##.advertisement
 nhentai.net##+js(nowoif)
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
+niigata-nippo.co.jp##.m-ad
+niigata-nippo.co.jp##.m-ad-bg
+niigata-nippo.co.jp##.m-ad-inarticle
 nikkan-spa.jp##.ad-widget
 nikkansports.com##[id^="sideAd"]
 nijie.info,horne.red###footer-banner
