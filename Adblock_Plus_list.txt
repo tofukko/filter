@@ -691,6 +691,7 @@ _ads.js.
 	||admesia.com^$third-party
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
 ||stv.jp/nnn/assets/$subdocument
+||syosetu.com/sub/yomouview/js/ad_scroll.js?
 ||tatituteto.net/images/banner/
 ||tenhou.net/ad1.js
 ||tenhou.net/ad2.js
