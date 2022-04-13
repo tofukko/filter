@@ -1988,13 +1988,13 @@ matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
 mbs.jp##.ad
 mdpr.jp##.c-adBottomOverlay
-medibang.com##.asArtStreetTopIllustAd
-medibang.com##.mdbnAdBlock
-medibang.com#?#.mdModal:-abp-has(.mdbnViewer__ad.-first)
-medibang.com##[class^="adBlock__"]
-	!mobile
-medibang.com##.mfp-ready
-medibang.com##.viewer-bottomBanner
+medibang.com###content:style(padding-bottom: 394px !important;)
+medibang.com##.asTimelineStickyAd > .adBlock__pc
+medibang.com##.contents-footer-bnr
+medibang.com##.mdbnAdBlock:not([style="margin:0 0 10px;"])
+medibang.com##.mdbnAdBlock__728x90
+medibang.com##.mdbnAdBlock[style="margin:0 0 10px;"]:style(height: 0 !important;margin: 0 !important;padding-bottom: 10px !important;)
+medibang.com##[class^="adBlock__"]:style(height: 0 !important;margin: 0 !important;padding-bottom: 10px !important;)
 medibangpaint.com##.adv
 meitou.info###aside
 meitou.info##[href^="https://amzn.to/"], [href^="https://www.amazon.co.jp/"]
