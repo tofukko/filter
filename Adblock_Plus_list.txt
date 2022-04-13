@@ -2255,6 +2255,7 @@ saga-s.co.jp##.top-banner
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
 sanspo.com##.article__inline-ad
+sanyonews.jp##.ad_space
 say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
 search.carview.co.jp##.side_ss
