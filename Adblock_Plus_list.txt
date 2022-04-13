@@ -2464,6 +2464,13 @@ yorozoonews.jp##.module-list-articles__ad
 yorozoonews.jp##.module-list-articles__item--ad
 yourei.jp##.side-component:not([id])
 yourei.jp#?##sentence-6:-abp-has(> .side-component)
+ytv.co.jp###bnr-block
+ytv.co.jp###news-middle-banner
+ytv.co.jp###rectangle-banner-top-pc
+ytv.co.jp##.area-top-banner
+ytv.co.jp##.gDef-bottom-banner
+ytv.co.jp##.gDef-side-banner
+ytv.co.jp##.gDef-top-banner
 zaikai.jp##.addSide
 zaikai.jp##.adSide
 zaikai.jp##.adSide + .mostViewed,.adSide + .sideArticles:style(margin-top: 0 !important;)
