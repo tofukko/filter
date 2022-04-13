@@ -2225,6 +2225,10 @@ rollingstonejapan.com##.addHead
 rollingstonejapan.com##.addSide
 rollingstonejapan.com##.articleDetailAdd
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
+ryukyushimpo.jp###bn-area
+ryukyushimpo.jp##.alertPr
+ryukyushimpo.jp##.alertPrDetail
+ryukyushimpo.jp##.pc-ad-srv
 ! https://ryukyushimpo.jp/style/
 ryukyushimpo.jp##[class*="c_ads_google"]
 ryusoku.com##.ads
