@@ -1482,7 +1482,10 @@ chat.shalove.net##[id].hearttext:style(display: inline !important;)
 chaturbate.com##.ad
 chikuwachan.com##.right_advs
 chisou-media.jp##.p-article div[style="min-height: 280px!important;min-width: 500px;"]
-chixi.jp##.ads
+chixi.jp##.homeRightTable3
+chixi.jp#?#.homeMainTable:-abp-has(> .parts > .partsHeading > h3:-abp-contains(インタレストマッチ))
+chixi.jp#?#.homeRightTable:-abp-has(> .parts > .partsHeading > h3:-abp-contains(スポンサー))
+chixi.jp##.partsBanner
 chosunonline.com##.rectbanner
 chugoku-np.co.jp##.ads
 clap.webclap.com##.footer
