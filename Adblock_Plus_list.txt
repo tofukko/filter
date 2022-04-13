@@ -2227,6 +2227,7 @@ reference.hyper-text.org##.block-books
 renote.jp##.ad__bit
 renote.jp##[class$="__ad__container"]
 repeat-drama.info##.ad
+retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
 reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
 rocketnews24.com##.ad
