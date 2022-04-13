@@ -2018,6 +2018,7 @@ moae.jp##[class^="mod-ad-"]
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
+mofmo.jp##[id^="ad_pos_"]
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
