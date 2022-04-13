@@ -1641,6 +1641,7 @@ firecross.jp###js-ad-modal
 firecross.jp###stage:style(max-height: 100% !important;)
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
+football-tribe.com##div[id^="da-article-"]
 forbesjapan.com##.ad_header
 forbesjapan.com##.ad_under
 forbesjapan.com##[id^="ad-"]
@@ -4184,6 +4185,8 @@ ashemaletube.com##+js(aopr, open)
 	! TOP 株式
 @@||googletagmanager.com/gtm.js$script,domain=reuters.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$script,domain=reuters.com
+	! https://github.com/tofukko/filter/issues/59
+@@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$script,domain=football-tribe.com
 	! https://game.yomipo.yomiuri.co.jp/quiz/ クイズできない
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.yomipo.yomiuri.co.jp
 	!
