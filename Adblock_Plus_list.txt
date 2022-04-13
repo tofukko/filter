@@ -3086,6 +3086,7 @@ bazutore.com##.kijikome3
 bazutore.com#?#.kijisita-itiran:-abp-has(> h3:-abp-contains(紹介))
 
 ! --- nicovideo ニコニコ動画 --- !
+||ads.nicovideo.jp^
 ||nimg.jp/web/scripts/common/tracking/google_analytics.js?
 
 !動画
