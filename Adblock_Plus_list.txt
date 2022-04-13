@@ -2943,7 +2943,6 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 /prebidlink/*
 /api/spots/*&ev$script
 /api/spots/*?s1=%$script
-
 ||a.vdo.ai^
 ||cogleapad.com^
 ||comasoiling.casa^
@@ -2978,6 +2977,7 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||exmarketplace.com^$third-party
 ||pubfuture.com^$third-party
 ||your-notice.com^
+mangaraw.co#?#.col-sm-4:-abp-has(> .ad-hm-slot)
 
 ! --- mozakin.com --- !
 mozakin.com##body > div > div[style="height: 300px;"]
