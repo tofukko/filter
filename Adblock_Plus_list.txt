@@ -1155,6 +1155,7 @@ _analytics.js?
 ##.ad-footer
 ##.ad-rectangle
 ##.article_ad
+###fluct-pc-sticky-ad
 
 ! ezoic
 ##.adtester-container
