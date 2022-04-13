@@ -577,6 +577,8 @@ _ads.js.
 ||ad.land.to^$domain=land.to
 ||ads-twitter.com^$third-party
 ||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
+||akiba-souken.com/js/ad_
+||akiba-souken.com/js/ad/
 ||angel-bbs.com/ssi/koukoku_
 ||anyporn.com/aa/
 ||appget.com/c/wp-content/themes/twentyten/js/agad2.js?
