@@ -1674,6 +1674,7 @@ gendai.ismedia.jp##div[style="min-height: 250px; overflow: hidden;"]
 gendai.ismedia.jp###FR_PC_inArticle
 gendai.ismedia.jp##.ad-in-article
 gendai.ismedia.jp##.articleBottomAd
+genroq.jp##.ad-management
 getchu.com###rectangle
 getchu.com##.banner
 getnavi.jp##.ad
