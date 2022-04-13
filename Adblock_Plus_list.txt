@@ -278,6 +278,7 @@ _ads.js.
 ||gsspat.jp^$third-party
 ||i-mobile.co.jp^$third-party
 ||iid-network.jp^$third-party
+||image-ad.jp^$third-party
 ||impact-ad.jp^$third-party
 ||infocart.jp^$third-party
 ||infolinks.com^$third-party
@@ -1659,6 +1660,7 @@ french-wine-jiten.com##.ad_footer
 friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fujitv.co.jp###fp-bhp-rectangle
+fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
 gaccom.jp##.ads
 gakuryou.net##[id^="ADw"]
