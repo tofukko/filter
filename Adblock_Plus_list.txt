@@ -1734,10 +1734,6 @@ himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
 hinative.com##.mod_ads_trek_balloon
-hitomi.la##div[class$="content"] > div[class^="hitomi-"]
-hitomi.la##+js(noeval)
-hitomi.la##+js(aopr, open)
-hitomi.la##+js(aopr, pops)
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
 hobonichielog.com##.mainwidget > [id^="text-"]
 hokkaido-np.co.jp##.detailAdsense
@@ -2779,6 +2775,16 @@ q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
 	!言及先エントリを開くが消える
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
+
+!g --- hitomi.la --- !
+! https://github.com/uBlockOrigin/uAssets/issues/11515
+hitomi.la##+js(noeval)
+*$script,third-party,domain=hitomi.la
+hitomi.la##+js(aopr, open)
+hitomi.la##+js(aopr, pops)
+hitomi.la##[href*="nutaku.net/signup/"]
+hitomi.la##[class^="hitomi-"]
+/^https:\/\/ltn\.hitomi\.la\/[A-Za-z]{4,7}\/(?=[a-z]{0,15}[A-Z])[A-Za-z]{10,16}\.js$/$script,~third-party,match-case,domain=hitomi.la
 
 ! --- Hrs-Game --- !
 hrs-game.main.jp##[class^="ads_"]
