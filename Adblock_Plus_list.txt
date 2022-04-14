@@ -524,14 +524,6 @@ _ads.js.
 ||zemanta.com^$third-party
 ||zerezas.com^$third-party
 
-!$popup
-||ero-advertising.com^$popup
-||iwanttodeliver.com^$popup
-||livejasmin.com^$popup
-||popads.net^$popup
-||r18.com$popup
-
-
 !----third-party
 ||ad999.biz^
 ||af.fukuishimbun.co.jp^
