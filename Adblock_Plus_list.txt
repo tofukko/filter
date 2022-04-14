@@ -3943,12 +3943,6 @@ redtube.*##.adsbytrafficjunky
 redtube.*##.adsbytrafficjunky:upward(li)
 redtube.*##.remove_ads
 
-! xtube.com
-||3gporn.biz^$third-party
-xtube.com##.col-xs-24.col-xl-8 > div:first-child
-xtube.com##.banner
-xtube.com##.underPlayerBanner
-
 ! youporn.com
 ! https://github.com/uBlockOrigin/uAssets/issues/2482
 ! https://github.com/uBlockOrigin/uAssets/issues/4779
