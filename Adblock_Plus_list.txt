@@ -1240,9 +1240,6 @@ _analytics.js?
 
 !----amazon
 ~amazon.*###freespace a[href*="amazon.co.jp"], #freespace a[href*="amzn.to"]
-~amazon.*###left a[href*="amazon.co.jp"], #left a[href*="amzn.to"]
-~amazon.*###right a[href*="amazon.co.jp"], #right a[href*="amzn.to"]
-~amazon.*###side a[href*="amazon.co.jp"], #side a[href*="amzn.to"]
 ~amazon.*###sidemenu a[href*="amazon.co.jp"], #sidemenu a[href*="amzn.to"]
 ~amazon.*###sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 ~amazon.*##.column-inner-2 a[href*="amazon.co.jp"], .column-inner-2 a[href*="amzn.to"]
@@ -1252,7 +1249,6 @@ _analytics.js?
 ~amazon.*##.plugin-freearea1 a[href*="amazon.co.jp"], .plugin-freearea1 a[href*="amzn.to"]
 ~amazon.*##.right-column-inner a[href*="amazon.co.jp"], .right-column-inner a[href*="amzn.to"]
 ~amazon.*##.right-container a[href*="amazon.co.jp"], .right-container a[href*="amzn.to"]
-~amazon.*##.side a[href*="amazon.co.jp"], .side a[href*="amzn.to"]
 ~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], .sidemenu2 a[href*="amzn.to"]
 ~amazon.*##.sidewrapper a[href*="amazon.co.jp"], .sidewrapper a[href*="amzn.to"]
 ##.t_h ~ .t_b ~ [href^="https://www.amazon.co.jp/"]
