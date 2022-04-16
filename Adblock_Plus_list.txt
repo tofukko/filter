@@ -42,9 +42,6 @@ _728_90.
 /ad.cgi?
 _ad.html|
 /ad.js?slot
-!facebook.com アルバム投稿できない
--ad.js$domain=~facebook.com
-_ad.js
 /ad.php?
 /ad1.
 /ad2.
