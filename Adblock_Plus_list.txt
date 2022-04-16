@@ -3137,7 +3137,7 @@ blog.nicovideo.jp#?#.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-asid
 ! --- nifty --- !
 ||analytics.cocolog-nifty.com^
 ||nifty.com/pubc0m/js/tag/_nif_tag.js
-||nifty.gesoten.com/n/banner/
+||nifty.gesoten.com/nifty/banner
 
 ! nifty.softgames.com
 ||improvedigital.com^$third-party
