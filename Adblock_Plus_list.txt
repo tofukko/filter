@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/15 7:31
+! 最終更新 2022/04/16 18:26
 !
 
 !2021/07/02
@@ -3834,6 +3834,9 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 ||vis1.shinobi.jp^
 ||vis1.shinobi.jp/js/
 ||vis1.shinobi.jp/jsr/
+! blog
+###ninja-blog-inactive
+##.NinjaEntryCommercial
 
 !g --- mediafire.com --- !
 mediafire.com##+js(aeld, click, ClickHandler)
