@@ -1167,17 +1167,6 @@ _analytics.js?
 ###gStickyAd
 ###im_panel
 
-! popin
-##._popIn_recommend_article_ad
-##._popIn_recommend_article_ad_reserved
-	!||rtoaster.jp^$third-party
-||outbrain.com^$third-party
-||speee-ad.akamaized.net^
-||taboola.com^$third-party
-||taxel.jp^$third-party
-||logly.co.jp^$third-party
-||zucks.net$third-party
-
 ! microad
 ##.c-ad
 	! http://2ch-matomenews.com/
@@ -3233,6 +3222,20 @@ websearch.rakuten.co.jp###ads-billboard
 ||r10s.jp/com/js/d/ad_liquid_table/
 ||rakuten-static.com/1/grp/banner/js/create.js
 ||rmp.rakuten.co.jp/js/aa.js$domain=~edy.rakuten.co.jp
+
+! --- recommend --- !
+! popin
+!||popin.cc/searchbox/
+##._popIn_recommend_article_ad
+##._popIn_recommend_article_ad_reserved
+	!||rtoaster.jp^$third-party
+||outbrain.com^$third-party
+||speee-ad.akamaized.net^
+||taboola.com^$third-party
+||trigs-sockets.com^$third-party
+||taxel.jp^$third-party
+||logly.co.jp^$third-party
+||zucks.net$third-party
 
 ! --- reverso.net --- !
 reverso.net###rca
