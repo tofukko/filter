@@ -1746,6 +1746,8 @@ hokkaido-np.co.jp##.pr
 hokkaidofan.com##.vce-ad-container
 horiemon.com##.ad
 hosyusokuhou.jp#?#.sidewrapper:-abp-has(> .sidetitle:-abp-contains(★))
+houjin.info##.ads1
+houjin.info##.ads2
 housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
 hub.vroid.com###Model-adView-2lWBn
