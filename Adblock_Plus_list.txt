@@ -596,6 +596,7 @@ _ads.js.
 ||ctv.co.jp/adjust/$subdocument
 ||cyclingtime.com/adimg/
 ||daily.jp/Koukoku/
+||dailynewsonline.jp/skin/frontend/js/g_ad.js?
 ||diced.jp/webs/
 ||dl8x.com/banner/
 ||dl8x.com/product?
@@ -1545,6 +1546,7 @@ daily.co.jp##.pageAd
 daily.co.jp##.pnl-aside
 daily.co.jp##aside.add
 daily.co.jp##[id^="browsi_adWrapper_"]
+dailynewsonline.jp##.adArea
 dan-ball.jp##[class^="ad_div_"]
 daysneo.com###bnrTop
 daysneo.com##.ad:not(.mt60)
