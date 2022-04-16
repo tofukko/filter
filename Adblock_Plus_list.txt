@@ -1562,6 +1562,7 @@ dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
 dl-x.com##.vip-center
 downdetector.com##.ad
+dqw-game.com##.wrap-ad-common
 duckduckgo.com###ads
 e-mansion.co.jp###bottom_ad
 e-mansion.co.jp###bottom_bottom_ad
