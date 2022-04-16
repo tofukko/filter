@@ -1406,6 +1406,8 @@ bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
 baila.hpplus.jp##.c-article-ad
 bang-dream-news.com##.ads
+bangumi.org###ad_area
+bangumi.org##.ad_footer_wrap
 basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-child:last-child
 battle-one.com##.adsense
 battlecats-db.com##div[style="width:336px;float:right;"]
