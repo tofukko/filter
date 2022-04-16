@@ -1410,6 +1410,7 @@ basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-chil
 battle-one.com##.adsense
 battlecats-db.com##div[style="width:336px;float:right;"]
 bbc.com##[data-e2e="advertisement"]
+beauty-navi.com##.p-headerBnr
 bengo4.com##.p-dfp-banner-area--desktop-only-block
 bengo4.com##.p-topics-list__item--ad-ranking
 bengo4.com##.p-topics-list__item:not(.h-stretched-link-wrapper)
