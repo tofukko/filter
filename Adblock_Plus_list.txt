@@ -656,6 +656,7 @@ _ads.js.
 ||mapion.co.jp*/js/vl1.
 ||manga-gai.net/manga/microad/
 ||manga-yomeru.com/jp/template/sidebar-banner
+||mangaz.com/js/ad_fix.js?
 ||mangaz.com/virgo/adv/
 ||matomedane.jp/js/adv/
 ||matomedane.jp/js/right_navi/
@@ -1958,6 +1959,7 @@ mamadays.tv##[class^="style_ad_"]
 mamagirl.jp##.p-ad
 manager-life.net##[id^="ad_"]
 manga.okiba.info,manga.okiba.jp##.amazon-ranking-outer
+manga-comisol.jp##.ad-list
 manga-gai.net##.menu_bottom + hr:style(clear: both !important;)
 manga-yomeru.com##.adbox
 manga-zero.com##.carousel-item:style(padding-bottom: 0 !important;)
