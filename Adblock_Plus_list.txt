@@ -667,10 +667,6 @@ _ads.js.
 ||mixi.jp^*/adnetwork/
 ||muvc.com/winopen.js$domain=muvc.net
 ||muvc.com/winlayer.jse$domain=muvc.net
-||new-akiba.com/images/banner/
-||new-akiba.com/images/dlsite/
-||new-akiba.com/special/
-	||ura-akiba.jp^$subdocument
 ||newsweekjapan.jp/images/bnr/newsweek_ad_
 ||nijie.info/js/ad.js?
 ||nijie.net/*/banner/
@@ -698,8 +694,6 @@ _ads.js.
 ||twitter.com^*/videoads/
 ||twoucan.com/ad?name=
 ||uraaka-joshi.com/pr$subdocument
-||urasma.com^$domain=ura-akiba.jp
-||urasma.com/dmm_
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||vcomi.jp/page_ad/
@@ -2082,12 +2076,6 @@ nazo2.net##.footer_ad
 nazology.net##.ads-wide
 nazology.net##.side-adblock
 net-rabo.work##.ad
-new-akiba.com###bannerJ
-new-akiba.com##.amazon-sidelist
-new-akiba.com##.amazon-sidelist-right2
-new-akiba.com##.top-column-onsale
-new-akiba.com##.top-column-product
-new-akiba.com##.top-column-sidelist2
 news.dwango.jp##.bnrs
 news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
@@ -3077,6 +3065,22 @@ news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !imp
 ||tool2.nan-net.com/exposure.jpg
 nan-net.com###banner
 nan-net.com#?#div[style$="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]:-abp-has([src^="//adm.shinobi.jp"])
+
+! --- new-akiba.com --- !
+||new-akiba.com/images/banner/
+||new-akiba.com/images/dlsite/
+||new-akiba.com/special/
+||ura-akiba.jp^$subdocument
+||urasma.com^$domain=ura-akiba.jp
+||urasma.com/dmm_
+new-akiba.com###bannerJ
+new-akiba.com##.amazon-sidelist
+new-akiba.com##.amazon-sidelist-right2
+new-akiba.com##.top-column-onsale
+new-akiba.com##.top-column-product
+new-akiba.com##.top-column-sidelist2
+ura-akiba.jp###rank_goods
+ura-akiba.jp##.side_ads
 
 ! --- newmatosoku.com --- !
 newmatosoku.com##.ako1
