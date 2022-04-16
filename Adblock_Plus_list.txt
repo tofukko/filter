@@ -1713,8 +1713,8 @@ gori.me##.ads
 gori.me##.sidebar-single-ad
 gorin.jp##.ad
 gorillawiki.jp##.new_koukokuwaku_wrapper
-gqjapan.jp##[data-test-id="AdBannerWrapper"]
-gqjapan.jp##[data-test-id="AdDisplayWrapper"]
+gqjapan.jp##.ad-stickyhero
+gqjapan.jp##.full-bleed-ad
 greasyfork.org##.ad
 greasyfork.org##.ad-entry
 guitarmagazine.jp##.ad
