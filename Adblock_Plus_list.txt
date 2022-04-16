@@ -4260,6 +4260,8 @@ ashemaletube.com##+js(aopr, open)
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$script,domain=football-tribe.com
 	! https://game.yomipo.yomiuri.co.jp/quiz/ クイズできない
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.yomipo.yomiuri.co.jp
+	! https://github.com/tofukko/filter/issues/60
+@@||img-baila.hpplus.jp/common/large/image/ad/$image,domain=baila.hpplus.jp
 	!
 @@||jsc.adskeeper.co.uk/*/megaup.net$script,domain=megaup.net
 @@||servicer.adskeeper.co.uk^$script,domain=megaup.net
