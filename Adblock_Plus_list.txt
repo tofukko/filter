@@ -2482,6 +2482,7 @@ xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//a
 
 ! --- @japan --- !
 /clog_ad.js
+/sp3pas_ad.js
 /track.php?
 
 ! --- 5ch pink --- !
