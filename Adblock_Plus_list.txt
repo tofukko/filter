@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/17 16:41
+! 最終更新 2022/04/18 8:11
 !
 
 !2021/07/02
@@ -2869,8 +2869,11 @@ www.j-cast.com##.ad-rectangle-bnr
 www.j-cast.com##.ad_entry_toptext
 www.j-cast.com##.adunit
 
-!g --- javtorrent.re --- !
-/a/pop/js/*
+!g --- javynow.com --- !
+javynow.com##.banner-player
+javynow.com##.videos-ad__ad
+javynow.com##.videos-ad:style(width: auto !important;padding: 0 !important;)
+javynow.com##.videos-view__side__ad__banner
 
 !g --- kissanime --- !
 !si
@@ -4065,6 +4068,19 @@ ashemaletube.com##+js(aopr, open)
 /sdk/push_web/?zid=$script,third-party
 /code/native.js?h=
 
+! Mostly taken from AG and seen on various NSFW sites
+/_a_ta/s/s/*
+/a/ipn/js/*
+/a/pop/js/*
+/local_p.js^
+/local_ssu.js|
+/s/js/ssu.v2.js?v=
+/s/s/sui.php
+/s/s/suo.php
+/s/s/supc.php
+/s/s/supv.php
+/s/su.php?t=
+/javascript/fropo.js
 
 !------------------------ホワイトリスト------------------------!
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
