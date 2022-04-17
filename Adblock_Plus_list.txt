@@ -2701,6 +2701,7 @@ free.foto.ne.jp##.adsbygoogle:upward(1)
 fresheye.com###ad-ov1box
 fresheye.com##.ad-selfbox
 news.fresheye.com###ad_box_double
+news.fresheye.com##.ad_box_double
 news.fresheye.com##.ad-pbox.banner
 news.fresheye.com##.listing-ad
 news.fresheye.com##.nw-ad
