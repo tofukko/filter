@@ -4387,6 +4387,7 @@ f.tabtter.jp###scolpanel:not([style="display: none;"]) + #scolmain:style(height:
 
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+ff14angler.com#@#script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 ff14angler.com###main > ins.adsbygoogle
 ff14angler.com###sidebar > .adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
