@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/16 18:26
+! 最終更新 2022/04/17 16:41
 !
 
 !2021/07/02
@@ -1198,27 +1198,6 @@ _analytics.js?
 ##[id^="div_fam_async_"]
 ##[style*="width:728px;"][style*="height:90px;"]
 ##[style*="width: 728px;"][style*="height: 90px;"]
-
-	!##a[href*="http://ad."]
-	!##a[href*="infotop.jp/click.php?"]
-	!##a[href*="/traffic.php?"]
-
-	!2020/09/26
-	!##a[href*="px.a8.net/svt/ejp?"]
-		!www.kadokawa.co.jp#@#a[href*="px.a8.net/svt/ejp?"]
-
-	!##a[href*="ac.ebis.ne.jp/tr_set.php?"]
-	!##a[href*="accesstrade.net/at/"]
-	!##a[href*="accesstrade.net/sp/"]
-	!##a[href*="af-next.com/link.php"]
-	!##a[href*="affiliate.fc2.com/cgi-bin/click.cgi?"]
-	!##a[href*="bannerbridge.net/click"]
-	!##a[href*="click.duga.jp/"]
-	!##a[href*="click.dtiserv2.com"]
-	!##a[href*="click.linksynergy.com"]:not([href*="&type=2"]):not([href*="&type=3"]):not([href*="=http"]):not([href*="=https"])
-	!##a[href*="cross-system.com/click.php"]
-	!##a[href*="purelovers.com/lp"]
-	!##a[href*="liveads.jp/cc.php?"]
 ##a[href*="dgpot.com"][href*="affiliate_banner_id"]
 ##a[href*="nxcount.com/AdClick/"]
 
