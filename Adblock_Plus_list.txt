@@ -2043,6 +2043,7 @@ moto-neta.com##.add
 movie.jorudan.co.jp##.ad
 moviewalker.jp##.bl_adSPWrap
 moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"]
+moviewalker.jp##div[style^="padding-top:10px; padding-bottom: 10px;"]
 mudainodocument.com##.adset-Cover
 mudainodocument.com##.article-body-inner [href^="https://px.a8.net/"]
 muvc.net##body > div[align="right"]:last-of-type
