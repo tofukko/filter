@@ -1212,7 +1212,6 @@ _analytics.js?
 !----amazon
 ~amazon.*###freespace a[href*="amazon.co.jp"], #freespace a[href*="amzn.to"]
 ~amazon.*###sidemenu a[href*="amazon.co.jp"], #sidemenu a[href*="amzn.to"]
-~amazon.*###sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 ~amazon.*##.column-inner-2 a[href*="amazon.co.jp"], .column-inner-2 a[href*="amzn.to"]
 ~amazon.*##.left-column-inner a[href*="amazon.co.jp"], .left-column-inner a[href*="amzn.to"]
 ~amazon.*##.left-container a[href*="amazon.co.jp"], .left-container a[href*="amzn.to"]
@@ -1228,23 +1227,15 @@ _analytics.js?
 !----e-nls
 ~e-nls.com##.plugin-freearea a[href*="e-nls.com/access"]
 ~e-nls.com##.sidewrapper a[href*="e-nls.com/access"]
-~e-nls.com###left a[href*="e-nls.com/access"]
 !----dmm
 !艦これスタートボタン
 ~dmm.com,~dmm.co.jp##a[href^="http://ad.dmm.com/ad/p/r?"]
 ~dmm.com,~dmm.co.jp##a[href^="https://ad.dmm.com/ad/p/r?"]
 ~dmm.com,~dmm.co.jp##.plugin-freearea a[href*="dmm.co"]
-~dmm.com,~dmm.co.jp###sidebar a[href*="dmm.co.jp"]
-~dmm.com,~dmm.co.jp##.sidewrapper a[href*="dmm.co.jp"]
+~dmm.com,~dmm.co.jp##.sidewrapper a[href*="dmm.co"]
 !----dlsite
 ~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
 ~dlsite.com##.sidewrapper a[href*="dlsite.co"]
-~dlsite.com##[href*="dlsite.com"][rel="noopener sponsored"]
-!----楽天
-##.column-inner-2 a[href*="afl.rakuten.co.jp"]
-##.plugin-freearea a[href*="afl.rakuten.co.jp"]
-##.sidewrapper a[href*="afl.rakuten.co.jp"]
-##.side a[href*="item.rakuten.co.jp/"]
 
 
 1000mg.jp##.main-top
@@ -4383,8 +4374,6 @@ aucfree.com#@#a[href*="liveads.jp/cc.php?"]
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
 	! https://github.com/tofukko/filter/issues/63
 catmiimi.com#@#.dfad
-	!Amazon誘導ページ 紙で読む
-comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 	! https://github.com/tofukko/filter/issues/28 サイドバー
 daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
 	! https://github.com/tofukko/filter/issues/61
