@@ -2043,8 +2043,6 @@ moto-neta.com##.add
 movie.jorudan.co.jp##.ad
 moviewalker.jp##.bl_adSPWrap
 moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"]
-mag.osdn.jp###head-ad-text
-mag.osdn.jp##[id^="div-gpt-osdn_mag_"]
 mudainodocument.com##.adset-Cover
 mudainodocument.com##.article-body-inner [href^="https://px.a8.net/"]
 muvc.net##body > div[align="right"]:last-of-type
@@ -2274,11 +2272,6 @@ sound.jp###adfloat
 spaia.jp##.ad
 spaia.jp##.ad-wrapper
 sponichi.co.jp##[id^=space_shopping_]
-srad.jp###ads-article-left
-srad.jp###ads-index-text
-srad.jp###gpt-sd_index_rec
-srad.jp###tophat
-srad.jp##.srad-contentad-banner
 st.benesse.ne.jp##.mb_normal[style="height: 250px"]
 st.benesse.ne.jp##[id^="div-M_MD_kiji_fluid_"]
 startpage.com###spon_links
@@ -3200,6 +3193,20 @@ aria.nikkei.com,doors.nikkei.com,dual.nikkei.com,woman.nikkei.com###stickyArea1
 ! ぬきスト系
 erry.one,hikaritube.com,iqoo.me,poyopara.com,sugirl.info##div[style^="width:100%;box-sizing:border-box;padding:1em"]
 nukistream.com##[href^="https://click.dtiserv2.com/Click185/"]
+
+! --- osdn --- !
+mag.osdn.jp###head-ad-text
+mag.osdn.jp##[id^="div-gpt-osdn_mag_"]
+osdn.co.jp###gpt-cojp_rec-header
+osdn.co.jp###gpt-cojp_rec-footer
+osdn.net###head-ad-text-wrap
+! スラド
+srad.jp###ads-article-left
+srad.jp###ads-index-text
+srad.jp###gpt-sd_index_rec
+srad.jp###tophat
+srad.jp##.srad-contentad-banner
+tenshoku.srad.jp###top-hat
 
 ! --- otapps.net --- !
 ! https://info.otapps.net/
