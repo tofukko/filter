@@ -542,6 +542,7 @@ _ads.js.
 ||imagefreak*.com^
 ||imasdk.googleapis.com^$third-party
 ||javhd.com/sb/$third-party
+||lancers.jp/img/affiliate/
 ||mgstage.com/afscript/
 ||mgstage.com/js/mgs_Widget
 ||mkd777.net/pd/
