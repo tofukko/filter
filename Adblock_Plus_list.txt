@@ -1764,6 +1764,7 @@ img.favsite.jp##[href*="dlsite.com/"]
 imgur.com##.ad-slot
 imgur.com##.BottomAd-container
 inazumanews2.com##.adv
+iphone-mania.jp##.single_pr_ad_all
 irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
 iromame-beans.jp##.ads3
