@@ -1292,9 +1292,7 @@ akiba-souken.com###adGameRanking
 akiba-souken.com##.articleGoodsBox
 akiba-souken.com##.middleBnr
 alba.co.jp###header_lower
-alba.co.jp##.result_table > tbody > tr:nth-child(16n):not([class])
 alba.co.jp##.result_table > tbody > tr:nth-child(16n):not([class]):remove()
-	sokuho.alba.co.jp##.table-w650-live tr:nth-child(16n):not([class])
 	sokuho.alba.co.jp##.table-w650-live tr:nth-child(16n):not([class]):remove()
 altema.jp##.adsClick
 ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
@@ -1393,7 +1391,6 @@ bikebros.co.jp##.ad
 bikebros.co.jp##.adsw
 bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bike-news.jp##.left.box300
-bing.com##.b_ad
 bing.com##.b_ad:remove()
 bioweather.net##.ad
 bizspa.jp###innerAdsense
@@ -1474,7 +1471,6 @@ coliss.com###sponsors
 coliss.com###sponsorsTop
 color-sample.com##.ads
 comic-walker.com###right_top_banner
-comicbunch.com##.footer_comics_ad
 comicbunch.com##.footer_comics_ad:remove()
 comici.jp##.a-banner-box
 cookien.com##.pr_content
@@ -2051,7 +2047,6 @@ myoji-yurai.net###main_slider2
 myoji-yurai.net##.ad336
 myoji-yurai.net##.adResponsive
 namedic.jp###ad-side_top
-nagasaki-np.co.jp##.article_ad
 nagasaki-np.co.jp##.article_ad:remove()
 naming-dic.com##.sidebar-box3
 natsukimemo.com##.adsense
@@ -2261,7 +2256,6 @@ smt-cinema.com##.ad
 snapdish.co##.book-detail__promotion
 snapdish.co##.side__ad
 soco-st.com##.footer_ad
-soco-st.com##.post_ad
 soco-st.com##.post_ad:remove()
 sound.jp###adfloat
 spaia.jp##.ad
@@ -4390,7 +4384,6 @@ saitama-np.co.jp#@#[id^="div-gpt-ad"]
 	!本文
 tofukko.com#@#.ad-area
         ! https://github.com/tofukko/filter/issues/58
-trafficnews.jp##.swiper-slide[data-history^="photo_extra"]
 trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
 	! https://github.com/tofukko/filter/issues/12 float
 yakkun.com##.ad + div:style(clear: both !important;)
