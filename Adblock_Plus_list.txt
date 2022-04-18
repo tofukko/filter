@@ -3767,6 +3767,7 @@ web.fc2.com##.ad-inactive
 ameblo.jp##.subAdBannerArea
 ameblo.jp##.subAdBannerHeader
 ameblo.jp##.skin-entryAd
+ameblo.jp##footer + div[class^="_"][aria-hidden]
 	! https://github.com/tofukko/filter/issues/14
 ameblo.jp###subAInner:style(position: static !important; margin-top: auto !important;)
 news.ameba.jp##[class^="MainAdModule__"]
