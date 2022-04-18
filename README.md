@@ -3,6 +3,8 @@
 
 誤爆報告などはIssuesか[ブログ](https://tofukko.blog.fc2.com/blog-entry-405.html)へどうぞ
 
+Twitter:[@tofukko](https://twitter.com/tofukko)
+
 ---
 豆腐フィルタを使用した場合以下の事項に同意したものとみなします。
 
