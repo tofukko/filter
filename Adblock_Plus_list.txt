@@ -4352,14 +4352,20 @@ ashemaletube.com##+js(aopr, open)
 @@||hydra-media.cursecdn.com/minecraft-ja.gamepedia.com/*/Beacon$image,domain=minecraft-ja.gamepedia.com
 @@||atwikiimg.com/www26.atwiki.jp/minecraft/*/beacon.png$image,domain=www26.atwiki.jp
 
+	! https://github.com/tofukko/filter/issues/62
+70okugame.com#@#.dfad
 	! ヤフオクへのリンク
 aucfree.com#@#a[href*="liveads.jp/cc.php?"]
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
+	! https://github.com/tofukko/filter/issues/63
+catmiimi.com#@#.dfad
 	!Amazon誘導ページ 紙で読む
 comicride.jp#@##sub a[href*="amazon.co.jp"], #sub a[href*="amzn.to"]
 	! https://github.com/tofukko/filter/issues/28 サイドバー
 daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
+	! https://github.com/tofukko/filter/issues/61
+fategrandorder.info#@#.dfad
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
 	! https://github.com/tofukko/filter/issues/11 サイドバー
