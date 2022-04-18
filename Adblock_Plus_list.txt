@@ -650,6 +650,7 @@ _ads.js.
 ||koepota.jp/js/amazon.js
 ||kokuban.in/ad/
 ||kooss.com/*.htm$subdocument
+||kuchi.info/image/bana/
 ||labaq.com/user/json/lq_amarray.js?
 ||linkage.kakaku.com^$domain=~kakaku.com
 ||luvul.net/ad/
