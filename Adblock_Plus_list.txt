@@ -87,10 +87,6 @@ _ads.js.
 /images/ad/*
 /images/ad_
 /images/ads/*
-/js/ad_
-/js/ad/*
-/js/ads-
-/js/ads_
 /js.ng/site=
 /jquery.meerkat.
 /koukoku/*
@@ -562,6 +558,7 @@ _ads.js.
 ||2ch.vet/img/ani_
 ||3751chat.com/ad/
 ||4chan-ads.org^
+||70okugame.com/js/ad_
 ||a.konachan.net^$domain=konachan.com
 ||ad.land.to^$domain=land.to
 ||ads-twitter.com^$third-party
@@ -608,6 +605,7 @@ _ads.js.
 ||enoge.org/js/amazon_
 ||estar.jp/page/ad/
 ||famitsu.com^*/amazon_ranking.js
+||fategrandorder.info/html/js/ad_
 ||fod.fujitv.co.jp/mz/
 ||gakuryou.net/fb/
 ||gakuryou.net/right-banner/
@@ -625,11 +623,13 @@ _ads.js.
 ||mail-ads.google.com^
 ||myoji-yurai.net/images/banner/
 ||news.merumo.ne.jp/ad/
+||gressive.jp/themes/custom/gressive_theme/js/ad/
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||gyazo.com/direct_ads/
 ||hentai-foundry.com/themes/default/js/activebar.js
 ||hinative.com/assets/banners/trek/
+||homemate-research.com/js/ad/
 ||horne.red/banner/
 ||jalan.net/jalan/doc/top/js/randombanner.js
 ||japan.cnet.com/parts/frame/
@@ -681,12 +681,15 @@ _ads.js.
 ||share-videos.se/js/pjs.js
 	||admesia.com^$third-party
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
+||simozo.com/js/ad_
+||square-enix.com/common/templates/js/ad/
 ||stv.jp/nnn/assets/$subdocument
 ||syosetu.com/sub/yomouview/js/ad_scroll.js?
 ||tatituteto.net/images/banner/
 ||tenhou.net/ad1.js
 ||tenhou.net/ad2.js
 ||tgiw.info/amazon
+||timeout.*/static/js/ads-
 ||tinami.com/ad/
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
@@ -697,6 +700,7 @@ _ads.js.
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||vcomi.jp/page_ad/
+||vokka.jp/packs/js/ads-
 ||wanchan.jp/js/text_ad.js
 ! 例のアレ
 ||webnewtype.com/img/pc/common/spacer1.gif
@@ -705,6 +709,7 @@ _ads.js.
 ||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
 ||yomoyama-bbs.jp/image/ad_images/
+||zozo.jp/common/js/ads-inner-tracking.js?
 ||zyuken.net/ads/
 ||zyuken.net/juku_page/ads/
 
