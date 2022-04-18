@@ -2148,6 +2148,7 @@ pakutaso.com#?#.block__content:-abp-has(> .adsbygoogle)
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has(> a[href^="https://www.amazon.co"])
 pashplus.jp##.google_ads
 pashplus.jp##.single_bnr_wrap
+pctrouble.net##.ads
 peko-step.com###cgrig_base_pic:style(grid-auto-rows: auto !important;)
 peko-step.com###cgrig_cont:style(padding-top: 10px !important;grid-row-start: 3 !important;grid-row-end: auto !important;grid-column-end: 4 !important;)
 peko-step.com###cgrig_left:style(padding-top: 10px !important;grid-row-start: 3 !important;grid-row-end: 7 !important;)
