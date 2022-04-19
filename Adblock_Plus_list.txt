@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/18 17:12
+! 最終更新 2022/04/19 13:58
 !
 
 !2021/07/02
@@ -2806,6 +2806,11 @@ hitomi.la##+js(aopw, hitomi)
 hitomi.la##[href*="nutaku.net/signup/"]
 hitomi.la##[class^="hitomi-"]
 /^https:\/\/ltn\.hitomi\.la\/[A-Za-z]{4,}\/(?=[a-z]{0,19}[A-Z])[A-Za-z]{4,20}\.js$/$script,~third-party,match-case,domain=hitomi.la
+
+! https://github.com/tofukko/filter/issues/64
+hitomi.la##[class="navbar"]:style(display: flex !important;flex-flow: wrap !important;height: auto !important;)
+hitomi.la##.drop-button :style(margin-left: auto !important;)
+hitomi.la##.top-content:style(margin-top: 0px !important;)
 
 ! --- Hrs-Game --- !
 hrs-game.main.jp##[class^="ads_"]
