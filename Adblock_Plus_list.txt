@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/19 13:58
+! 最終更新 2022/04/19 23:44
 !
 
 !2021/07/02
@@ -3248,8 +3248,16 @@ recipe.rakuten.co.jp##.recommend_official_recipe
 recipe.rakuten.co.jp##.section_common_banner
 websearch.rakuten.co.jp###ads-billboard
 
+	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment875
+@@/468_60_$image,domain=rakuten.co.jp
+@@_468x60.$image,domain=rakuten.co.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/78861
+@@||g.doubleclick.net/gpt/pubads_impl_$domain=edy.rakuten.co.jp
+@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp
+@@||g.doubleclick.net/tag/js/gpt.js$script,domain=edy.rakuten.co.jp
+	!
 @@||image.www.rakuten.co.jp/com/js/d/
-	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
+	! 楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/78861
 @@||rmp.rakuten.co.jp/ads/$domain=edy.rakuten.co.jp
@@ -4386,7 +4394,7 @@ news.nifty.com##.sidebar_fixed:style(position: static !important;)
 saitama-np.co.jp#@#[id^="div-gpt-ad"]
 	!本文
 tofukko.com#@#.ad-area
-        ! https://github.com/tofukko/filter/issues/58
+	! https://github.com/tofukko/filter/issues/58
 trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
 	! https://github.com/tofukko/filter/issues/12 float
 yakkun.com##.ad + div:style(clear: both !important;)
