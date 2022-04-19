@@ -4201,8 +4201,6 @@ ashemaletube.com##+js(aopr, open)
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 	! https://github.com/tofukko/filter/issues/51
 @@||expocity-mf.com/expo/js/access.js$script,domain=expocity-mf.com
-	!真っ白
-@@||fensi.plus/store-ad.js?$script,domain=real-sports.jp
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
 	! https://github.com/tofukko/filter/issues/18 次の話へ移動できない
