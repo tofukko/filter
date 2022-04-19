@@ -4207,8 +4207,6 @@ ashemaletube.com##+js(aopr, open)
 @@||files.mycloud.com/js/analytics/google_analytics.js
 	! https://github.com/tofukko/filter/issues/18 次の話へ移動できない
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xmlhttprequest,domain=ganma.jp
-	! https://github.com/tofukko/filter/issues/52
-@@||gomisaku.jp^*/ja/type_ad.js?$script,domain=gomisaku.jp
 	! https://github.com/tofukko/filter/issues/41
 @@||googleads.g.doubleclick.net/pagead/ads?*&plat=$subdocument,domain=games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/$script,domain=games.wkb.jp
