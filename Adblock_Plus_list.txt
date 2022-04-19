@@ -601,7 +601,9 @@ _ads.js.
 ||e-typing.ne.jp/app/ad_
 ||eegg.fun/ad_html/
 ||eegg.fun/iframe/
-||eegg.fun/js/
+||eegg.fun/js/ad_
+||eegg.fun/js/ad3.js?
+||eegg.fun/js/delay_ad.js?
 ||egone.org/js/amazon_
 ||enoge.org/js/amazon_
 ||estar.jp/page/ad/
