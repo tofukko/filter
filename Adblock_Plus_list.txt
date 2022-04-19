@@ -2811,7 +2811,7 @@ hitomi.la##[class^="hitomi-"]
 
 ! https://github.com/tofukko/filter/issues/64
 hitomi.la##[class="navbar"]:style(display: flex !important;flex-flow: wrap !important;height: auto !important;)
-hitomi.la##.drop-button :style(margin-left: auto !important;)
+hitomi.la##.drop-button:style(margin-left: auto !important;)
 hitomi.la##.top-content:style(margin-top: 0px !important;)
 
 ! --- Hrs-Game --- !
