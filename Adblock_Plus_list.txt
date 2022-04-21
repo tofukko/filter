@@ -977,7 +977,6 @@ _analytics.js?
 ||pvk.jp^$third-party
 ||pvranking.com^$third-party
 ||qualaroo.com^$third-party
-||quantserve.com^$third-party
 ||radarurl.com^$third-party
 ||reachword.com^$third-party
 ||read-scope.com^$third-party
@@ -1159,11 +1158,6 @@ _analytics.js?
 ##.ad-rectangle
 ##.article_ad
 ###fluct-pc-sticky-ad
-
-! ezoic
-##.adtester-container
-||ezoic.net^
-||ezodn.com^$third-party
 
 ! fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com
 ##.ggbox
@@ -2534,6 +2528,17 @@ akibablog.net#?#.side:-abp-has(> font > a + br:last-child)
 akibablog.net##.side > font > .link:first-child:style(text-decoration: none !important;)
 !jack
 blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ div[style^="top:0px;position:fixed;"]
+
+! --- akinator.com --- !
+/cmbdv2.js
+/detroitchicago/houston.js
+/greenoaks.gif?
+/porpoiseant/*
+||ezodn.com^
+||quantserve.com^
+/imp.gif?
+##.adtester-container
+*$xmlhttprequest,redirect-rule=nooptext,domain=akinator.com
 
 ! --- allabout.co.jp --- !
 ||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
