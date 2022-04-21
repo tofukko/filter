@@ -2401,6 +2401,7 @@ webcg.net##.ad
 webkaru.net##[class^="ad-"]
 webllica.com###headlinkad
 webllica.com##.sponsored_link
+wezz-y.com##[id^="adSideRectangle"]
 wikihow.jp##.wh_ad_inner
 wikiwiki.jp##[id$="-ad-container"]
 wired.jp##.ad--mid-content
