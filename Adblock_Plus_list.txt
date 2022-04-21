@@ -2333,6 +2333,7 @@ timeout.jp##[class^="_inlineAdWrapper_"]
 tinami.com###banner_view
 tinami.com##.view_ad
 ! jack?
+! 2022/04/21 もう広告ないけど一応残しておく
 tocana.jp###hashiraL
 tocana.jp###hashiraR
 togetter.com##.ad_custom
