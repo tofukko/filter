@@ -1369,6 +1369,7 @@ autoc-one.jp###pc_autocone_glonavi
 autoc-one.jp##.ad_bigbanner
 autoc-one.jp##.ad-rectangle__row
 autoc-one.jp##[id^="jp_mota_pc_"][id$="_right_1st"]
+automation-news.jp###single_banner2
 automaton-media.com##.ai_widget
 automaton-media.com##.td-a-rec
 ! jack
