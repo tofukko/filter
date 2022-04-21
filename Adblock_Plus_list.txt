@@ -1281,7 +1281,7 @@ a-matome.com##.footer:nth-of-type(2)
 a-matome.com##.head3
 a-matome.com##.LIST5
 a-matome.com##.LOG > .LOG2
-accuweather.com###connatix
+accuweather.com##.glacier-ad
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adbottom_box
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adcenter_box
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adtoplabel
