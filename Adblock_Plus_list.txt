@@ -4392,6 +4392,8 @@ news.nifty.com##.sidebar_fixed:style(position: static !important;)
 !server-setting.info#@#.adsbygoogle
 	!記事
 saitama-np.co.jp#@#[id^="div-gpt-ad"]
+	! https://github.com/tofukko/filter/issues/65
+sn-jp.com#@#.diver_widget_adarea
 	!本文
 tofukko.com#@#.ad-area
 	! https://github.com/tofukko/filter/issues/58
