@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/21 12:08
+! 最終更新 2022/04/21 21:39
 !
 
 !2021/07/02
@@ -4143,7 +4143,6 @@ ashemaletube.com##+js(aopr, open)
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
-
 	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
 
 ! cxense.com
@@ -4389,7 +4388,6 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/hirorpt/filters/commit/5382bdeaf36476e17f5d8ab8f101c8ba26a3a7c9
 	! https://www.epson.jp/products/dreamio/ehtw8400/ 製品画像
 @@||yjtag.jp/tag.js$script,domain=www.epson.jp
-
 	!Minecraft ビーコン画像
 @@||hydra-media.cursecdn.com/minecraft-ja.gamepedia.com/*/Beacon$image,domain=minecraft-ja.gamepedia.com
 @@||atwikiimg.com/www26.atwiki.jp/minecraft/*/beacon.png$image,domain=www26.atwiki.jp
@@ -4404,6 +4402,8 @@ catmiimi.com#@#.dfad
 daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
 	! https://github.com/tofukko/filter/issues/61
 fategrandorder.info#@#.dfad
+	! コメント欄
+iroyaku.livedoor.biz#@#.main-container-ads
 	! サイドバー
 livedoorblogstyle.jp#@#.ad-center
 	! https://github.com/tofukko/filter/issues/11 サイドバー
@@ -4435,6 +4435,22 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83410
 	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
+! coolpan.net
+coolpan.net#@#.ad-area
+
+! coron.tech
+! https://github.com/AdguardTeam/AdguardFilters/issues/93086
+@@||ad.jp.ap.valuecommerce.com/servlet/jsbanner?$script,domain=coron.tech
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=coron.tech
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2019.js$script,domain=coron.tech
+coron.tech,~connect.coron.tech##div[style]:not(.sidebar):has(.adsbygoogle)
+coron.tech##.sidebar > [class]:first-child
+coron.tech##.center > a[href^="//ck.jp.ap.valuecommerce.com/"]
+coron.tech##.center > a[href^="https://amzn.to/"]
+connect.coron.tech##div[style="margin:0 auto;margin-top:2px;min-height:95px;text-align:center;"]
+connect.coron.tech###main .center[style*="min-height:"]
+connect.coron.tech###sub div[style$="text-align:center;"]
+
 ! crefan.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81505
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=crefan.jp
@@ -4442,17 +4458,17 @@ yakkun.com##.ad + div:style(clear: both !important;)
 
 ! egotter.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64186
-egotter.com##[id^="async-adsense-"]
 @@||cloudfront.net/adsense.js$domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
+egotter.com##[id^="async-adsense-"]
 
 ! f.tabtter.jp
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
 f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 80px !important;)
 f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 80px) !important;)
 f.tabtter.jp###scolpanel[style="display: none;"] + #scolmain:style(height: 100%!important; overflow-y: auto !important;)
 f.tabtter.jp###scolpanel:not([style="display: none;"]) + #scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
 
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
@@ -4463,7 +4479,8 @@ ff14angler.com###sidebar > .adsbygoogle
 
 ! g-pc.info
 ! https://github.com/AdguardTeam/AdguardFilters/issues/96832
-g-pc.info##+js(set, adsbygoogle.loaded, true)
+!g-pc.info##+js(set, adsbygoogle.loaded, true)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=g-pc.info
 
 ! gametter.com
 !gametter.com##+js(acis, addEventListener, google_ad_client)
@@ -4481,27 +4498,29 @@ helpsupport.blog.fc2.com###container:style(display: initial !important;)
 ! investing.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10098
 ! https://github.com/uBlockOrigin/uAssets/issues/11009
+!investing.com##+js(no-fetch-if, ads)
+!investing.com##+js(set, google_ad_status, 1)
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=investing.com
+@@||static.doubleclick.net/instream/ad_status.js$script,domain=investing.com
 investing.com##.midHeader
 investing.com##.rightColumnAd
 investing.com##div[class^="ad_"]
-investing.com##+js(no-fetch-if, ads)
-investing.com##+js(set, google_ad_status, 1)
 
 ! modalina.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/85641
+modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
+modalina.jp###ggleadv:style(height: 60px !important;)
 modalina.jp###advarea
 modalina.jp##.pbac
 modalina.jp##.tbold
-modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
-modalina.jp###ggleadv:style(height: 60px !important;)
 
 ! motorsport.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81464
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=motorsport.tv
+@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 motorsport.com##.lgux-banner
 motorsport.com##.ms-apb
 motorsport.com##.ms-hapb
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=motorsport.tv
-@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 
 ! nordot.app
 nordot.app###js-ur
