@@ -688,6 +688,8 @@ _ads.js.
 ||simozo.com/js/ad_
 ||square-enix.com/common/templates/js/ad/
 ||stv.jp/nnn/assets/$subdocument
+||style.potepan.com/wp-content/themes/potepan-style/js/article-detail/popUpBanner.js
+||style.potepan.com/wp-content/themes/potepan-style/js/common/fixedFooter.js
 ||syosetu.com/sub/yomouview/js/ad_scroll.js?
 ||tatituteto.net/images/banner/
 ||tenhou.net/ad1.js
@@ -2269,6 +2271,7 @@ st.benesse.ne.jp##[id^="div-M_MD_kiji_fluid_"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
+style.potepan.com##.FixedFooterSection
 sukima.me##.popupad-box
 sukima.me#?#div:-abp-has(> iframe[src^="/advertise/"]:only-child)
 sukima.me###viewer-menu:style(overflow-y: scroll !important;height: 100% !important;)
