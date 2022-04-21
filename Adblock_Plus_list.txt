@@ -1711,6 +1711,8 @@ hamazo.tv##.ad
 hameets.com##.advertisement
 hanako.tokyo##.ad-banner
 hanakomama.jp##.ad-banner
+healthpress.jp###adFooter
+healthpress.jp###entryBottomAd
 heim.jp##.p-article__adTop
 hentai-covers.site##.ad-banner
 hentai-foundry.com##main > p[style="text-align: center"]
