@@ -2134,6 +2134,8 @@ otakei.otakuma.net##[class^="ad_side_widget_"]
 otapol.com###entryAdAmazonArea
 otapol.com##.sideAd
 otonasalone.jp##.adsense
+ovninavi.com###cb-container:style(padding-top: 110px !important;)
+ovninavi.com##.ovni-header:style(height: auto !important;)
 oursounds.net##.kijinai_ad
 oyakudachi2525.com##.add
 pakutaso.com##.banner
