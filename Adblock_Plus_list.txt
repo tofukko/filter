@@ -1762,8 +1762,6 @@ itaishinja.com##.ADW
 iwate-np.co.jp##.ad
 iwate-np.co.jp#?#.article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
-ja.whotwi.com###header_ad_area
-ja.whotwi.com##.stats_ad_300x250_2
 jalan.net##.jsc-ad-bannerList
 japan.cnet.com##.ad_large
 japan.cnet.com##.inner-pr
@@ -3395,6 +3393,15 @@ ejje.weblio.jp#?#.sideBlock:-abp-has(> [id^="div-gpt-ad"]):not(.userInfoBoxR)
 ejje.weblio.jp#?#.sideBlock:-abp-has(> script:-abp-contains(/adScS|_ADOBE_/))
 translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
+
+! --- whotwi.com --- !
+whotwi.com###header_ad_area
+whotwi.com##.stats_ad_300x250_2
+bbs.whotwi.com##div[style="width: 728px;height:90px;margin: 0px auto 10px;"]
+hoihoi.whotwi.com##.ad_336x280
+ryokin.whotwi.com##.ad_300x250
+trends.whotwi.com##div[style="width: 728px;height:90px;margin: 20px auto 20px;"]
+trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 
 ! --- WordPress --- !
 /ad-inserter-
