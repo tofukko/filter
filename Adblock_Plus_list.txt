@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/19 23:44
+! 最終更新 2022/04/21 12:08
 !
 
 !2021/07/02
@@ -4144,13 +4144,15 @@ ashemaletube.com##+js(aopr, open)
 @@||support-beacon.nakanohito.jp/widget/$xmlhttprequest
 @@||support-widget.nakanohito.jp/chatbot$script,stylesheet
 
-	! https://github.com/tofukko/filter/issues/29
+! 47club.jp
+! https://github.com/tofukko/filter/issues/29
 @@||47club.jp^*/images/ad/$image,domain=47club.jp
 @@||47club.jp^*/images/ad_$image,domain=47club.jp
 @@||amazonaws.com^*/images/ad/$image,domain=47club.jp
 @@||amazonaws.com^*/images/ad_$image,domain=47club.jp
 
-	! https://github.com/AdguardTeam/AdguardFilters/issues/106875
+! www3.nissan.co.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/106875
 @@||googletagmanager.com/gtm.js$script,domain=www3.nissan.co.jp
 @@||googleadservices.com/pagead/conversion.js$script,domain=www3.nissan.co.jp
 @@||img.ak.impact-ad.jp/sr/$script,domain=www3.nissan.co.jp
@@ -4374,8 +4376,6 @@ ashemaletube.com##+js(aopr, open)
 
 	! https://github.com/tofukko/filter/issues/62
 70okugame.com#@#.dfad
-	! ヤフオクへのリンク
-aucfree.com#@#a[href*="liveads.jp/cc.php?"]
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
 	! https://github.com/tofukko/filter/issues/63
