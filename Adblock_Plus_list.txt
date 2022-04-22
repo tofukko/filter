@@ -2538,7 +2538,6 @@ blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ di
 ||quantserve.com^
 /imp.gif?
 ##.adtester-container
-*$xmlhttprequest,redirect-rule=nooptext,domain=akinator.com
 
 ! --- allabout.co.jp --- !
 ||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
