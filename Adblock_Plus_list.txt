@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/22 11:06
+! 最終更新 2022/04/23 13:44
 !
 
 !2021/07/02
@@ -1993,8 +1993,10 @@ merkmal-biz.jp##aside.box[style="min-height:900px"]
 mi-mollet.com##.ad-bnr
 mi-mollet.com###MM_PC_rectangle_1st
 middle-edge.jp###detad
+mimizun.com###adleft
+mimizun.com###thread:style(margin-left: 0 !important;)
 mimizun.com##.ad300x250
-mimizun.com###thread:style(position: relative; left: -312px;)
+mimizun.com##.ad728x90t
 minkara.carview.co.jp##.overlay-ad
 minkch.com###post-0
 minkch.com##.menu-item > .external
