@@ -3513,6 +3513,8 @@ detail.chiebukuro.yahoo.co.jp#?#aside[class^=ClapLv3SubList_Chie-SubList__ListIt
 detail.chiebukuro.yahoo.co.jp#?#[class^="ClapLv3SearchList_Chie-SearchList__Item__"]:-abp-has(> div > [class^="ClapLv2ListItemSS_Chie-ListItem__Anchor__"] + [class^="ClapLv2ListItemSS_Chie-ListItem__Information__"])
 finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
 finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
+finance.yahoo.co.jp#?##contents-body + div > div:first-child > div > div:-abp-has([id^="ad_"])
+finance.yahoo.co.jp#?##contents-body + div > div:last-child > div:-abp-has([id^="ad_"])
 gyao.yahoo.co.jp##.ad
 gyao.yahoo.co.jp##.yads-overlay
 gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
