@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/24 10:48
+! 最終更新 2022/04/25 17:17
 !
 
 !2021/07/02
@@ -1801,6 +1801,8 @@ jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
+jp.wazap.com##.fullBanner
+jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jprime.jp##div[style="min-height:250px;"]
 jpshowbiz.us##.video-plugin-div
