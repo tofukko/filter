@@ -547,6 +547,7 @@ _ads.js.
 ||mgstage.com/js/mgs_Widget
 ||mkd777.net/pd/
 ||munchkin.marketo.net^
+||optad360.io^
 ||pagead2.googlesyndication.com^
 ||partner*.become.co.jp^
 ||pikkur.com/bn/
