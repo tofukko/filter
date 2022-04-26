@@ -4287,6 +4287,7 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=zakzak.co.jp
 @@||get.s-onetag.com^$script,domain=zakzak.co.jp
 @@||dmp.im-apps.net^$script,domain=zakzak.co.jp
+	! https://github.com/tofukko/filter/issues/66
 	! IID 検索バー
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp
 @@||googletagmanager.com/gtm.js$script,domain=carcareplus.jp
@@ -4298,6 +4299,7 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=inside-games.jp
 @@||googletagmanager.com/gtm.js$script,domain=mycar-life.com
 @@||googletagmanager.com/gtm.js$script,domain=newscafe.ne.jp
+@@||googletagmanager.com/gtm.js$script,domain=rbbtoday.com
 @@||googletagmanager.com/gtm.js$script,domain=resemom.jp
 @@||googletagmanager.com/gtm.js$script,domain=response.jp
 @@||googletagmanager.com/gtm.js$script,domain=scan.netsecurity.ne.jp
