@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/04/25 17:17
+! 最終更新 2022/04/30 22:11
 !
 
 !2021/07/02
@@ -3369,6 +3369,7 @@ storia.takeshobo.co.jp#?#.bnr__section:-abp-has([src^="https://js.ad-stir.com/js
 ! --- tokyomotion.net --- !
 ||d2swpuhpwp3khd.cloudfront.net^
 ||tokyo-motion.net/bnr/
+||static.fc2.com/distribution/preroll/$script,domain=tokyomotion.net
 osakamotion.net,tokyomotion.net###nuevoa
 
 ! --- vector.co.jp --- !
