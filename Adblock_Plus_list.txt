@@ -13,6 +13,10 @@
 ||blogos.com/pc/js/kotzen.ad_fixed.js?
 ||blogos.com/common/js/kotzen.analytics.js?
 
+!2022/05/01 2022年8月1日（月）13:00 サービス終了
+!https://www.teacup.com/information/view?id=243
+teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
+
 !----------------------------広告----------------------------!
 /300x250.
 /300x250_
@@ -2314,7 +2318,6 @@ tbsradio.jp##.articles-single__article__ad__underarticle
 tbsradio.jp##.articles-single__aside__ad__border
 tbsradio.jp##.index-ad-manager__list
 tbsradio.jp##.single-program__ad-manager-list
-teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 techacademy.jp###pum-75846
 techacademy.jp##.ad
 techcrunch.com##.ad-unit
