@@ -1511,6 +1511,7 @@ dan-ball.jp##[class^="ad_div_"]
 daysneo.com###bnrTop
 daysneo.com##.ad:not(.mt60)
 daysneo.com##[class="mt30"] >[href^="/banner/"]
+db.msin.jp##.pr
 denfaminicogamer.jp###pc_article_billboard
 	news.denfaminicogamer.jp###ad_jack
 	news.denfaminicogamer.jp##.amazon-wdgt-wrap
@@ -1552,6 +1553,7 @@ easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 ecclab.empowershop.co.jp##.wrap-advert
 ehonnavi.net##table[width="300"][height="260"]
+eigobu.jp##.mp-Article_Ad
 ekitan.com##.na-bottom-wrap
 ekitan.com##.sidebar-ad-item
 ekitan.com##[class^="ek-forward-display-l_middle_"][style="margin:0 auto; width:728px;"]
@@ -1719,6 +1721,7 @@ hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not
 himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
+hominis.media##.ad
 hinative.com##.mod_ads_trek_balloon
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
 hobonichielog.com##.mainwidget > [id^="text-"]
@@ -1980,6 +1983,7 @@ matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
 mbs.jp##.ad
 mdpr.jp##.c-adBottomOverlay
+meaning.jp##.l-contentsSub > .u-mb-10
 medibang.com###content:style(padding-bottom: 394px !important;)
 medibang.com##.asTimelineStickyAd > .adBlock__pc
 medibang.com##.contents-footer-bnr
@@ -3864,10 +3868,10 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 .com/ufo/$third-party
 .net/ufo/$third-party
 .org/ufo/$third-party
-|http://ct1.*.jp/sc/
-|http://ct2.*.jp/sc/
-|http://ct1.*.com/sc/
-|http://ct2.*.com/sc/
+://ct1.*.jp/sc/
+://ct2.*.jp/sc/
+://ct1.*.com/sc/
+://ct2.*.com/sc/
 ||bar1.shinobi.jp^
 ||omt.shinobi.jp^
 ||rcm.shinobi.jp^
@@ -3880,6 +3884,10 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 ! blog
 ###ninja-blog-inactive
 ##.NinjaEntryCommercial
+
+3rin.net,7narabe.net,99ing.net,anime-cosplay.com,anime-festa.com,anime-japan.net,anime-life.com,anime-movie.net,anime-navi.net,anime-ranking.net,anime-report.com,anime-voice.com,animech.net,animegoe.com,asukablog.net,atgj.net,bangalog.com,bangofan.com,bijual.com,blog-fps.com,blog-mmo.com,blog-rpg.com,blog-sim.com,blog.shinobi.jp,cooklog.net,cos-live.com,cos-mania.net,coslife.net,cosplay-festa.com,cosplay-japan.net,cosplay-navi.com,cosplay-report.com,dankanoko.com,darumasangakoronda.com,dou-jin.com,edoblog.net,en-grey.com,fukuwarai.net,futatsutomoe.com,game-ss.com,game-waza.net,gg-blog.com,gjgd.net,gjpw.net,go-th.net,guhaw.com,hyakunin-isshu.net,ichi-matsu.net,iga-log.com,iku4.com,indiesj.com,janken-pon.net,kagome-kagome.com,kai-seki.net,kakuren-bo.com,kamakurablog.com,ko-me.com,komochijima.com,koushijima.com,kuizu.net,kurofuku.com,ky-3.net,kyotolog.net,mamagoto.com,manga-cosplay.com,mangadou.net,mangalog.com,misujitate.com,mmo-fps.com,moe-cosplay.com,nari-kiri.com,ni-3.net,ni-moe.com,no-mania.com,o-oi.net,omaww.net,or-hell.com,p-kin.net,pazru.com,ria10.com,ryorika.com,sakeblog.net,sankuzushi.com,satsumablog.com,sekigaharablog.com,side-story.net,sugo-roku.com,syoyu.net,take-uma.net,tosalog.com,tou3.com,tsuyushiba.com,tyoshublog.com,v-kei.net,visualfan.com,visualshoxx.net,wa-syo-ku.com,ya-gasuri.com,yamatoblog.net,yotsumeyui.com,zoku-sei.com#?#.entry-list-item:-abp-has(#ninja-blog-inactive)
+3rin.net,7narabe.net,99ing.net,anime-cosplay.com,anime-festa.com,anime-japan.net,anime-life.com,anime-movie.net,anime-navi.net,anime-ranking.net,anime-report.com,anime-voice.com,animech.net,animegoe.com,asukablog.net,atgj.net,bangalog.com,bangofan.com,bijual.com,blog-fps.com,blog-mmo.com,blog-rpg.com,blog-sim.com,blog.shinobi.jp,cooklog.net,cos-live.com,cos-mania.net,coslife.net,cosplay-festa.com,cosplay-japan.net,cosplay-navi.com,cosplay-report.com,dankanoko.com,darumasangakoronda.com,dou-jin.com,edoblog.net,en-grey.com,fukuwarai.net,futatsutomoe.com,game-ss.com,game-waza.net,gg-blog.com,gjgd.net,gjpw.net,go-th.net,guhaw.com,hyakunin-isshu.net,ichi-matsu.net,iga-log.com,iku4.com,indiesj.com,janken-pon.net,kagome-kagome.com,kai-seki.net,kakuren-bo.com,kamakurablog.com,ko-me.com,komochijima.com,koushijima.com,kuizu.net,kurofuku.com,ky-3.net,kyotolog.net,mamagoto.com,manga-cosplay.com,mangadou.net,mangalog.com,misujitate.com,mmo-fps.com,moe-cosplay.com,nari-kiri.com,ni-3.net,ni-moe.com,no-mania.com,o-oi.net,omaww.net,or-hell.com,p-kin.net,pazru.com,ria10.com,ryorika.com,sakeblog.net,sankuzushi.com,satsumablog.com,sekigaharablog.com,side-story.net,sugo-roku.com,syoyu.net,take-uma.net,tosalog.com,tou3.com,tsuyushiba.com,tyoshublog.com,v-kei.net,visualfan.com,visualshoxx.net,wa-syo-ku.com,ya-gasuri.com,yamatoblog.net,yotsumeyui.com,zoku-sei.com#?#.EntryInnerBlock:-abp-has(#ninja-blog-inactive)
+3rin.net,7narabe.net,99ing.net,anime-cosplay.com,anime-festa.com,anime-japan.net,anime-life.com,anime-movie.net,anime-navi.net,anime-ranking.net,anime-report.com,anime-voice.com,animech.net,animegoe.com,asukablog.net,atgj.net,bangalog.com,bangofan.com,bijual.com,blog-fps.com,blog-mmo.com,blog-rpg.com,blog-sim.com,blog.shinobi.jp,cooklog.net,cos-live.com,cos-mania.net,coslife.net,cosplay-festa.com,cosplay-japan.net,cosplay-navi.com,cosplay-report.com,dankanoko.com,darumasangakoronda.com,dou-jin.com,edoblog.net,en-grey.com,fukuwarai.net,futatsutomoe.com,game-ss.com,game-waza.net,gg-blog.com,gjgd.net,gjpw.net,go-th.net,guhaw.com,hyakunin-isshu.net,ichi-matsu.net,iga-log.com,iku4.com,indiesj.com,janken-pon.net,kagome-kagome.com,kai-seki.net,kakuren-bo.com,kamakurablog.com,ko-me.com,komochijima.com,koushijima.com,kuizu.net,kurofuku.com,ky-3.net,kyotolog.net,mamagoto.com,manga-cosplay.com,mangadou.net,mangalog.com,misujitate.com,mmo-fps.com,moe-cosplay.com,nari-kiri.com,ni-3.net,ni-moe.com,no-mania.com,o-oi.net,omaww.net,or-hell.com,p-kin.net,pazru.com,ria10.com,ryorika.com,sakeblog.net,sankuzushi.com,satsumablog.com,sekigaharablog.com,side-story.net,sugo-roku.com,syoyu.net,take-uma.net,tosalog.com,tou3.com,tsuyushiba.com,tyoshublog.com,v-kei.net,visualfan.com,visualshoxx.net,wa-syo-ku.com,ya-gasuri.com,yamatoblog.net,yotsumeyui.com,zoku-sei.com#?#.EntryTextBox:-abp-has(#ninja-blog-inactive)
 
 !g --- mediafire.com --- !
 mediafire.com##+js(aeld, click, ClickHandler)
