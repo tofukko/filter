@@ -4220,7 +4220,7 @@ ashemaletube.com##+js(aopr, open)
 @@||analytics.edgekey.net/config/$xmlhttprequest,domain=nhk.or.jp
 @@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=nhk.or.jp
 	! https://github.com/Yuki2718/adblock/issues/20
-@@||api.docodoco.jp^$script,domain=jrtours.co.jp
+@@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 	!sideランキング12345
 @@||ascii.jp/img/ad/$image,domain=ascii.jp
 	!できない
