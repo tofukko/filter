@@ -2887,6 +2887,7 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.jp/adsv/
 nlab.itmedia.co.jp###globalHeader
 nlab.itmedia.co.jp##.bannar
+nlab.itmedia.co.jp##.headerbannar
 nlab.itmedia.co.jp##div[style="text-align:center;margin:40px 0;"]
 
 ! --- ixll.co.jp --- !
