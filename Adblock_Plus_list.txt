@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/05/01 12:02
+! 最終更新 2022/05/04 13:19
 !
 
 !2021/07/02
@@ -1251,8 +1251,9 @@ _analytics.js?
 2ch-c.net#?#li:-abp-has(> .nend_text_ad)
 2chmm.com##.ad
 2nn.jp##.ads
-30calclub.sakura.ne.jp#?#tr > td > font:-abp-contains(【期間限定セール情報】)
-30calclub.sakura.ne.jp#?#tr:-abp-has(> td[colspan="16"] > font[size="2"]:-abp-contains(/通販情報|FANZA/))
+30calclub.sakura.ne.jp##table[width="146"] > tbody > tr > td[align="center"]:not([bgcolor]):not([style])
+30calclub.sakura.ne.jp##td[colspan="16"][height="430"][align="left"] > font
+30calclub.sakura.ne.jp##td[colspan="16"][align="left"] > font:-abp-contains(/^通販情報/)
 373news.com###ad_prinfo
 373news.com##.mns_bn
 48idol.tv###custom_html-4
