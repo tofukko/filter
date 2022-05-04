@@ -1190,18 +1190,9 @@ _analytics.js?
 ! wix.com
 ###WIX_ADS
 
-
-*##[id^="div-gpt-ad"]:only-child:upward(1)
-*##script[src*="sh.adingo.jp/"]:first-child + script:last-child:upward(1)
-*##script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child:upward(1)
-
-*##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
-*##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
-
-
 ! criteo
-##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
 ##div[id^="crt-"][style]
+##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
 
 ##[id^="div-gpt-ad"]
 ##[class^="google-2ad"]
@@ -1209,8 +1200,18 @@ _analytics.js?
 ##[id^="div_fam_async_"]
 ##[style*="width:728px;"][style*="height:90px;"]
 ##[style*="width: 728px;"][style*="height: 90px;"]
-##a[href*="dgpot.com"][href*="affiliate_banner_id"]
 ##a[href*="nxcount.com/AdClick/"]
+
+*##script[src*="sh.adingo.jp/"]:first-child + script:last-child:upward(1)
+*##script:first-child + script[src$="//j.microad.net/js/compass.js"] + div[id]:last-child:upward(1)
+
+#@#.adsbygoogle
+*##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+*##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
+
+#@#[id^="div-gpt-ad"]
+*##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+*##[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 
 !----amazon
 ~amazon.*###freespace a[href*="amazon.co.jp"], #freespace a[href*="amzn.to"]
