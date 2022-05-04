@@ -702,6 +702,7 @@ _ads.js.
 ||tgiw.info/amazon
 ||timeout.*/static/js/ads-
 ||tinami.com/ad/
+||tmp.sakura.tv/5chATR/ad/
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
