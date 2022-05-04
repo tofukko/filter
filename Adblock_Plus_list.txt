@@ -2479,6 +2479,11 @@ ytv.co.jp##.area-top-banner
 ytv.co.jp##.gDef-bottom-banner
 ytv.co.jp##.gDef-side-banner
 ytv.co.jp##.gDef-top-banner
+yukkuri-futaba.sakura.ne.jp###amazonSelector
+yukkuri-futaba.sakura.ne.jp###mainLeft > .amzItemWrap
+yukkuri-futaba.sakura.ne.jp###mainLeft > a[href*="amazon.co.jp"]
+yukkuri-futaba.sakura.ne.jp###mainLeft > br
+yukkuri-futaba.sakura.ne.jp##.t_sidebar_amazon
 zaikai.jp##.addSide
 zaikai.jp##.adSide
 zaikai.jp##.adSide + .mostViewed,.adSide + .sideArticles:style(margin-top: 0 !important;)
