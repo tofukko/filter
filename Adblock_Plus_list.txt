@@ -3672,6 +3672,7 @@ amazon.co.jp##div[cel_widget_id*="_ad-placements-"]
 amazon.co.jp##div[cel_widget_id^="adplacements:"]
 amazon.co.jp##div[cel_widget_id="desktop-dp-sims_sb-dp-id"]
 amazon.co.jp##div[cel_widget_id="dpx-sponsored-products-detail_csm_instrumentation_wrapper"]
+amazon.co.jp##div[cel_widget_id="sims-consolidated-3_csm_instrumentation_wrapper"]
 amazon.co.jp##div[data-cel-widget^="MAIN-SHOPPING_ADVISER-"]
 amazon.co.jp##div[id^="sp_detail"]
 
