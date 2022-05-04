@@ -1352,6 +1352,7 @@ at-s.com##.mainBannerGA02
 at-s.com##.sideBannerGA01
 at-s.com##.sidePicup
 at-s.com##.topMainBannerGA01
+atelier-handmade.com###subservicelogo_wrap
 atwiki.jp###ads
 atwiki.jp###body_footer .lazy
 atwiki.jp###recommend
