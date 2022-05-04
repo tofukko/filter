@@ -1467,6 +1467,12 @@ cinemarche.net##.adBoxWrap
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 city.eniwa.hokkaido.jp##.fixed-ad-wrap
+cman.jp###tmBottomAd
+cman.jp###tmContHeadAd
+cman.jp###tmHeadAd
+cman.jp###tmSideAd
+cman.jp##.tmAdGaid
+	www.cman.jp###tmContHeadAd1
 cnn.co.jp###ad-large-header
 cnn.co.jp###ad-rect
 cnn.co.jp##.ad-txt
