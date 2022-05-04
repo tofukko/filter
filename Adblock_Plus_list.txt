@@ -2089,6 +2089,7 @@ news.tbs.co.jp##.cp-spAd
 news24.jp###adText01
 newser.cc##.ad
 newswitch.jp##.banner-top
+newswitch.jp##[id^="JP_NS_PC_all_"]
 nhentai.net##.advertisement
 nhentai.net##+js(nowoif)
 nicofinder.net###video-ichiba
