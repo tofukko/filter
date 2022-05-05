@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/05/04 13:19
+! 最終更新 2022/05/06 7:15
 !
 
 !2021/07/02
@@ -17,7 +17,7 @@
 !https://www.teacup.com/information/view?id=243
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 
-!----------------------------広告----------------------------!
+!2022/05/06
 /300x250.
 /300x250_
 _300x250.
@@ -37,11 +37,21 @@ _728x90_
 _728x90.
 /728_90.
 _728_90.
+/ad/images/*
+/ad/img/*
+/img/ad/*
+/img/ad-
+/img/ad_
+/img/ads/*
+/image/ad/*
+/images/ad/*
+/images/ad_
+/images/ads/*
+
+!----------------------------広告----------------------------!
 /A-affiliate2/*
 /aamsz=
 /acc_random=
-/ad/images/*
-/ad/img/*
 /ad_plugin.js
 /ad.cgi?
 _ad.html|
@@ -82,15 +92,7 @@ _ads.js.
 ?affid=
 /assets/ads/*
 /googleads.
-/img/ad/*
-/img/ad-
-/img/ad_
-/img/ads/*
-/image/ad/*
 /image/affiliate/*
-/images/ad/*
-/images/ad_
-/images/ads/*
 /js.ng/site=
 /jquery.meerkat.
 /koukoku/*
