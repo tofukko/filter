@@ -2291,6 +2291,10 @@ snapdish.co##.book-detail__promotion
 snapdish.co##.side__ad
 soco-st.com##.footer_ad
 soco-st.com##.post_ad:remove()
+socom.yokohama##.dspace-block
+socom.yokohama##.e3lan
+socom.yokohama##.wpap-tpl
+socom.yokohama##div[style="margin-bottom: 15px; min-height: 340px; height: auto"]
 sound.jp###adfloat
 spaia.jp##.ad
 spaia.jp##.ad-wrapper
