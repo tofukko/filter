@@ -1465,14 +1465,15 @@ chixi.jp#?#.homeRightTable:-abp-has(> .parts > .partsHeading > h3:-abp-contains(
 chixi.jp##.partsBanner
 chosunonline.com##.rectbanner
 chugoku-np.co.jp##.ads
-clap.webclap.com##.footer
-clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
-clipconverter.cc##+js(acis, Math, break;case $.)
 cinema.ne.jp##.ad-pc
 cinemarche.net##.adBoxWrap
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 city.eniwa.hokkaido.jp##.fixed-ad-wrap
+clap.webclap.com##.footer
+clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
+clicccar.com##.ad-management
+clipconverter.cc##+js(acis, Math, break;case $.)
 cman.jp###tmBottomAd
 cman.jp###tmContHeadAd
 cman.jp###tmHeadAd
