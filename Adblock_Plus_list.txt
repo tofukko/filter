@@ -1700,6 +1700,8 @@ glosbe.com###topBannerContainer
 glosbe.com##.right-sidebar-ads-container
 gogo.gs##.ad
 gogo.gs##.ad3
+golfsapuri.com##.sideBanner2:first-child
+golfsapuri.com##div[style="width: 100%; text-align: center;margin-top:5px;height:250px;"]
 google.com,google.co.jp###mbEnd
 google.com,google.co.jp###tads
 google.com,google.co.jp###tadsb
