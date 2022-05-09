@@ -2057,6 +2057,8 @@ mora.jp##.special_adBox
 mora.jp###special_adBox_bg
 moto-neta.com##.add
 movie.jorudan.co.jp##.ad
+motor-fan.jp##.ad-management
+motor-fan.jp##.l-sidebar-widget-area,#text-2:style(margin-top: 0 !important;)
 moviewalker.jp##.bl_adSPWrap
 moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"]
 moviewalker.jp##div[style^="padding-top:10px; padding-bottom: 10px;"]
