@@ -2085,6 +2085,8 @@ nazo2.net##.footer_ad
 nazology.net##.ads-wide
 nazology.net##.side-adblock
 net-rabo.work##.ad
+news.ameba.jp##[class^="AdGoogle__"]
+news.ameba.jp##[class^="SpAd"][class*="Module__container--"]
 news.dwango.jp##.bnrs
 news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
