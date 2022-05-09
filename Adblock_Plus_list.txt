@@ -3106,15 +3106,20 @@ bbs4.mozakin.com###thread_index_adb > div[style]
 ||1pondo.tv^$domain=mozakin.com
  
 ! --- msn --- !
-://c.*/c.gif?
+||3lift.com^
+/c.gif?
+||browser.events.data.msn.com^
 ||srtb.msn.com^
+||vortex.data.microsoft.com^
 msn.com##.ad
 msn.com##.ad-section
+msn.com##.bannerAdContainer-DS-EntryPoint1-1
 msn.com##.nativeAd-DS-card1-1
 msn.com##.nativeadasideplaceholder
 msn.com##.nativeadserversidecontentmodule
 msn.com##.sameoab_ad_container
 msn.com##.widead
+msn.com##div[class^="displayAds"]:upward(1)
 
 ! --- mynavi.jp --- !
 ||news.mynavi.jp/assets/adomik-
