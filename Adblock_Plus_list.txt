@@ -3055,7 +3055,10 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ||exmarketplace.com^$third-party
 ||pubfuture.com^$third-party
 ||your-notice.com^
-mangaraw.co#?#.col-sm-4:-abp-has(> .ad-hm-slot)
+! mangaraw.co
+||hooliganmedia.com^
+||i0.wp.com/japannews.info/
+mangaraw.co#?#.col-sm-4:-abp-has(> div > [href^="https://japannews.info/"])
 
 ! --- mozakin.com --- !
 mozakin.com##body > div > div[style="height: 300px;"]
