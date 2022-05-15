@@ -1813,6 +1813,11 @@ jbbs.shitaraba.net##table[cellpadding="7"] + hr + ul + hr + table
 jbpress.ismedia.jp##.ad-billboard
 jbpress.ismedia.jp##.ad-block
 jbpress.ismedia.jp##.ad-gate
+jidoushatounan.com##.master_post_advert
+jidoushatounan.com##.pl_banner_bottom
+jidoushatounan.com##.pl_banner_middle
+jidoushatounan.com##.single_banner_bottom
+jidoushatounan.com##.single_banner_top
 jiji.com##.ArticleAd
 jiji.com##.ArticleAdSide
 jiji.com##.ArticleInnerAD
