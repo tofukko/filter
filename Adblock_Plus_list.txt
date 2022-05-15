@@ -1588,6 +1588,11 @@ ero-nuki.net##.movie_bottom_new
 ero-nuki.net##.movie_bottom_osusume
 ero-nuki.net##.movie_footer
 ero-nuki.net##.movie_header
+erogamescape.dyndns.org###ad_right
+erogamescape.dyndns.org###ad_rudel_1
+erogamescape.dyndns.org###ad_rudel_2
+erogamescape.dyndns.org###adv_dmm
+erogamescape.dyndns.org###recent_recommendations
 erogazopple.com###single-content > [id^="text-"]
 erogazoufactory.com###content [id^="text-"]
 eroido.jp##[class^="adv_"]
