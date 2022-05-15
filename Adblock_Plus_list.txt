@@ -3505,6 +3505,7 @@ trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 /adtools.js
 /advanced-ads-$domain=~wordpress.org
 /advanced-ads/*$domain=~wordpress.org
+/fixed_ad.js
 /plugins/ads-
 /plugins/ads/*
 /plugins/betube-ads/*
