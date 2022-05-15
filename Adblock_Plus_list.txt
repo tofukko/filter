@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/05/09 11:50
+! 最終更新 2022/05/15 21:36
 !
 
 !2021/07/02
@@ -3531,6 +3531,7 @@ trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 ##.thk_ps_widget
 ##.widget_common_ad
 ##.widget_fit_aditem_class
+##.widget_swell_ad_widget
 ##[id^="adswidget"][id*="-quick-adsense-"]
 !あれなやつ
 ###side > aside > div.ad:first-child
