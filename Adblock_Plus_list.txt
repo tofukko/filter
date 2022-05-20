@@ -1415,7 +1415,9 @@ blog.ss-blog.jp###ad-days-area
 blogcircle.jp##.ads
 blogmura.com##.ad
 blogmura.com##.ad-header
+blogmura.com##.ad-list
 blogmura.com##.ad-overlay
+blogmura.com##.ad-side
 blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
