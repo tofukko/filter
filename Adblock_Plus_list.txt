@@ -3421,6 +3421,12 @@ romhustler.org##+js(nano-sib, timer.remove)
 ||otaserve.net^$domain=chan.sankakucomplex.com
 sankakucomplex.com##+js(aeld, DOMContentLoaded, prestitialData)
 
+! --- save-editor.com --- !
+||web.save-editor.com/b/in/ad/
+web.save-editor.com##.set_wrapper
+||emu.web-g-p.com/info/b/in/ad/
+emu.web-g-p.com##.set_wrapper
+
 ! --- seesaa.jp --- !
 !seesaa系blog
 !seesaa.net,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他
