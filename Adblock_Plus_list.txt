@@ -2141,7 +2141,7 @@ novel.prcm.jp##app-refresher
 novel.prcm.jp##app-remote-ad-frame
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
-npn.co.jp###arata5
+npn.co.jp##.bnr
 nuwton.com##[class*="banner-"]
 o-dan.net###spgLoadAd
 	clone.o-dan.net##.apiRsltAd
