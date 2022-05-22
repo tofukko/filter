@@ -2455,6 +2455,9 @@ webcg.net##.ad
 webkaru.net##[class^="ad-"]
 webllica.com###headlinkad
 webllica.com##.sponsored_link
+weeklybcn.com##.ad-wrapper
+weeklybcn.com##.footer__pr
+weeklybcn.com##.section-ad:not(.side_bnr)
 wezz-y.com##[id^="adSideRectangle"]
 wikihow.jp##.wh_ad_inner
 wikiwiki.jp##[id$="-ad-container"]
