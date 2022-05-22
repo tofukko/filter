@@ -3043,6 +3043,7 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 /prebidlink/*
 /api/spots/*&ev$script
 /api/spots/*?s1=%$script
+/cdn-cgi/zaraz/*
 ||a.vdo.ai^
 ||cogleapad.com^
 ||comasoiling.casa^
@@ -3080,7 +3081,8 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ! mangaraw.co
 ||hooliganmedia.com^
 ||i0.wp.com/japannews.info/
-mangaraw.co#?#.col-sm-4:-abp-has(> div > [href^="https://japannews.info/"])
+mangaraw.co##.hello + style + div[id]
+mangaraw.co##div.my-2.col-sm-4:-abp-has(div[id] + script[src^="https://jsc.adskeeper.com/"])
 
 ! --- mozakin.com --- !
 mozakin.com##body > div > div[style="height: 300px;"]
