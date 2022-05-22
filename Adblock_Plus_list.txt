@@ -4600,8 +4600,8 @@ gato.intaa.net##.adwidget
 	!gigaho.com##ins.adsbygoogle
 
 ! helpsupport.blog.fc2.com
-helpsupport.blog.fc2.com###topspace
-helpsupport.blog.fc2.com###container:style(display: initial !important;)
+! https://github.com/AdguardTeam/AdguardFilters/issues/81515
+helpsupport.blog.fc2.com###toparea
 @@||blog-imgs-148-origin.fc2.com/h/e/l/helpsupport/googleads.html$subdocument,domain=helpsupport.blog.fc2.com
 
 ! investing.com
