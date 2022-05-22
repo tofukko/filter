@@ -3247,6 +3247,8 @@ ch.nicovideo.jp##.ads_nicovideo
 blog.nicovideo.jp###web_pc_prime
 blog.nicovideo.jp#?#.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-aside-prlist-title)
 
+@@||nicovideo.jp/shared_httpd/log.gif?$xmlhttprequest,domain=nicovideo.jp
+
 ! --- nifty --- !
 ||analytics.cocolog-nifty.com^
 ||nifty.com/pubc0m/js/tag/_nif_tag.js
