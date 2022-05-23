@@ -17,6 +17,11 @@
 !https://www.teacup.com/information/view?id=243
 teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
 
+!2022/05/23 2023年1月31日 ウェブリブログ終了
+!https://info.at.webry.info/
+	! https://github.com/tofukko/filter/issues/42
+@@||webryblog.biglobe.ne.jp/images/ad/$image,domain=webryblog.biglobe.ne.jp
+
 !2022/05/06
 /300x250.
 /300x250_
@@ -2655,9 +2660,6 @@ news.biglobe.ne.jp##[class^="news-ad-square-"]
 news.biglobe.ne.jp###SPbanner
 news.biglobe.ne.jp###gadsOverlayUnit
 weather.biglobe.ne.jp###header:style(height: 60px !important;)
-
-	! https://github.com/tofukko/filter/issues/42
-@@||webryblog.biglobe.ne.jp/images/ad/$image,domain=webryblog.biglobe.ne.jp
 
 ! --- bloomberg.co.jp --- !
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
