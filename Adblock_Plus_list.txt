@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/05/23 16:11
+! 最終更新 2022/05/30 15:57
 !
 
 !2021/07/02
@@ -2660,6 +2660,8 @@ news.biglobe.ne.jp##[class^="news-ad-square-"]
 news.biglobe.ne.jp###SPbanner
 news.biglobe.ne.jp###gadsOverlayUnit
 weather.biglobe.ne.jp###header:style(height: 60px !important;)
+! https://github.com/tofukko/filter/issues/70
+@@||yads.c.yimg.jp/js/yads.js$script,domain=news.biglobe.ne.jp
 
 ! --- bloomberg.co.jp --- !
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
