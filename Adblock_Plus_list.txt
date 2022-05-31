@@ -3050,6 +3050,7 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 ! https://help.blogpark.jp/archives/52500714.html
 ##.main-container-ads
 2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp#?#.plugin-memo:-abp-has(> .sidetitlebody > .sidetitle:-abp-contains(/^スポンサード?(リンク)?[1-9０-９]?$/))
+2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##+js(nostif, floatingAd)
 
 !g --- manga --- !
 ! ?
