@@ -1385,6 +1385,12 @@ baby-calendar.jp##[id^="JP_BABY_resp_"]
 bakufu.jp###entryPrBox
 bakufu.jp###prBox
 bakufu.jp###tertiary > .widget_text:not(#text-2):not(#text-4)
+bakusai.com###banner_thr
+bakusai.com###banner_top
+bakusai.com##.lSideColumn:style(width: 100% !important;border-right: 0 !important;)
+bakusai.com##.rSideBnr
+bakusai.com##.thrListTxtAd
+bakusai.com##.thrWholeRight
 baila.hpplus.jp##.c-article-ad
 bang-dream-news.com##.ads
 bangumi.org###ad_area
