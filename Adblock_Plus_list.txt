@@ -2628,9 +2628,12 @@ alphapolis.co.jp##+js(set, document.onselectstart, null)
 alphapolis.co.jp##+js(set, document.oncontextmenu, null)
 
 ! --- angelfire.com --- !
-angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
 ||angelfire.com/adm/
-||lycos.com/catman/init.js
+||lycos.com/catman3/code/angelfire.lycos.com/memberembedded.js$script,domain=www.angelfire.com
+||udmserve.net/udm/
+angelfire.com###lycosFooterAd
+angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
+angelfire.com##+js(acis, document.write, lycos_ad)
 
 ! --- artemis --- !
 ||live.fc2.com/liveBlogParts.php$subdocument,domain=artemisweb.jp
