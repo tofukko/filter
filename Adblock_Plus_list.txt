@@ -2065,7 +2065,7 @@ mofmo.jp##[id^="ad_pos_"]
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
-moguravr.com##.box.is-radiusless:not(.mg-articles-widget)
+moguravr.com##.mg-ads-placement
 momon-ga.com###menu-pr
 mora.jp##.jack
 mora.jp##.newrelease_adBox
