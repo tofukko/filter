@@ -3901,12 +3901,10 @@ live.fc2.com##.m-viewAd
 fc2.com###ad-content
 fc2.com###ad-footer
 
-admin.blog.fc2.com##.adimn_pr_txt
 admin.blog.fc2.com###ad_sidebody
-admin.blog.fc2.com###ad_sidebar
-admin.blog.fc2.com##.editor_header_ad
-!新
+admin.blog.fc2.com##.adimn_pr_txt
 admin.blog.fc2.com##.column-left_ad
+admin.blog.fc2.com##.editor_header_ad
 admin.blog.fc2.com##.notify_ad
 
 error.fc2.com###ad_middle
