@@ -1588,6 +1588,7 @@ ekitan.com##.sidebar-ad-item
 ekitan.com##[class^="ek-forward-display-l_middle_"][style="margin:0 auto; width:728px;"]
 ekitan.com##[class*="ek-route-advertising-no-"]
 ent.smt.docomo.ne.jp##.ad_rectangle_article_outer
+entamega.com###ad_right-column01
 eparet.net##div[style="width:300px;height:250px;float:left;border:#ffaaaa double 3px;margin:0px auto;"]
 eparet.net##div[style="width:620px;float:right;"]:style(float: none !important;)
 epub-tw.com##.ad
