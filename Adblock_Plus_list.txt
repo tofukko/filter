@@ -2265,6 +2265,7 @@ rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 roote.ekispert.net##.banner_area
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a61e5b8483323573d22fbae6921b7c1c163e5437
 roote.ekispert.net###bottom_area:style(height: 1px!important)
+rrpg.jp##[id^="adsense_"]
 ryukyushimpo.jp###bn-area
 ryukyushimpo.jp##.alertPr
 ryukyushimpo.jp##.alertPrDetail
