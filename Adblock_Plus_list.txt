@@ -4743,10 +4743,17 @@ knshow.com##+js(acis, onload, .ads)
 	!knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 	!knshow.com#@#.adsbygoogle
 
+
 ! musenboya.com
-	!musenboya.com##+js(nostif, google_jobrunner)
- 	!musenboya.com##+js(nostif, adspace)
- musenboya.com##+js(acis, onload, 広告)
+@@||imp-adedge.i-mobile.co.jp/script/v1/spot.js$domain=musenboya.com
+@@||ssp-bidapi.i-mobile.co.jp/api/v1/spot.ashx?$domain=musenboya.com
+@@||spnativeapi-tls.i-mobile.co.jp/api/ad_spot.ashx?$domain=musenboya.com
+musenboya.com#@#.ad-area
+musenboya.com#@#.ad-label
+musenboya.com#@#.ad-rectangle
+musenboya.com##.ad-area:style(height: 1px !important;margin: 0 !important;opacity: 0 !important;)
+musenboya.com##.entry-footer > a[href^="https://hb.afl.rakuten.co.jp"]
+musenboya.com#?#.text-center:has(> p:has-text(スポンサーリンク))
  
 ! my0nio.seesaa.net
 	!my0nio.seesaa.net#@#.adsbygoogle
