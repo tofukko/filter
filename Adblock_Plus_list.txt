@@ -1764,6 +1764,8 @@ hokkaido-np.co.jp##.detailAdsense
 hokkaido-np.co.jp##.pr
 hokkaidofan.com##.vce-ad-container
 horiemon.com##.ad
+hosyusokuhou.jp##.abanner
+hosyusokuhou.jp##.abox
 hosyusokuhou.jp#?#.sidewrapper:-abp-has(> .sidetitle:-abp-contains(★))
 houjin.info##.ads1
 houjin.info##.ads2
