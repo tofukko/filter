@@ -560,6 +560,7 @@ _ads.js.
 ||queen-casino.info/affi/
 ||realsrv.com^
 ||runative-syndicate.com^
+||type-bee.co.jp/assets/*/shared/tapnovel-banner-
 ||theta360.com/intl/common/inc/ad_banner.html?
 
 ||2ch.vet/img/ani_
