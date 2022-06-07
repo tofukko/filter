@@ -3438,6 +3438,9 @@ websearch.rakuten.co.jp###ads-billboard
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=edy.rakuten.co.jp
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=edy.rakuten.co.jp
+
+	! http://jbbs.shitaraba.net/bbs/read.cgi/internet/25463/1652115193/113
+@@||grp10.ias.rakuten.co.jp/adv/$script,domain=www.rakuten.co.jp
 	!
 @@||image.www.rakuten.co.jp/com/js/d/
 	! 楽天銀行トップ、「お問い合わせ」の中身が表示されない
