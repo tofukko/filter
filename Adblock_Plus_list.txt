@@ -2306,6 +2306,8 @@ sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sk-hanbai.com##.adsense
 sk-seisan.com##.adsense
+smhn.info###topAD
+smhn.info##aside:has(.adsbygoogle)
 smashop.jp###r1_advertisement
 smashop.jp##.ad_double_300_300
 smt-cinema.com##.ad
