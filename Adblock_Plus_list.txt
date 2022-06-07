@@ -2453,6 +2453,7 @@ utaten.com###sidebar > .MediumRectangleBanner
 utaten.com##.sideBySideBanner
 vidoza.net##.pvr
 vippers.jp##.ad
+vippers.jp##.blog-card-gtm > .blog-card.pr
 vivi.tv##.adsArea
 vogue.co.jp##.ad
 voguegirl.jp##.js-ad
