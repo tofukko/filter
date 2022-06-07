@@ -1909,6 +1909,7 @@ kanaloco.jp##.bnr01
 kanaloco.jp##.top-head-bnr
 kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
+kanmsu.com##.google-adbox
 kantsuri.com##.featured.section-inverse
 karapaia.com###header-ad-o
 karapaia.com###overlay
