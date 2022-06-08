@@ -1077,13 +1077,14 @@ _analytics.js?
 ||disqus.com/stats.html
 ||dw-eu.com.com^
 
-||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js
-||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js
-||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
-||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
-||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js
-||googletagmanager.com/gtm.js$script,redirect=googletagmanager.com/gtm.js
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js:5
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
+||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
+
+||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js:5
+||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5
+||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
 	!google
 	://analytics.*/collect
 	||google-analytics.com^*/collect?
@@ -4771,7 +4772,6 @@ knshow.com##+js(acis, onload, .ads)
 	!knshow.com#@#script[src$="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1)
 	!knshow.com#@#.adsbygoogle
 
-
 ! musenboya.com
 @@||imp-adedge.i-mobile.co.jp/script/v1/spot.js$domain=musenboya.com
 @@||ssp-bidapi.i-mobile.co.jp/api/v1/spot.ashx?$domain=musenboya.com
@@ -4791,6 +4791,7 @@ musenboya.com#?#.text-center:has(> p:has-text(スポンサーリンク))
 
 ! savevideo.me
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
+||acdcdn.com^
 savevideo.me##.ads
 savevideo.me##+js(acis, $, banner)
 
