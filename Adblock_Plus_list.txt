@@ -2327,7 +2327,7 @@ sirogohan.com##.ad-sponsor
 sk-hanbai.com##.adsense
 sk-seisan.com##.adsense
 smhn.info###topAD
-smhn.info##aside:has(.adsbygoogle)
+smhn.info#?#aside:-abp-has(.adsbygoogle)
 smashop.jp###r1_advertisement
 smashop.jp##.ad_double_300_300
 smt-cinema.com##.ad
@@ -2502,7 +2502,7 @@ withonline.jp##div[style="width:670px ; height:300px;"]
 withonline.jp##div[style="min-height:250px;"]
 women.benesse.ne.jp##.ad
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
-wowroms.com#?##sandBox-wrapper > .ulromlist > li.element:has(> .row-container > li > .adsbygoogle)
+wowroms.com#?##sandBox-wrapper > .ulromlist > li.element:-abp-has(> .row-container > li > .adsbygoogle)
 writening.net##.section-ad
 ! 朝目新聞
 www.ne.jp#?#body[vlink="#0033CC"][text="#000000"][link="#3300FF"][bgcolor="#FFFFFF"] table p:-abp-has(> font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"][href*="asameshinbun-22"]))
@@ -2950,7 +2950,7 @@ hayamimi-gunpla.com,hayamimi-hobby.com##.p-1.border-ao.border-bottom-2.text-dark
 hayamimi-gunpla.com,hayamimi-hobby.com##.plugin:nth-last-of-type(2)
 hayamimi-gunpla.com,hayamimi-hobby.com##.wrap.simple-vertical
 hayamimi-gunpla.com,hayamimi-hobby.com##amp-carousel
-hayamimi-gunpla.com,hayamimi-hobby.com#?#div:has(> .banner-id)
+hayamimi-gunpla.com,hayamimi-hobby.com#?#div:-abp-has(> .banner-id)
 
 !g --- hitomi.la --- !
 ! https://github.com/uBlockOrigin/uAssets/issues/11515
@@ -4781,7 +4781,7 @@ musenboya.com#@#.ad-label
 musenboya.com#@#.ad-rectangle
 musenboya.com##.ad-area:style(height: 1px !important;margin: 0 !important;opacity: 0 !important;)
 musenboya.com##.entry-footer > a[href^="https://hb.afl.rakuten.co.jp"]
-musenboya.com#?#.text-center:has(> p:has-text(スポンサーリンク))
+musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク))
  
 ! my0nio.seesaa.net
 	!my0nio.seesaa.net#@#.adsbygoogle
