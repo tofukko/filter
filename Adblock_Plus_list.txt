@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/06/08 8:25
+! 最終更新 2022/06/12 13:51
 !
 
 !2021/07/02
@@ -3085,7 +3085,7 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 *$3p,denyallow=tapecontent.net|google.com|gstatic.com|hcaptcha.com|recaptcha.net,domain=streamtape.*|strtape.*
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6738
-fmovies.*##+js(acis, Promise, break;case $.)
+fmovies.*##+js(acis, parseInt, break;case $.)
 fmovies.*##^script:has-text(break;case $.)
 fmovies.*##+js(nowoif)
 ||fmovies.*/sw.js
@@ -3094,30 +3094,32 @@ fmovies.*##+js(set, console.clear, undefined)
 fmovies.*###modalshare
 fmovies.*##.modal-backdrop
 fmovies.*##body.modal-open:style(overflow: auto!important)
+fmovies.*###gift-middle
+fmovies.*###gift-top
 *$script,redirect-rule=noopjs,domain=playhydrax.com
 ! https://github.com/NanoMeow/QuickReports/issues/3311
 @@||iamcdn.net/players/*ads$script,domain=playhydrax.com
 ||iamcdn.net/players/ads.watch.min.js$script,domain=playhydrax.com,important
 ||iamcdn.net/players/playera.dmins.js$script,domain=playhydrax.com
-||iamcdn.net/players/player*.*mins.js$script,domain=hydracdn.*|redirect-ads.com|nazarickol.com|freeplayervideo.com
-||iamcdn.net/players/playhydraxs.min.js$script,domain=redirect-ads.com|nazarickol.com|freeplayervideo.com
+||iamcdn.net/players/player*.*mins.js$script,domain=hydracdn.*|nazarickol.com|freeplayervideo.com|player-cdn.com
 hydracdn.*##+js(acis, String.fromCharCode, /btoa|break/)
 hydracdn.*,hydrax.net,playhydrax.com##+js(aopr, AaDetector)
 hydracdn.*,hydrax.net,playhydrax.com##+js(nostif, debugger)
 playhydrax.com##+js(nosiif, _0x)
 hydracdn.*,hydrax.net,playhydrax.com##+js(nowoif, /^/, 2)
-redirect-ads.com,nazarickol.com,freeplayervideo.com##+js(set, detectAdBlockAll, noopFunc)
-*$image,redirect-rule=32x32.png,domain=redirect-ads.com|nazarickol.com|freeplayervideo.com
-redirect-ads.com,nazarickol.com,freeplayervideo.com##+js(set, console.clear, undefined)
-redirect-ads.com,nazarickol.com,freeplayervideo.com##+js(ra, style, #over)
-redirect-ads.com,nazarickol.com,freeplayervideo.com###playback-fake
-redirect-ads.com,nazarickol.com,freeplayervideo.com##+js(nowoif, /^/, 1)
+nazarickol.com,freeplayervideo.com,player-cdn.com##+js(set, detectAdBlockAll, noopFunc)
+*$image,redirect-rule=32x32.png,domain=nazarickol.com|freeplayervideo.com|player-cdn.com
+nazarickol.com,freeplayervideo.com,player-cdn.com##+js(set, console.clear, undefined)
+nazarickol.com,freeplayervideo.com,player-cdn.com##+js(ra, style, #over)
+nazarickol.com,freeplayervideo.com,player-cdn.com###playback-fake
+nazarickol.com,freeplayervideo.com,player-cdn.com##+js(nowoif, /^/, 1)
 playhydrax.com,hydracdn.*,hydrax.net##div#over:remove()
-@@||hydracdn.*^$ghide
-@@||hydrax.net^$ghide
-@@||playhydrax.com^$ghide
+@@||hydracdn.*^$generichide
+@@||hydrax.net^$generichide
+@@||playhydrax.com^$generichide
 jav.guru##.aligncenter
 jav.guru##.alignnone
+||player-cdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
 
 ! --- livedoor --- !
 /settings/ad.js
