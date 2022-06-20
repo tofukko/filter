@@ -2330,6 +2330,7 @@ shogi-sanpo.com##.h260
 shogi-sanpo.com##.height280
 shogi-sanpo.com##.tac.mb30
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
+sirabee.com###rectangle
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sk-hanbai.com##.adsense
