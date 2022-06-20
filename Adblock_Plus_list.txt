@@ -1703,6 +1703,9 @@ getnews.jp###leftColumn > .widget_text:first-child
 getnews.jp###rightColumn > .widget_text:first-child
 getnews.jp##.bal_insert_ad
 gigafile.nu##[class*=banner_type_]
+gigafree.net##.above-caption
+gigafree.net##.bottombox > .bottombox
+gigafree.net##.related-cate
 gigazine.net###LT
 gigazine.net##.e_ad
 ginzamag.com###gn_sp-top_rectangle_middle
