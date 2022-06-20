@@ -1328,6 +1328,8 @@ app-liv.jp##.ad-bnr-words
 app-liv.jp##.adv-area
 appget.com##.adsence
 appget.com##.PC_header_ad
+appllio.com##.ad-appllio-Bottom
+appllio.com##.ad-appllio-Title
 !jack
 appmedia.jp##[id^="ad_jack_"]
 appmedia.jp##.sidebar_content > div[style="position:sticky;top:0;"]
