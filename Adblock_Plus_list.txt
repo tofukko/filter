@@ -1667,6 +1667,7 @@ gakuryou.net##[id^="ADw"]
 game8.jp###g8-ad-placement-pc_side_head
 gamebiz.jp##.main:style(overflow-x: unset !important;)
 gamebiz.jp##.takeover
+gamepedia.jp##.moko-ad
 gameranbu.jp###sub-col-wrap_top280:style(padding-top: 0px !important;)
 gameranbu.jp##.ad_center
 gameranbu.jp##.side_ad > .cf
