@@ -2508,6 +2508,7 @@ withonline.jp##div[id$=_inread]
 withonline.jp##div[style="max-width:970px;min-height:90px;text-align:center;margin:0 auto;"]
 withonline.jp##div[style="width:670px ; height:300px;"]
 withonline.jp##div[style="min-height:250px;"]
+world-fusigi.net##.ad_full_wrap
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
 wowroms.com#?##sandBox-wrapper > .ulromlist > li.element:-abp-has(> .row-container > li > .adsbygoogle)
 writening.net##.section-ad
