@@ -2346,6 +2346,7 @@ sponichi.co.jp##[id^=space_shopping_]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
+studyhacker.net##.popup_area
 style.potepan.com##.FixedFooterSection
 sukima.me##.popupad-box
 sukima.me#?#div:-abp-has(> iframe[src^="/advertise/"]:only-child)
