@@ -2234,6 +2234,8 @@ picrew.me##.imagemaker_container:style(height: 100% !important;)
 pinky-media.jp##div[style="min-height: 320px;"]
 pixabay.com##.carbon-ad
 pixabay.com##.show-gtty-item
+pixwox.com##.pgAdWrapper
+pixwox.com##[class^="ah-box-"]
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
 poipiku.com##.PcSideBarAd
