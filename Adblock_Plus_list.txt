@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/06/12 13:51
+! 最終更新 2022/06/20 9:45
 !
 
 !2021/07/02
@@ -2343,8 +2343,6 @@ sound.jp###adfloat
 spaia.jp##.ad
 spaia.jp##.ad-wrapper
 sponichi.co.jp##[id^=space_shopping_]
-st.benesse.ne.jp##.mb_normal[style="height: 250px"]
-st.benesse.ne.jp##[id^="div-M_MD_kiji_fluid_"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
@@ -2500,7 +2498,6 @@ withonline.jp##div[id$=_inread]
 withonline.jp##div[style="max-width:970px;min-height:90px;text-align:center;margin:0 auto;"]
 withonline.jp##div[style="width:670px ; height:300px;"]
 withonline.jp##div[style="min-height:250px;"]
-women.benesse.ne.jp##.ad
 wowkorea.jp,wowseoul.jp,wowsokb.jp##table[bgcolor="#CCCCCC"]
 wowroms.com#?##sandBox-wrapper > .ulromlist > li.element:-abp-has(> .row-container > li > .adsbygoogle)
 writening.net##.section-ad
@@ -2684,6 +2681,18 @@ globe.asahi.com##.module-side-notice
 @@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
 	!動画プレイヤー
 @@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
+
+! --- benesse.ne.jp --- !
+benesse.ne.jp##[id^="div-M_MD_"][id*="_fluid_"]
+benesse.ne.jp##div[style^="height: 250px"]
+benesse.ne.jp##[style="min-height: 300px;"]
+39mag.benesse.ne.jp##[style="min-height:300px;"]
+! https://github.com/tofukko/filter/issues/72
+@@||cdn.logly.co.jp/recommend/img.benesse-cms.jp/$image,domain=benesse.ne.jp
+! 更新停止
+||39.benesse.ne.jp/resource/ad/
+39.benesse.ne.jp##.newPostWrap_item:not(#item_pickuppc_1)
+39.benesse.ne.jp##.blogbody > .underArticle
 
 ! --- biglobe --- !
 biglobe.ne.jp###h_bar
