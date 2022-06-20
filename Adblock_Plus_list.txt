@@ -2323,6 +2323,12 @@ share-videos.se###ad_html
 share-videos.se###new_ad_html
 shimotsuke.co.jp##.article-body > .slide-wrapper
 shimotsuke.co.jp##.top-banner
+shogi-sanpo.com##.abemaBtn
+shogi-sanpo.com##.ad_double
+shogi-sanpo.com##.h_280
+shogi-sanpo.com##.h260
+shogi-sanpo.com##.height280
+shogi-sanpo.com##.tac.mb30
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
