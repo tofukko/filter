@@ -1785,6 +1785,7 @@ houjin.info##.ads1
 houjin.info##.ads2
 housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
+htmq.com###footerpr
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
 huffingtonpost.jp##.ad-right-rail-native-ad
