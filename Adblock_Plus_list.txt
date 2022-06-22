@@ -4743,6 +4743,7 @@ ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !import
 ff14angler.com#@#script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 ff14angler.com###main > ins.adsbygoogle
 ff14angler.com###sidebar > .adsbygoogle
+ff14angler.com##.side_banner:style(position: fixed !important;)
 @@||pagead2.googlesyndication.com/pagead/$domain=ff14angler.com
 
 ! g-pc.info
