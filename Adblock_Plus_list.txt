@@ -4805,6 +4805,7 @@ knshow.com##+js(acis, onload, .ads)
 
 ! musenboya.com
 @@||imp-adedge.i-mobile.co.jp/script/v1/spot.js$domain=musenboya.com
+@@||js1.nend.net/js/nendAdLoader.js$script,domain=musenboya.com
 @@||ssp-bidapi.i-mobile.co.jp/api/v1/spot.ashx?$domain=musenboya.com
 @@||spnativeapi-tls.i-mobile.co.jp/api/ad_spot.ashx?$domain=musenboya.com
 musenboya.com#@#.ad-area
