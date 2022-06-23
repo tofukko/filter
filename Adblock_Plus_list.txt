@@ -1793,7 +1793,6 @@ huffingtonpost.jp##.ad-right-rail-native-ad
 huffingtonpost.jp##.entry__right-rail-width-placeholder
 huffingtonpost.jp##.leaderboard-flex-placeholder
 huffingtonpost.jp##.right-rail-sticky__native-ad-container
-huyosoku.com##.ad
 i-njoy.net##.mobhalf
 i-voce.jp##.VcAdvertisement
 iconbox.fun##.ad01
