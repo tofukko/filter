@@ -2423,6 +2423,7 @@ tinami.com##.view_ad
 ! 2022/04/21 もう広告ないけど一応残しておく
 tocana.jp###hashiraL
 tocana.jp###hashiraR
+togetter.com###ad_overlay
 togetter.com##.ad_custom
 togetter.com##.ad_custom_fluid
 togetter.com##.ad_list_top
