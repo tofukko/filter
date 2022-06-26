@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/06/23 13:10
+! 最終更新 2022/06/26 13:16
 !
 
 !2021/07/02
@@ -2604,20 +2604,24 @@ xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//a
 ! --- 5ch pink --- !
 ||i2ad.jp^
 ||thench.net^
-||banpro.in.coocan.jp^
-||5ch.net/_ads/
-||5ch.net/js/ad.js?
+||5ch.net/css/ad.css
+||5ch.net/js/ad_on_mango.js?
+||5ch.net/js/top_ad.js?
+5ch.net###banner
+5ch.net###js-square_ads
+5ch.net###js-rectangle_ads
+! pink
 ||bbspink.com/js/ad.js?
 ||bbspink.com/css/ad.css
-5ch.net,bbspink.com###banner
-5ch.net##[id^="js--banners--"]
-5ch.net##.ADVERTISE_AREA
-5ch.net##.ADVERTISE_AREA + div
-5ch.net,bbspink.com##div[style^="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;"]
+||bbspink.com/_gichin/js/ads.js
+bbspink.com###banner
 bbspink.com##[class$="_banner"]:not(.sidemenu_banner)
 bbspink.com##[class^="banner_"]
-bbspink.com###bbspink-bottom-ads
+@@||softserve.bbspink.com/static/images/getyourvoucher_728x90.png$image,domain=bbspink.com
+@@||softserve.bbspink.com/static/images/getyourvoucher_300x250.png$image,domain=bbspink.com
+
 pinktower.com##div
+
 !Mobile
 itest.5ch.net###instant_ad
 itest.5ch.net##.ad-native-comment
