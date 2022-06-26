@@ -2876,8 +2876,10 @@ news.fresheye.com##.nw-ad
 ||2chan.net/bin/*.htm
 ||free2.jp^$domain=2chan.net
 2chan.net###rightad
-2chan.net##div[style*="margin:2px"]
 2chan.net##.tue
+2chan.net##div[style*="margin:2px"]
+2chan.net##[style="width:728px;height:90px;margin:4px;"]
+2chan.net##[style="height:68px;"]
 ||2chan.net/bin/count.swf
 ||2chan.net/bin/uuacount.php?*
 ||2chan.net/bin/uucount.php
