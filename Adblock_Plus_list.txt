@@ -4696,11 +4696,11 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83410
 	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
-! comick.top
 ! syosetu.top
 ! https://github.com/tofukko/filter/issues/71
-@@||comick.top/cdn-cgi/zaraz/s.js$script,domain=comick.top
 @@||syosetu.top/cdn-cgi/zaraz/s.js$script,domain=syosetu.top
+! comick.top
+! @@||comick.top/cdn-cgi/zaraz/s.js$script,domain=comick.top
 
 ! coolpan.net
 coolpan.net#@#.ad-area
