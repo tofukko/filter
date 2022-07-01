@@ -1758,6 +1758,9 @@ happycampus.co.jp##div[style="width: 160px; height: 600px; margin-bottom: 10px; 
 happycampus.co.jp##div[style="width: 250px; height: 250px; margin-bottom: 10px;  margin-top: 10px;"]
 happycampus.co.jp##div[style="width: 300px; height: 250px; margin-bottom: 10px;  margin-top: 10px;"]
 happycampus.co.jp##div[style="width: 728px; height: 80px; margin-bottom: 10px;  margin-top: 20px; float:left; clear:both;"]
+headline.mtfj.net###header_adv
+headline.mtfj.net###middle_adv
+headline.mtfj.net##.sub_adv
 healthpress.jp###adFooter
 healthpress.jp###entryBottomAd
 heim.jp##.p-article__adTop
