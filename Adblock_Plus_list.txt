@@ -1293,6 +1293,8 @@ adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adbottom_box
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adcenter_box
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adtoplabel
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp##.relatedlabel
+adultblogranking.com##.ads-a
+adultblogranking.com##.rank > li[id]
 adultcomic.dbsearch.net##.img-spc-box.sph250
 adultlog.net,btblog.jp##.story_box:first-child
 adultlog.net,btblog.jp##td.inside
