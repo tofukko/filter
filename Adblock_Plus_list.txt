@@ -1949,6 +1949,7 @@ karapaia.com##div[style="padding-top: 10px; height: 600px"]
 keisan-mondai.com##.head-ad
 keyakizaka46matomerabo.com##.ads
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
+kkbox.com##.google-ad-manager
 kobe-np.co.jp###prBox
 kobe-np.co.jp##[id^="browsi_adWrapper_"]
 kobe-np.co.jp##.active.native
