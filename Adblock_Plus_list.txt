@@ -2490,6 +2490,7 @@ uta-net.com##.ad-area-b:not(.pc-official-link)
 uta-net.com##.ad-area-c
 utaten.com###sidebar > .MediumRectangleBanner
 utaten.com##.sideBySideBanner
+valorantnews.jp##.header-cls
 vidoza.net##.pvr
 vippers.jp##.ad
 vippers.jp##.blog-card-gtm > .blog-card.pr
