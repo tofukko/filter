@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/06/30 18:05
+! 最終更新 2022/07/01 12:15
 !
 
 !2021/07/02
@@ -677,6 +677,8 @@ _ads.js.
 	!minnano-av.com
 ||minnano-*.com/top_center_bn/
 ||mixi.jp^*/adnetwork/
+||muragon.com/js/ad-fixed.js?
+||muragon.com/js/replace-afp-ad.js?
 ||muvc.com/winopen.js$domain=muvc.net
 ||muvc.com/winlayer.jse$domain=muvc.net
 ||newsweekjapan.jp/images/bnr/newsweek_ad_
@@ -2105,6 +2107,8 @@ moviewalker.jp##div[style^="padding-top:10px;  padding-bottom: 10px;"]
 moviewalker.jp##div[style^="padding-top:10px; padding-bottom: 10px;"]
 mudainodocument.com##.adset-Cover
 mudainodocument.com##.article-body-inner [href^="https://px.a8.net/"]
+muragon.com##.footer-adarea
+muragon.com##[class^="adarea"]
 muvc.net##body > div[align="right"]:last-of-type
 myjitsu.jp##.ad-box
 myjitsu.jp##[id^=related-post-ad]
