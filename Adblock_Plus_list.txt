@@ -1971,6 +1971,7 @@ kurukura.jp#?#.single-sidebar:-abp-has(> .ad-bnr)
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
 kyoko-np.net#?#section:-abp-has(> h3:-abp-contains(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
+kyoushinomikata.com##.entry-content > p:-abp-has(> .adsbygoogle)
 last.fm##.full-bleed-ad-container
 last.fm##.sidebar-ad-container
 lee.hpplus.jp##.media-ad
