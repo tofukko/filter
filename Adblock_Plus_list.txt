@@ -1923,6 +1923,7 @@ kakijun.jp###hidari:style(top: unset !important)
 kakijun.jp###rcounter > div:not([style="margin:20px auto;text-align:center;font-size:12px;"])
 kakijun.jp##.gadcenter
 kakomonn.com##[class^=ctr_ad_]
+kaku-navi.com##[class^="google_ad_kanji_"]
 kakuge.com##.ad
 kakuyomu.jp##[class*="widget-ad-"]
 kamigame.jp###ad_overlay
