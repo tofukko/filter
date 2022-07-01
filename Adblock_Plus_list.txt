@@ -1463,6 +1463,7 @@ cat.sc##.adsense
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
 ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
+chanto.jp.net###cha_pc_all_header
 charmer-media.com,elife-media.jp,firststyle.jp,frequ.jp,miima.jp,platabi.com,trip-partner.jp,vivre-media.jp##.my-1
 chat.shalove.net##.ad
 chat.shalove.net,skypemeet.net##.right_cont
