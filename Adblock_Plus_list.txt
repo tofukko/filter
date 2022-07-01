@@ -2207,6 +2207,7 @@ okwave.jp##.adfunnel_osusume_box_pc:style(height: auto !important;)
 okwave.jp##.adfunnel_special_box_pc
 okwave.jp##.adfunnel_special_large_under
 okwave.jp##.following_buttons:style(bottom: 0 !important;)
+olive-hitomawashi.com##[style^="display: inline-block; min-width: 300px; min-height: 250px;"]
 omocoro.jp##.ad
 open2ch.net##.kokoku
 or2.mobi##.single_ad
