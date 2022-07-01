@@ -1857,6 +1857,12 @@ jidoushatounan.com##.single_banner_top
 jiji.com##.ArticleAd
 jiji.com##.ArticleAdSide
 jiji.com##.ArticleInnerAD
+jishin-yogen.com##.ad_header336_body
+jishin-yogen.com##.ads_970x90
+jishin-yogen.com##.kiji_entry_ads01
+jishin-yogen.com##.side_by_side
+jishin-yogen.com##[class^="ad_entrymiddle_"]
+jishin-yogen.com##[class^="kiji_entry_ads"]
 jisin.jp##.add_left
 jisin.jp##.add_right
 jisin.jp###wrap:style(width: unset !important;)
