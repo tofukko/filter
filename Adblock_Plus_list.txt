@@ -2400,6 +2400,9 @@ supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type + br +
 supersolenoid.jp,supersolenoid.blog.fc2.com##.EntryMore > h2:last-of-type + br + a + a + a ~ a[href^="http://px.a8.net"]
 supersolenoid.jp,supersolenoid.blog.fc2.com#?#.menuBlock:-abp-has(> .menuTitle:-abp-contains(/スポンサード|オススメ|新商品/))
 supersolenoid.jp,supersolenoid.blog.fc2.com##.menuBlock3 + center
+swiki.jp###ads_menubar
+swiki.jp##.rklink
+swiki.jp##.rkmark
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
