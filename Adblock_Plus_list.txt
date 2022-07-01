@@ -2136,6 +2136,7 @@ myoji-yurai.net##.adResponsive
 namedic.jp###ad-side_top
 nagasaki-np.co.jp##.article_ad:remove()
 naming-dic.com##.sidebar-box3
+nanigoto.net##.header-widgets
 natsukimemo.com##.adsense
 navitime.co.jp###under-advertisement
 navitime.co.jp##[class^="section-ad-"]
