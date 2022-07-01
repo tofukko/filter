@@ -2448,6 +2448,7 @@ touhouyaruosure.com##[href*="suruga-ya.jp"]
 touhouyaruosure.com##[style="margin:0;padding:5px;font-size:12px;word-break: break-all;"]
 touken-world.jp##.pr_bnr_contents_block
 toyokeizai.net###trend-library
+tozanchannel.blog.jp##div[style^="text-align: center; margin-bottom:"]
 tsuiran.jp##article:not([id]):not([class])
 tsumanne.net###amazon
 tsumanne.net###cm
