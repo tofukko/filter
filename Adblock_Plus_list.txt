@@ -3768,6 +3768,7 @@ trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 ||stats.wordpress.com^
 
 ! --- xrea.com --- !
+||ad.xrea.com^
 ||imgj.xrea.com^
 ||value-domain.com/xrea_header.js
 ||ax.xrea.com^
