@@ -2223,6 +2223,7 @@ otapol.com##.sideAd
 otonasalone.jp##.adsense
 ovninavi.com###cb-container:style(padding-top: 110px !important;)
 ovninavi.com##.ovni-header:style(height: auto !important;)
+ourage.jp##.sidebar__yahoo
 oursounds.net##.kijinai_ad
 oyakudachi2525.com##.add
 pakutaso.com##.banner
