@@ -1903,6 +1903,7 @@ kabu-sokuhou.com###ResSearchAdBottom
 kabu-sokuhou.com###sub_banner_top
 kabu-sokuhou.com##.sponsoredlink
 kabu-sokuhou.com##.topadba
+kabutan.jp##.acrank_top_news1 > .visited1 > tbody > tr:nth-of-type(6)
 !c-
 kachimai.jp###ads
 kachimai.jp###js-footer-banner
