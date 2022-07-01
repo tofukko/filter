@@ -1935,6 +1935,7 @@ kanaloco.jp##.ad
 kanaloco.jp##.blk-bnr02
 kanaloco.jp##.bnr01
 kanaloco.jp##.top-head-bnr
+kanji.reader.bz##span:-abp-contains(スポンサードリンク)
 kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
 kanmsu.com##.google-adbox
