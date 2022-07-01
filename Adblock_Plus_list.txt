@@ -3259,6 +3259,8 @@ jav.guru##.alignnone
 ||i0.wp.com/japannews.info/
 mangaraw.co##.hello + style + div[id]
 mangaraw.co##div.my-2.col-sm-4:-abp-has(div[id] + script[src^="https://jsc.adskeeper.com/"])
+nikaraw.com##div[style="position: fixed; display: block; width: 100%; height: 100%; inset: 0px; background-color: rgba(0, 0, 0, 0); z-index: 300000;"]
+nikaraw.com##div[style*="width: 350px"][style*="height: 250px"]
 
 ! --- mozakin.com --- !
 mozakin.com##body > div > div[style="height: 300px;"]
