@@ -2214,6 +2214,7 @@ or2.mobi##.single_ad
 or2.mobi##.top_ad
 orangepage.net##.doubleRectangle
 orangepage.net##.recipeBlock.clearfix.pr
+oricon.co.jp##.block-header-banner-wrapper
 orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
