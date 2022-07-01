@@ -1772,7 +1772,8 @@ hominis.media##.ad
 hinative.com##.mod_ads_trek_balloon
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
 hobonichielog.com##.mainwidget > [id^="text-"]
-hochi.news##.ad[style*="color:#fff"]
+hochi.news##.ad[style="min-width: 300px; min-height: 250px; color:#fff; text-align:center;"]
+hochi.news##.header__ad
 hochi.news##div[style="width:600px; height:200px; background-color:#a0a0a0; color:#fff; margin:0 auto 20px auto; text-align:center;"]
 hokkaido-np.co.jp##.detailAdsense
 hokkaido-np.co.jp##.pr
