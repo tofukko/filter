@@ -2305,8 +2305,7 @@ ryutsuu.biz##.home-main-ad
 ryutsuu.biz##.main-ad
 ryutsuu.biz##.singleAd
 ryutsuu.biz##[class^="side-adarea"]
-saga-s.co.jp##.double-rectangle
-saga-s.co.jp##.top-banner
+saga-s.co.jp##.m-ad
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
 sanspo.com##.article__inline-ad
