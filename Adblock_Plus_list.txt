@@ -2148,6 +2148,7 @@ net-rabo.work##.ad
 news.ameba.jp##[class^="AdGoogle__"]
 news.ameba.jp##[class^="SpAd"][class*="Module__container--"]
 news.dwango.jp##.bnrs
+news.j-wave.co.jp##.adSet
 news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
 news.ntv.co.jp##.header-publicity
