@@ -2538,6 +2538,7 @@ weeklybcn.com##.section-ad:not(.side_bnr)
 wezz-y.com##[id^="adSideRectangle"]
 wikihow.jp##.wh_ad_inner
 wikiwiki.jp##[id$="-ad-container"]
+wiper.xii.jp##[class^="ads_"]
 wired.jp##.ad--mid-content
 wired.jp##.ad-stickyhero
 withonline.jp##.banner-area-margin-bottom
