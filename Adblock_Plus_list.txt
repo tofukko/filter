@@ -650,9 +650,6 @@ _ads.js.
 ||joysound.com/web/src/s/ad/
 ||jugem.jp/ad/
 ||kabutan.jp/js/rand_ads.js?
-||kakaku.com^*/kakakuad/
-||kakaku.com^*/RdmReviewAd.js
-||kakaku.k-img.com^*/ad/
 ||kakijun.jp/js/u_kakijun_books%
 ||kidslink.jp/cgi-bin/esb/main.cgi?
 ||kidslink.jp^*/dummy.html
@@ -662,7 +659,6 @@ _ads.js.
 ||kooss.com/*.htm$subdocument
 ||kuchi.info/image/bana/
 ||labaq.com/user/json/lq_amarray.js?
-||linkage.kakaku.com^$domain=~kakaku.com
 ||luvul.net/ad/
 ||mapion.co.jp*/adOverture/
 ||mapion.co.jp*/js/vl1.
@@ -1209,6 +1205,7 @@ _analytics.js?
 
 #@#.adsbygoogle
 *##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+*##ins.adsbygoogle:first-child + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 *##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 
 #@#[id^="div-gpt-ad"]
@@ -1924,11 +1921,6 @@ kakijun.jp##.gadcenter
 kakomonn.com##[class^=ctr_ad_]
 kakuge.com##.ad
 kakuyomu.jp##[class*="widget-ad-"]
-kakaku.com###listingPr
-kakaku.com###yAuctionBox
-kakaku.com##.listPR
-kakaku.com##.prBn
-kakaku.com##.prTitle
 kamigame.jp###ad_overlay
 kamigame.jp###ad_footer
 kamigame.jp###pc-overlay-base
@@ -3102,6 +3094,17 @@ javynow.com##.banner-player
 javynow.com##.videos-ad__ad
 javynow.com##.videos-ad:style(width: auto !important;padding: 0 !important;)
 javynow.com##.videos-view__side__ad__banner
+
+! --- kakaku.com --- !
+||kakaku.com^*/kakakuad/
+||kakaku.com^*/RdmReviewAd.js
+||kakaku.k-img.com^*/ad/
+kakaku.com###listingPr
+kakaku.com###yAuctionBox
+kakaku.com##.listPR
+kakaku.com##.prBn
+kakaku.com##.prTitle
+news.kakaku.com##.pr-bnr
 
 !g --- kissanime --- !
 !si
