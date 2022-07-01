@@ -1205,8 +1205,6 @@ _analytics.js?
 ##[class^="google-2ad"]
 ##[class^="google-user-ad"]
 ##[id^="div_fam_async_"]
-##[style*="width:728px;"][style*="height:90px;"]
-##[style*="width: 728px;"][style*="height: 90px;"]
 ##a[href*="nxcount.com/AdClick/"]
 
 #@#.adsbygoogle
