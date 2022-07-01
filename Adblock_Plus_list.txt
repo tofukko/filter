@@ -2493,6 +2493,9 @@ walkerplus.com##.m-prbnr
 walkerplus.com##.m-prlist
 wanchan.jp##.detail_footer__ad
 wanchan.jp##.top_ad
+warotanien.net##.extendedwopts-show
+warotanien.net##[id^="simplicityclassictextwidget-"]:-abp-has([href^="//ck.jp.ap.valuecommerce.com"])
+warotanien.net##[style="width:336px;height:280px;text-align:center;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:10px;"]
 web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
