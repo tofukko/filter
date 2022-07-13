@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/07/12 6:22
+! 最終更新 2022/07/13 12:52
 !
 
 !2021/07/02
@@ -45,7 +45,6 @@ _728_90.
 /img/ads/*
 /image/ad/*
 /images/ad/*
-/images/ad_
 /images/ads/*
 
 !----------------------------広告----------------------------!
@@ -4479,9 +4478,7 @@ ashemaletube.com##+js(aopr, open)
 ! 47club.jp
 ! https://github.com/tofukko/filter/issues/29
 @@||47club.jp^*/images/ad/$image,domain=47club.jp
-@@||47club.jp^*/images/ad_$image,domain=47club.jp
 @@||amazonaws.com^*/images/ad/$image,domain=47club.jp
-@@||amazonaws.com^*/images/ad_$image,domain=47club.jp
 
 ! www3.nissan.co.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/106875
