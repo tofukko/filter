@@ -4612,6 +4612,8 @@ ashemaletube.com##+js(aopr, open)
 	! https://github.com/tofukko/filter/issues/24 サイドバー
 @@||googletagmanager.com/gtm.js$script,domain=okwave.jp
 @@||google-analytics.com/analytics.js$script,domain=okwave.jp
+	! https://jbbs.shitaraba.net/bbs/read.cgi/internet/25463/1652115193/259
+@@||googletagmanager.com/gtm.js$domain=onlineshop.ocn.ne.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
 	! 画像
