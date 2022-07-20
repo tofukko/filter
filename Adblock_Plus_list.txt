@@ -2201,6 +2201,7 @@ ohen.tv##[id^="top-sidebar-ad"]
 okmusic.jp##.banner_frame
 okmusic.jp##.right-ad_frame
 okwave.jp###fluct-pc-sticky-ad
+okwave.jp##.adfunnel_header_block
 okwave.jp##.adfunnel_main_special_box
 okwave.jp##.adfunnel_osusume_box_pc:style(height: auto !important;)
 okwave.jp##.adfunnel_special_box_pc
