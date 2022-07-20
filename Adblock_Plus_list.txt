@@ -614,7 +614,6 @@ _ads.js.
 ||egone.org/js/amazon_
 ||enoge.org/js/amazon_
 ||estar.jp/page/ad/
-||famitsu.com^*/amazon_ranking.js
 ||fategrandorder.info/html/js/ad_
 ||fod.fujitv.co.jp/mz/
 ||gakuryou.net/fb/
@@ -1611,18 +1610,6 @@ eromazofu.com##.c_c_t_w
 exhentai.org###spa
 facebook.com##.adv
 facebookcorewwwi.onion##.adv
-famitsu.com##.article-body__contents-pr-primary
-famitsu.com##.banner-pc
-famitsu.com##.banner-super-jack
-famitsu.com##.banner-top-header
-famitsu.com##.l-contents-block--article-amazon
-famitsu.com#?#.l-contents-block:-abp-has(> .row > .col-12 > .card-game-sale-rank--amazon)
-	app.famitsu.com###widget-ad-rect
-	wiki.famitsu.com###ad-wiki-content-lower
-	wiki.famitsu.com###ad-wiki-content-upper
-	!微妙系
-	!famitsu.com##[class^="l-contents-block--tie-up-"]
-	!famitsu.com#?#.border-col-bottom > [class^="col-"]:-abp-has(> .card > [class*="ad-native-campaign"])
 fandom.com##.ad-slot-placeholder
 fandom.com##.aff-unit__disclaimer-message
 fandom.com##.aff-unit__wrapper
@@ -2891,6 +2878,23 @@ www.excite.co.jp##[class^="ex-ad-rectangle"]
 exploader.net###nls
 exploader.net##.dl_items
 exploader.net##.items
+
+! --- famitsu.com --- !
+||famitsu.com^*/amazon_ranking.js
+famitsu.com##.article-body__contents-pr-primary
+famitsu.com##.banner-pc
+famitsu.com##.banner-super-jack
+famitsu.com##.banner-top-header
+famitsu.com##.l-contents-block--article-amazon
+famitsu.com#?#.l-contents-block:-abp-has(> .row > .col-12 > .card-game-sale-rank--amazon)
+!微妙系
+!famitsu.com##[class^="l-contents-block--tie-up-"]
+!famitsu.com#?#.border-col-bottom > [class^="col-"]:-abp-has(> .card > [class*="ad-native-campaign"])
+app.famitsu.com###gam_pc_large_rectangle
+app.famitsu.com##.amazon-under-post
+app.famitsu.com##[style="width: 1000px;height: 150px"]
+wiki.famitsu.com###ad-wiki-content-lower
+wiki.famitsu.com###ad-wiki-content-upper
 
 ! --- foto.ne.jp --- !
 ||cg-foto.jp/share/v5/img/stock_bnr_
