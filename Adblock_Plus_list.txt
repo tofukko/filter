@@ -2347,6 +2347,9 @@ scawaiiweb.com##.add
 scawaiiweb.com##.addHead
 scawaiiweb.com##.addSide
 scawaiiweb.com##.top_ads
+seijiyama.jp###ad-two-center
+seijiyama.jp##.koukoku1
+seijiyama.jp##.koukoku2
 seikeidenron.jp##.advertising
 seikeidenron.jp##.articleAdd
 seikeidenron.jp##.rightAdd
