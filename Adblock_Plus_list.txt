@@ -1666,6 +1666,9 @@ gamesink.net##.footer_ov_ad
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
 gamewith.jp###ad-jack
+! jack
+gaming-city.com##.side-ad
+gaming-city.com##.top-banner
 galleria.emotionflow.com##.Ad3Tile
 galleria.emotionflow.com##div[style="width: 1200px; height: 259px; margin: 20px auto 0 auto;"]
 gardenstory.jp##.sponserd
@@ -4557,7 +4560,9 @@ ashemaletube.com##+js(aopr, open)
 @@||expocity-mf.com/expo/js/access.js$script,domain=expocity-mf.com
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
-	! https://github.com/tofukko/filter/issues/18 次の話へ移動できない
+        ! https://github.com/tofukko/filter/issues/74
+@@||gaming-city.com/images/ads/$image,domain=gaming-city.com
+	! https://github.com/tofukko/filter/issues/18
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xmlhttprequest,domain=ganma.jp
 	! https://github.com/tofukko/filter/issues/41
 @@||googleads.g.doubleclick.net/pagead/ads?*&plat=$subdocument,domain=games.wkb.jp
