@@ -2826,6 +2826,8 @@ minkara.carview.co.jp##.formcolor > .contents > div[style="clear: both; text-ali
 minkara.carview.co.jp##.formcolor > .contents div[style="clear:both;text-align:center;margin-top:10px;"]
 
 !g --- coolrom.com --- !
+||aaxads.com^
+||system-notify.app^
 coolrom.com.au###td-bottom-mpu-1
 coolrom.com.au##td[style="margin:0px;padding:0px;"][width="336"]
 coolrom.com.au##td[colspan="2"][width="100%"][bgcolor="#000000"][align="center"]
