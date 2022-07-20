@@ -1868,6 +1868,7 @@ jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
+jp.wazap.com##.bodyFootBanner
 jp.wazap.com##.fullBanner
 jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
