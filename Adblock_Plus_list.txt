@@ -1771,6 +1771,7 @@ himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
 hominis.media##.ad
+hinata.me##[class^="articleId__AdWrapper-"]
 hinative.com##.mod_ads_trek_balloon
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
 hobonichielog.com##.mainwidget > [id^="text-"]
