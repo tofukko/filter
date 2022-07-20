@@ -618,6 +618,8 @@ _ads.js.
 ||fod.fujitv.co.jp/mz/
 ||gakuryou.net/fb/
 ||gakuryou.net/right-banner/
+||game8.jp/assets/pc/ads/
+||game8.jp/assets/pc/jack_ad/
 ||gamegift.jp/js/ads.js
 ||gameranbu.jp/js/scrole_ad_
 ||gamespark.jp/feature/advertising/
@@ -1651,7 +1653,7 @@ fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
 gaccom.jp##.ads
 gakuryou.net##[id^="ADw"]
-game8.jp###g8-ad-placement-pc_side_head
+game8.jp##.l-jack__top_container
 gamebiz.jp##.main:style(overflow-x: unset !important;)
 gamebiz.jp##.takeover
 gamepedia.jp##.moko-ad
