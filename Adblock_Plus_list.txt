@@ -1540,6 +1540,8 @@ daily.co.jp##[id^="browsi_adWrapper_"]
 dailynewsonline.jp##.adArea
 dan-ball.jp##[class^="ad_div_"]
 db.msin.jp##.pr
+ddnavi.com##.ad-twoside
+ddnavi.com##[style="font-family:Gill Sans;font-size:12px;line-height:12px;color:#CCC;text-align:center;margin:0 0 5px;clear:both;"]
 denfaminicogamer.jp###pc_article_billboard
 	news.denfaminicogamer.jp###ad_jack
 	news.denfaminicogamer.jp##.amazon-wdgt-wrap
