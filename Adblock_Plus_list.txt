@@ -3253,6 +3253,7 @@ jav.guru##.alignnone
 /prebidlink/*
 /api/spots/*&ev$script
 /api/spots/*?s1=%$script
+/api/spots/*$subdocument
 /cdn-cgi/zaraz/*
 ||a.vdo.ai^
 ||cogleapad.com^
