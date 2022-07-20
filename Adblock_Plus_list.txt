@@ -574,6 +574,8 @@ _ads.js.
 ||akiba-souken.com/js/ad_
 ||akiba-souken.com/js/ad/
 ||angel-bbs.com/ssi/koukoku_
+||anitubu.com/amazon_category/
+||anitubu.com/wp-content/themes/simplicity2-child/amazon_rank.js
 ||anyporn.com/aa/
 ||appget.com/c/wp-content/themes/twentyten/js/agad2.js?
 ||arban-mag.com/wp-content/themes/arban_v2.5/common/js/ad.js
