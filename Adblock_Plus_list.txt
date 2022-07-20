@@ -1783,6 +1783,11 @@ horiemon.com##.ad
 hosyusokuhou.jp##.abanner
 hosyusokuhou.jp##.abox
 hosyusokuhou.jp#?#.sidewrapper:-abp-has(> .sidetitle:-abp-contains(★))
+hotokami.jp##.full_screen_ad:remove()
+hotokami.jp##.shitennoji-banner-js
+hotokami.jp##.shitennoji-big-banner
+hotokami.jp##.top_recent_article[style="display:block;"]
+hotokami.jp##div[class*="adsense"]
 houjin.info##.ads1
 houjin.info##.ads2
 housingsnap.com##.ad-box
