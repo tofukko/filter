@@ -3421,6 +3421,7 @@ www.nicovideo.jp##.HeaderContainer_Re-ad
 www.nicovideo.jp#?#.mb8p4:-abp-has(> #web_pc_prime)
 www.nicovideo.jp##.PcUniTop350x240MiddleEastAdContainer
 www.nicovideo.jp##.SeekBarContainer-videoAdMarker
+www.nicovideo.jp##.TagRelatedBannerContainer
 !静画
 seiga.nicovideo.jp###ad_728_90
 seiga.nicovideo.jp###ad_728_90_footer_fixed
