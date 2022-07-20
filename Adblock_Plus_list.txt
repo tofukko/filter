@@ -2051,6 +2051,7 @@ mangaz.com###scroll-adv
 mantan-web.jp##.ad-links
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
+mantan-web.jp##[style^="width:728px;height:90px;"]
 maonline.jp##.ad_box
 mapfan.com##.header-ad
 mapfan.com##.footer-ad
