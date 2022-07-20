@@ -3730,6 +3730,7 @@ wav.tv##+js(ra, data-popup-url)
 ! --- weblio.jp --- !
 ||llnwd.net^*/ejje_ads_$script,domain=ejje.weblio.jp
 www.weblio.jp###adPcBnrWrp
+www.weblio.jp###adPcFootBnrWrp
 www.weblio.jp##.ads-loader
 www.weblio.jp##.firstDictBnr
 www.weblio.jp##.rectangle-ads-frame-www
