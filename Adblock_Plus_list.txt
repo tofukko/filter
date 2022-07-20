@@ -1740,6 +1740,8 @@ gundam-futab.info##.ad
 gurum.biz##.adsense
 gyazo.com##.lower-ad
 gyo.tc,megalodon.jp##form[action="https://www.google.co.jp/search"] + .row
+h1g.jp##.mainbody-ad-top
+h1g.jp##[style^="width: 300px; height: 250px;"]
 haijin-boys.com##.adsense
 hamachan.info###sidetop_ad_pc
 hamazo.tv##.ad
