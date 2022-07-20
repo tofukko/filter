@@ -2174,6 +2174,7 @@ niigata-nippo.co.jp##.m-ad
 niigata-nippo.co.jp##.m-ad-bg
 niigata-nippo.co.jp##.m-ad-inarticle
 nikkan-spa.jp##.ad-widget
+nikkan-spa.jp##.mainColumnBannerArea
 nikkansports.com###headerAdBnr2022
 nikkansports.com##[id^="sideAd"]
 nijie.info,horne.red###footer-banner
