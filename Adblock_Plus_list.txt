@@ -2253,6 +2253,7 @@ picrew.me##.c_ad_wrapper
 picrew.me##.discovery_list_ad
 picrew.me##.imagemaker_ad_wrapper
 picrew.me##.imagemaker_container:style(height: 100% !important;)
+piliapp.com##.ads
 pinky-media.jp##div[style="min-height: 320px;"]
 pixabay.com##.carbon-ad
 pixabay.com##.show-gtty-item
