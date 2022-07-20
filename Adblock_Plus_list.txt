@@ -2253,6 +2253,8 @@ peko-step.com###cgrig_left:style(padding-top: 10px !important;grid-row-start: 3 
 peko-step.com###cgrig_contsec:style(grid-column-end: 4 !important;)
 peko-step.com###cgrig_commid:style(grid-column-end: 4 !important;)
 peko-step.com###rescentinner:style(padding-right: 0 !important;)
+photosku.com##.ap-block-ar
+photosku.com##.hdg-c:-abp-contains(売れ筋ランキング)
 photozou.jp##[class^="ad_side_"]
 piapro.jp###footer:style(height: 121px !important;padding-top: 20px !important;)
 piapro.jp###main:style(padding-bottom: 210px !important;)
