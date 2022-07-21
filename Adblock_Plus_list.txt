@@ -2305,6 +2305,9 @@ qoly.jp##.banner
 qoly.jp##div[style="height:90px; width:728px;"]
 rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
+ranking-best.net##[style="height:250px; width:300px;"]
+ranking-best.net##[style="height:90px; width:728px;"]
+ranking-best.net##[style="min-height: 320px;"]
 rankingoo.net###im_panel_pc
 rankingoo.net##.ADD_table
 rankingoo.net##.ADD300_250
