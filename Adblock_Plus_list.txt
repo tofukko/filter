@@ -2287,6 +2287,7 @@ pokemon-matome.net##.kiji_chuubu
 pokemon-matome.net###header_rtranking:style(top: 120px !important;)
 pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
 popeyemagazine.jp##.ad
+pouchs.jp##[style^="height:90px;width:728px;"]
 prcm.jp##.ad-rectangle
 privatter.net##.“hidden-print”
 privatter.net#?#.media:-abp-has(> .media-left)
