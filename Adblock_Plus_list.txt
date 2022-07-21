@@ -4269,6 +4269,7 @@ alfalfalfa.com##[href^="https://www.amazon.co.jp"]
 ||jin115.com/js/amazon_
 jin115.com##a[href*="amazon.co"]
 jin115.com###sponsered
+jin115.com##[style="width:728px; height:90px;"]
 
 !カ速
 kanasoku.info##.adset-Cover
