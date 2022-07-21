@@ -2410,6 +2410,7 @@ sound.jp###adfloat
 spaia.jp##.ad
 spaia.jp##.ad-wrapper
 sponichi.co.jp##[id^=space_shopping_]
+sportiva.shueisha.co.jp##[style="width: 728px; height: 90px;"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
