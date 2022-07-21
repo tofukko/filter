@@ -1741,6 +1741,7 @@ gqjapan.jp##.ad-stickyhero
 gqjapan.jp##.full-bleed-ad
 greasyfork.org##.ad
 greasyfork.org##.ad-entry
+grotty-monday.com##[style^="width:728px;height:90px"]
 guitarmagazine.jp##.ad
 gundam-futab.info##.ad
 gurum.biz##.adsense
