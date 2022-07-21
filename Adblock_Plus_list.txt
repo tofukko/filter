@@ -1883,6 +1883,7 @@ jma.go.jp,jma-net.go.jp##.adClear
 jmty.jp##.p-adsense-list-right-column-high-block
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
+joker004.blog.fc2.com##[style^="width:728px;height:90px"]
 jp.gamesindustry.biz##.banner_rectangle
 jp.gamesindustry.biz##.middle_section
 jp.wazap.com##.bodyFootBanner
