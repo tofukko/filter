@@ -2081,6 +2081,8 @@ meitou.info###aside
 meitou.info##[href^="https://amzn.to/"], [href^="https://www.amazon.co.jp/"]
 meitou.info##[href^="https://amzn.to/"] + small
 mens-ex.jp##.m-tieupRecommend
+mens-modern.jp##[style="height:90px; width:728px;"]
+mens-modern.jp##[style="min-height: 320px;"]
 merkmal-biz.jp##aside.box[style="min-height:900px"]
 mi-mollet.com##.ad-bnr
 mi-mollet.com###MM_PC_rectangle_1st
