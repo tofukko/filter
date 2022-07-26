@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/07/20 20:17
+! 最終更新 2022/07/26 10:39
 !
 
 !2021/07/02
@@ -3273,8 +3273,6 @@ jav.guru##.alignnone
 2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##+js(nostif, floatingAd)
 
 !g --- manga --- !
-! ?
-/^https:\/\/[0-9a-z]{7,21}\.com\/[a-z]{4}\/[0-9a-z]{9}\/[0-9]{7}\/[a-z]{2}\.js$/$script,third-party
 /prebidlink/*
 /api/spots/*&ev$script
 /api/spots/*?s1=%$script
