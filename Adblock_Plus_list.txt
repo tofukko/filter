@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/07/26 10:39
+! 最終更新 2022/08/01 18:30
 !
 
 !2021/07/02
@@ -739,7 +739,6 @@ _ads.js.
 /accek.js
 /access.aspx?
 /access.cgi
-/access.js
 /access.php
 /access_check.cgi?
 /access?
@@ -4593,8 +4592,6 @@ ashemaletube.com##+js(aopr, open)
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
-	! https://github.com/tofukko/filter/issues/51
-@@||expocity-mf.com/expo/js/access.js$script,domain=expocity-mf.com
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
         ! https://github.com/tofukko/filter/issues/74
@@ -4700,8 +4697,6 @@ ashemaletube.com##+js(aopr, open)
 @@||log000.goo.ne.jp/gcgw.js$script,domain=nttxstore.jp
 	! https://github.com/uBlockOrigin/uAssets/issues/10790
 @@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
-	!ランキングは消さないでおこう
-@@||moeeki.net/cgi-bin/accessmoe/access.js$domain=moeeki.net
 	! https://github.com/tofukko/filter/issues/53
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js$script,domain=nittsu.com
 	! https://github.com/easylist/easylist/pull/8202
