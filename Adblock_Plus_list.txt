@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/08/01 18:30
+! 最終更新 2022/08/02 20:26
 !
 
 !2021/07/02
@@ -4695,6 +4695,8 @@ ashemaletube.com##+js(aopr, open)
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 	! https://github.com/tofukko/filter/issues/56
 @@||log000.goo.ne.jp/gcgw.js$script,domain=nttxstore.jp
+        ! https://github.com/tofukko/filter/issues/76
+@@||mangazenkan.com/api/v2/product/accesslog/$xmlhttprequest,domain=mangazenkan.com
 	! https://github.com/uBlockOrigin/uAssets/issues/10790
 @@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
 	! https://github.com/tofukko/filter/issues/53
