@@ -8,10 +8,6 @@
 !2021/07/02
 ||adimg.net^
 
-!2022/05/01 2022年8月1日（月）13:00 サービス終了
-!https://www.teacup.com/information/view?id=243
-teacup.com#?#center:-abp-has(img[src^="//adimg.teacup.com/"])
-
 !2022/05/23 2023年1月31日 ウェブリブログ終了
 !https://info.at.webry.info/
 	! https://github.com/tofukko/filter/issues/42
