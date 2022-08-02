@@ -4695,7 +4695,7 @@ ashemaletube.com##+js(aopr, open)
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 	! https://github.com/tofukko/filter/issues/56
 @@||log000.goo.ne.jp/gcgw.js$script,domain=nttxstore.jp
-        ! https://github.com/tofukko/filter/issues/76
+	! https://github.com/tofukko/filter/issues/76
 @@||mangazenkan.com/api/v2/product/accesslog/$xmlhttprequest,domain=mangazenkan.com
 	! https://github.com/uBlockOrigin/uAssets/issues/10790
 @@||mistore.jp*/content/dam/isetan_mitsukoshi/advertise/$~third-party
