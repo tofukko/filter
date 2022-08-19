@@ -3434,6 +3434,7 @@ www.nicovideo.jp###web_pc_footer
 www.nicovideo.jp##.Ads728x90WebPcFooter
 www.nicovideo.jp##.AuroraVisionContainer-ad
 www.nicovideo.jp##.banner
+www.nicovideo.jp##.HeaderContainer-ad
 www.nicovideo.jp##.HeaderContainer_Re-ad
 www.nicovideo.jp#?#.mb8p4:-abp-has(> #web_pc_prime)
 www.nicovideo.jp##.PcUniTop350x240MiddleEastAdContainer
