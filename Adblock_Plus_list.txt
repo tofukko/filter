@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/08/25 12:47
+! 最終更新 2022/08/27 10:20
 !
 
 !2021/07/02
@@ -4879,8 +4879,8 @@ gato.intaa.net##.adwidget
 
 ! helpsupport.blog.fc2.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81515
-helpsupport.blog.fc2.com##body > div[id]:empty
-@@||blog-imgs-148-origin.fc2.com/h/e/l/helpsupport/googleads.html$subdocument,domain=helpsupport.blog.fc2.com
+helpsupport.blog.fc2.com###container:style(display: block !important;)
+helpsupport.blog.fc2.com###topview
 
 ! investing.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10098
