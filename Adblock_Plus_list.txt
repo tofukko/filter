@@ -2075,6 +2075,7 @@ matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
 mbs.jp##.ad
 mbs.jp##.ad-component
+mcsg.co.jp##p[style="color: #666; text-align: center;"]
 mdpr.jp##.c-adBottomOverlay
 meaning.jp##.l-contentsSub > .u-mb-10
 medibang.com###content:style(padding-bottom: 394px !important;)
