@@ -3330,6 +3330,7 @@ jav.guru##.alignnone
 ||exmarketplace.com^$third-party
 ||pubfuture.com^$third-party
 ||your-notice.com^
+||mgid.com^$third-party
 ! mangaraw.co
 ||hooliganmedia.com^
 ||i0.wp.com/japannews.info/
