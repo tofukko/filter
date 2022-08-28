@@ -2395,6 +2395,8 @@ shogi-sanpo.com##.h_280
 shogi-sanpo.com##.h260
 shogi-sanpo.com##.height280
 shogi-sanpo.com##.tac.mb30
+shuchi.php.co.jp##.tac
+shuchi.php.co.jp##[style="height: 600px;"]
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sirabee.com###rectangle
 sirogohan.com##.ad-halfwrap
