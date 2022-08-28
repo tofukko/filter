@@ -2515,6 +2515,9 @@ tsumanne.net###cm
 tv-asahi.co.jp###rectangle-desktop
 tv-asahi.co.jp##.common-header-pc-v2__commonHeader--koWP-:style(padding-top: 0 !important)
 tv-asahi.co.jp##.init-ad
+tv-tokyo.co.jp##.rectangle
+tv-tokyo.co.jp##.tbcms_ad-block
+tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
 tvlife.jp###tvl_pc_article_footer
 tvlife.jp##[id^="tvl_pc_all_"]
 twilog.org##[style^="height:250px"]
