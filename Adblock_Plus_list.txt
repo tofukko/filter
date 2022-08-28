@@ -2362,6 +2362,7 @@ ryutsuu.biz##[class^="side-adarea"]
 saga-s.co.jp##.m-ad
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
+sanabo.com##.add
 sanspo.com##.article__inline-ad
 sanyonews.jp##.ad_space
 say-move.org###my_navigation:style(padding-top: 10px !important)
