@@ -1716,6 +1716,7 @@ ginzamag.com##.banner
 ginzamag.com##.gnz-top-banner
 ginzamag.com##[id^="gn_pc-"][id$="_billboard"]
 ginzamag.com##[id^="gn_pc-"][id$="_jack_header"]
+gizmodo.jp##.ad-banner
 gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
