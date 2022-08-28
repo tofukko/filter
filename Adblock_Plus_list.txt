@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/08/27 10:20
+! 最終更新 2022/08/28 14:38
 !
 
 !2021/07/02
@@ -1459,6 +1459,8 @@ cat.sc##.adsense
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
 ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
+cgworld.jp##.banner
+cgworld.jp##.banner_special_content
 chanto.jp.net###cha_pc_all_header
 charmer-media.com,elife-media.jp,firststyle.jp,frequ.jp,miima.jp,platabi.com,trip-partner.jp,vivre-media.jp##.my-1
 chat.shalove.net##.ad
@@ -3037,6 +3039,7 @@ www.ocn.ne.jp##.banner
 ##.sleeping-ads
 ##.insentence-adsense
 ##.insentense-adsense
+anond.hatelabo.jp##.ad-in-entry-block
 anond.hatelabo.jp,hatena.ne.jp##.double-rectangle
 hatenanews.com##.ads-250
 a.hatena.ne.jp##.side-ad
