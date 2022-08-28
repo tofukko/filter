@@ -3144,6 +3144,9 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.co.jp/css/sa.js
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
+atmarkit.itmedia.co.jp###globalHeaderMiddle
+atmarkit.itmedia.co.jp###header_ad
+atmarkit.itmedia.co.jp###ITN
 nlab.itmedia.co.jp###globalHeader
 nlab.itmedia.co.jp##.bannar
 nlab.itmedia.co.jp##.headerbannar
