@@ -3589,6 +3589,7 @@ recipe.rakuten.co.jp##.field_search__reccomend
 recipe.rakuten.co.jp##.ranking_recommend_recipe
 recipe.rakuten.co.jp##.recommend_official_recipe
 recipe.rakuten.co.jp##.section_common_banner
+recipe.rakuten.co.jp##.under_header_contents
 websearch.rakuten.co.jp###ads-billboard
 
 	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment875
