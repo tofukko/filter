@@ -1775,6 +1775,7 @@ hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not
 himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
 himado.in##.l-cnt-100:style(width: 100% !important;)
+hinokoto.com##.colblockblank
 hominis.media##.ad
 hinata.me##[class^="articleId__AdWrapper-"]
 hinative.com##.mod_ads_trek_balloon
