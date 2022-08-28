@@ -474,7 +474,6 @@ _ads.js.
 ||gwallet.com^$third-party
 ||hentaigold.net^$third-party
 ||iwanttodeliver.com^$third-party
-||jads.co^$third-party
 ||liveadexchanger.com^$third-party
 ||m2pub.com^$third-party
 ||madadsmedia.com^$third-party
@@ -3338,6 +3337,10 @@ jav.guru##.alignnone
 ||pubfuture.com^$third-party
 ||your-notice.com^
 ||mgid.com^$third-party
+||byambipoman.com^
+||goomaphy.com^
+||jads.co^
+||mhuvmleot.com^
 ! mangaraw.co
 ||hooliganmedia.com^
 ||i0.wp.com/japannews.info/
