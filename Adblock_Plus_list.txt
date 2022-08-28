@@ -1874,6 +1874,9 @@ jisin.jp##.add_left
 jisin.jp##.add_right
 jisin.jp###wrap:style(width: unset !important;)
 jitenon.jp##.ads_wraptop2
+jm1xtk.com##.main-bottom-pc_ad
+jm1xtk.com##.side_ad
+jm1xtk.com##.web_adber-1
 jma.go.jp,jma-net.go.jp##.ad-pc
 jma.go.jp,jma-net.go.jp##.adClear
 jmty.jp##.p-adsense-list-right-column-high-block
