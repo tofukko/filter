@@ -2263,6 +2263,7 @@ parlourfullslotl.com###scrollad
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has(> a[href^="https://www.amazon.co"])
 pashplus.jp##.google_ads
 pashplus.jp##.single_bnr_wrap
+paso-kake.com##.st-eyecatch
 pc-karuma.net##.ads-widget
 pctrouble.net##.ads
 peko-step.com###cgrig_base_pic:style(grid-auto-rows: auto !important;)
