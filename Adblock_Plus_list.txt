@@ -1699,6 +1699,11 @@ getnews.jp###rightColumn > .widget_text:first-child
 getnews.jp###resp_article_undertitle
 getnews.jp###resp_article_underarticle
 getnews.jp##.bal_insert_ad
+	conveni.getnews.jp##.ad-pc-article-ander
+	conveni.getnews.jp##.ad-pc-top
+	conveni.getnews.jp###jp_cgn_pc_all_right_1st
+	conveni.getnews.jp###jp_cgn_pc_article_header
+	conveni.getnews.jp###jp_cgn_pc_article_inarticle
 gigafile.nu##[class*=banner_type_]
 gigafree.net##.above-caption
 gigafree.net##.bottombox > .bottombox
