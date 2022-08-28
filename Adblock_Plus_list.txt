@@ -1696,6 +1696,8 @@ getchu.com##.banner
 getnavi.jp##.ad
 getnews.jp###leftColumn > .widget_text:first-child
 getnews.jp###rightColumn > .widget_text:first-child
+getnews.jp###resp_article_undertitle
+getnews.jp###resp_article_underarticle
 getnews.jp##.bal_insert_ad
 gigafile.nu##[class*=banner_type_]
 gigafree.net##.above-caption
