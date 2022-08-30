@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/08/28 14:38
+! 最終更新 2022/08/30 16:12
 !
 
 !2021/07/02
@@ -2045,7 +2045,7 @@ manga-zero.com##.canvas-wrapper:style(position: static !important;width: auto !i
 manga-zero.com##.viewer-canvas > div:style(height: 100% !important;)
 manga-zero.com##.canvas:style(width: auto !important;)
 mangabank.org##+js(acis, document.querySelectorAll, popMagic)
-mangacross.jp###top-component > [style^="background: rgb(255, 255, 255) none repeat scroll 0% 0%;"]
+mangacross.jp###top-component > [style="background: rgb(255, 255, 255); height: 115px; padding-bottom: 15px;"]
 mangacross.jp##.ad-box
 mangahack.com##[class^="ad_"]
 mangalove.me##.lastInterstitial
