@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/08/30 16:12
+! 最終更新 2022/08/31 19:09
 !
 
 !2021/07/02
@@ -4863,6 +4863,10 @@ coron.tech##.center > a[href^="https://amzn.to/"]
 connect.coron.tech##div[style="margin:0 auto;margin-top:2px;min-height:95px;text-align:center;"]
 connect.coron.tech###main .center[style*="min-height:"]
 connect.coron.tech###sub div[style$="text-align:center;"]
+
+! crazygames.com
+! https://github.com/tofukko/filter/issues/77
+@@||wafvertizing.crazygames.com/prebid.js$script,domain=crazygames.com
 
 ! crefan.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81505
