@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/09/08 12:46
+! 最終更新 2022/09/13 11:21
 !
 
 !2021/07/02
@@ -1408,7 +1408,8 @@ bioweather.net##.ad
 bizspa.jp###innerAdsense
 bizspa.jp##.ad-wrap
 bizspa.jp##.page-ad-wrap
-blog.esuteru.com,otakomu.jp#?##more > blockquote:not(:first-of-type):-abp-has([href*="amazon.co"])
+blog.esuteru.com##.azrank_quote
+blog.esuteru.com,otakomu.jp#?##more > blockquote:nth-of-type(n+2):-abp-has([href*="amazon.co"])
 blog.esuteru.com,otakomu.jp#?##more > center:-abp-has([href*="mcgm.sakura.ne.jp"])
 blog.esuteru.com,otakomu.jp##.amazlet-box
 blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
