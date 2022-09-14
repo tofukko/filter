@@ -2180,6 +2180,9 @@ news.ntv.co.jp##.header-publicity
 news.shitaraba.net##.sidebar_ad
 news.tbs.co.jp##.cp-pcAd
 news.tbs.co.jp##.cp-spAd
+news-postseven.com##.su-modal
+news-postseven.com##body[style^="overflow:"]:style(overflow: auto!important)
+news-postseven.com##div[style*="min-height: 250px"]
 news24.jp###adText01
 newser.cc##.ad
 newswitch.jp##.banner-top
