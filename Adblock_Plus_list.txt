@@ -1717,6 +1717,8 @@ ginzamag.com##.banner
 ginzamag.com##.gnz-top-banner
 ginzamag.com##[id^="gn_pc-"][id$="_billboard"]
 ginzamag.com##[id^="gn_pc-"][id$="_jack_header"]
+girlswalker.com##.ad_common_header_for_pc
+girlswalker.com##[class^="dfp_"]
 gizmodo.jp##.ad-banner
 gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
