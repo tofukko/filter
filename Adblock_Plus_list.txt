@@ -4947,6 +4947,10 @@ investing.com##.midHeader
 investing.com##.rightColumnAd
 investing.com##div[class^="ad_"]
 
+! manga1001.vip
+! https://github.com/AdguardTeam/AdguardFilters/issues/129121
+@@||cdn.adschill.com/*/unit/*.js$domain=manga1001.vip
+
 ! modalina.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/85641
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
