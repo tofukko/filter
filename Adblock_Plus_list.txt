@@ -3618,6 +3618,7 @@ dic.pixiv.net##.d_header
 ||websearch.rakuten.co.jp/elog?
 ##form[action*="afl.rakuten.co.jp"]
 plaza.rakuten.co.jp###commonAdsParts
+plaza.rakuten.co.jp#?##content-sticky > table[width="330px"]:-abp-has(.side_title:-abp-contains(/^PR$/))
 recipe.rakuten.co.jp##.box_banner--top
 recipe.rakuten.co.jp##.field_search__reccomend
 recipe.rakuten.co.jp##.ranking_recommend_recipe
