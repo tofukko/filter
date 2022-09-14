@@ -4043,7 +4043,9 @@ komachi.yomiuri.co.jp##[class^="p-ad_"]
 !OTEKOMACHI
 otekomachi.yomiuri.co.jp##.p-ads-middle-rec
 otekomachi.yomiuri.co.jp##[id^="ad_gam_"]
-
+!ヨミドクター
+yomidr.yomiuri.co.jp##[id^="ad_dfp_"]
+yomidr.yomiuri.co.jp##.thumbnail-ad
 
 
 ! --- amazon --- !
