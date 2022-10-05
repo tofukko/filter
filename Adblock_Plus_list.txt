@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/09/18 23:48
+! 最終更新 2022/10/05 9:09
 !
 
 !2021/07/02
@@ -2534,6 +2534,7 @@ tv-tokyo.co.jp##.tbcms_ad-block
 tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
 tvlife.jp###tvl_pc_article_footer
 tvlife.jp##[id^="tvl_pc_all_"]
+twilog.org###ad-main-top
 twilog.org##[style^="height:250px"]
 twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
 twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
