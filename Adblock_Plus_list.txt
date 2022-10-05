@@ -2485,11 +2485,6 @@ telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
 tg-uchi.jp##.topicBanner
 thetv.jp##.ad
-traicy.com##.pc-ad
-traicy.com##.pc-ad-wide
-travelbook.co.jp##.adsense
-tripadvisor.jp##.ad
-tvlife.jp##.ad
 timeout.jp##.ad-mpu
 timeout.jp##[id^="ad-promo-"]
 timeout.jp##[id^="ad-side-"]
@@ -2523,6 +2518,10 @@ touhouyaruosure.com##[style="margin:0;padding:5px;font-size:12px;word-break: bre
 touken-world.jp##.pr_bnr_contents_block
 toyokeizai.net###trend-library
 tozanchannel.blog.jp##div[style^="text-align: center; margin-bottom:"]
+traicy.com##.pc-ad
+traicy.com##.pc-ad-wide
+travelbook.co.jp##.adsense
+tripadvisor.jp##.ad
 tsuiran.jp##article:not([id]):not([class])
 tsumanne.net###amazon
 tsumanne.net###cm
@@ -2532,7 +2531,10 @@ tv-asahi.co.jp##.init-ad
 tv-tokyo.co.jp##.rectangle
 tv-tokyo.co.jp##.tbcms_ad-block
 tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
+tver.jp##[class^="floating-companion-ad-slot_host__"]
+tver.jp##[class^="two-column_companionAd__"]
 tvlife.jp###tvl_pc_article_footer
+tvlife.jp##.ad
 tvlife.jp##[id^="tvl_pc_all_"]
 twilog.org###ad-main-top
 twilog.org##[style^="height:250px"]
