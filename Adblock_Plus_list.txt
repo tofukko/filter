@@ -4788,6 +4788,8 @@ ashemaletube.com##+js(aopr, open)
 @@||stats.g.doubleclick.net/dc.js$domain=chintaistyle.jp
 	! https://github.com/tofukko/filter/issues/37
 @@||strpf.net/ad/$xmlhttprequest,domain=big-up.style
+	! https://github.com/AdguardTeam/AdguardFilters/issues/131633
+@@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
 	!https://tabelog.com/tokyo/map/ お店のリストと地図が出ない
 @@||tblg.k-img.com/javascripts/modules/rst/analytics.js$script,domain=tabelog.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/104430
