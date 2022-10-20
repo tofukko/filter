@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/10/08 15:34
+! 最終更新 2022/10/20 19:10
 !
 
 !2021/07/02
@@ -3933,6 +3933,7 @@ movies.yahoo.co.jp###ad-lrec
 movies.yahoo.co.jp##[class^="overlay-ad_"]
 news.yahoo.co.jp##.adWrap
 search.yahoo.co.jp##.Ad
+soccer.yahoo.co.jp##.sc-lrec
 sports.yahoo.co.jp##.yf-lrec
 weather.yahoo.co.jp##.ad-frame-fix
 
@@ -3967,6 +3968,15 @@ weather.yahoo.co.jp##.ad-frame-fix
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
 	! https://github.com/tofukko/filter/issues/57
 @@||s.yimg.jp/images/news-web/all/images/jsonld_image_300x250.png$image,domain=news.yahoo.co.jp
+
+	! http://jbbs.shitaraba.net/bbs/read.cgi/internet/24461/1510462016/466
+@@||s.yimg.jp/images/advertising/*$script,domain=baseball.yahoo.co.jp
+@@||s.yjtag.jp/tag.js$script,domain=baseball.yahoo.co.jp
+@@||yads.c.yimg.jp/uadf/yads_vimps.js$script,domain=baseball.yahoo.co.jp
+! この2つは無くても表示されるがたまに表示されない
+! あっても表示されない時があるが、無いときよりは確率が低いような？
+@@||im.ov.yahoo.co.jp/tag/?adprodset=$script,domain=baseball.yahoo.co.jp
+@@||yads.yjtag.yahoo.co.jp/tag$script,domain=baseball.yahoo.co.jp
 
 !worker bee
 ||games.wkb.jp/html5games/play/jewelexplode/ads-
