@@ -3504,6 +3504,7 @@ live.nicovideo.jp###footer-ad
 live.nicovideo.jp###middle-ad
 live.nicovideo.jp###header-ad
 live.nicovideo.jp##.kokoku
+live.nicovideo.jp##[class^="___ad-banner___"]
 live.nicovideo.jp##[class^="___billboard-ad___"]
 live.nicovideo.jp##[class^="___banner-ad___"]
 live.nicovideo.jp##[class^="___player-ad-panel___"]
