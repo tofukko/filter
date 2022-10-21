@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/10/20 19:10
+! 最終更新 2022/10/21 16:45
 !
 
 !2021/07/02
@@ -4658,6 +4658,10 @@ ashemaletube.com##+js(aopr, open)
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
+	! https://github.com/AdguardTeam/AdguardFilters/issues/132525
+@@||fundingchoicesmessages.google.com^$domain=rocketnews24.com
+@@||pagead2.googlesyndication.com/pagead/$script,domain=rocketnews24.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=rocketnews24.com
         ! https://github.com/tofukko/filter/issues/74
 @@||gaming-city.com/images/ads/$image,domain=gaming-city.com
 	! https://github.com/tofukko/filter/issues/18
@@ -4693,8 +4697,6 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$domain=onlineshop.ocn.ne.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
-	! 画像
-@@||googletagmanager.com/gtm.js$script,domain=rocketnews24.com
 	! https://github.com/hirorpt/filters/commit/5b41ca5e9a58de697459ef5c98132f131e887c15
 @@||googletagmanager.com/gtm.js$script,domain=stage.parco.jp
 	! https://github.com/tofukko/filter/issues/40
