@@ -4565,7 +4565,6 @@ ashemaletube.com##+js(aopr, open)
 !------------------------ホワイトリスト------------------------!
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 ||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 
 ||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js
 
@@ -5051,6 +5050,11 @@ wowgame.jp##[style="width:300px; height:250px;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81308
 @@||fundingchoicesmessages.google.com^$script,domain=youpouch.com
 @@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/132814
+@@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=youpouch.com
+@@||securepubads.g.doubleclick.net/gampad/ads?$xhr,domain=youpouch.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=youpouch.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=youpouch.com
 
 !-------------------Mobile用(オマケ)---------------------!
 !n
