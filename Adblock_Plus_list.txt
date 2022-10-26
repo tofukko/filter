@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/10/21 18:45
+! 最終更新 2022/10/26 10:20
 !
 
 !2021/07/02
@@ -960,7 +960,6 @@ _analytics.js?
 ||mmismm.com^$third-party
 ||mobylog.jp^$third-party
 ||mybloglog.com^$third-party
-||nakanohito.jp^$third-party
 ||ninki.net^$third-party
 ||noface.jp^$third-party
 ||nowvisitors.com^$third-party
@@ -4584,6 +4583,7 @@ ashemaletube.com##+js(aopr, open)
 @@||api.cxense.com/document/search?$script,xmlhttprequest
 
 ! nakanohito
+||nakanohito.jp^$third-party
 ! https://github.com/easylist/easylist/issues/7760
 @@||cm-beacon.nakanohito.jp/at/ranking/$script
 @@||cm-beacon.nakanohito.jp/cm/comment_$xmlhttprequest
@@ -4592,6 +4592,12 @@ ashemaletube.com##+js(aopr, open)
 @@||cm-widget.nakanohito.jp/img/$image
 @@||support-beacon.nakanohito.jp/widget/$xmlhttprequest
 @@||support-widget.nakanohito.jp/chatbot$script,stylesheet
+
+! solty.biz
+||solty.biz^$third-party
+! ブログパーツ
+@@||rss.solty.biz/
+@@||solty.biz/blogparts/
 
 ! 47club.jp
 ! https://github.com/tofukko/filter/issues/29
@@ -4781,8 +4787,6 @@ ashemaletube.com##+js(aopr, open)
 @@||pointi.jp^$generichide
 @@||pointservice.com^$generichide
 @@||rd.yahoo.co.jp/jpr_sports/sumo_pickup/$image,domain=sports.yahoo.co.jp
-	! ||solty.biz^$third-party
-@@||rss.solty.biz/
 	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
 @@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
 @@||rtoaster.jp^$script,domain=www.kanaloco.jp
