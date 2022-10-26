@@ -5052,9 +5052,9 @@ wowgame.jp##[style="width:300px; height:250px;"]
 @@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/132814
 @@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=youpouch.com
-@@||securepubads.g.doubleclick.net/gampad/ads?$xhr,domain=youpouch.com
+@@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=youpouch.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=youpouch.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=youpouch.com
 
 !-------------------Mobile用(オマケ)---------------------!
 !n
