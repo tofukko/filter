@@ -4383,9 +4383,14 @@ majikichi.com##^#left_menu
 /stattracker-
 ||doublepimp.com^
 ||etahub.com^$third-party
+##.adsbytrafficjunky
 
+pornhub.com##.sniperModeEngaged
 redtube.com,redtube.com.br,redtube.net,youporngay.com###pb_block
 pornhub-com.appspot.com,pornhub.com,pornhub.net,pornhubthbh7ap3u.onion,youporn.com###pb_template
+daftsex.com,pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
+pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjunky.net/"]
+pornhub.com,pornhubpremium.com,redtube.com##a[href^="https://ads.trafficjunky.net/"]
 
 ! pornhub
 ! https://github.com/NanoMeow/QuickReports/issues/144
