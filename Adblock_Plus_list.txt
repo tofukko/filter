@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/10/26 10:20
+! 最終更新 2022/10/28 20:06
 !
 
 !2021/07/02
@@ -2359,11 +2359,11 @@ ryukyushimpo.jp##.pc-ad-srv
 ! https://ryukyushimpo.jp/style/
 ryukyushimpo.jp##[class*="c_ads_google"]
 ryusoku.com##.ads
-ryutsuu.biz###adText
-ryutsuu.biz##.home-main-ad
-ryutsuu.biz##.main-ad
-ryutsuu.biz##.singleAd
-ryutsuu.biz##[class^="side-adarea"]
+ryutsuu.biz##.header-main-banner
+ryutsuu.biz##.single-pc-advertisement
+ryutsuu.biz##.space-250
+ryutsuu.biz##.space-60
+ryutsuu.biz##.space-90
 saga-s.co.jp##.m-ad
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
