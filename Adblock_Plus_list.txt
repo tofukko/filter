@@ -1724,6 +1724,10 @@ glosbe.com###topBannerContainer
 glosbe.com##.right-sidebar-ads-container
 gogo.gs##.ad
 gogo.gs##.ad3
+golfdigest.co.jp###adsYahoo
+golfdigest.co.jp###before-container
+golfdigest.co.jp##.allyanceAd
+	lesson.golfdigest.co.jp,score.golfdigest.co.jp###wholeHeaderPane:style(height: auto !important;)
 golfsapuri.com##.sideBanner2:first-child
 golfsapuri.com##div[style="width: 100%; text-align: center;margin-top:5px;height:250px;"]
 google.com,google.co.jp###mbEnd
