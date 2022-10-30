@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/10/28 20:06
+! 最終更新 2022/10/30 21:05
 !
 
 !2021/07/02
@@ -2347,7 +2347,6 @@ repeat-drama.info##.ad
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
 reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
-rocketnews24.com##.ad
 rollingstonejapan.com##.addHead
 rollingstonejapan.com##.addSide
 rollingstonejapan.com##.articleDetailAdd
@@ -4672,10 +4671,6 @@ ashemaletube.com##+js(aopr, open)
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
-	! https://github.com/AdguardTeam/AdguardFilters/issues/132525
-@@||fundingchoicesmessages.google.com^$script,domain=rocketnews24.com
-@@||pagead2.googlesyndication.com/pagead/$script,domain=rocketnews24.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=rocketnews24.com
         ! https://github.com/tofukko/filter/issues/74
 @@||gaming-city.com/images/ads/$image,domain=gaming-city.com
 	! https://github.com/tofukko/filter/issues/18
@@ -5025,6 +5020,19 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 ! nazolog.com
 	!nazolog.com#@#.adsbygoogle
 
+! rocketnews24.com
+! youpouch.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/132525
+! https://github.com/AdguardTeam/AdguardFilters/issues/81308
+@@||fundingchoicesmessages.google.com^$script,domain=youpouch.com|rocketnews24.com
+@@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com|rocketnews24.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/132814
+@@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=youpouch.com|rocketnews24.com
+@@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com|rocketnews24.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=youpouch.com|rocketnews24.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=youpouch.com|rocketnews24.com
+rocketnews24.com,youpouch.com##.ads-relatedbottom
+
 ! savevideo.me
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
 ||acdcdn.com^
@@ -5055,15 +5063,6 @@ totv.org###ad
 wowgame.jp##[style="width:300px; height:250px;"]
 @@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
-! youpouch.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/81308
-@@||fundingchoicesmessages.google.com^$script,domain=youpouch.com
-@@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/132814
-@@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=youpouch.com
-@@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=youpouch.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=youpouch.com
 
 !-------------------Mobile用(オマケ)---------------------!
 !n
