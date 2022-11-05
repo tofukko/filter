@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/10/30 21:05
+! 最終更新 2022/11/05 12:29
 !
 
 !2021/07/02
@@ -5043,16 +5043,17 @@ savevideo.me##+js(acis, $, banner)
 ||realtime-chart.info/-$subdocument,domain=sekai-kabuka.com
 ||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
 sekai-kabuka.com###neko_ad
-sekai-kabuka.com###link_url_td > div:last-of-type
-sekai-kabuka.com###link_url_td > a[href^="https://bit.ly/"]
-sekai-kabuka.com###く遶くoﾞ:style(height: 0 !important;)
-sekai-kabuka.com##.tb-r2 > table > tbody > tr > td:not([valign="top"])
+sekai-kabuka.com###弑狎潯襃踵ﾉ誅歸夂赳II:style(height: 0px !important;)
+sekai-kabuka.com##ins.adsbygoogle:style(display: block !important;)
+sekai-kabuka.com##.縲くI鈕ﾟ裃蔡顋l號橸1.侈掀ﾛ仂l俛幟緕筺鳰ll
+sekai-kabuka.com##td > div[style="width:0;height:0;position:absolute;"]
+sekai-kabuka.com###漓l澡袤l艱臉ﾛl梃ﾛ
 realtime-chart.info###neko_ad
-realtime-chart.info###neko_ad + a
-realtime-chart.info###neko_ad + a + a
-realtime-chart.info###孥ﾞl.孥ﾞl > .news_l
-realtime-chart.info##.amasearch
-realtime-chart.info##body > div > div:first-child td:not(:nth-of-type(2))
+realtime-chart.info##div#謌ｰ窗ｰ1訥們ﾆ鑁吝鯒l
+!news
+realtime-chart.info##a[href="https://donation.yahoo.co.jp/search?query=%E7%8C%AB"]
+realtime-chart.info##.amazonsearch
+realtime-chart.info##.瓷估0吼价覿歐笂l亠II
 
 ! totv.org
 ! https://github.com/uBlockOrigin/uAssets/issues/8461
