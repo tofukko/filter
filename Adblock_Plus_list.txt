@@ -2039,6 +2039,7 @@ maidonanews.jp##.module-list-articles__ad
 maidonanews.jp##.module-list-articles__item--ad
 mainichi.jp##.ad-side-1
 making.pipa.jp##.NoFrame.RelatedWorkRight
+makitani.net##.ablock
 mamadays.tv##[class*="_ads__"]
 mamadays.tv##[class^="style_ad_"]
 mamagirl.jp##.p-ad
@@ -4697,6 +4698,8 @@ ashemaletube.com##+js(aopr, open)
 @@||googletagmanager.com/gtm.js$script,domain=junonline.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/78329
 @@||googletagmanager.com/gtm.js$script,domain=kakuyomu.jp
+        ! https://github.com/tofukko/filter/issues/78
+@@||googletagmanager.com/gtm.js$script,domain=makitani.net
 	! https://github.com/tofukko/filter/issues/48
 @@||googletagmanager.com/gtm.js$script,domain=mangaseek.net
 	! ユーザーローカルAIコメント
