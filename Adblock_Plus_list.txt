@@ -5055,6 +5055,12 @@ realtime-chart.info##a[href="https://donation.yahoo.co.jp/search?query=%E7%8C%AB
 realtime-chart.info##.amazonsearch
 realtime-chart.info##.瓷估0吼价覿歐笂l亠II
 
+! ssbsblg.blogspot.com
+! https://github.com/uBlockOrigin/uAssets/issues/15455
+@@*$xmlhttprequest,~third-party,domain=ssbsblg.blogspot.com
+ssbsblg.blogspot.com##.btmads
+ssbsblg.blogspot.com##.sponserd
+
 ! totv.org
 ! https://github.com/uBlockOrigin/uAssets/issues/8461
 totv.org###ad
