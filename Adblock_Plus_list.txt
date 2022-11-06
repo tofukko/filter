@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/11/05 18:49
+! 最終更新 2022/11/06 9:13
 !
 
 !2021/07/02
@@ -5055,11 +5055,9 @@ savevideo.me##+js(acis, $, banner)
 ||realtime-chart.info/-$subdocument,domain=sekai-kabuka.com
 ||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
 sekai-kabuka.com###neko_ad
-sekai-kabuka.com###弑狎潯襃踵ﾉ誅歸夂赳II:style(height: 0px !important;)
-sekai-kabuka.com##ins.adsbygoogle:style(display: block !important;)
-sekai-kabuka.com##.縲くI鈕ﾟ裃蔡顋l號橸1.侈掀ﾛ仂l俛幟緕筺鳰ll
-sekai-kabuka.com##td > div[style="width:0;height:0;position:absolute;"]
-sekai-kabuka.com###漓l澡袤l艱臉ﾛl梃ﾛ
+sekai-kabuka.com##[onmousemove="on_lx_bar();"] + hr ~ div:style(height: 1px !important;background: none !important;)
+sekai-kabuka.com##[style*="background:#000;"][style*="width:729px;"][style*="height: 90px;"]:style(height: 1px !important;background: none !important;)
+sekai-kabuka.com##div[data-ih*="広告"][style*="background:"]
 realtime-chart.info###neko_ad
 realtime-chart.info##div#謌ｰ窗ｰ1訥們ﾆ鑁吝鯒l
 !news
