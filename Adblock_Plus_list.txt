@@ -639,7 +639,6 @@ _ads.js.
 ||horne.red/banner/
 ||jalan.net/jalan/doc/top/js/randombanner.js
 ||japan.cnet.com/parts/frame/
-||japanese.engadget.com^$subdocument
 ||japanese.joins.com/HomeAds/
 ||jma.go.jp/bosai/ad/
 ||joysound.com/web/src/s/ad/
@@ -1851,10 +1850,6 @@ japan.techrepublic.com##.ad
 japan.zdnet.com##.ad_container
 japan-attractions.jp##.ad
 japandesign.ne.jp##.ad
-japanese.engadget.com###module-engadget-deeplink-top-ad
-japanese.engadget.com###taboola-below-article-thumbnails-2nd
-japanese.engadget.com##div.Mih\(250px\)
-japanese.engadget.com##div.Mih\(90px\)
 japanese.joins.com##.ad
 japanese.joins.com##.mainTopAd
 japanese.joins.com##.YahooAds
