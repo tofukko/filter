@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/11/06 9:13
+! 最終更新 2022/11/07 16:30
 !
 
 !2021/07/02
@@ -5033,7 +5033,7 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com|rocketnews24.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=youpouch.com|rocketnews24.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=youpouch.com|rocketnews24.com
-@@||tpc.googlesyndication.com/simgad/$image,domain=rocketnews24.com|youpouch.com
+@@||tpc.googlesyndication.com/simgad/$image,xmlhttprequest,domain=rocketnews24.com|youpouch.com
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 rocketnews24.com,youpouch.com##.ads-relatedbottom
 rocketnews24.com,youpouch.com##.ad300x250
