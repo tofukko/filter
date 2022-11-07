@@ -5052,8 +5052,8 @@ savevideo.me##+js(acis, $, banner)
 sekai-kabuka.com###neko_ad
 sekai-kabuka.com##td > div[style="width:0;height:0;position:absolute;"]
 sekai-kabuka.com##[onmousemove="on_lx_bar();"] + hr ~ div:style(height: 1px !important;background: none !important;)
-sekai-kabuka.com##[style*="background:#000;"][style*="width:729px;"][style*="height: 90px;"]:style(height: 1px !important;background: none !important;)
-sekai-kabuka.com##div[data-ih*="広告"][style*="background:"]
+sekai-kabuka.com##[style*="background:#000;"][style*="width:729px;"][style*="height: 90px;"]:style(height: 1px !important;background: none !important;overflow: hidden !important;z-index: -1 !important;)
+sekai-kabuka.com##div[data-ih*="広告"][style*="background:"]:style(overflow: hidden !important;z-index: -1 !important;)
 realtime-chart.info###neko_ad
 realtime-chart.info##div#謌ｰ窗ｰ1訥們ﾆ鑁吝鯒l
 !news
