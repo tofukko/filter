@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/11/07 16:30
+! 最終更新 2022/11/16 19:22
 !
 
 !2021/07/02
@@ -5050,10 +5050,9 @@ savevideo.me##+js(acis, $, banner)
 ||realtime-chart.info/-$subdocument,domain=sekai-kabuka.com
 ||xn--jx2a33n.com/nnn.js$domain=realtime-chart.info|sekai-kabuka.com
 sekai-kabuka.com###neko_ad
-sekai-kabuka.com##td > div[style="width:0;height:0;position:absolute;"]
-sekai-kabuka.com##[onmousemove="on_lx_bar();"] + hr ~ div:style(height: 1px !important;background: none !important;)
-sekai-kabuka.com##[style*="background:#000;"][style*="width:729px;"][style*="height: 90px;"]:style(height: 1px !important;background: none !important;overflow: hidden !important;z-index: -1 !important;)
-sekai-kabuka.com##div[data-ih*="広告"][style*="background:"]:style(overflow: hidden !important;z-index: -1 !important;)
+sekai-kabuka.com##[style*="background:#000;"][style*="width:729px;"][style*="height: 90px;"]:style(height: 1px !important;background: none !important;z-index: -1 !important;)
+sekai-kabuka.com##[style="position:relative;background:#000;width:729px;height: 90px;"]:style(position: static !important;)
+sekai-kabuka.com##[data-i4h]:style(z-index: -1 !important;)
 realtime-chart.info###neko_ad
 realtime-chart.info##div#謌ｰ窗ｰ1訥們ﾆ鑁吝鯒l
 !news
