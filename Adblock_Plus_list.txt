@@ -5040,7 +5040,8 @@ rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;hei
 rocketnews24.com,youpouch.com##.ads-relatedbottom
 rocketnews24.com,youpouch.com##[id^="google_ads_iframe_"]:style(height: 2px !important;min-height: 2px !important;z-index: -1 !important;)
 rocketnews24.com,youpouch.com##.ad300x250:style(height: 2px !important;min-height: 2px !important;z-index: -1 !important;)
-
+! https://github.com/uBlockOrigin/uBlock-issues/issues/1388
+@@||googletagmanager.com/gtm.js$script,redirect-rule,domain=rocketnews24.com
 
 ! savevideo.me
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
