@@ -667,6 +667,7 @@ _ads.js.
 	!minnano-av.com
 ||minnano-*.com/top_center_bn/
 ||mixi.jp^*/adnetwork/
+||mona-news.com/ad-*.js
 ||muragon.com/js/ad-fixed.js?
 ||muragon.com/js/replace-afp-ad.js?
 ||muvc.com/winopen.js$domain=muvc.net
@@ -4667,10 +4668,10 @@ ashemaletube.com##+js(aopr, open)
 @@||coremetrics.com*/eluminate.js
 	!商品タブの切替が出来ない
 @@||cs.nakanohito.jp^$domain=kenko-tokina.co.jp
-	! https://github.com/AdguardTeam/AdguardFilters/issues/134769
-@@||eisys-bcs.jp/data.json$domain=dlsite.com
 	!検索結果
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
+	! https://github.com/AdguardTeam/AdguardFilters/issues/134769
+@@||eisys-bcs.jp/data.json$domain=dlsite.com
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
         ! https://github.com/tofukko/filter/issues/74
