@@ -1468,6 +1468,10 @@ chat.shalove.net##.ad
 chat.shalove.net,skypemeet.net##.right_cont
 chat.shalove.net##[id].hearttext:style(display: inline !important;)
 chaturbate.com##.ad
+chekibbs.com##.bottombanner
+chekibbs.com##.resbanner
+chekibbs.com##.ressidebanner
+chekibbs.com##.sidebanner
 chikuwachan.com##.right_advs
 chisou-media.jp##.p-article div[style="min-height: 280px!important;min-width: 500px;"]
 chixi.jp##.homeRightTable3
