@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/11/17 12:00
+! 最終更新 2022/11/20 11:48
 !
 
 !2022/11/17
@@ -4539,11 +4539,11 @@ ashemaletube.com##+js(aopr, open)
 /^https?:\/\/[a-z]{8,15}\.xyz\/[a-z]{4,}\.png\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$image,third-party,match-case
 .top/event|$xmlhttprequest,third-party
 .xyz/event|$xmlhttprequest,third-party
-! __htas
-/^https?:\/\/[a-z]{6,14}\.com?\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
-/^https?:\/\/[a-z]{6,14}\.info\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
-/^https?:\/\/[a-z]{6,14}\.pro\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
-/^https?:\/\/[a-z]{6,14}\.xyz\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
+! hilltopads
+/^https?:\/\/[-a-z]{6,16}\.com?\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
+/^https?:\/\/[-a-z]{6,16}\.info\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
+/^https?:\/\/[-a-z]{6,16}\.pro\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
+/^https?:\/\/[-a-z]{6,16}\.xyz\/[acd][-\.\/_A-Za-z][DHWm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6wyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
 
 ! generic filters for revolving adservers
 /ntfc.php?$script
@@ -4555,7 +4555,8 @@ ashemaletube.com##+js(aopr, open)
 /pn07uscr/f/tr/zavbn/*$script,third-party
 /v2/a/push/js/*$script,third-party
 /sdk/push_web/?zid=$script,third-party
-/code/native.js?h=
+/code/native.js?h=$script
+/q/tdl/95/dnt/*$script,third-party
 
 ! Mostly taken from AG and seen on various NSFW sites
 /_a_ta/s/s/*
