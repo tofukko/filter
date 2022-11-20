@@ -1508,8 +1508,6 @@ cookpad.com##.ad_wrapper
 cookpad.com###sticky_reference_element
 coromoo.com##.affiliate
 coromoo.com##.amazon-link
-coron.tech###custom_html-5
-coron.tech#?#div[style]:not(#sidebar1):-abp-has(.adsbygoogle)
 corriente.top##.adbox
 corriente.top##.side_contents[style="margin-bottom: 35px;"]
 corriente.top##.sponsored-links
