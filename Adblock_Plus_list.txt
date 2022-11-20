@@ -5004,8 +5004,7 @@ motorsport.com##.ms-apb
 motorsport.com##.ms-hapb
 
 ! nordot.app
-nordot.app###js-ur
-nordot.app##.page__listPageAd
+nordot.app##.main__ad
 nordot.app##+js(acis, document.createElement, admiral)
 
 ! knshow.com
