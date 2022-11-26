@@ -3774,6 +3774,8 @@ tok2.com###tok2_footer
 ! mangalifewin
 ||mangalifewin.takeshobo.co.jp/usr-data/units/bJava/disp.php?
 mangalifewin.takeshobo.co.jp#?#[id^="unit-"]:-abp-has(> .bJava)
+! gammaplus
+@@||gammaplus.takeshobo.co.jp/img/ad/$image,domain=gammaplus.takeshobo.co.jp
 ! storia
 @@||storia.takeshobo.co.jp/img/ad/$image,domain=storia.takeshobo.co.jp
 storia.takeshobo.co.jp###r-googleads
