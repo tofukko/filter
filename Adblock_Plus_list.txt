@@ -2167,6 +2167,8 @@ mudainodocument.com##.adset-Cover
 mudainodocument.com##.article-body-inner [href^="https://px.a8.net/"]
 muragon.com##.footer-adarea
 muragon.com##[class^="adarea"]
+musmus.main.jp##div[class*="ad_"]
+musmus.main.jp##div[id^="sub_ad"]
 muvc.net##body > div[align="right"]:last-of-type
 myjitsu.jp##.ad-box
 myjitsu.jp##[id^=related-post-ad]
