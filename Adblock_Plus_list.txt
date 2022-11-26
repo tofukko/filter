@@ -677,6 +677,7 @@ _ads.js.
 ||muragon.com/js/replace-afp-ad.js?
 ||muvc.com/winopen.js$domain=muvc.net
 ||muvc.com/winlayer.jse$domain=muvc.net
+||news4wide.up.seesaa.net/image/loopad*$subdocument,domain=news4wide.net
 ||newsweekjapan.jp/images/bnr/newsweek_ad_
 ||nijie.info/js/ad.js?
 ||nijie.net/*/banner/
@@ -2197,6 +2198,7 @@ news-postseven.com##.su-modal
 news-postseven.com##body[style^="overflow:"]:style(overflow: auto!important)
 news-postseven.com##div[style*="min-height: 250px"]
 news24.jp###adText01
+news4wide.net##.wipe-ad-div-class
 newser.cc##.ad
 newswitch.jp##.banner-top
 newswitch.jp##[id^="JP_NS_PC_all_"]
