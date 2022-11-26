@@ -3417,20 +3417,25 @@ bbs4.mozakin.com###thread_index_adb > div[style]
 ||1pondo.tv^$domain=mozakin.com
  
 ! --- msn --- !
-||3lift.com^
+/display-ads-$domain=~google.co.uk|~google.com|~google.com.au
+##display-ads
 /c.gif?
-||browser.events.data.msn.com^
+||msn.com/onecollector/
 ||srtb.msn.com^
 ||vortex.data.microsoft.com^
+||ad-delivery.net^
+||monitor.azure.com^
+||events.statsigapi.net^
 msn.com##.ad
-msn.com##.ad-section
 msn.com##.bannerAdContainer-DS-EntryPoint1-1
-msn.com##.nativeAd-DS-card1-1
-msn.com##.nativeadasideplaceholder
 msn.com##.nativeadserversidecontentmodule
 msn.com##.sameoab_ad_container
-msn.com##.widead
 msn.com##div[class^="displayAds"]:upward(1)
+!news
+msn.com###displayAdCard
+msn.com##.articlePage_eoabNativeAd-DS-EntryPoint1-1
+msn.com##div[class*="_topBannerAdContainer_"]
+msn.com##msft-article-card:not(.contentCard)
 
 ! --- mynavi.jp --- !
 ||news.mynavi.jp/assets/adomik-
