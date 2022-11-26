@@ -1490,6 +1490,13 @@ cinemarche.net##.adBoxWrap
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 city.eniwa.hokkaido.jp##.fixed-ad-wrap
+ckworks.jp##.listItemGoodsAd
+ckworks.jp##.listItemGoodsAdContentsBottomBox
+ckworks.jp#?#.articleBox:-abp-has(> .SizeSet15:-abp-contains(/^発売日カレンダー$/))
+ckworks.jp#?#.articleBox:-abp-has(> .articleSubBox.listItemGoodsSingleLarge)
+ckworks.jp##div[style="width:960px;height:320px;padding;0px;margin:10px auto;"]
+ckworks.jp##.adbox_fullwidth
+ckworks.jp##div[style="margin:0px 0px 10px 0px; padding:0;"]
 clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 clicccar.com##.ad-management
