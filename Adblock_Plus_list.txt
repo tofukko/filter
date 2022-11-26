@@ -2579,6 +2579,7 @@ uptodown.com##.ad
 uraaka.com##.ad-overlay
 uraaka.com##.gallery__interstitial
 uraaka.com##body:style(overflow-y: auto !important;)
+urbanlife.tokyo##[class^="fluct-unit-"]
 userscript.zone##.searcad
 	||tampermonkey.net/s.js?$domain=userscript.zone
 	||userscript.zone/s.js?$domain=userscript.zone
