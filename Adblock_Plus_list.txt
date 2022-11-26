@@ -2267,6 +2267,7 @@ oricon.co.jp##.block-header-banner-wrapper
 oricon.co.jp##.block-sub.block-sub-ad + .block-sub:style(margin-top: 0px !important;)
 oricon.co.jp##.infeed
 oricon.co.jp##._popIn_infinite_page:style(display: inline !important;)
+	beauty.oricon.co.jp##.Billboard-ad
 orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
