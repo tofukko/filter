@@ -2261,7 +2261,12 @@ or2.mobi##.single_ad
 or2.mobi##.top_ad
 orangepage.net##.doubleRectangle
 orangepage.net##.recipeBlock.clearfix.pr
+oricon.co.jp###orecView2:style(margin-top: 0 !important;)
+oricon.co.jp##.block-ads-yahoo
 oricon.co.jp##.block-header-banner-wrapper
+oricon.co.jp##.block-sub.block-sub-ad + .block-sub:style(margin-top: 0px !important;)
+oricon.co.jp##.infeed
+oricon.co.jp##._popIn_infinite_page:style(display: inline !important;)
 orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
