@@ -857,6 +857,7 @@ _analytics.js?
 /writelog.php?
 /wtid.js
 /xenoLogger.js
+/xstat/*
 /xtcore.js
 /ywa.js
 
