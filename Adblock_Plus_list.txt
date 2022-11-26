@@ -1996,8 +1996,8 @@ kokopyon.net##.ad
 kokuban.in##div[style="margin-top:15px; padding:5px 0px; text-align:center; font-size:10px; border-top: 1px dashed gray;"]
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
 kotaro269.com##.ad-box
-kotobank.jp##.pc-iframe-ad
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
+kotobank.jp##div[class$="word-ad"]
 ktkm.net###custom_html-43
 kurashi-no.jp##.p-article__nro
 kurashiru.com##.FooterAppPc-adsWrapper
