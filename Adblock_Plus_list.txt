@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/11/29 11:50
+! 最終更新 2022/11/30 19:48
 !
 
 !2022/11/17
@@ -599,8 +599,6 @@ _ads.js.
 ||daily.jp/Koukoku/
 ||dailynewsonline.jp/skin/frontend/js/g_ad.js?
 ||diced.jp/webs/
-||dl8x.com/banner/
-||dl8x.com/product?
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
 ||dlsite.com/js/blogparts.js
 ||dmm.co.jp^$domain=jp-xvideos.info
@@ -1571,7 +1569,6 @@ digiday.jp##.advertisement
 discogs.com##.ads-ad
 diskgarage.com##.ads
 diskgarage.com##.cm_ads
-dl8x.com##[class^="dx-banner-"]
 dl-x.com##._ad
 dl-x.com##.vip-center
 downdetector.com##.ad
