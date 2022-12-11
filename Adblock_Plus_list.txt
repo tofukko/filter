@@ -77,7 +77,7 @@ _ads.js.
 /adsense.$~script
 /adsense_
 /adserver/*
-/adservice.
+/adservice.$domain=~adservice.io|~github.com|~githubusercontent.com
 /adshow?
 /adspace/*
 /advertise.
@@ -89,7 +89,6 @@ _ads.js.
 /advertising.$~script,~xmlhttprequest
 ?affid=
 /assets/ads/*
-/googleads.
 /image/affiliate/*
 /js.ng/site=
 /jquery.meerkat.
@@ -244,7 +243,6 @@ _ads.js.
 ||d2-apps.net^$third-party
 ||devo.jp^$third-party
 ||dl-rms.com^$third-party
-||doubleclick.net^$third-party
 ||dt00.net^$third-party
 ||dt07.net^$third-party
 ||e-click.jp^$third-party
@@ -270,7 +268,6 @@ _ads.js.
 ||glam.com^$third-party
 ||glam.jp^$third-party
 ||gmodmp.jp^$third-party
-||googleadservices.com^$third-party
 ||gsspat.jp^$third-party
 ||i-mobile.co.jp^$third-party
 ||iid-network.jp^$third-party
@@ -535,14 +532,10 @@ _ads.js.
 ||dogma-annex.com/media/affiliate/
 ||e-nls.com/pict_af/
 ||free-video-movie.com^
-||google.com/adsense/domains
-||google.com/adsense/search/
-||googlesyndication.com/pagead/
 ||gunosy.com/adnet/
 ||hogei.info^
 ||idea-unlimited.com/adsimg/
 ||imagefreak*.com^
-||imasdk.googleapis.com^$third-party
 ||javhd.com/sb/$third-party
 ||lancers.jp/img/affiliate/
 ||mgstage.com/afscript/
@@ -550,7 +543,6 @@ _ads.js.
 ||mkd777.net/pd/
 ||munchkin.marketo.net^
 ||optad360.io^
-||pagead2.googlesyndication.com^
 ||partner*.become.co.jp^
 ||pikkur.com/bn/
 ||pos.baidu.com^
@@ -625,10 +617,6 @@ _ads.js.
 ||getchu.com/mbanner/$~image
 ||gigazine.net/pw/p.js
 ||gnst.jp/c/atb/segment.js$domain=gnavi.co.jp
-||google.com/pagead/
-||google.com/uds/?file=ads&
-||google.com/uds/api/ads/
-||mail-ads.google.com^
 ||myoji-yurai.net/images/banner/
 ||news.merumo.ne.jp/ad/
 ||gressive.jp/themes/custom/gressive_theme/js/ad/
@@ -790,10 +778,6 @@ _analytics.js?
 /getlog?
 /getstats.js
 /getstats.php
-/google.analytics.
-/google-analyticator/*
-/google_tag/*
-/googleanalytics.
 /fingerprintjs2.
 /foresee/*
 /freelog.
@@ -1071,19 +1055,6 @@ _analytics.js?
 ||disqus.com/stats.html
 ||dw-eu.com.com^
 
-||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js:5
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
-||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
-
-||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js:5
-||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5
-||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5
-||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
-	!google
-	://analytics.*/collect
-	||google-analytics.com^*/collect?
-/gtag/js?
-
 ||gpr.hu/pr.pr?
 ||itgear.jp*/ax.js
 ||just-now.net/a?k=
@@ -1132,7 +1103,6 @@ _analytics.js?
 ||ismedia.jp/oo/
 ||kadokawagakugei.com/js/ga2.js
 ||kooss.com/cgi-usr/accl/lkz.cgi?
-||maps.google.com^*/stats.js
 ||milmil.cc/sys/asiato.cgi?
 ||milmil.cc/sys/kaiseki.cgi?
 ! つぶやきにコメントできなくなる
@@ -1166,11 +1136,6 @@ _analytics.js?
 ! gacraft.jp
 ##.sherpa-component[data-ad_type]
 
-! google
-##.google-user-ad
-###gStickyAd
-###im_panel
-
 ! microad
 ##.c-ad
 	! http://2ch-matomenews.com/
@@ -1190,20 +1155,9 @@ _analytics.js?
 ##div[id^="crt-"][style]
 ##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
 
-##[id^="div-gpt-ad"]
-##[class^="google-2ad"]
-##[class^="google-user-ad"]
 ##[id^="div_fam_async_"]
 ##a[href*="nxcount.com/AdClick/"]
 
-#@#.adsbygoogle
-*##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
-*##ins.adsbygoogle:first-child + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
-*##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
-
-#@#[id^="div-gpt-ad"]
-*##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
-*##[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 
 !----amazon
 ~amazon.*###freespace a[href*="amazon.co.jp"], #freespace a[href*="amzn.to"]
@@ -1742,14 +1696,7 @@ golfdigest.co.jp##.allyanceAd
 	lesson.golfdigest.co.jp,score.golfdigest.co.jp###wholeHeaderPane:style(height: auto !important;)
 golfsapuri.com##.sideBanner2:first-child
 golfsapuri.com##div[style="width: 100%; text-align: center;margin-top:5px;height:250px;"]
-google.com,google.co.jp###mbEnd
-google.com,google.co.jp###tads
-google.com,google.co.jp###tadsb
-google.com,google.co.jp###wmxmsg
-!Mobile版
-google.com,google.co.jp###\5f Ltg
-!サイト内検索
-www.google.co.jp##TABLE[cellpadding="0"][style="border: 1px solid #369"]
+
 goonews.jp##.article.pr > h5
 goonews.jp##.article.pr > .prlist
 goonews.jp##[href^="/bannerCount.php"]
@@ -3087,6 +3034,92 @@ wpedia.goo.ne.jp##.NR-pr
 ! https://www.ocn.ne.jp/
 www.ocn.ne.jp##[id^="gooad-"]
 www.ocn.ne.jp##.banner
+
+! --- google --- !
+/googleads.$~script,domain=~github.com|~github.io
+||googleadservices.com^$third-party
+||google.com/adsense/domains
+||google.com/adsense/search/
+||google.com/pagead/
+||googlesyndication.com/pagead/
+||imasdk.googleapis.com^
+||pagead2.googlesyndication.com^
+||google.com/uds/?file=ads&
+||google.com/uds/api/ads/
+||mail-ads.google.com^
+
+/gtag/js?
+/google.analytics.
+/google-analyticator/*
+/google_tag/*
+/googleanalytics.js
+://analytics.*/collect
+||google-analytics.com^*/collect?
+||maps.google.com^*/stats.js
+
+||doubleclick.net^$third-party
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js:5
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
+||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
+||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js:5
+||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5
+||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
+
+#@#.adsbygoogle
+*##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+*##ins.adsbygoogle:first-child + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
+*##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
+#@#[id^="div-gpt-ad"]
+*##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+*##[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
+
+##.google-user-ad
+###gStickyAd
+###im_panel
+##[class^="google-2ad"]
+##[class^="google-user-ad"]
+
+google.*###atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top
+google.*###atvcap > .cu-container > div > div[data-pla="1"]
+google.*###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
+google.*###sqh
+google.*###tads[aria-label]
+google.*###tadsb[aria-label]
+google.*###taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top
+google.*###topstuff > #tads
+google.*##.ads-ad
+google.*##.commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk
+google.*##.commercial-unit-desktop-rhs > div[jscontroller="YD5eo"]
+google.*##.commercial-unit-desktop-rhs:not(.mnr-c)
+google.*##.commercial-unit-mobile-bottom
+google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci
+google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci
+google.*##.commercial-unit-mobile-top > .v7hl4d
+google.*##.commercial-unit-mobile-top > div[data-pla="1"]
+google.*##AMP-AD
+google.*##[data-text-ad]
+google.*##a[href^="https://www.googleadservices.com/pagead/aclk?"]
+google.*##button[jsaction="pane.adBanner.whyThisAdClick"]
+google.*##c-wiz[jsrenderer="YnuqN"] > div > div > .Rn1jbe
+google.*##div#main > div.D1fz0e
+google.*##div[aria-label="Ads"]
+google.*##div[data-crl="true"][data-id^="CarouselPLA-"]
+google.*##div[data-flt-ve="sponsored_search_ads"]
+google.*##div[data-ismultirow="true"][data-id^="CarouselPLA-"]
+google.*##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
+google.*##div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]
+google.*##div[jsdata*="SinglePLA-"][data-id^="SinglePLA-"]
+google.*##div[jstcache] > a[href^="/aclk?"]
+google.*##div[role="navigation"] + c-wiz > div > .kxhcC
+google.*##div[role="navigation"] + c-wiz > script + div > .kxhcC
+www.google.*##.sh-sr__shop-result-group[data-hveid] .sh-sp__btn:matches-css(font-size: 13px):upward(.sh-sr__shop-result-group):has(a[href^="/aclk"][href$="adurl="])
+www.google.*##:not(:matches-path(/^/search\?.*tbm=shop|^/shopping/)) *:not([class^="sh-sr__shop-result-group"]) [href^="/aclk"][href$="adurl="]:upward(3)
+www.google.*##[href^="https://www.googleadservices.com/pagead/aclk?"][href$="adurl="]:upward(3)
+www.google.*##c-wiz div[data-hveid] > div > div > ul:has(> li[style="max-width:200px;"] > div > div[data-hveid] > a[href*="/aclk"]):upward(3)
+www.google.*##div.ellip > span:has-text(/^Ads?$/):upward(2)
+www.google.*##div[data-section-id] > a[href^="/aclk"][href*="placesheetAdFix="][href*="adurl="]:upward(1)
+www.google.*##:matches-path(/travel/hotels/) div[data-is-promoted="true"]
 
 ! --- hatena --- !
 	!hateblo.jp,
