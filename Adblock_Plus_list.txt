@@ -4851,6 +4851,8 @@ ashemaletube.com##+js(aopr, open)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=followcheck.itby.net
 	! https://github.com/tofukko/filter/issues/49
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=heim.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/137055
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=uma.pure-db.com
 	! 全部
 @@||picrew.me/player/api/ads?$xmlhttprequest,domain=picrew.me
 	!ポイント貯めるサイト
