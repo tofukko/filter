@@ -2560,6 +2560,8 @@ tver.jp##[class^="two-column_companionAd__"]
 tvlife.jp###tvl_pc_article_footer
 tvlife.jp##.ad
 tvlife.jp##[id^="tvl_pc_all_"]
+twidou.link##.mb-3.mt-4.c-min-height
+twidou.link##.py-4.my-5.container
 twilog.org###ad-main-top
 twilog.org##[style^="height:250px"]
 twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
