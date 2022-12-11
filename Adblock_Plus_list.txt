@@ -5028,8 +5028,8 @@ gato.intaa.net##.adwidget
 
 ! helpsupport.blog.fc2.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81515
-helpsupport.blog.fc2.com###container:style(display: block !important;)
-helpsupport.blog.fc2.com###topview
+helpsupport.blog.fc2.com#@#.AdContainer
+helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 
 ! investing.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10098
