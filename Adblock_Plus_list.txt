@@ -3130,6 +3130,15 @@ www.google.*##div.ellip > span:has-text(/^Ads?$/):upward(2)
 www.google.*##div[data-section-id] > a[href^="/aclk"][href*="placesheetAdFix="][href*="adurl="]:upward(1)
 www.google.*##:matches-path(/travel/hotels/) div[data-is-promoted="true"]
 
+! --- garanger.net --- !
+||gamushara.jp/pr/
+||pcolle.com/parts/js/parts.js
+||palpis.net/js/blogparts/parts.js
+||andhub.jp^
+garanger.net##.pr
+garanger.net##.board
+garanger.net##[href="https://liberty-net.jp/toukou/"]
+
 ! --- hatena --- !
 	!hateblo.jp,
 	!hatenablog.com,jp,
