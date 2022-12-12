@@ -3057,7 +3057,6 @@ www.ocn.ne.jp##.banner
 ||google-analytics.com^*/collect?
 ||maps.google.com^*/stats.js
 
-||doubleclick.net^$third-party
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js:5
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
 ||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
@@ -3065,6 +3064,12 @@ www.ocn.ne.jp##.banner
 ||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5
 ||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
+
+||doubleclick.net^$third-party
+||doubleclick.net^$xmlhttprequest,redirect-rule=noop.txt
+||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,redirect-rule=googlesyndication_adsbygoogle.js:5,domain=~zipextractor.app
+*$domain=googleads.g.doubleclick.net
 
 #@#.adsbygoogle
 *##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
@@ -5142,6 +5147,7 @@ rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;hei
 rocketnews24.com,youpouch.com##.ads-relatedbottom
 ||googlesyndication.com/safeframe/$frame,redirect-rule=noop.html,domain=rocketnews24.com|youpouch.com
 rocketnews24.com,youpouch.com##.ad300x250:style(position: absolute !important;)
+googlesyndication.com##.GoogleActiveViewElement
 
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/1388
 @@||googletagmanager.com/gtm.js$script,redirect-rule,domain=rocketnews24.com
