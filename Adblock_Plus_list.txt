@@ -2033,6 +2033,7 @@ maonline.jp##.ad_box
 mapfan.com##.header-ad
 mapfan.com##.footer-ad
 mapion.co.jp##.ad-728x90
+mathlog.info##.sticky-main-top > .mb-3.card
 matomame.jp##.ads
 matomedane.jp###footeradv
 matomedane.jp##.adv_top
