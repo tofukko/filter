@@ -2981,6 +2981,8 @@ news.fresheye.com##.nw-ad
 bravo-m.futabanet.jp##.m-ad-rectangle
 futaman.futabanet.jp##.ad-billboard
 gaugau.futabanet.jp##.ad-billboard
+gaugau.futabanet.jp##._popIn_recommend_header
+gaugau.futabanet.jp##.r-ad-rectangle
 ||reader.futabanet.jp/parts/gamoverlay.js
 reader.futabanet.jp##._popIn_recommend_header
 reader.futabanet.jp##.r-ad-rectangle
