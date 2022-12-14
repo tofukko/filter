@@ -5160,6 +5160,8 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=youpouch.com|rocketnews24.com
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
+
+||afl.rakuten.co.jp^$image,domain=rocketnews24.com
 ||googlesyndication.com/safeframe/$frame,redirect-rule=noop.html,domain=rocketnews24.com|youpouch.com
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com|rocketnews24.com
 rocketnews24.com,youpouch.com##[data-google-query-id]:style(position: absolute !important;)
@@ -5167,6 +5169,8 @@ rocketnews24.com,youpouch.com##.ads-relatedbottom
 rocketnews24.com,youpouch.com###div-gpt-ad-billboard
 rocketnews24.com,youpouch.com###div-gpt-ad-header
 rocketnews24.com,youpouch.com##.abgc
+rocketnews24.com,youpouch.com##.amp-animate
+rocketnews24.com,youpouch.com##.adunit
 rocketnews24.com,youpouch.com##+js(ra, href, #aw0)
 rocketnews24.com###sub-content > ul > li[id]:not([id^="custom_html-"]):style(position: relative !important;z-index: 10000000 !important;)
 youpouch.com###primary-widgets > li[id]:not(custom_html-):style(position: relative !important;z-index: 10000000 !important;)
