@@ -5161,8 +5161,9 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 ||googlesyndication.com/safeframe/$frame,redirect-rule=noop.html,domain=rocketnews24.com|youpouch.com
-rocketnews24.com,youpouch.com##.ads-relatedbottom
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com|rocketnews24.com
+rocketnews24.com,youpouch.com##[data-google-query-id]:style(position: absolute !important;)
+rocketnews24.com,youpouch.com##.ads-relatedbottom
 rocketnews24.com,youpouch.com###div-gpt-ad-billboard
 rocketnews24.com,youpouch.com###div-gpt-ad-header
 rocketnews24.com,youpouch.com##.abgc
