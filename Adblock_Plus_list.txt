@@ -2315,8 +2315,8 @@ recipekensaku.com##.adsense-card
 reddit.com##.promotedlink
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
-renote.jp##.ad__bit
-renote.jp##[class$="__ad__container"]
+renote.net##.ad__bit
+renote.net##[class$="__ad__container"]
 repeat-drama.info##.ad
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
