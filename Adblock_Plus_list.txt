@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/12/13 14:44
+! 最終更新 2022/12/14 12:07
 !
 
 !2022/11/17
@@ -3052,6 +3052,7 @@ www.ocn.ne.jp##.banner
 ||google.com/adsense/search/
 ||google.com/pagead/
 ||googlesyndication.com/pagead/
+||googlesyndication.com/safeframe/
 ||imasdk.googleapis.com^
 ||pagead2.googlesyndication.com^
 ||google.com/uds/?file=ads&
@@ -5152,20 +5153,18 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 
 ! rocketnews24.com
 ! youpouch.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/132525
-! https://github.com/AdguardTeam/AdguardFilters/issues/81308
 @@||fundingchoicesmessages.google.com^$script,domain=youpouch.com|rocketnews24.com
 @@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com|rocketnews24.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/132814
 @@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=youpouch.com|rocketnews24.com
-@@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com|rocketnews24.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=youpouch.com|rocketnews24.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=youpouch.com|rocketnews24.com
-@@||tpc.googlesyndication.com/simgad/$image,xmlhttprequest,domain=rocketnews24.com|youpouch.com
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
-rocketnews24.com,youpouch.com##.ads-relatedbottom
+rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 ||googlesyndication.com/safeframe/$frame,redirect-rule=noop.html,domain=rocketnews24.com|youpouch.com
-rocketnews24.com,youpouch.com##.ad300x250:style(position: absolute !important;)
+||securepubads.g.doubleclick.net/gampad/ads?$xhr,redirect-rule=noop.txt,domain=rocketnews24.com|youpouch.com
+rocketnews24.com,youpouch.com##.ads-relatedbottom
+rocketnews24.com,youpouch.com##[id^="google_ads_iframe_"]:style(position: absolute !important;)
+rocketnews24.com,youpouch.com##[data-google-query-id]:style(position: absolute !important;)
 googlesyndication.com##.GoogleActiveViewElement
 
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/1388
