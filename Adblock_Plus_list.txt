@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/12/14 16:53
+! 最終更新 2022/12/15 11:27
 !
 
 !2022/11/17
@@ -5165,7 +5165,6 @@ rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:only-child:upward(1):style(al
 ||googlesyndication.com/safeframe/$frame,redirect-rule=noop.html,domain=rocketnews24.com|youpouch.com
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com|rocketnews24.com
 rocketnews24.com,youpouch.com##[data-google-query-id]:style(position: absolute !important;)
-rocketnews24.com,youpouch.com##.ads-relatedbottom
 rocketnews24.com,youpouch.com###div-gpt-ad-billboard
 rocketnews24.com,youpouch.com###div-gpt-ad-header
 rocketnews24.com,youpouch.com##.abgc
