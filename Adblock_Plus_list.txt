@@ -5162,7 +5162,7 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 !chrome
-@@||tpc.googlesyndication.com/simgad/*$image,xhr,domain=rocketnews24.com,youpouch.com
+@@||tpc.googlesyndication.com/simgad/*$image,xhr,domain=rocketnews24.com|youpouch.com
 
 ||afl.rakuten.co.jp^$image,domain=rocketnews24.com|youpouch.com
 ||googlesyndication.com/safeframe/$frame,redirect-rule=noop.html,domain=rocketnews24.com|youpouch.com
