@@ -5102,6 +5102,11 @@ investing.com##.midHeader
 investing.com##.rightColumnAd
 investing.com##div[class^="ad_"]
 
+! kledgeb.blogspot.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/137131
+kledgeb.blogspot.com##+js(abort-current-script, document.getElementById, _0x)
+kledgeb.blogspot.com##body > div[style="visibility: hidden;"]:style(visibility: visible !important;)
+
 ! manga1001.vip
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129121
 @@||cdn.adschill.com/*/unit/*.js$domain=manga1001.vip
