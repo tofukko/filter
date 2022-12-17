@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/12/16 11:23
+! 最終更新 2022/12/17 15:44
 !
 
 !2022/11/17
@@ -1612,6 +1612,8 @@ freesoft.tvbok.com##.topad
 french-wine-jiten.com##.ad_footer
 friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
+fuelle.jp###js-overlay
+fuelle.jp##.bn_gpt_box
 fujitv.co.jp###fp-bhp-rectangle
 fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
