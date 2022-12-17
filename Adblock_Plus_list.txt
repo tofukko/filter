@@ -602,6 +602,7 @@ _ads.js.
 ||eegg.fun/js/delay_ad.js?
 ||egone.org/js/amazon_
 ||enoge.org/js/amazon_
+||eromanga-life.com/life.$subdocument
 ||estar.jp/page/ad/
 ||fategrandorder.info/html/js/ad_
 ||fod.fujitv.co.jp/mz/
