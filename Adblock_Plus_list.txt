@@ -1438,6 +1438,12 @@ cinema.ne.jp##.ad-pc
 cinemarche.net##.adBoxWrap
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
+! news
+cinematoday.jp##[style="width:66%;height:70%;clear:left;float:right;"]
+cinematoday.jp##[style="width:66%;height:70%;clear:left;float:right;"] ~ .feed-item:nth-child(3n+1):style(clear: none !important;)
+! movie
+cinematoday.jp##.ct-ad-prime-display
+cinematoday.jp##li[style="margin: 16px 0; background:#fff;"]
 city.eniwa.hokkaido.jp##.fixed-ad-wrap
 ckworks.jp##.listItemGoodsAd
 ckworks.jp##.listItemGoodsAdContentsBottomBox
