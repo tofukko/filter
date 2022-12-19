@@ -2471,6 +2471,7 @@ timeout.jp##[class^="_footer_ad_wrap_"]
 timeout.jp##[class^="_inlineAdWrapper_"]
 tinami.com###banner_view
 tinami.com##.view_ad
+to-corona-ex.com##[class^="fluct-unit-"]:upward(1)
 ! jack?
 ! 2022/04/21 もう広告ないけど一応残しておく
 tocana.jp###hashiraL
