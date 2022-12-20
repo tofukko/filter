@@ -5,6 +5,15 @@
 ! 最終更新 2022/12/19 21:37
 !
 
+!2022/12/20 2023年6月28日 ゲームアツマール終了
+!https://blog.nicovideo.jp/niconews/183352.html
+!アツマール
+||game.nicovideo.jp/atsumaru/ads/
+game.nicovideo.jp###footer-ad
+game.nicovideo.jp#?#.Modal__Modal__Overlay:-abp-has(> .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
+game.nicovideo.jp##+js(nano-stb, u(!0), 5000)
+game.nicovideo.jp##+js(nano-stb, [native code], 15000)
+
 !2022/11/17
 ||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
 ||drive.google.com/uc?id=1uD4_-rED0rNzxuEcm_yaWclpjN9LmDyK$domain=himado.in
@@ -3621,12 +3630,6 @@ dic.nicovideo.jp##.ad-bannar-maincolumn-top + div:style(margin-top: 0 !important
 dic.nicovideo.jp##.adsense-728
 	!サイドバー
 dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
-!アツマール
-||game.nicovideo.jp/atsumaru/ads/
-game.nicovideo.jp###footer-ad
-game.nicovideo.jp#?#.Modal__Modal__Overlay:-abp-has(> .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
-game.nicovideo.jp##+js(nano-stb, u(!0), 5000)
-game.nicovideo.jp##+js(nano-stb, [native code], 15000)
 !コモンズ
 com.nicovideo.jp###community_pc_top
 !チャンネル
