@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/12/19 21:37
+! 最終更新 2022/12/21 13:32
 !
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
@@ -3097,10 +3097,7 @@ www.ocn.ne.jp##.banner
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
 
 ||doubleclick.net^$third-party
-||doubleclick.net^$xmlhttprequest,redirect-rule=noop.txt
-||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,redirect-rule=googlesyndication_adsbygoogle.js:5,domain=~zipextractor.app
-*$domain=googleads.g.doubleclick.net
+||fundingchoicesmessages.google.com$third-party
 
 #@#.adsbygoogle
 *##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
@@ -3156,6 +3153,29 @@ www.google.*##c-wiz div[data-hveid] > div > div > ul:has(> li[style="max-width:2
 www.google.*##div.ellip > span:has-text(/^Ads?$/):upward(2)
 www.google.*##div[data-section-id] > a[href^="/aclk"][href*="placesheetAdFix="][href*="adurl="]:upward(1)
 www.google.*##:matches-path(/travel/hotels/) div[data-is-promoted="true"]
+
+! thememazing .com broken page + other anti adb
+! fix mdpDeBlocker + some other anti-adb
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,redirect=googlesyndication_adsbygoogle.js:5,domain=~zipextractor.app
+||googleads.g.doubleclick.net/$xhr,redirect-rule=nooptext
+! https://github.com/uBlockOrigin/uAssets/issues/11577
+! https://github.com/uBlockOrigin/uAssets/issues/12163
+! Counter ads and requests inside doubleclick. net iFrames (general fix)
+googleads.g.doubleclick.net###google-center-div
+googleads.g.doubleclick.net###abgc
+googleads.g.doubleclick.net##html[i-amphtml-no-boilerplate][amp4ads][class="i-amphtml-inabox"]
+googleads.g.doubleclick.net###mys-wrapper
+*$domain=googleads.g.doubleclick.net
+
+googlesyndication.com##.GoogleActiveViewElement:not(:has(> #reward_close_button_widget))
+googlesyndication.com##.GoogleActiveViewElement > div:not(#reward_close_button_widget)
+googlesyndication.com###abgb
+googlesyndication.com##.left-container
+@@||g.doubleclick.net/pagead/images/gmob/close-circle-30x30.png$image,domain=safeframe.googlesyndication.com
+||googlevideo.com/videoplayback?$media,redirect=noop-1s.mp4,domain=safeframe.googlesyndication.com
+||gvt1.com/videoplayback?$media,redirect=noop-1s.mp4,domain=safeframe.googlesyndication.com
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
+||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
 
 ! --- garanger.net --- !
 ||gamushara.jp/pr/
@@ -4124,13 +4144,8 @@ games.softgames.com##.sgYMenuContainer + div
 @@||googletagservices.com/tag/js/gpt.js$script,domain=games.softgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.softgames.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=games.softgames.com
-||googlevideo.com/videoplayback?$media,redirect=noop-1s.mp4,domain=games.softgames.com|safeframe.googlesyndication.com
 @@||games.softgames.com/assets/advertisement.js$domain=games.softgames.com
 ||imasdk.googleapis.com/js/core/bridge3.*_en.html$subdocument,important,redirect=noop.html,domain=games.softgames.com
-safeframe.googlesyndication.com###dialog_wrapper
-safeframe.googlesyndication.com##[class*="-towerVideo"]
-safeframe.googlesyndication.com##[class*="-landscapeVideo"]
-safeframe.googlesyndication.com###abgc
 
 !Aeria
 minigame.aeriagames.jp###centerADBox
@@ -4194,6 +4209,8 @@ yomidr.yomiuri.co.jp##.thumbnail-ad
 ||rcm*.amazon.$third-party
 ||amazon.co.jp/aan/
 ||images-amazon.com/images/*/browser-scripts/DA-
+
+||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js
 
 amazon.co.jp###nav-swmslot
 amazon.co.jp###sponsoredProducts2_feature_div
@@ -4708,15 +4725,28 @@ ashemaletube.com##+js(aopr, open)
 ||jaelejgwiu.xyz^
 
 !------------------------ホワイトリスト------------------------!
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
-
-||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js
 
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
 	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
+
+
+! 47club.jp
+! https://github.com/tofukko/filter/issues/29
+@@||47club.jp^*/images/ad/$image,domain=47club.jp
+@@||amazonaws.com^*/images/ad/$image,domain=47club.jp
+
+! buhitter.com
+! https://github.com/tofukko/filter/issues/79
+@@||js.gsspcln.jp/w/ad_format/reward/gnsrwdmod.js$script,domain=buhitter.com
+@@||googletagmanager.com/gtm.js$script,domain=buhitter.com
+@@||googletagservices.com/tag/js/gpt.js$script,domain=buhitter.com
+@@||googlesyndication.com/safeframe/$domain=buhitter.com
+@@||safeframe.googlesyndication.com^$subdocument,domain=buhitter.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=buhitter.com
+@@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
+@@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
 
 ! cxense.com
 ||cxense.com^$third-party
@@ -4742,11 +4772,6 @@ ashemaletube.com##+js(aopr, open)
 ! ブログパーツ
 @@||rss.solty.biz/
 @@||solty.biz/blogparts/
-
-! 47club.jp
-! https://github.com/tofukko/filter/issues/29
-@@||47club.jp^*/images/ad/$image,domain=47club.jp
-@@||amazonaws.com^*/images/ad/$image,domain=47club.jp
 
 ! www3.nissan.co.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/106875
@@ -5015,10 +5040,6 @@ trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
 yakkun.com##.ad + div:style(clear: both !important;)
 
 !-------------------anti adblock-------------------------!
-||fundingchoicesmessages.google.com$third-party
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect-rule=googlesyndication_adsbygoogle.js:5
-||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
-
 
 ! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
