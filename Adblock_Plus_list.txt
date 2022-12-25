@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/12/21 13:32
+! 最終更新 2022/12/25 21:22
 !
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
@@ -3234,12 +3234,9 @@ hayamimi-gunpla.com,hayamimi-hobby.com#?#div:-abp-has(> .banner-id)
 hitomi.la##+js(noeval)
 *$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, open)
-hitomi.la##+js(aopr, pops)
-hitomi.la##+js(aopw, hitomi)
-hitomi.la##[href*="nutaku.net/signup/"]
-hitomi.la##[class^="hitomi-"]
+hitomi.la##+js(aopw, _pop)
 hitomi.la##.container > div[class$="content"] > div[class] > script:upward(1)
-/^https:\/\/ltn\.hitomi\.la\/[A-Za-z]{4,}\/(?=[a-z]{0,19}[A-Z])[A-Za-z]{4,20}\.js$/$script,~third-party,match-case,domain=hitomi.la
+||ltn.hitomi.la^*?yuo1=$script,~third-party
 
 ! https://github.com/tofukko/filter/issues/64
 hitomi.la##[class="navbar"]:style(display: flex !important;flex-flow: wrap !important;height: auto !important;)
