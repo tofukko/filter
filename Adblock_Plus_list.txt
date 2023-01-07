@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/01/07 13:16
+! 最終更新 2023/01/07 21:27
 !
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
@@ -3428,8 +3428,6 @@ jav.guru##.alignnone
 ||news.livedoor.com/js/ads.
 ||t.blog.livedoor.jp^
 ###meerkat-contents
-	!blog cookie承認バナー
-	!###gdpr-banner
 ! https://help.blogpark.jp/archives/52500714.html
 ##.main-container-ads
 2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp#?#.plugin-memo:-abp-has(> .sidetitlebody > .sidetitle:-abp-contains(/^スポンサード?(リンク)?[1-9０-９]?$/))
@@ -3495,6 +3493,67 @@ jav.guru##.alignnone
 mangaraw.co##div.my-2.col-sm-4:-abp-has(> div[style="text-align: center"]:only-child)
 nikaraw.com##div[style="position: fixed; display: block; width: 100%; height: 100%; inset: 0px; background-color: rgba(0, 0, 0, 0); z-index: 300000;"]
 nikaraw.com##div[style*="width: 350px"][style*="height: 250px"]
+
+! --- milky エロムビ ？ --- !
+! キャラメル喫茶
+! https://caramel-sp.com
+||caramel-sp.com/ad/
+||caramel-sp.com/fanza/
+caramel-sp.com##.rectangle
+caramel-sp.com###native_1
+caramel-sp.com###native_2
+! えろぞう
+! https://erodouga-s.com
+erodouga-s.com##.pc-overlay
+erodouga-s.com##.rectangle
+||eromovie-s.com/feed/erozou_
+! えろほん
+! https://erogazou-s.com
+||erogazou-s.com/fanza/
+erogazou-s.com##.rectangle
+! エロムビ
+! https://eromovie-s.com
+||eromovie-s.com/fanza/
+||eromovie-s.com/feed/
+eromovie-s.com##.adcontent
+eromovie-s.com##.moviedownload,.itemimage:style(display: block !important;)
+eromovie-s.com##.native
+eromovie-s.com##.rectangle
+! キュント
+! https://kyunto.com
+||kyunto.com/af/
+||kyunto.com/ad/
+kyunto.com###movie-embed:style(display: block !important;)
+kyunto.com##.rectangle
+! まんがみる!
+! https://manga-mill.com
+||manga-mill.com/ad/
+||manga-mill.com/fanza/
+||manga-mill.com/rss/*_rand.php?
+manga-mill.com##.adrectangle
+manga-mill.com##[id^="fanza_"]
+! メルティーノベル
+! https://melty-novel.com
+melty-novel.com##.rectangle
+! milky
+! https://milk-key.com
+||caramel-sp.com/feed/native_
+||milk-key.com/ad/
+||milk-key.com/af/
+milk-key.com###adplace
+milk-key.com##.header-ads-area
+milk-key.com##.pc-overlay
+milk-key.com##.recommend
+milk-key.com##.rectangle
+milk-key.com##.rectangleBox
+milk-key.com#?#li.item:-abp-has(>[class^="iads_"])
+milk-key.com##[id^="fanza-"]
+! yomimo!
+! https://yomi-mo.com
+||yomi-mo.com/wp/wp-content/themes/yomimo/ad/
+yomi-mo.com##.fanza
+yomi-mo.com##.rectangle
+yomi-mo.com##[id^="fanza_"]
 
 ! --- mozakin.com --- !
 mozakin.com##body > div > div[style="height: 300px;"]
