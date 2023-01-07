@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2022/12/25 21:22
+! 最終更新 2023/01/07 13:16
 !
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
@@ -167,6 +167,7 @@ _ads.js.
 ||ad-feed.com^$third-party
 ||ad-management.biz^$third-party
 ||ad-nex.com^$third-party
+||ad-optima.com^$third-party
 ||ad-stir.com^$third-party
 ||ad-tag.biz^$third-party
 ||ad-v.jp^$third-party
