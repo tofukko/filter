@@ -1620,6 +1620,11 @@ football-tribe.com##div[id^="da-article-"]
 forbesjapan.com##.ad_header
 forbesjapan.com##.ad_under
 forbesjapan.com##[id^="ad-"]
+formula1-data.com##.ad
+formula1-data.com##.adBox
+formula1-data.com##.hero__innerSub
+formula1-data.com#?#article[class^="mdlGrid__"]:-abp-has(> [href^="https://www.amazon.co.jp/"])
+formula1-data.com##[class^="ad--"]
 freem.ne.jp##.ad-horizontal-wrapper
 freem.ne.jp##.game-list-ad
 freesoft.tvbok.com###left_box3
