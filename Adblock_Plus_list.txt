@@ -2295,6 +2295,7 @@ pixabay.com##.carbon-ad
 pixabay.com##.show-gtty-item
 pixwox.com##.pgAdWrapper
 pixwox.com##[class^="ah-box-"]
+plicy.net##.adMiddleRect2Css
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
 poipiku.com##.PcSideBarAd
