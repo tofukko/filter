@@ -405,7 +405,6 @@ _ads.js.
 ||unitedblades.co.jp^$third-party
 ||unrulymedia.com^$third-party
 ||utarget.co.uk^$third-party
-||valueclick.ne.jp^$third-party
 ||valuecommerce.com^$third-party
 ||ventivmedia.com^$third-party
 ||visiblemeasures.com^$third-party
@@ -1806,6 +1805,7 @@ img.favsite.jp##[href*="dlsite.com/"]
 imgur.com##.ad-slot
 imgur.com##.BottomAd-container
 inazumanews2.com##.adv
+instagrammernews.com##.footerBanner
 inter-edu.com###header-ad-area
 inter-edu.com##.bnr-pr
 inter-edu.com##.forum-article-bnr
