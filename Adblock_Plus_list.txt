@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/01/07 21:27
+! 最終更新 2023/01/14 16:02
 !
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
@@ -578,8 +578,6 @@ _ads.js.
 ||arban-mag.com/wp-content/themes/arban_v2.5/common/js/ad.js
 ||artstation.com/p/c_assets/
 ||asageifuzoku.com/img*/top_
-||asg.to/ad/
-||asg.to/advert/banner.html
 ||atwiki.jp/common/dist/js/atwiki_autoads.js?
 ||atwiki.jp/common/dist/js/moveads.js?
 ! jack
@@ -2810,6 +2808,12 @@ globe.asahi.com##.module-side-notice
 @@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
 	!動画プレイヤー
 @@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
+
+! --- asg.to --- !
+||asg.to/ad/
+||asg.to/advert/banner.html
+! プレイヤー
+asg.to##+js(window.open-defuser)
 
 ! --- benesse.ne.jp --- !
 benesse.ne.jp##[id^="div-M_MD_"][id*="_fluid_"]
