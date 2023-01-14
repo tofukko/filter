@@ -3200,8 +3200,11 @@ googlesyndication.com##.left-container
 ||pcolle.com/parts/js/parts.js
 ||palpis.net/js/blogparts/parts.js
 ||andhub.jp^
-garanger.net##.pr
+||banner1.site^
+garanger.net###my_navigation
+garanger.net##.box:first-child
 garanger.net##.board
+garanger.net##.pr
 garanger.net##[href="https://liberty-net.jp/toukou/"]
 
 ! --- hatena --- !
