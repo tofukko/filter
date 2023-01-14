@@ -4259,11 +4259,11 @@ yomiuri.co.jp##.ad
 yomiuri.co.jp##.ads_inview
 yomiuri.co.jp##.home-2020-ad-wide
 yomiuri.co.jp##.home-2020-ad-text
-yomiuri.co.jp##.home-2020-prime-headline__ad
-yomiuri.co.jp##.js-footer-2020-subscribe
+yomiuri.co.jp##.home-2020-ntvnews-ad
 yomiuri.co.jp##.p-ad-thumbnail-txt
 yomiuri.co.jp##[id^="ad_dfp_news-txt"]
 yomiuri.co.jp##div[class^="p-ad-dfp"]
+
 !発言小町
 komachi.yomiuri.co.jp##.ads
 komachi.yomiuri.co.jp##.p-ads-center
