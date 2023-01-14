@@ -2436,7 +2436,9 @@ socom.yokohama##div[style="margin-bottom: 15px; min-height: 340px; height: auto"
 sound.jp###adfloat
 spaia.jp##.ad
 spaia.jp##.ad-wrapper
+sponichi.co.jp##[data-component="ad-basic"]
 sponichi.co.jp##[id^=space_shopping_]
+sponichi.co.jp##[style="width:298px;height:230px;border:1px #CCCCCC solid;margin-top:7px;"]
 sportiva.shueisha.co.jp##[style="width: 728px; height: 90px;"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
