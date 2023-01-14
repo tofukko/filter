@@ -5121,6 +5121,10 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ! comick.top
 ! @@||comick.top/cdn-cgi/zaraz/s.js$script,domain=comick.top
 
+! animenew.be
+! https://github.com/AdguardTeam/AdguardFilters/issues/62482
+animenew.be###ad:style(height: 1px !important;)
+
 ! coolpan.net
 coolpan.net#@#.ad-area
 
