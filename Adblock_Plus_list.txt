@@ -1986,6 +1986,7 @@ last.fm##.sidebar-ad-container
 lee.hpplus.jp##.media-ad
 leon.jp##.st-BottomBanner-top
 library.mitaka.tokyo.jp##.banner
+lifehack2ch.livedoor.biz###rakuafi
 lifehack2ch.livedoor.biz##.elsebody
 lifehack2ch.livedoor.biz##.yahoo-ad1b
 lifehacker.jp##[class^="articles_pArticles_List__"] > a:not([href])
