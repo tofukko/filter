@@ -1256,7 +1256,9 @@ alba.co.jp###header_lower
 alba.co.jp##.result_table > tbody > tr:nth-child(16n):not([class]):remove()
 	sokuho.alba.co.jp##.table-w650-live tr:nth-child(16n):not([class]):remove()
 allcinema.net###area-site-header-ad
-altema.jp##.adsClick
+altema.jp###\30 2.exclude-h2-cnt
+altema.jp##.tableLine.PRrank-icon2
+altema.jp##[id^="ads_area_"]
 ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
 animageplus.jp##.addHead
