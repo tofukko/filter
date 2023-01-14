@@ -2020,6 +2020,8 @@ maidonanews.jp##[class^="module-ad"]
 maidonanews.jp##.module-list-articles__ad
 maidonanews.jp##.module-list-articles__item--ad
 mainichi.jp##.ad-side-1
+mainichigahakken.net##.ad-block
+mainichigahakken.net##[id$="_gam"]
 making.pipa.jp##.NoFrame.RelatedWorkRight
 makitani.net##.ablock
 mamadays.tv##[class*="_ads__"]
