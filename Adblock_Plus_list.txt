@@ -2116,6 +2116,8 @@ mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
 moguravr.com##.mg-ads-placement
 momon-ga.com###menu-pr
+momon-ga.com##.asmr18
+momon-ga.com##.tablink
 mora.jp##.jack
 mora.jp##.newrelease_adBox
 mora.jp##.rect_box
