@@ -5239,8 +5239,9 @@ kledgeb.blogspot.com##body > div[style="visibility: hidden;"]:style(visibility: 
 modalina.jp##.adsbygoogle + script + #header:style(margin-top: 60px !important;)
 modalina.jp###ggleadv:style(height: 60px !important;)
 modalina.jp###advarea
+modalina.jp##.advarea
 modalina.jp##.pbac
-modalina.jp##.tbold
+modalina.jp##.tbold:style(all:initial !important;display: block !important;position: absolute !important;z-index: -1 !important;)
 
 ! motorsport.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81464
