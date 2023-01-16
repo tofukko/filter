@@ -686,6 +686,8 @@ _ads.js.
 	||admesia.com^$third-party
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
 ||simozo.com/js/ad_
+||squallchannel.com/sqa.html
+||squallchannel.com/squallch.html
 ||square-enix.com/common/templates/js/ad/
 ||stv.jp/nnn/assets/$subdocument
 ||style.potepan.com/wp-content/themes/potepan-style/js/article-detail/popUpBanner.js
