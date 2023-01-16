@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/01/15 18:04
+! 最終更新 2023/01/16 17:55
 !
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
@@ -4909,9 +4909,6 @@ ashemaletube.com##+js(aopr, open)
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
 	!トップページ他
 @@||cinema.pia.co.jp/img/ad/$image,domain=cinema.pia.co.jp
-	! https://github.com/tofukko/filter/issues/17 次の話へ移動できない
-@@||comic-boost.com/api4js/advertisement/$xmlhttprequest,domain=comic-boost.com
-@@||comic-boost.com/gentosha/advertisement_view.html$subdocument,domain=comic-boost.com
 	!右サイド
 @@||cookpad-ads.com^$domain=cookpad.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84989
