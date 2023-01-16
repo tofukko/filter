@@ -2443,6 +2443,7 @@ sponichi.co.jp##[data-component="ad-basic"]
 sponichi.co.jp##[id^=space_shopping_]
 sponichi.co.jp##[style="width:298px;height:230px;border:1px #CCCCCC solid;margin-top:7px;"]
 sportiva.shueisha.co.jp##[style="width: 728px; height: 90px;"]
+squallchannel.com##[class^="ad_space"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
 straightpress.jp##.ad-bnr
