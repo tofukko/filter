@@ -2437,6 +2437,7 @@ sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sk-hanbai.com##.adsense
 sk-seisan.com##.adsense
+skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-w-2xl
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
 skebetter.com##a[href*=".dmm.co.jp/"]
