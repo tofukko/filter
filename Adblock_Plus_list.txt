@@ -5072,6 +5072,8 @@ ashemaletube.com##+js(aopr, open)
 @@||grandjump.shueisha.co.jp/original/*/analytics.js$script,domain=grandjump.shueisha.co.jp
 	! https://github.com/tofukko/filter/issues/39
 @@||harta.jp/bib/i/extensions/analytics/analytics.js$script,domain=harta.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/140718
+@@||hbb.afl.rakuten.co.jp/hgb/*%3A%2F%2Fthumbnail.$image,domain=angelfish.jp
 	! https://github.com/tofukko/filter/issues/73
 @@||images.pash-up.jp/contents/img/ad/$image,domain=pash-up.jp
 	! https://github.com/easylist/easylist/pull/6920
