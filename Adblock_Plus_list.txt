@@ -3758,9 +3758,20 @@ news.nicovideo.jp###billboard_container
 ||analytics.cocolog-nifty.com^
 ||nifty.com/pubc0m/js/tag/_nif_tag.js
 ||nifty.gesoten.com/nifty/banner
-
 ! nifty.softgames.com
 ||improvedigital.com^$third-party
+
+! --- nijigen-daiaru.com --- !
+! https://nijigen-daiaru.com/
+! https://hentai-books.com
+! https://offudoujin.com/
+! https://doujinparadise.com/
+! https://eromanganote.com/
+! https://ero-doujin.info/
+! https://eromanga-school.com/
+! ほか
+##.advrbox
+||neofield.click^$third-party
 
 ! --- nikkei --- !
 ||nikkei.com/.resources/k-components/rtoaster/
