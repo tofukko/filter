@@ -2564,6 +2564,8 @@ twilog.org##[style^="height:250px"]
 twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
 twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
 twpro.jp##.ads-banner-box
+tyoieronews.blog.jp##a[href^="https://www.dlsite.com/"]
+tyoieronews.blog.jp##table[summary="DMM"]
 unityroom.com##.bl_adunit
 uptodown.com##.ad
 uraaka.com##.ad-overlay
