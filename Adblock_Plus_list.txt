@@ -2504,6 +2504,8 @@ tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
 telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
+tetsudo-ch.com##.ad-dummy
+tetsudo-ch.com##.fixed-ad
 tg-uchi.jp##.topicBanner
 thetv.jp##.ad
 timeout.jp##.ad-mpu
