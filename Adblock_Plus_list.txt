@@ -2226,6 +2226,8 @@ ohen.tv##.ad-wrapper
 ohen.tv##[id^="broadcast-content-ad"]
 ohen.tv##[id^="common-content-top-ad"]
 ohen.tv##[id^="top-sidebar-ad"]
+okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
+okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
 okmusic.jp##.banner_frame
 okmusic.jp##.right-ad_frame
 okwave.jp###fluct-pc-sticky-ad
