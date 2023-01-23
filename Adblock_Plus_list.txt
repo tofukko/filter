@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/01/16 17:55
+! 最終更新 2023/01/23 15:33
 !
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
@@ -2491,6 +2491,7 @@ tbsradio.jp##.single-program__ad-manager-list
 techacademy.jp###pum-75846
 techacademy.jp##.ad
 techcrunch.com##.ad-unit
+techno-edge.net##.af_box
 tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
 telnavi.jp##.google_adsense_placeholder
