@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/01/23 15:33
+! 最終更新 2023/01/23 20:54
 !
 
 !2023/01/23 2023年3月31日 GYAO! トレンドニュース 終了
@@ -2372,6 +2372,7 @@ repeat-drama.info##.ad
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
 reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
+rkb.jp##[id^="JP_RKBO_"]
 rollingstonejapan.com##.addHead
 rollingstonejapan.com##.addSide
 rollingstonejapan.com##.articleDetailAdd
