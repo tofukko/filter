@@ -1492,7 +1492,6 @@ coliss.com###sponsors
 coliss.com###sponsorsTop
 color-sample.com##.ads
 comic-walker.com###right_top_banner
-comicbunch.com##.footer_comics_ad:remove()
 comici.jp##.a-banner-box
 cookien.com##.pr_content
 cookpad.com##.ad_wrapper
