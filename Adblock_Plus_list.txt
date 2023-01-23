@@ -717,6 +717,7 @@ _ads.js.
 ||webnewtype.com/img/pc/common/spacer1.gif
 ||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
+||xn--tckxa5c423yemxd.shop/dt/$subdocument,domain=2chnewsblog.blog.jp
 ||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
 ||yomoyama-bbs.jp/image/ad_images/
