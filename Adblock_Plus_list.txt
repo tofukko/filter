@@ -2330,8 +2330,9 @@ poki.jp##[class^="Advertisement__"]
 popeyemagazine.jp##.ad
 pouchs.jp##[style^="height:90px;width:728px;"]
 prcm.jp##.ad-rectangle
+privatter.net###right .hidden-print.clearfix + :is(table,div,p)
+privatter.net###right > .hidden-print.clearfix
 privatter.net##.“hidden-print”
-privatter.net#?#.media:-abp-has(> .media-left)
 privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
 pulpxstyle.com##.adsbygoogle:upward(1)
