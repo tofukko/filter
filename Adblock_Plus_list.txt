@@ -3610,6 +3610,15 @@ yomi-mo.com##.fanza
 yomi-mo.com##.rectangle
 yomi-mo.com##[id^="fanza_"]
 
+! --- min-repo.com --- !
+min-repo.com##.ad
+min-repo.com##.hallkouryakuline
+min-repo.com##.widget_sidebar_ad
+! minpachi
+minpachi.com##.ad1
+minpachi.com##.ad2
+minpachi.com###text-13
+
 ! --- mozakin.com --- !
 mozakin.com##body > div > div[style="height: 300px;"]
 mozakin.com##body > div > div[style="height: 840px; padding: 6px; margin: 0px 0px 16px;"]
