@@ -1999,6 +1999,7 @@ lifehacker.jp##[class^="articles_pArticles_HeroLink"]:not([href])
 lifehacker.jp##[class^="bodyAd_BodyAd__"]
 lifehacker.jp##[class^="bodyAd_InnerAd_Label__"]
 linkfang.org###LinkFang_Horizontal
+live.kufu.co.jp##.banner_box
 livefans.jp##.adCenter
 livefans.jp##.bannerBox
 lmaga.jp##.contents_ad
