@@ -2555,6 +2555,8 @@ tripadvisor.jp##.ad
 tsuiran.jp##article:not([id]):not([class])
 tsumanne.net###amazon
 tsumanne.net###cm
+tumadouga.jp##.index_banner_space:not(.index_banner_space_02):not(.index_banner_space_06)
+tumadouga.jp##div[id^="index_banner_space"] > div[class^="text-center"]
 tv-asahi.co.jp###rectangle-desktop
 tv-asahi.co.jp##.common-header-pc-v2__commonHeader--koWP-:style(padding-top: 0 !important)
 tv-asahi.co.jp##.init-ad
