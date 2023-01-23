@@ -897,7 +897,6 @@ _analytics.js?
 ||clickaider.com^$third-party
 ||clickanalyzer.jp^$third-party
 ||clicktale.net^$third-party
-||cloudflareinsights.com^$third-party
 ||clustrmaps.com^$third-party
 ||cnzz.com^$third-party
 ||colossal.jp^$third-party
@@ -5328,7 +5327,12 @@ googlesyndication.com##.GoogleActiveViewElement
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/1388
 @@||googletagmanager.com/gtm.js$script,redirect-rule,domain=rocketnews24.com
 
-! savevideo.me
+!g saucenao.com
+saucenao.com##+js(acis, document.createElement, admiral)
+||cloudflareinsights.com^
+||pub.network^
+
+!g savevideo.me
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
 ||acdcdn.com^
 savevideo.me##.ads
@@ -5354,7 +5358,7 @@ realtime-chart.info##.瓷估0吼价覿歐笂l亠II
 ssbsblg.blogspot.com##.btmads
 ssbsblg.blogspot.com##.sponserd
 
-! totv.org
+!g totv.org
 ! https://github.com/uBlockOrigin/uAssets/issues/8461
 totv.org###ad
 
