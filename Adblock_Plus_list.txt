@@ -2923,13 +2923,22 @@ wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ||dmm.co.jp/images/affiliate_banner/
 ||dmm.co.jp/af/
 ||dmm.com/af/
-	!ブログパーツ
+!ブログパーツ
 ||dmm.com/photo/blog-parts/*&affiliate_id=
 ||dmm.co*/js/banner_placement.js?affiliate_id=
 ||dmm.co*/js/placement.js
 ##a[href*="dmm.ad-s.org"]
 p-town.dmm.com##.adnetwork-footer
 @@||pics.dmm.com/af/dmmad/*/dmm0*.jpg
+
+! --- doucolle.net --- !
+||doucolle-kako.livedoor.biz/pick-dmm.html
+||doucolle-kako.livedoor.biz/dmm_
+||doucolle-kako.livedoor.biz/rss/dmm/
+||doucolle-kako.livedoor.biz/kiji_link/kiji_link.html
+doucolle.net##iframe[src="http://doucolle-kako.livedoor.biz/pick-top_02.html"]:style(height: 1536px !important;)
+doucolle.net##.ad2
+doucolle-kako.livedoor.biz###l_info > li:nth-last-child(-n+6)
 
 ! --- dtiblog --- !
 ||dtiserv.com^$third-party
