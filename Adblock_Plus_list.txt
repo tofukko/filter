@@ -3475,6 +3475,16 @@ jav.guru##.alignnone
 2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp#?#.plugin-memo:-abp-has(> .sidetitlebody > .sidetitle:-abp-contains(/^スポンサード?(リンク)?[1-9０-９]?$/))
 2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blog.livedoor.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##+js(nostif, floatingAd)
 
+! --- m4ex.com --- !
+||m4ex.com/m4ex_box/frame/waf_
+m4ex.com###leftbar > [id^="text-"]
+m4ex.com###scrollbar-left
+m4ex.com###scrollbar-right
+m4ex.com###the-content > center > div[style="margin-top: 4px;"]
+m4ex.com##.inmaincmframe
+m4ex.com##.inmaincmframe ~ div
+m4ex.com##.kadomaru.move
+
 !g --- manga --- !
 /prebidlink/*
 /api/spots/*&ev$script
