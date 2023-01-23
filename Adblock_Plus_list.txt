@@ -1521,11 +1521,6 @@ dan-ball.jp##[class^="ad_div_"]
 db.msin.jp##.pr
 ddnavi.com##.ad-twoside
 ddnavi.com##[style="font-family:Gill Sans;font-size:12px;line-height:12px;color:#CCC;text-align:center;margin:0 0 5px;clear:both;"]
-denfaminicogamer.jp###pc_article_billboard
-	news.denfaminicogamer.jp###ad_jack
-	news.denfaminicogamer.jp##.amazon-wdgt-wrap
-	wiki.denfaminicogamer.jp###ad-wiki-content-lower
-	wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 dengekionline.com##.gAdBanner.u-mbM
 dengekionline.com##.gAdBanner-pickUp
 dengekionline.com##.gMovBox.u-mtbS
@@ -2901,6 +2896,14 @@ coolrom.com.au##td[style="margin:0px;padding:0px;"][width="336"]
 coolrom.com.au##td[colspan="2"][width="100%"][bgcolor="#000000"][align="center"]
 coolrom.com.au##div[style="min-height:250px;"]
 coolrom.com.au##+js(set-constant, time, 0)
+
+! --- denfaminicogamer.jp --- !
+||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/js/ranking.js
+||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/ad-jack.js?
+news.denfaminicogamer.jp##.amazon-ranking
+news.denfaminicogamer.jp###pc_article_billboard
+wiki.denfaminicogamer.jp###ad-wiki-content-lower
+wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 
 ! --- dmm --- !
 ||aztool.org$third-party
