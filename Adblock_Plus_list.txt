@@ -680,6 +680,7 @@ _ads.js.
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
 ||piapro.jp/images/ads/
+||python.jp/ext/$xmlhttprequest
 ||server-navi.info/cgi/book_
 ||sexyvoice.org/banner/
 ||share-videos.se/js/pjs.js
@@ -2320,6 +2321,8 @@ privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
 pulpxstyle.com##.adsbygoogle:upward(1)
 puyogo.app##.pr-twitter
+python.jp##.affi_title
+python.jp##.bottom-container
 qiita.com##.p-items_main > div[class^="css-"]:has(div[id^="dfp-slot-"])
 qiita.com##[id^="dfp-slot-"]
 qiita.com##[class^="css-"]:-abp-has(> [id$="-side-ad"])
