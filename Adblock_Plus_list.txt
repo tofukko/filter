@@ -5248,14 +5248,6 @@ connect.coron.tech###sub div[style$="text-align:center;"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 egotter.com##[id^="async-adsense-"]
 
-! f.tabtter.jp
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=f.tabtter.jp
-f.tabtter.jp###scol:style(height: calc(100% - 34px) !important;)
-f.tabtter.jp###scol-inner:style(overflow: hidden !important; height: 80px !important;)
-f.tabtter.jp###scolcont:style(height: calc(100% - 34px - 80px) !important;)
-f.tabtter.jp###scolpanel[style="display: none;"] + #scolmain:style(height: 100%!important; overflow-y: auto !important;)
-f.tabtter.jp###scolpanel:not([style="display: none;"]) + #scolmain:style(height: calc(100% - 20px) !important; overflow-y: auto !important;)
-
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 ff14angler.com#@#script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
