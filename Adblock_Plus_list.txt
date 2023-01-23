@@ -2353,6 +2353,7 @@ reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][
 rollingstonejapan.com##.addHead
 rollingstonejapan.com##.addSide
 rollingstonejapan.com##.articleDetailAdd
+roomclip.jp###pc_billboard
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 roote.ekispert.net##.banner_area
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a61e5b8483323573d22fbae6921b7c1c163e5437
