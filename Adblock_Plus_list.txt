@@ -2195,8 +2195,7 @@ news-postseven.com##div[style*="min-height: 250px"]
 news24.jp###adText01
 news4wide.net##.wipe-ad-div-class
 newser.cc##.ad
-newswitch.jp##.banner-top
-newswitch.jp##[id^="JP_NS_PC_all_"]
+newswitch.jp##.banner
 nhentai.net##.advertisement
 nhentai.net##+js(nowoif)
 nicofinder.net###video-ichiba
