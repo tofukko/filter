@@ -1711,6 +1711,11 @@ gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
 glosbe.com###topBannerContainer
 glosbe.com##.right-sidebar-ads-container
+goal.com##.aside_ad-rail__cawG6
+goal.com##.commercial
+goal.com##.component-ad
+goal.com##[data-name="ad-leaderboard"]
+goal.com##:matches-path(/jp/)div[class^="fc-player_fc"]
 gogo.gs##.ad
 gogo.gs##.ad3
 golfdigest.co.jp###adsYahoo
