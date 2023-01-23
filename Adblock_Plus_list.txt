@@ -2227,6 +2227,8 @@ novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 npn.co.jp##.bnr
 nuwton.com##[class*="banner-"]
+nyahentai.re##.asmr18
+nyahentai.re##.tablink
 o-dan.net###spgLoadAd
 	clone.o-dan.net##.apiRsltAd
 	clone.o-dan.net##.apiRsltFigAd
