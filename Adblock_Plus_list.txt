@@ -1610,9 +1610,6 @@ fashionsnap.com###mainArticleBottom_rightUnit
 fashionsnap.com###mainFooterUnit
 fashionsnap.com###mainTop_ATFUnit
 fashionsnap.com###sideTop_ATFUnit
-fate-twitter-matome.com###js-popup
-fate-twitter-matome.com###mainEntity > div:not(.clearfix):not(.meta-box)
-fate-twitter-matome.com###pc-text-widget
 favolog.org###side > div:first-child
 fgamers.saikyou.biz###ad-area-1
 fgamers.saikyou.biz###ad-area-2
