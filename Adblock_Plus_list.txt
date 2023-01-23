@@ -4091,6 +4091,7 @@ translate.weblio.jp##.flex-rectangle-ads-frame
 ! --- whotwi.com --- !
 whotwi.com###header_ad_area
 whotwi.com##.stats_ad_300x250_2
+whotwi.com##.tweets_list_ad_responsive
 bbs.whotwi.com##div[style="width: 728px;height:90px;margin: 0px auto 10px;"]
 hoihoi.whotwi.com##.ad_336x280
 ryokin.whotwi.com##.ad_300x250
