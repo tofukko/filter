@@ -5,6 +5,13 @@
 ! 最終更新 2023/01/23 15:33
 !
 
+!2023/01/23 2023年3月31日 GYAO! トレンドニュース 終了
+!https://gyao.yahoo.co.jp/thankyou
+gyao.yahoo.co.jp##.ad
+gyao.yahoo.co.jp##.yads-overlay
+gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
+@@||yimg.jp/bdv/yahoo/javascript/gyao/clover.js?
+
 !2022/12/20 2023年6月28日 ゲームアツマール終了
 !https://blog.nicovideo.jp/niconews/183352.html
 !アツマール
@@ -4221,9 +4228,6 @@ finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
 finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
 finance.yahoo.co.jp#?##contents-body + div > div:first-child > div > div:-abp-has([id^="ad_"])
 finance.yahoo.co.jp#?##contents-body + div > div:last-child > div:-abp-has([id^="ad_"])
-gyao.yahoo.co.jp##.ad
-gyao.yahoo.co.jp##.yads-overlay
-gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
 loco.yahoo.co.jp###yjAdsLrec
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsDetail)
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
@@ -5155,7 +5159,6 @@ ashemaletube.com##+js(aopr, open)
 @@||yimg.jp/bdv/yahoo/darla/*/darla-secure-beacons-min.js$domain=mail.yahoo.co.jp
 @@||yimg.jp/bdv/yahoo/darla/*/darla-dynamic-beacons-min.js$domain=mail.yahoo.co.jp
 @@||yimg.jp/bdv/yahoo/darla/*/darla-dynamic-rotation-min.js$domain=box.yahoo.co.jp
-@@||yimg.jp/bdv/yahoo/javascript/gyao/clover.js?
 	! https://github.com/hirorpt/filters/commit/5382bdeaf36476e17f5d8ab8f101c8ba26a3a7c9
 	! https://www.epson.jp/products/dreamio/ehtw8400/ 製品画像
 @@||yjtag.jp/tag.js$script,domain=www.epson.jp
