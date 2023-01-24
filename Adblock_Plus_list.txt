@@ -699,6 +699,7 @@ _ads.js.
 	||admesia.com^$third-party
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
 ||simozo.com/js/ad_
+||so-zou.jp/js/ads.js
 ||squallchannel.com/sqa.html
 ||squallchannel.com/squallch.html
 ||square-enix.com/common/templates/js/ad/
@@ -1135,6 +1136,7 @@ _analytics.js?
 ||shop-pro.jp/li.php?
 ||silk.woopieapi.com^$domain=woopie.jp
 ||sony.co.jp/ct/sc.js
+||so-zou.jp/js/ga.js
 ||smp.sankei.co.jp^
 ||square-enix.com/sitestratos/ss_squareenix.js
 ||toyokeizai.net/oo/
