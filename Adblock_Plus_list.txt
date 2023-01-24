@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/01/24 8:23
+! 最終更新 2023/01/24 20:27
 !
 
 !2023/01/23 2023年3月31日 GYAO! トレンドニュース 終了
@@ -644,7 +644,6 @@ _ads.js.
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||gyazo.com/direct_ads/
-||hentai-foundry.com/themes/default/js/activebar.js
 ||hinative.com/assets/banners/trek/
 ||homemate-research.com/js/ad/
 ||horne.red/banner/
