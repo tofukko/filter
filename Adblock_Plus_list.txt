@@ -4290,6 +4290,9 @@ movies.yahoo.co.jp###ad-lrec
 movies.yahoo.co.jp##[class^="overlay-ad_"]
 news.yahoo.co.jp##.adWrap
 search.yahoo.co.jp##.Ad
+! リアルタイム
+search.yahoo.co.jp##div[class^="Lrec_"]
+search.yahoo.co.jp##div[class*="Yda_"]
 soccer.yahoo.co.jp##.sc-lrec
 sports.yahoo.co.jp##.yf-lrec
 weather.yahoo.co.jp##.ad-frame-fix
