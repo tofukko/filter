@@ -2232,6 +2232,7 @@ news.tbs.co.jp##.cp-spAd
 news-postseven.com##.su-modal
 news-postseven.com##body[style^="overflow:"]:style(overflow: auto!important)
 news-postseven.com##div[style*="min-height: 250px"]
+news-us.org##.sponsored
 news24.jp###adText01
 news4wide.net##.wipe-ad-div-class
 newser.cc##.ad
