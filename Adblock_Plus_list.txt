@@ -1877,6 +1877,7 @@ jisin.jp##.add_left
 jisin.jp##.add_right
 jisin.jp###wrap:style(width: unset !important;)
 jitenon.jp##.ads_wraptop2
+jiwachan.net###ad884-div-id
 jm1xtk.com##.main-bottom-pc_ad
 jm1xtk.com##.side_ad
 jm1xtk.com##.web_adber-1
