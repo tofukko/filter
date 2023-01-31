@@ -2346,6 +2346,7 @@ pokemon-matome.net###header_rtranking:style(top: 120px !important;)
 pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
 poki.jp##[class^="Advertisement__"]
 popeyemagazine.jp##.ad
+pormo.me##.ads-text
 pouchs.jp##[style^="height:90px;width:728px;"]
 prcm.jp##.ad-rectangle
 privatter.net###right .hidden-print.clearfix + :is(table,div,p)
