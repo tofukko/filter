@@ -1309,6 +1309,7 @@ arban-mag.com##.side-banner
 arealme.com##.leader_ad_banner
 arealme.com##.lowerad
 arealme.com##div[style="margin:auto;width:100%;min-height:250px;"]
+artexhibition.jp##[class^="p-ads-"]
 arukumachikyoto.jp##.ad_header_frame
 arukumachikyoto.jp###ad_footer_space
 as-web.jp###imgUpperRectangle
