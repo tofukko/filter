@@ -1599,7 +1599,7 @@ ero-nuki.net##.movie_footer
 ero-nuki.net##.movie_header
 ero-shame.com##.bbsarea
 eroangle.net##.bbsarea
-eroanime-movie.com##.main-section:has(a[href^="https://2ji-planet.com/"])
+eroanime-movie.com#?#.main-section:-abp-has(a[href^="https://2ji-planet.com/"])
 eroanime-movie.com##.top-sponsored
 eroanime-movie.com##.top-section:style(grid-template-columns: minmax(180px, 1fr) !important;)
 erogamescape.dyndns.org###ad_right
@@ -1990,6 +1990,8 @@ karapaia.com##div[style="padding-top: 10px; height: 600px"]
 keisan-mondai.com##.head-ad
 keyakizaka46matomerabo.com##.ads
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
+kimootoko.net###custom_html-5
+kimootoko.net###custom_html-63
 kkbox.com##.google-ad-manager
 kobe-np.co.jp###prBox
 kobe-np.co.jp##[id^="browsi_adWrapper_"]
