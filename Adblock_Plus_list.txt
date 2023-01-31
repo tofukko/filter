@@ -2419,6 +2419,7 @@ ryutsuu.biz##.single-pc-advertisement
 ryutsuu.biz##.space-250
 ryutsuu.biz##.space-60
 ryutsuu.biz##.space-90
+sabuibo.net###entry-list > .entry-block:first-child
 saga-s.co.jp##.m-ad
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
