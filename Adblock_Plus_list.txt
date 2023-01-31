@@ -2049,6 +2049,7 @@ loveh.org##.toppr
 loveh.org##.videobottompr320x100
 loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
+lurenewsr.com##.ad_square_sidebar
 lyrical-nonsense.com#?#.lyricside:-abp-has(> [id^="ezoic-pub-ad-placeholder-"])
 lyrical-nonsense.com##.playblockbtmcon
 lyrical-nonsense.com##.responsive0inc
