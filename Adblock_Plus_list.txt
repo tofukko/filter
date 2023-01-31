@@ -3058,6 +3058,13 @@ dtiblog.com##script[src="https://xxx.dtiblog.com/pr_ad/ad.js"] + div[style="text
 ||ero-video.net/advert/*
 ero-video.net##+js(aeld, DOMContentLoaded, showPopUpBanner)
 
+! --- eromangajukujo.com --- !
+||eromangajukujo.com^*_head02.html
+eromangajukujo.com###container > table:last-of-type
+eromangajukujo.com##[name^="osusume"] + br
+eromangajukujo.com##[name^="osusume"] + br + br
+eromangajukujo.com##[name^="osusume"] + br + br + br
+
 ! --- eroterest.net --- !
 /kok/*$domain=eroterest.net
 ||okbp.xyz^
