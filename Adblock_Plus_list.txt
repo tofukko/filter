@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/01/24 20:27
+! 最終更新 2023/01/31 21:05
 !
 
 !2023/01/23 2023年3月31日 GYAO! トレンドニュース 終了
@@ -27,11 +27,6 @@ game.nicovideo.jp##+js(nano-stb, [native code], 15000)
 
 !2021/07/02
 ||adimg.net^
-
-!2022/05/23 2023年1月31日 ウェブリブログ終了
-!https://info.at.webry.info/
-	! https://github.com/tofukko/filter/issues/42
-@@||webryblog.biglobe.ne.jp/images/ad/$image,domain=webryblog.biglobe.ne.jp
 
 !2022/05/06
 /300x250.
