@@ -1593,6 +1593,8 @@ erogamescape.dyndns.org###ad_rudel_1
 erogamescape.dyndns.org###ad_rudel_2
 erogamescape.dyndns.org###adv_dmm
 erogamescape.dyndns.org###recent_recommendations
+erogazo-ngo.com###article_box > p:first-child > a
+erogazo-ngo.com##.post_content_ad
 erogazooo.club###top_pr
 erogazooo.club##.bbsarea
 erogazooo.club##.pcad
