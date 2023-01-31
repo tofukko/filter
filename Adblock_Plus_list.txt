@@ -1599,6 +1599,7 @@ erogamescape.dyndns.org###adv_dmm
 erogamescape.dyndns.org###recent_recommendations
 erogazo-ngo.com###article_box > p:first-child > a
 erogazo-ngo.com##.post_content_ad
+erogazoo555.com##.bbsarea
 erogazooo.club###top_pr
 erogazooo.club##.bbsarea
 erogazooo.club##.pcad
