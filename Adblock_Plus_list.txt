@@ -276,6 +276,7 @@ _ads.js.
 ||fout.jp^$third-party
 ||free-video-movie.com^$third-party
 ||fun9.net^$third-party
+||fuseplatform.net^
 ||fwmrm.net^$third-party
 ||fxjapan-inc.biz^$third-party
 ||gumgum.com^$third-party
@@ -2643,6 +2644,10 @@ twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; 
 twpro.jp##.ads-banner-box
 tyoieronews.blog.jp##a[href^="https://www.dlsite.com/"]
 tyoieronews.blog.jp##table[summary="DMM"]
+umamusume.net###amabox
+umamusume.net##.ad-inner-pc
+umamusume.net##.ad8
+umamusume.net##.pc-first
 unityroom.com##.bl_adunit
 uptodown.com##.ad
 uraaka.com##.ad-overlay
