@@ -2368,6 +2368,8 @@ recipekensaku.com##.adsense-card
 reddit.com##.promotedlink
 reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
+refind2ch.org##.ad_overlay
+refind2ch.org##[class^="ads_"]
 renote.net##.ad__bit
 renote.net##[class$="__ad__container"]
 repeat-drama.info##.ad
