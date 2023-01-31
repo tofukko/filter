@@ -626,6 +626,7 @@ _ads.js.
 ||eromanga-life.com/life.$subdocument
 ||estar.jp/page/ad/
 ||fategrandorder.info/html/js/ad_
+||fc2.com/b/i/k/bikyakudaimaou/ad-$domain=bikyakudaimaou.com
 ||fod.fujitv.co.jp/mz/
 ||gakuryou.net/fb/
 ||gakuryou.net/right-banner/
@@ -1393,6 +1394,9 @@ bikebros.co.jp##.ad
 bikebros.co.jp##.adsw
 bikebros.co.jp##.breadcrumb:style(margin-top: 20px !important;)
 bike-news.jp##.left.box300
+bikyakudaimaou.com###first > .plugin1_outline:nth-of-type(-n+2)
+bikyakudaimaou.com#?##main > .plugin3_outline:-abp-has(> .plugin3_title)
+bikyakudaimaou.com###second > .plugin2_outline:nth-of-type(1)
 bing.com##.b_ad:remove()
 bioweather.net##.ad
 bizspa.jp###innerAdsense
