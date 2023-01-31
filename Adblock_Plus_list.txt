@@ -2656,9 +2656,6 @@ uraaka.com##body:style(overflow-y: auto !important;)
 urbanlife.tokyo##[class^="fluct-unit-"]
 ure.pia.co.jp###wrapper #button_id
 ure.pia.co.jp###wrapper #anchor_i
-userscript.zone##.searcad
-	||tampermonkey.net/s.js?$domain=userscript.zone
-	||userscript.zone/s.js?$domain=userscript.zone
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
@@ -4139,6 +4136,11 @@ twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##[dat
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##nav + section > div[aria-label] > div > div[style^="transform"] h2 > div[style^="-webkit-line-clamp"] > span:has-text(/^(?:Promoted Tweet|プロモツイート|Promowany Tweet)$/):upward(3)
 twitter.com##[data-testid="tweet"] [d$="10H8.996V8h7v7z"]:upward([data-testid="tweet"])     
 twitter.com##[data-testid="UserCell"] [d$="10H8.996V8h7v7z"]:upward([data-testid="UserCell"])
+
+! --- userscript.zone --- !
+||tampermonkey.net/s.js?$domain=userscript.zone
+||userscript.zone/s.js?$domain=userscript.zone
+userscript.zone##.searcad
 
 ! --- vector.co.jp --- !
 vector.co.jp###adBox
