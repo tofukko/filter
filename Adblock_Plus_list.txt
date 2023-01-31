@@ -1437,6 +1437,7 @@ cartoonnetwork.jp##.campad
 cartoonnetwork.jp##.skyscraper
 casabrutus.com##[id^="ads-"]
 cat.sc##.adsense
+cavolump.com##.pick_news
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
 ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
