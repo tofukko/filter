@@ -2624,6 +2624,7 @@ utaten.com###sidebar > .MediumRectangleBanner
 utaten.com##.sideBySideBanner
 valorantnews.jp##.header-cls
 vidoza.net##.pvr
+vipcle2.com###text-23
 vippers.jp##.ad
 vippers.jp##.blog-card-gtm > .blog-card.pr
 vivi.tv##.adsArea
