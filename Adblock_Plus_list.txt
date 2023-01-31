@@ -1597,7 +1597,7 @@ erogazooo.club###top_pr
 erogazooo.club##.bbsarea
 erogazooo.club##.pcad
 erogazopple.com###single-content > [id^="text-"]
-erogazoufactory.com###content [id^="text-"]
+erogazoufactory.com###main-top-widget > [id^="text-"]
 eroido.jp##[class^="adv_"]
 eromazofu.com##.c_c_t_w
 exhentai.org###spa
