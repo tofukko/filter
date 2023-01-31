@@ -2243,10 +2243,9 @@ nijie.info,horne.red###footer-banner
 nijie.info,horne.red###header_banner_wrapper
 nijie.info,horne.red##.left_column
 nijie.info##._ad, [href^="/ad.php"]
-! スマホ
-sp.nijie.info###header_ad
-sp.nijie.info###inter_background
-sp.nijie.info###tieup_column
+nijifeti.com##.\33 00250box
+nijifeti.com##.osu2
+nijifeti.com##.topdmm
 nishinippon.co.jp##.c-ad-side
 northwood.blog.fc2.com#?#.menuBlockBase:-abp-has(> .menuBlockHead > .menuTitle:-abp-contains(PCパーツショップ))
 novel.prcm.jp##.app-scroll-lock:style(position: relative !important;)
