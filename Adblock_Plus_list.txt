@@ -2202,6 +2202,8 @@ nc-net.or.jp##.box-pr-image-01
 nengaya.net###HTML1
 nengaya.net##[class^=entryadwrapper]
 net-rabo.work##.ad
+newero1.blog.fc2.com###sub-ad
+newero1.blog.fc2.com##.pompass
 news.ameba.jp##[class^="AdGoogle__"]
 news.ameba.jp##[class^="SpAd"][class*="Module__container--"]
 news.dwango.jp##.bnrs
