@@ -1196,6 +1196,9 @@ _analytics.js?
 ##.t_h ~ .t_b ~ [href^="https://www.amazon.co.jp/"]
 ##.t_h ~ .t_b ~ .amazon
 
+!----rakuten
+##.sidewrapper a[href*=".afl.rakuten.co.jp"]
+
 !----e-nls
 ~e-nls.com##.plugin-freearea a[href*="e-nls.com/access"]
 ~e-nls.com##.sidewrapper a[href*="e-nls.com/access"]
