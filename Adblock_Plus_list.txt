@@ -303,6 +303,7 @@ _ads.js.
 ||krxd.net^$third-party
 ||ladmp.com^$third-party
 ||ladsp.com^$third-party
+||lamp-shade.net^
 ||leaffi.jp^$third-party
 ||liftdna.com^$third-party
 ||link-a.net^$third-party
