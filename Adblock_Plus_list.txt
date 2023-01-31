@@ -1553,6 +1553,13 @@ diskgarage.com##.cm_ads
 dl-x.com##._ad
 dl-x.com##.vip-center
 dotpict.net##[id^="ads"]:upward(1)
+douga100ka.jp##.ad_index_main_base
+douga100ka.jp##.ad_item_head
+douga100ka.jp##.contents_ad01
+douga100ka.jp##.news_ad
+douga100ka.jp##.title_ad01
+douga100ka.jp##div[style="margin-bottom:10px;"] > [href^="https://al.dmm.co.jp/"]
+douga100ka.jp##table[bgcolor="#ff8000"]
 downdetector.com##.ad
 downtownreport.net##.ad_overlay
 dqw-game.com##.wrap-ad-common
