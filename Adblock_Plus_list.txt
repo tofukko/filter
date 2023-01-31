@@ -3460,16 +3460,16 @@ kissanime.digital##main + script + div[class]
 ||viatepigan.com^
 
 ! kissanime. nz scammy 3p scripts
-kissanime.*##+js(acis, String.fromCharCode, /btoa|break/)
 kissanime.*###upgrade_pop
 embed.streamx.me##+js(noeval-if, debugger)
-||kissanime.*/api/pop.php$xmlhttprequest,1p
-||kissasian.*/api/pop.php$xmlhttprequest,1p
-||ad.kissasian.*^$script,1p
-||kisscartoon.*/api/pop.php$xmlhttprequest,1p
-||ad.kisscartoon.*^$script,1p
-||kisstvshow.*/api/pop.php$xmlhttprequest,1p
-||ad.kisstvshow.*^
+||kissanime.*/api/pop*$xmlhttprequest,~third-party
+||kissasian.*/api/pop.php$xmlhttprequest,~third-party
+||ad.kissasian.*^$script,~third-party
+||kisscartoon.*/api/pop.php$xmlhttprequest,~third-party
+||ad.kisscartoon.*^$script,~third-party
+
+! https://github.com/uBlockOrigin/uAssets/issues/12570
+/api/popv2.php$xmlhttprequest,~third-party
 
 ! https://github.com/uBlockOrigin/uAssets/issues/7308
 streamtape.*,streamta.pe,strtape.*##+js(acis, document.createElement, 'script')
