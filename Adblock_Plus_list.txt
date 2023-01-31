@@ -3711,6 +3711,12 @@ minpachi.com##.ad1
 minpachi.com##.ad2
 minpachi.com###text-13
 
+! --- moeclo.ldblog.jp --- !
+||blog.livedoor.jp/moeclo/topad01.html$domain=moeclo.ldblog.jp
+||moeclo.ldblog.jp/livedoorad/
+||moeclo.ldblog.jp/topad01.html
+moeclo.ldblog.jp###main_head_ad
+
 ! --- mozakin.com --- !
 mozakin.com##body > div > div[style="height: 300px;"]
 mozakin.com##body > div > div[style="height: 840px; padding: 6px; margin: 0px 0px 16px;"]
