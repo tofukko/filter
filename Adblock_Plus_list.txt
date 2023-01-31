@@ -4677,11 +4677,9 @@ bipblog.com###BottomAmazon
 bipblog.com##.amachazl-box
 
 !fig速
-||figsoku.net/rank/load.php?
-figsoku.net###recommend
-figsoku.net##.ama:nth-of-type(1)
+||ota-goods.info/json/widget.php?$xhr,domain=figsoku.net
 figsoku.net##.gad
-figsoku.net#?#.pluginWrap:-abp-has([rel="noopener noreferrer"])
+figsoku.net##.sum
 figsoku.net##.shop
 figsoku.net##.wama
 figsoku.net##.textwidget [href^="http://px.a8.net/svt/ejp"]
