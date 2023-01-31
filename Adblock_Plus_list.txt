@@ -4615,6 +4615,7 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 ||asumi.shinobi.jp^
 ###ninja-hp-inactive
 ###ninja-hp-inactive-footer
+##.admax-ads
 ##.tdftad
 /bin/ll?
 .jp/ufo/$third-party
