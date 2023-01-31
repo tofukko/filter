@@ -1318,6 +1318,8 @@ as-web.jp##.p-bannar_payment_old
 ascii2d.net##.com
 ascii.jp##.ad
 ascii.jp##.ad_gam
+! jack
+ascii.jp###sitejack
 ashinari.com##[class^="area-bnr"]
 at-s.com##._bnr
 at-s.com##.bnr_popup01
