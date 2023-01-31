@@ -578,6 +578,7 @@ _ads.js.
 ||akiba-souken.com/js/ad_
 ||akiba-souken.com/js/ad/
 ||angel-bbs.com/ssi/koukoku_
+||anicobin.ldblog.jp/ama_af.html
 ||anitubu.com/amazon_category/
 ||anitubu.com/wp-content/themes/simplicity2-child/amazon_rank.js
 ||anyporn.com/aa/
@@ -1279,6 +1280,10 @@ altema.jp##.tableLine.PRrank-icon2
 altema.jp##[id^="ads_area_"]
 ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
+anicobin.ldblog.jp###ad_area
+anicobin.ldblog.jp##.article_inline_ad_more
+anicobin.ldblog.jp##.rss-wrapper2:style(padding-bottom: 0 !important;)
+anicobin.ldblog.jp##.top-article-ad
 animageplus.jp##.addHead
 animageplus.jp##.addSide
 animageplus.jp##.articleDetailAdd
