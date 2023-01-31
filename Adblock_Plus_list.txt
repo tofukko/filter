@@ -2926,6 +2926,12 @@ globe.asahi.com##.module-side-notice
 ! プレイヤー
 asg.to##+js(window.open-defuser)
 
+! --- asianoneta.blog.jp --- !
+||asianoneta.blog.jp/js/side_f_w.js
+||asianoneta.blog.jp/js/smf
+asianoneta.blog.jp##.ad
+asianoneta.blog.jp##.ad_topress
+
 ! --- benesse.ne.jp --- !
 benesse.ne.jp##[id^="div-M_MD_"][id*="_fluid_"]
 benesse.ne.jp##div[style^="height: 250px"]
