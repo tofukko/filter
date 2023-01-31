@@ -614,11 +614,10 @@ _ads.js.
 ||dlsite.com/js/blogparts.js
 ||dmm.co.jp^$domain=jp-xvideos.info
 ||e-typing.ne.jp/app/ad_
-||eegg.fun/ad_html/
-||eegg.fun/iframe/
-||eegg.fun/js/ad_
-||eegg.fun/js/ad3.js?
-||eegg.fun/js/delay_ad.js?
+||eegg.*/ad_html/
+||eegg.*/js/ad_
+||eegg.*/js/ad6.js?
+||eegg.*/js/delay_ad.js?
 ||egone.org/js/amazon_
 ||enoge.org/js/amazon_
 ||erologz.com/campaign
