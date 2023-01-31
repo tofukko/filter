@@ -589,6 +589,7 @@ _ads.js.
 ||benricho.org/2017js/sidebar-amazon.js
 ||benricho.org/2017js/sidebar_googlead.js
 ||benricho.org/AD_Tag/
+||billboard-japan.com/common/google_banner.html
 ||blog.with2.net/ad_frame.php?
 ||buhidoh.net/uploads/setting/$subdocument
 ||chaberi.com/html/br/
