@@ -156,6 +156,9 @@ _ads.js.
 ://ads.$third-party
 
 -ad.com^$third-party
+	!||fam-ad.com^$third-party
+	!||storage-ad.com^
+	!||smac-ad.com^
 -ad.net^$third-party
 -ads.com^$third-party
 
