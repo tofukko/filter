@@ -2152,6 +2152,7 @@ mixch.tv##.footer_ad
 mixi.jp##.adsenseBannerArea
 mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
+moeasia.net##.abox
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
