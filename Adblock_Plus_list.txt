@@ -2215,6 +2215,9 @@ nengaya.net##[class^=entryadwrapper]
 net-rabo.work##.ad
 newero1.blog.fc2.com###sub-ad
 newero1.blog.fc2.com##.pompass
+news.2chblog.jp###side-r:style(position: static!important;)
+news.2chblog.jp##.article-body-inner > table[width="750"][height="320"]
+news.2chblog.jp##.kjs
 news.ameba.jp##[class^="AdGoogle__"]
 news.ameba.jp##[class^="SpAd"][class*="Module__container--"]
 news.dwango.jp##.bnrs
