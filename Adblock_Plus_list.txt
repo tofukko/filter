@@ -2606,6 +2606,7 @@ tozanchannel.blog.jp##div[style^="text-align: center; margin-bottom:"]
 traicy.com##.pc-ad
 traicy.com##.pc-ad-wide
 travelbook.co.jp##.adsense
+trend-at-tv.com##div[style="min-height: 120px; padding-top: 10px"]
 tripadvisor.jp##.ad
 tsuiran.jp##article:not([id]):not([class])
 tsumanne.net###amazon
