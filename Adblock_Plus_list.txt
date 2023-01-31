@@ -1593,6 +1593,7 @@ ero-nuki.net##.movie_bottom_osusume
 ero-nuki.net##.movie_footer
 ero-nuki.net##.movie_header
 ero-shame.com##.bbsarea
+eroangle.net##.bbsarea
 erogamescape.dyndns.org###ad_right
 erogamescape.dyndns.org###ad_rudel_1
 erogamescape.dyndns.org###ad_rudel_2
