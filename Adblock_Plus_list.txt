@@ -2390,6 +2390,13 @@ roote.ekispert.net##.banner_area
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a61e5b8483323573d22fbae6921b7c1c163e5437
 roote.ekispert.net###bottom_area:style(height: 1px!important)
 rrpg.jp##[id^="adsense_"]
+russianbeauties.jp###dmm-bottomad-column
+russianbeauties.jp###extra-column > [class$="corner"]
+russianbeauties.jp###primary-column > .section:not([id])
+russianbeauties.jp###secondary-column > [class$="corner"]
+russianbeauties.jp##.article-ad-image
+russianbeauties.jp##.banner
+russianbeauties.jp##a[href^="https://lkstrck2.com/"]
 ryukyushimpo.jp###bn-area
 ryukyushimpo.jp##.alertPr
 ryukyushimpo.jp##.alertPrDetail
