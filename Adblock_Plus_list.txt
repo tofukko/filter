@@ -656,8 +656,6 @@ _ads.js.
 ||kakijun.jp/js/u_kakijun_books%
 ||kidslink.jp/cgi-bin/esb/main.cgi?
 ||kidslink.jp^*/dummy.html
-||koepota.jp/img/ad/
-||koepota.jp/js/amazon.js
 ||kokuban.in/ad/
 ||kooss.com/*.htm$subdocument
 ||kuchi.info/image/bana/
