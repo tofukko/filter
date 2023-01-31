@@ -2291,6 +2291,7 @@ pakutaso.com##.banner
 pakutaso.com##.l-sidebar > .sidebarBlock:first-child
 pakutaso.com##.sidebarBlock[style^="min-height:"]
 pakutaso.com#?#.block__content:-abp-has(> .adsbygoogle)
+panchiragazoumania.com###center > .plugin3_outline
 parlourfullslotl.com###scrollad
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has(> a[href^="https://www.amazon.co"])
 pashplus.jp##.google_ads
