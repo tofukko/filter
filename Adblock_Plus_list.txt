@@ -3183,7 +3183,7 @@ www.ocn.ne.jp##.banner
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js:5
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
 ||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
-||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js:5
+||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js:5
 ||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5
 ||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
