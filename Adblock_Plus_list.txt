@@ -599,6 +599,9 @@ _ads.js.
 ||blog.with2.net/ad_frame.php?
 ||buhidoh.net/uploads/setting/$subdocument
 ||chaberi.com/html/br/
+||chil-chil.net/banner_img/renta/
+||chil-chil.net/cpAdShow/
+||chil-chil.net/restGetAdBanner/
 ||chixi.jp/img.php?filename=b
 ||chosunonline.com/common/ifr01/
 ||cinematoday.jp/widgets/
