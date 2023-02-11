@@ -4304,6 +4304,9 @@ trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 ##.cps-post div[id*="-"][class*="-"][class*="%e"]
 ##div[class][data-index][style^="float: none; margin:"]
 
+art.blog,business.blog,car.blog,code.blog,data.blog,design.blog,family.blog,fashion.blog,finance.blog,fitness.blog,food.blog,game.blog,health.blog,home.blog,law.blog,movie.blog,music.blog,news.blog,photo.blog,poetry.blog,politics.blog,school.blog,science.blog,sport.blog,tech.blog,travel.blog,video.blog,water.blog###marketingbar
+art.blog,business.blog,car.blog,code.blog,data.blog,design.blog,family.blog,fashion.blog,finance.blog,fitness.blog,food.blog,game.blog,health.blog,home.blog,law.blog,movie.blog,music.blog,news.blog,photo.blog,poetry.blog,politics.blog,school.blog,science.blog,sport.blog,tech.blog,travel.blog,video.blog,water.blog##html:style(margin-top: 0 !important;)
+
 /aurora-heatmap/*
 /aurora-heatmap-
 /event-tracking.js?
