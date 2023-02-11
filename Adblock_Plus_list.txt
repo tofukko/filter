@@ -5246,6 +5246,9 @@ ashemaletube.com##+js(aopr, open)
 @@||linksynergy.com/minified_logic.js$xmlhttprequest,third-party
 	! https://github.com/tofukko/filter/issues/38
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+        ! https://github.com/tofukko/filter/issues/80
+@@||livefans.jp^*_728_90.$image,domain=livefans.jp
+@@||livefans.jp^*_728x90.$image,domain=livefans.jp
 	! https://github.com/tofukko/filter/issues/56
 @@||log000.goo.ne.jp/gcgw.js$script,domain=nttxstore.jp
 	! https://github.com/tofukko/filter/issues/76
