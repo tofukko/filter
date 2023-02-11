@@ -2500,6 +2500,7 @@ scawaiiweb.com##.add
 scawaiiweb.com##.addHead
 scawaiiweb.com##.addSide
 scawaiiweb.com##.top_ads
+scienceplus2ch.com##.wipe-ad-div-class
 seijiyama.jp###ad-two-center
 seijiyama.jp##.koukoku1
 seijiyama.jp##.koukoku2
