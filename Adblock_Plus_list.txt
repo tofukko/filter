@@ -2214,6 +2214,7 @@ muragon.com##.footer-adarea
 muragon.com##[class^="adarea"]
 musmus.main.jp##div[class*="ad_"]
 musmus.main.jp##div[id^="sub_ad"]
+mutyun.com##.amazon-auto-links-widget
 muvc.net##body > div[align="right"]:last-of-type
 myjitsu.jp##.ad-box
 myjitsu.jp##[id^=related-post-ad]
