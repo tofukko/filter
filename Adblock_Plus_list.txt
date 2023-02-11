@@ -1177,9 +1177,6 @@ _analytics.js?
 ###geniee_overlay
 ###geniee_overlay_outer
 
-! wix.com
-###WIX_ADS
-
 ! criteo
 ##div[id^="crt-"][style]
 ##script[src$="//static.criteo.net/js/ld/publishertag.js"] + div[id][style*="width:"][style*="height:"]
@@ -4250,6 +4247,11 @@ hoihoi.whotwi.com##.ad_336x280
 ryokin.whotwi.com##.ad_300x250
 trends.whotwi.com##div[style="width: 728px;height:90px;margin: 20px auto 20px;"]
 trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
+
+
+! --- wix.com --- !
+###WIX_ADS
+wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height: 0px !important;)
 
 ! --- WordPress --- !
 /ad-inserter-
