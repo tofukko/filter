@@ -2028,6 +2028,7 @@ kobe-np.co.jp##.bottomPrArea
 kobe-np.co.jp##div[id^="knpc-"]
 kochinews.co.jp###sb3
 kochinews.co.jp##.ad-box
+koe-koe.com##[id$="_ad"]
 kokopyon.net##.ad
 kokuban.in##div[style="margin-top:15px; padding:5px 0px; text-align:center; font-size:10px; border-top: 1px dashed gray;"]
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
