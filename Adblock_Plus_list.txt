@@ -2575,6 +2575,7 @@ swiki.jp##.rkmark
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
+tabelog.com##.rstdtl-cmad
 tabelog.com##.side-adbanner-wrap
 tabelog.com##[class^="ad-min-size-"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
