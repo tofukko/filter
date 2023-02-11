@@ -1693,6 +1693,7 @@ fujitv.co.jp###fp-bhp-rectangle
 fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
 gaccom.jp##.ads
+gahalog.2chblog.jp###sidebar:style(position: static !important;)
 gakuryou.net##[id^="ADw"]
 game-log.com###amazon
 game8.jp##.l-jack__top_container
