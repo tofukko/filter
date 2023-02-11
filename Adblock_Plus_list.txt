@@ -686,7 +686,6 @@ _ads.js.
 ||muragon.com/js/replace-afp-ad.js?
 ||muvc.com/winopen.js$domain=muvc.net
 ||muvc.com/winlayer.jse$domain=muvc.net
-||news4wide.up.seesaa.net/image/loopad*$subdocument,domain=news4wide.net
 ||newsweekjapan.jp/images/bnr/newsweek_ad_
 ||nijie.info/js/ad.js?
 ||nijie.net/*/banner/
@@ -4130,6 +4129,7 @@ emu.web-g-p.com##.set_wrapper
 ||bblog.sso.biglobe.ne.jp/js/insert-ad.js
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
+||seesaa.net/image/loopad*$subdocument,third-party
 ||t.seesaa.net^
 ###ad-60days-area
 ###overlay-ad-div-id
