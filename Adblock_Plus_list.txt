@@ -2468,6 +2468,7 @@ sabuibo.net###entry-list > .entry-block:first-child
 saga-s.co.jp##.m-ad
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
+sakigake.jp###sakigake_pc_all_header:upward(1)
 sanabo.com##.add
 sanspo.com##.article__inline-ad
 sanyonews.jp##.ad_space
