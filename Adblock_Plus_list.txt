@@ -3822,7 +3822,9 @@ news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !imp
 ! --- nan-net.com --- !
 ||mbadw.nan.co.jp^
 ||mbadv.nan.co.jp^
+||nantv.com^*/bestad.html
 ||tool2.nan-net.com/exposure.jpg
+adacomi.com###banner
 nan-net.com###banner
 nan-net.com#?#div[style$="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]:-abp-has([src^="//adm.shinobi.jp"])
 comic.nan-net.com###tuibi > ul > .sidebar-widget:first-child
