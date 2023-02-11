@@ -2027,6 +2027,8 @@ karapaia.com##[id^="karapaia_"]
 karapaia.com##[class^=ads-label]
 karapaia.com##div[style="padding-top: 10px; height: 600px"]
 keisan-mondai.com##.head-ad
+kenjyaegg.livedoor.blog##.ad_1
+kenjyaegg.livedoor.blog##.kiji_ad01
 keyakizaka46matomerabo.com##.ads
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
 kimootoko.net###custom_html-5
