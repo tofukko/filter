@@ -625,6 +625,7 @@ _ads.js.
 ||erologz.com/campaign
 ||eromanga-life.com/life.$subdocument
 ||estar.jp/page/ad/
+||equity.jiji.com/storage/banner/
 ||fategrandorder.info/html/js/ad_
 ||fc2.com/b/i/k/bikyakudaimaou/ad-$domain=bikyakudaimaou.com
 ||fod.fujitv.co.jp/mz/
