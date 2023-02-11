@@ -698,6 +698,7 @@ _ads.js.
 ||photozou.jp/script/ad_sticky.js?
 ||piapro.jp/images/ads/
 ||python.jp/ext/$xmlhttprequest
+||scienceplus2ch.up.seesaa.net/common/sitejack.js$domain=scienceplus2ch.com
 ||server-navi.info/cgi/book_
 ||sexyvoice.org/banner/
 ||share-videos.se/js/pjs.js
