@@ -1942,6 +1942,8 @@ jp.wazap.com##.bodyFootBanner
 jp.wazap.com##.fullBanner
 jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
+jpnumber.com###sponsor-link
+jpnumber.com##.adsline
 jprime.jp##div[style="min-height:250px;"]
 jpshowbiz.us##.video-plugin-div
 jpshowbiz.us##+js(nostif, alert)
