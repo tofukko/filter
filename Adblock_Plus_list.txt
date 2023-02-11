@@ -1855,6 +1855,8 @@ huffingtonpost.jp##.right-rail-sticky__native-ad-container
 i-njoy.net##.mobhalf
 i-voce.jp##.VcAdvertisement
 iconbox.fun##.ad01
+ibarakinews.jp##.l-ad32
+ibarakinews.jp##.textad_box
 idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
 idol-blog.com##[id^="post-"] + .box ~ div
