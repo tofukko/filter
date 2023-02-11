@@ -2411,6 +2411,7 @@ puyogo.app##.pr-twitter
 python.jp##.affi_title
 python.jp##.bottom-container
 qiita.com##.p-items_main > div[class^="css-"]:has(div[id^="dfp-slot-"])
+qiita.com#?#div[id^="New2HomeTrendPage-"] > div[class] > div[class] > div[class]:-abp-has(> div#trend-side-ad:only-child)
 qiita.com##[id^="dfp-slot-"]
 qiita.com##[class^="css-"]:-abp-has(> [id$="-side-ad"])
 ! logly
