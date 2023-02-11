@@ -651,6 +651,7 @@ _ads.js.
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
 ||gyazo.com/direct_ads/
+||himasoku.com^$subdocument,~third-party
 ||hinative.com/assets/banners/trek/
 ||homemate-research.com/js/ad/
 ||horne.red/banner/
