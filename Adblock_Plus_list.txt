@@ -348,6 +348,7 @@ _ads.js.
 ||peer39.net^$third-party
 ||pgmediaserve.com^$third-party
 ||pinpointdmp.com^$third-party
+||polymorphicads.jp^$third-party
 ||pompass.net^$third-party
 ||pop6.com^$third-party
 ||ppc-direct.com^$third-party
@@ -1238,8 +1239,10 @@ _analytics.js?
 48idol.tv##.pum-overlay
 48idol.tv##.pum-open-overlay:style(overflow: auto!important;)
 4gamer.net##.ad_top
+4gamer.net##.affiliate
 4gamer.net##.banner_left_4g
 4gamer.net##.hot_game_now
+4gamer.net##.JS_BANNER
 4gamer.net##.medipartner:style(position: static !important;)
 4gamer.net##.sidetop
 4gamer.net##.satellite_banner
