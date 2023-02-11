@@ -730,6 +730,7 @@ _ads.js.
 ||vcomi.jp/page_ad/
 ||vokka.jp/packs/js/ads-
 ||vsnp.up.seesaa.net/image/loopadpc$domain=vsnp.net
+||vtubernews.jp/link/amazonlink.js
 ||wanchan.jp/js/text_ad.js
 ! 例のアレ
 ||webnewtype.com/img/pc/common/spacer1.gif
