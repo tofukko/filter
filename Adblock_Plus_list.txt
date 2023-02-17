@@ -4126,8 +4126,6 @@ websearch.rakuten.co.jp###ads-billboard
 
 	! http://jbbs.shitaraba.net/bbs/read.cgi/internet/25463/1652115193/113
 @@||grp10.ias.rakuten.co.jp/adv/$script,domain=www.rakuten.co.jp
-	!
-@@||image.www.rakuten.co.jp/com/js/d/
 	! 楽天銀行トップ、「お問い合わせ」の中身が表示されない
 @@||rakuten-bank.co.jp/shared/js/ad.js?$script,domain=rakuten-bank.co.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/78861
