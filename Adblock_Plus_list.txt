@@ -4562,12 +4562,12 @@ amazon.co.jp##div[id^="sp_detail"]
 ||goodpic.com^*.ajaxamazon.js
 	!||sakuratan.biz/azlink/widget/
 /azlink/*
-###amazon_rank
-##[class^="amastep"]
-##[name="amazletlink"]
-##.amazlet-box
-##.azlink-box
-##.kaerebalink-box
+!###amazon_rank
+!##[class^="amastep"]
+!##[name="amazletlink"]
+!##.amazlet-box
+!##.azlink-box
+!##.kaerebalink-box
 
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 
