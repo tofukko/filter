@@ -2046,6 +2046,7 @@ kobe-np.co.jp##[id^="browsi_adWrapper_"]
 kobe-np.co.jp##.active.native
 kobe-np.co.jp#?#.banner:-abp-has(> #knpc-rec1)
 kobe-np.co.jp##.bottomPrArea
+kobe-np.co.jp##.prNews
 kobe-np.co.jp##div[id^="knpc-"]
 kochinews.co.jp###sb3
 kochinews.co.jp##.ad-box
