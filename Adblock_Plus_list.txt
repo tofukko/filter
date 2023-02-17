@@ -1748,7 +1748,6 @@ getnews.jp##.bal_insert_ad
 	conveni.getnews.jp###jp_cgn_pc_all_right_1st
 	conveni.getnews.jp###jp_cgn_pc_article_header
 	conveni.getnews.jp###jp_cgn_pc_article_inarticle
-gigafile.nu##[class*=banner_type_]
 gigafree.net##.above-caption
 gigafree.net##.bottombox > .bottombox
 gigafree.net##.related-cate
@@ -3253,6 +3252,21 @@ gamebox.gesoten.com###gamecolorbox-overlay
 kantan.game##.ad_half
 kantan.game##.ad_rectangle
 kantan.game##.ad_super
+
+! --- gigafile.nu --- !
+gigafile.nu##[class*=banner_type_]
+gigafile.nu###wrap_banner_billboard
+gigafile.nu##.gf-slot-728
+gigafile.nu##.pr_contents
+
+||gigafile.nu/js/NuMov.js
+gigafile.nu##.gfmov-wrapper
+
+gigafile.nu##.wrap_pc_banner
+gigafile.nu###area-ad_lb
+gigafile.nu###area-tree-wrap:style(height: calc(100% - 60px) !important;max-height: calc(100% - 60px) !important;)
+gigafile.nu###area-images > .image-area:first-child
+gigafile.nu###area-images > .image-area:nth-child(12)
 
 ! --- goo --- !
 ||adcdn.goo.ne.jp^
