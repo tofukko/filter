@@ -3561,9 +3561,9 @@ www.j-cast.com##.adunit
 
 !g --- javynow.com --- !
 javynow.com##.banner-player
-javynow.com##.videos-ad__ad
-javynow.com##.videos-ad:style(width: auto !important;padding: 0 !important;)
+javynow.com##.videos-ad:style(float: none !important;width: auto !important;padding: 0 !important;)
 javynow.com##.videos-view__side__ad__banner
+javynow.com##+js(nowoif)
 
 ! --- kakaku.com --- !
 ||kakaku.com^*/kakakuad/
