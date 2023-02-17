@@ -3171,6 +3171,13 @@ app.famitsu.com##[style="width: 1000px;height: 150px"]
 wiki.famitsu.com###ad-wiki-content-lower
 wiki.famitsu.com###ad-wiki-content-upper
 
+! --- fig-memo.com --- !
+fig-memo.com###text-42
+fig-memo.com###text-47
+fig-memo.com##.gallery
+fig-memo-r18.site##.foogallery
+fig-memo-r18.site##.post_content > table[style="border-collapse: collapse; width: 100%;"]
+
 ! --- foto.ne.jp --- !
 ||cg-foto.jp/share/v5/img/stock_bnr_
 ||food-foto.jp/share/v5/img/stock_bnr_
@@ -4325,6 +4332,7 @@ wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height:
 ##.afc_popup
 ##.adPost
 ##.adWidget
+##.c-infeedAd
 ##.dfad
 ##.diver_widget_adarea
 ##.googlepublisherpluginad
