@@ -1799,6 +1799,8 @@ gundam-futab.info##.ad
 gurum.biz##.adsense
 gyazo.com##.lower-ad
 gyo.tc,megalodon.jp##form[action="https://www.google.co.jp/search"] + .row
+h-pon.doorblog.jp##.right-container[style^="position: fixed"]:style(position: static !important;)
+h-pon.doorblog.jp##div[id^="imobile_ad_"]
 h1g.jp##.mainbody-ad-top
 h1g.jp##[style^="width: 300px; height: 250px;"]
 hadasirori.blog.jp###container > table
