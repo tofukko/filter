@@ -2966,6 +2966,20 @@ asg.to##+js(window.open-defuser)
 asianoneta.blog.jp##.ad
 asianoneta.blog.jp##.ad_topress
 
+! --- aucfan.com --- !
+||aucfan.com/search/nativead_
+||aucfan.com/addparts/kanren_
+||aucview.com/addparts/kanren_
+detailtext-aucfan.com,aucfan.com,aucview.com###itemsBelt1
+detailtext-aucfan.com,aucfan.com,aucview.com##.adTxt
+detailtext-aucfan.com,aucfan.com,aucview.com##.bnrWidthFull
+detailtext-aucfan.com,aucfan.com,aucview.com##div[class*="adBnrBox"]
+aucfan.com###btmInfoArea
+aucfan.com###btmInfoWrap
+aucfan.com###kanrenItems
+aucfan.com###skyscraperAds
+aucfan.com##[class^="showcaseNativeAd"]
+
 ! --- benesse.ne.jp --- !
 benesse.ne.jp##[id^="div-M_MD_"][id*="_fluid_"]
 benesse.ne.jp##div[style^="height: 250px"]
