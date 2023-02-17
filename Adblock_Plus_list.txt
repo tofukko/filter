@@ -1701,6 +1701,7 @@ gahalog.2chblog.jp###sidebar:style(position: static !important;)
 gakuryou.net##[id^="ADw"]
 game-log.com###amazon
 game8.jp##.l-jack__top_container
+game8.jp##div[id^="g8-ad-placement"]
 gamebiz.jp##.main:style(overflow-x: unset !important;)
 gamebiz.jp##.takeover
 gamepedia.jp##.moko-ad
