@@ -202,6 +202,8 @@ _ads.js.
 ||adswizz.com^$third-party
 ||adsymptotic.com$third-party
 ||adtdp.com^$third-party
+||adtest.pages.dev^$third-party
+	||new-adtest.pages.dev^$third-party
 ||adtune.jp^$third-party
 ||adult-8.com^$third-party
 ||advack.net^$third-party
