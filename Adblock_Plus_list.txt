@@ -1302,7 +1302,6 @@ animatetimes.com##.c-banner-lg-area
 animatetimes.com###times_affiliate-writer
 animatetimes.com##.c-reccomendArea-product
 anime-hiroba.com##.ad
-anime.eiga.com#?#.articleContainer:-abp-has(> .articleInner > .relatedItemList)
 ! IID
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
@@ -3101,6 +3100,13 @@ doucolle-kako.livedoor.biz###l_info > li:nth-last-child(-n+6)
 dtiblog.com,~staff.dtiblog.com###ad2
 dtiblog.com###wrapper_header
 dtiblog.com##script[src="https://xxx.dtiblog.com/pr_ad/ad.js"] + div[style="text-align:center;"]
+
+! --- eiga.com --- !
+eiga.com##.amazon-item
+eiga.com##.poweredby
+eiga.com##.poweredby + .list-tile
+anime.eiga.com#?#.articleContainer:-abp-has(> .articleInner > .relatedItemList)
+tv.eiga.com##.content-container > section > ol.row.ranking
 
 ! --- ero-video.net --- !
 *$third-party,domain=ero-video.net
