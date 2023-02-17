@@ -1426,6 +1426,8 @@ blogmura.com##.ad-side
 blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
+booksprivilege.com###ad
+booksprivilege.com###adsub
 brutus.jp##.c-widget-adbanner-frame
 bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
