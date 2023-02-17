@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/02/13 16:06
+! 最終更新 2023/02/17 21:15
 !
 
 !2023/01/23 2023年3月31日 GYAO! トレンドニュース 終了
@@ -3272,6 +3272,7 @@ www.ocn.ne.jp##.banner
 ://analytics.*/collect
 ||google-analytics.com^*/collect?
 ||maps.google.com^*/stats.js
+||googletagmanager.com^
 
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js:5
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
@@ -3279,6 +3280,7 @@ www.ocn.ne.jp##.banner
 ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js:5
 ||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5
 ||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5
+||googletagmanager.com/gtag/js$script,xhr,redirect=googletagmanager_gtm.js:5
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
 
 ||doubleclick.net^$third-party
