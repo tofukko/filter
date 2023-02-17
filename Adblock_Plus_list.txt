@@ -5093,14 +5093,11 @@ ashemaletube.com##+js(aopr, open)
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/400\/\d{7}$/$script,third-party
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/401\/\d{7}$/$script,third-party
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/500\/\d{7}\?/$xmlhttprequest,third-party
+||jaqkxifbudohxp.com^
 ||mhskfkinwk.xyz^
 ||mpmqqbinaakpsqu.xyz^
 ||jaelejgwiu.xyz^
 ?oo=1^$xmlhttprequest,third-party
-||neeladou.net^
-||odjrepabdwowyn.com^
-||oamtorsa.net^
-||vaikijie.net^
 
 !------------------------ホワイトリスト------------------------!
 
