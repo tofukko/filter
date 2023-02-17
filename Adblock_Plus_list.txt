@@ -628,6 +628,7 @@ _ads.js.
 ||enoge.org/js/amazon_
 ||erologz.com/campaign
 ||eromanga-life.com/life.$subdocument
+||estar.jp/assets/js/ad/
 ||estar.jp/page/ad/
 ||equity.jiji.com/storage/banner/
 ||fategrandorder.info/html/js/ad_
