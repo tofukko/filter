@@ -1721,6 +1721,8 @@ gaming-city.com##.top-banner
 galleria.emotionflow.com##.Ad3Tile
 galleria.emotionflow.com##div[style="width: 1200px; height: 259px; margin: 20px auto 0 auto;"]
 gardenstory.jp##.sponserd
+geartics.com#?#.text-center:first-child + .ads-double:last-child:upward(1)
+geartics.com#?#.white:-abp-has(+ .my-8 > div.ads-double) > hr:last-child
 ! 現代ビジネス
 gendai.media###GB_pc_inArticle
 gendai.media##.dontprint.blockContainer[style="margin: 40px auto -60px auto;"]
