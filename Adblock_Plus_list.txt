@@ -3482,6 +3482,7 @@ hitomi.la##+js(noeval)
 *$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, open)
 hitomi.la##+js(aopw, _pop)
+hitomi.la##+js(acis, decodeURI, decodeURIComponent)
 hitomi.la##.container > div[class$="content"] > div[class] > script:upward(1)
 ||ltn.hitomi.la^*?yuo1=$script,~third-party
 
