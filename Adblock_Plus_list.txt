@@ -3267,7 +3267,7 @@ kantan.game##.ad_rectangle
 kantan.game##.ad_super
 
 ! --- gigafile.nu --- !
-gigafile.nu##[class*=banner_type_]
+gigafile.nu##[class*="banner_type_"]
 gigafile.nu###wrap_banner_billboard
 gigafile.nu##.gf-slot-728
 gigafile.nu##.pr_contents
