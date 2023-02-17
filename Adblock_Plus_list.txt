@@ -1434,6 +1434,7 @@ brutus.jp##.c-widget-adbanner-frame
 bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
 buhidoh.net###center-left:style(height: auto !important)
+buhitter.com##aside.row[style="display: flex; justify-content: center;height: 320px;overflow:hidden;margin:8px;"]
 businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
