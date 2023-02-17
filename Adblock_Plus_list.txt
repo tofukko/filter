@@ -1729,6 +1729,7 @@ gendai.media##.blockContainer_block
 gendai.media###MG_pc_inArticle
 ! 現代新書
 gendai.media##div[style="min-height: 250px; overflow: hidden;"]
+gendai.media##div[style="min-height:250px;"]
 ! FRaU
 gendai.media###FR_PC_inArticle
 gendai.media##.ad-in-article
