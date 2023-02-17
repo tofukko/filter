@@ -5,6 +5,12 @@
 ! 最終更新 2023/02/17 21:15
 !
 
+!2023/02/17 記事非公開
+! helpsupport.blog.fc2.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/81515
+helpsupport.blog.fc2.com#@#.AdContainer
+helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+
 !2023/01/23 2023年3月31日 GYAO! トレンドニュース 終了
 !https://gyao.yahoo.co.jp/thankyou
 gyao.yahoo.co.jp##.ad
@@ -5482,11 +5488,6 @@ gato.intaa.net##.adwidget
 	!gigaho.com##+js(aopr, onload)
 	!gigaho.com#@#.adsbygoogle
 	!gigaho.com##ins.adsbygoogle
-
-! helpsupport.blog.fc2.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/81515
-helpsupport.blog.fc2.com#@#.AdContainer
-helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 
 ! investing.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10098
