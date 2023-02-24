@@ -1765,6 +1765,7 @@ getnews.jp##.bal_insert_ad
 	conveni.getnews.jp###jp_cgn_pc_all_right_1st
 	conveni.getnews.jp###jp_cgn_pc_article_header
 	conveni.getnews.jp###jp_cgn_pc_article_inarticle
+getuploader.com###banner_eye_catch
 gigafree.net##.above-caption
 gigafree.net##.bottombox > .bottombox
 gigafree.net##.related-cate
