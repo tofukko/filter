@@ -2213,6 +2213,8 @@ moeasia.net##.abox
 moeeki.net###newboxleft > p
 moeeki.net###sidebar2
 moeeki.net##.clearLeft + br + br ~ .imagebox
+moeimg.net##.pc_ad
+moeimg.net##[id^="side"] > .widget-container:last-child
 mofmo.jp##[id^="ad_pos_"]
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
