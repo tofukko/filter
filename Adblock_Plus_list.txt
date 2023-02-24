@@ -229,6 +229,7 @@ _ads.js.
 ||affiliate-$third-party
 ||affiliatecenter.jp^$third-party
 ||affiliates.$third-party
+||afflaze.com^$third-party
 ||afi-b.com^$third-party
 ||ag-affiliate.com^$third-party
 ||agilemedia.jp^$third-party
@@ -565,6 +566,7 @@ _ads.js.
 ||lancers.jp/img/affiliate/
 ||mgstage.com/afscript/
 ||mgstage.com/js/mgs_Widget
+||mgstage.com/php/api/widget_affiliate.php
 ||mkd777.net/pd/
 ||munchkin.marketo.net^
 ||optad360.io^
@@ -2439,6 +2441,12 @@ privatter.net##.“hidden-print”
 privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
 pulpxstyle.com##.adsbygoogle:upward(1)
+punyu.com###copyright > p
+punyu.com##.addl
+punyu.com##.dvd_ad_right
+punyu.com##.fanzabook
+punyu.com##.mid_ad
+punyu.com##.top_ad
 puyogo.app##.pr-twitter
 python.jp##.affi_title
 python.jp##.bottom-container
