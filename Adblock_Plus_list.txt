@@ -721,6 +721,7 @@ _ads.js.
 ||stv.jp/nnn/assets/$subdocument
 ||style.potepan.com/wp-content/themes/potepan-style/js/article-detail/popUpBanner.js
 ||style.potepan.com/wp-content/themes/potepan-style/js/common/fixedFooter.js
+||surfsnow.jp/page/stc/common/2018/js/bnrsys.js
 ||syosetu.com/sub/yomouview/js/ad_scroll.js?
 ||tatituteto.net/images/banner/
 ||tenhou.net/ad1.js
