@@ -1894,7 +1894,7 @@ ign.com##.zad.billboard:style(min-height: 0 !important;)
 ign.com##.zad:not(.billboard)
 imashun-navi.com##.ads
 img.favsite.jp##[class$="-lg"]
-img.favsite.jp##[href*="dlsite.com/"]
+img.favsite.jp#?#div:-abp-has(> .content-rank-img)
 imgur.com##.ad-slot
 imgur.com##.BottomAd-container
 inazumanews2.com##.adv
