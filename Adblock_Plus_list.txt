@@ -2206,6 +2206,7 @@ minpo.jp##.ads730
 minpo.jp##.ads970:style(min-height: 0 !important;)
 minpo.jp##.side-ads
 mirrorz.jp##.my_adslot_top2_div
+misskey.io#?#._margin[style] + div div[class]:not([tabindex]) > div[class] > a[href*="://go.misskey.io/"][target="_blank"][class] > img + button:upward(3)
 mitok.info##.mybox-right-narrow
 mixch.tv##.footer_ad
 mixi.jp##.adsenseBannerArea
