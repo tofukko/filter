@@ -2896,6 +2896,9 @@ bbspink.com##[class$="_banner"]:not(.sidemenu_banner)
 bbspink.com##[class^="banner_"]
 @@||softserve.bbspink.com/static/images/getyourvoucher_728x90.png$image,domain=bbspink.com
 @@||softserve.bbspink.com/static/images/getyourvoucher_300x250.png$image,domain=bbspink.com
+! 過去
+bbspink.com##.ad--right
+bbspink.com##div[style="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;"]
 
 pinktower.com##div
 
