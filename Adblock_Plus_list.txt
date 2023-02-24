@@ -4247,6 +4247,24 @@ wiki.seesaa.jp##.banner-footer
 tok2.com###meerkat-wrap
 tok2.com###tok2_footer
 
+!g --- spankbang.com --- !
+! https://github.com/uBlockOrigin/uAssets/issues/6029
+!*$popunder,3p,domain=spankbang.com
+spankbang.com##+js(nowoif)
+spankbang.com##+js(set, chrome, undefined)
+spankbang.com##.ttaa2v3
+||ersties.com^$3p
+||spankbang.com/official/serve_
+spankbang.com##[id^="interstitial_div"]
+spankbang.com##.video-list-with-ads > .video-item[data-id="0"]
+
+||deliver.ptgncdn.com^
+spankbang.com##.ptgncdn_holder
+##a[href^="https://deliver.ptgncdn.com/"]
+##a[href^="https://go.xlviiirdr.com"]
+
+||cloudflareinsights.com^$third-party
+
 ! --- takeshobo.co.jp --- !
 ! mangalifewin
 ||mangalifewin.takeshobo.co.jp/usr-data/units/bJava/disp.php?
