@@ -732,6 +732,7 @@ _ads.js.
 ||timeout.*/static/js/ads-
 ||tinami.com/ad/
 ||tmp.sakura.tv/5chATR/ad/
+||tsumanne.net/ad.html
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
