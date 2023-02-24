@@ -4657,7 +4657,7 @@ amazon.co.jp##div[id^="sp_detail"]
 
 
 
-! --- fc2 --- !
+! --- fc2.com --- !
 ||affiliate.fc2.com/afftag
 ||affiliate.fc2.com/cgi-bin/banner.cgi?
 ||affiliate.fc2.com/php/vc_
@@ -4673,8 +4673,10 @@ amazon.co.jp##div[id^="sp_detail"]
 ||fc2.com/header.php?
 ||fc2.com/i/image/janre.js
 ||fc2.com/image/banner/
-||fc2.com/js/blog/headbar_ad_load.js?
+||fc2.com/js/blog/headbar_ad_load.js
 ||fc2.com/share/image/banner_
+||2nt.com/js/blog/headbar_ad_load.js
+||2nt.com/js/blog/ad_ref.js
 
 !video.fc2.com
 ||fc2.com/video/img/b/
