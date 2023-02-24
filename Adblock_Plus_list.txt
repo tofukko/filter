@@ -3362,7 +3362,7 @@ www.ocn.ne.jp##.banner
 ||doubleclick.net^$third-party
 ||fundingchoicesmessages.google.com$third-party
 
-#@#.adsbygoogle
+#@#ins.adsbygoogle
 *##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 *##ins.adsbygoogle:first-child + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 *##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
