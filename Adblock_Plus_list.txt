@@ -2431,8 +2431,9 @@ popeyemagazine.jp##.ad
 pormo.me##.ads-text
 pouchs.jp##[style^="height:90px;width:728px;"]
 prcm.jp##.ad-rectangle
-privatter.net###right .hidden-print.clearfix + :is(table,div,p)
-privatter.net###right > .hidden-print.clearfix
+privatter.net##.col-md-4 > .hidden-print.clearfix
+privatter.net##.col-md-4 .hidden-print.clearfix + :is(table,div,p)
+privatter.net##[data-target="#adModal"]
 privatter.net##.“hidden-print”
 privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
