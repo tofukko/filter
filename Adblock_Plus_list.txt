@@ -2076,6 +2076,7 @@ kurashi-no.jp##.p-article__nro
 kurashiru.com##.FooterAppPc-adsWrapper
 kurukura.jp##.double-rectangle
 kurukura.jp#?#.single-sidebar:-abp-has(> .ad-bnr)
+kyobun.co.jp##.kyobu-widget
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
 kyoko-np.net#?#section:-abp-has(> h3:-abp-contains(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
