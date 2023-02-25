@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/02/25 12:52
+! 最終更新 2023/02/25 15:45
 !
 
 !2023/02/17 記事非公開
@@ -4100,12 +4100,14 @@ followmanager.net##.ad
 
 ! --- pixiv --- !
 ||pximg.net/source/dic/javascript/side_ads.js?
-! header
-www.pixiv.net###root > .charcoal-token > div > div:first-child > div[style="position: static; z-index: auto;"] + div:last-child
-www.pixiv.net###js-mount-point-header:style(min-height:unset!important;)
-www.pixiv.net#?#div:-abp-has(> iframe:not([src]))
+www.pixiv.net###js-mount-point-header:style(min-height: auto !important;)
+www.pixiv.net###root > .charcoal-token > div:only-child > div:first-child > div[style="position: static; z-index: auto;"] + div[class^="sc-"]
+www.pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > div:only-child > div[class^="sc-"] > ul[class^="sc-"] > li[class^="sc-"][size="2"][offset="1"]
+www.pixiv.net##aside > section + div > div[style="font-size: 0px;"]
+www.pixiv.net##div[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
+www.pixiv.net##figure + div + div[style="height: 540px; opacity: 1;"]
+www.pixiv.net##iframe[name][width="500"][height="520"]
 www.pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
-www.pixiv.net#?#div[class^="sc-"]:-abp-has(> div[style*="width: 728px;"]:only-child > iframe:only-child)
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
