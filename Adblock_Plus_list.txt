@@ -1880,9 +1880,10 @@ housingsnap.com##.ad-contents
 htmq.com###footerpr
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
+huffingtonpost.jp##.ad-leaderboard-flex
 huffingtonpost.jp##.ad-right-rail-native-ad
+huffingtonpost.jp##.advertisement-holder
 huffingtonpost.jp##.entry__right-rail-width-placeholder
-huffingtonpost.jp##.leaderboard-flex-placeholder
 huffingtonpost.jp##.right-rail-sticky__native-ad-container
 i-njoy.net##.mobhalf
 i-voce.jp##.VcAdvertisement
