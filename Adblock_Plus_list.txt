@@ -4105,7 +4105,7 @@ www.pixiv.net###root > .charcoal-token > div > div:first-child > div[style="posi
 www.pixiv.net###js-mount-point-header:style(min-height:unset!important;)
 www.pixiv.net#?#div:-abp-has(> iframe:not([src]))
 www.pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
-www.pixiv.net#?#div[class^="sc-"]:has(> div[style*="width: 728px;"]:only-child > iframe:only-child)
+www.pixiv.net#?#div[class^="sc-"]:-abp-has(> div[style*="width: 728px;"]:only-child > iframe:only-child)
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
