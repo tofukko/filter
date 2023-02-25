@@ -4107,7 +4107,7 @@ www.pixiv.net##aside > section + div > div[style="font-size: 0px;"]
 www.pixiv.net##div[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
 www.pixiv.net##figure + div + div[style="height: 540px; opacity: 1;"]
 www.pixiv.net##iframe[name][width="500"][height="520"]
-www.pixiv.net#?#li:-abp-has(> iframe[width="184"][height="232"])
+www.pixiv.net##iframe[name][width="184"][height="232"]:upward(1)
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
