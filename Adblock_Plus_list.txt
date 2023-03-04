@@ -5517,6 +5517,7 @@ video.520cc.cc###inplayer
 dl.520cc.cc###inplayer
 dl.520cc.cc###infile:style(visibility: visible !important;)
 dl.520cc.cc##+js(nowoif)
+jav380.com###playertopads
 
 ! syosetu.top
 ! https://github.com/tofukko/filter/issues/71
