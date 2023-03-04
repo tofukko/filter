@@ -2597,6 +2597,8 @@ simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sirabee.com###rectangle
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
+sitebk.com##.nest-h3:has(> .productWrap)
+sitebk.com##.side > nav > ol > li:has-text(このページを見ている人におすすめの商品)
 sk-hanbai.com##.adsense
 sk-seisan.com##.adsense
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
