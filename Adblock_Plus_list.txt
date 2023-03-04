@@ -1871,6 +1871,7 @@ hinata.me##[class^="articleId__AdWrapper-"]
 hinative.com##.mod_ads_trek_balloon
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
 hobby.dengeki.com##.ad_column
+hobby.dengeki.com##.afbox
 hobonichielog.com##.mainwidget > [id^="text-"]
 hochi.news##.ad[style="min-width: 300px; min-height: 250px; color:#fff; text-align:center;"]
 hochi.news##.header__ad
