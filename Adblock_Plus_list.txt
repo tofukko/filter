@@ -4269,6 +4269,7 @@ emu.web-g-p.com##.set_wrapper
 ||seesaa.net/image/loopad*$subdocument,third-party
 ||t.seesaa.net^
 ###ad-60days-area
+###article-ad
 ###overlay-ad-div-id
 ###seesaa-bnr
 ##.seesaa-cmn__pr
