@@ -2971,6 +2971,7 @@ blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ di
 ||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
 ||aacdn.jp/js/allabout-request-async.js?$domain=allabout.co.jp
 ||aacdn.jp/js/mtx/$domain=allabout.co.jp
+allabout.co.jp##.aa_ad-home-thumb-small
 allabout.co.jp##.aa_area-above-main
 allabout.co.jp##.aa_area-content-top
 allabout.co.jp##.aa_rec-box
