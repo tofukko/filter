@@ -603,6 +603,7 @@ _ads.js.
 ||atwiki.jp/common/dist/js/moveads.js?
 ! jack
 ||automaton-media.com/wp-content/plugins/wpsite-background-takeover-master/js/wpsite_clickable.js
+||b9good.com/system/cache/ad_js/
 ||benricho.org/2017js/ad_
 ||benricho.org/2017js/mobile_ad-bottom_ad.js
 ||benricho.org/2017js/sidebar-amazon.js
