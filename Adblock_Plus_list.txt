@@ -3186,10 +3186,11 @@ woman.excite.co.jp###header_bnr
 woman.excite.co.jp##div[style="text-align:center; overflow:hidden; margin: 0 auto 10px; width:610px;"]
 www.excite.co.jp##.extra
 !ほにゃく
-www.excite.co.jp##.ad728
 www.excite.co.jp###rakutenMW
-exblog.jp#?#div:-abp-has(> #gpt_pc_blog_header)
+www.excite.co.jp##.ad728
 www.excite.co.jp##[class^="ex-ad-rectangle"]
+exblog.jp#?#div:-abp-has(> #gpt_pc_blog_header)
+exblog.jp##[class*="list" i] > .ss
 
 ! https://github.com/tofukko/filter/issues/36
 @@||www.google-analytics.com/analytics.js$script,domain=woman.excite.co.jp
