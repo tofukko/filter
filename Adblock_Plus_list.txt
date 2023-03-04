@@ -1926,6 +1926,8 @@ irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
 iromame-beans.jp##.ads3
 iromame-beans.jp##.ads4
+ita-do.com##.deleteBox
+ita-do.com##.pcAd01
 itaishinja.com##.ADW
 iwate-np.co.jp##.ad
 iwate-np.co.jp#?#.article-list > li:-abp-contains(広告)
