@@ -560,6 +560,8 @@ _ads.js.
 ||free-video-movie.com^
 ||gunosy.com/adnet/
 ||hogei.info^
+||i-section.net/rakuten_ranklet/$third-party
+||i-section.net/ranklet/$third-party
 ||idea-unlimited.com/adsimg/
 ||imagefreak*.com^
 ||javhd.com/sb/$third-party
