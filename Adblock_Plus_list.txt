@@ -2640,6 +2640,7 @@ sukima.me###viewer-menu:style(overflow-y: scroll !important;height: 100% !import
 sukima.me##+js(set, adPopupStatus, undefined)
 sukusuku.com##.ad
 sukusuku.com##.aside_ad_pr
+supari.jp##div[class^="c-ads-tag"]
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
 supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box
 supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box + a
