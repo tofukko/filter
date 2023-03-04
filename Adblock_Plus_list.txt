@@ -1638,6 +1638,8 @@ ekitan.com##[class*="ek-route-advertising-no-"]
 ent.smt.docomo.ne.jp##.ad_rectangle_article_outer
 entamega.com###ad_right-column01
 entnavi.com##.doublerec_css
+eow.alc.co.jp##.box-ad
+eow.alc.co.jp##.header-ad
 eparet.net##div[style="width:300px;height:250px;float:left;border:#ffaaaa double 3px;margin:0px auto;"]
 eparet.net##div[style="width:620px;float:right;"]:style(float: none !important;)
 epub-tw.com##.ad
