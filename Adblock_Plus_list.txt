@@ -1542,6 +1542,7 @@ coliss.com###sponsorsTop
 color-sample.com##.ads
 comic-walker.com###right_top_banner
 comici.jp##.a-banner-box
+conveni-now.com,iqos-laboratory.com##div[class^="ads-tag"]
 cookien.com##.pr_content
 cookpad.com##.ad_wrapper
 cookpad.com###sticky_reference_element
