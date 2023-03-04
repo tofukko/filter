@@ -2684,6 +2684,8 @@ tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
 telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
+teratail.com##div[class^="googlePublisherTags_ads"]
+teratail.com##div[class*="_questionBottomAdArea_"]
 tetsudo-ch.com##.ad-dummy
 tetsudo-ch.com##.fixed-ad
 tg-uchi.jp##.topicBanner
