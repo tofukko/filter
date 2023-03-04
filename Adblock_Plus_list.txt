@@ -3126,6 +3126,7 @@ p-town.dmm.com##.adnetwork-footer
 ||doucolle-kako.livedoor.biz/kiji_link/kiji_link.html
 doucolle.net##iframe[src="http://doucolle-kako.livedoor.biz/pick-top_02.html"]:style(height: 1536px !important;)
 doucolle.net##.ad2
+doucolle.net,doucolle-kako.livedoor.biz##[href^="https://www.e-nls.com/access.php"]
 doucolle-kako.livedoor.biz###l_info > li:nth-last-child(-n+6)
 
 ! --- dtiblog --- !
