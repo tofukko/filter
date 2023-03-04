@@ -2242,6 +2242,9 @@ moguravr.com##.mg-ads-placement
 momon-ga.com###menu-pr
 momon-ga.com##.asmr18
 momon-ga.com##.tablink
+moqlog.jp##.double-rect-ads-group
+moqlog.jp##.pcbill
+moqlog.jp##.squareb
 mora.jp##.jack
 mora.jp##.newrelease_adBox
 mora.jp##.rect_box
