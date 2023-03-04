@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/02/25 15:45
+! 最終更新 2023/03/04 22:00
 !
 
 !2023/02/17 記事非公開
@@ -2389,6 +2389,7 @@ ovninavi.com###cb-container:style(padding-top: 110px !important;)
 ovninavi.com##.ovni-header:style(height: auto !important;)
 ourage.jp##.sidebar__yahoo
 oursounds.net##.kijinai_ad
+oyako-kufu.com##.footer-google-ads
 oyakudachi2525.com##.add
 pakutaso.com##.banner
 pakutaso.com##.l-sidebar > .sidebarBlock:first-child
