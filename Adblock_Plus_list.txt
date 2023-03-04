@@ -3034,7 +3034,7 @@ globe.asahi.com##.module-side-notice
 ||asg.to/ad/
 ||asg.to/advert/banner.html
 ! プレイヤー
-asg.to##+js(window.open-defuser)
+asg.to##+js(nowoif)
 
 ! --- asianoneta.blog.jp --- !
 ||asianoneta.blog.jp/js/side_f_w.js
@@ -5509,6 +5509,14 @@ yakkun.com##.ad + div:style(clear: both !important;)
 ! 48idol.tv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83410
 	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
+
+! video.520cc.cc
+@@||520cc.cc/ddll/ad.php
+@@||520click.com/ad.php
+video.520cc.cc###inplayer
+dl.520cc.cc###inplayer
+dl.520cc.cc###infile:style(visibility: visible !important;)
+dl.520cc.cc##+js(nowoif)
 
 ! syosetu.top
 ! https://github.com/tofukko/filter/issues/71
