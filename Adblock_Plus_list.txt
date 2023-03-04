@@ -3148,6 +3148,7 @@ wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ||dmm.co.jp/images/affiliate_banner/
 ||dmm.co.jp/af/
 ||dmm.com/af/
+||dmm.com/affiliate/
 !ブログパーツ
 ||dmm.com/photo/blog-parts/*&affiliate_id=
 ||dmm.co*/js/banner_placement.js?affiliate_id=
