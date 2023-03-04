@@ -2393,6 +2393,10 @@ ourage.jp##.sidebar__yahoo
 oursounds.net##.kijinai_ad
 oyako-kufu.com##.footer-google-ads
 oyakudachi2525.com##.add
+p-game.jp###sideAd
+p-game.jp##.home_carousel > div[class^="css-"]:only-child > div[class^="css-"]:nth-child(2)
+p-game.jp##.categoryGamesPC > div[class^="css-"]:first-child > div[class^="css-"]:last-child
+p-game.jp#?#[class^="css-"]:-abp-has(> [class]:first-child + .chakra-text:-abp-contains(スポンサーリンク))
 pakutaso.com##.banner
 pakutaso.com##.l-sidebar > .sidebarBlock:first-child
 pakutaso.com##.sidebarBlock[style^="min-height:"]
