@@ -1923,6 +1923,8 @@ inter-edu.com##.im_list
 inter-edu.com##.list_school_banner_read
 inter-edu.com##.res-banner-area
 inter-edu.com##.thread-box > [id^="msg-"]
+iqossan.com##.elAds
+iqossan.com##.underHeaderAdPC
 iphone-mania.jp##.single_pr_ad_all
 irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
