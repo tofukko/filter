@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/03/04 22:00
+! 最終更新 2023/03/05 14:00
 !
 
 !2023/02/17 記事非公開
@@ -2479,7 +2479,6 @@ privatter.net##[data-target="#adModal"]
 privatter.net##.“hidden-print”
 privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
-pulpxstyle.com##.adsbygoogle:upward(1)
 punyu.com###copyright > p
 punyu.com##.addl
 punyu.com##.dvd_ad_right
