@@ -3579,6 +3579,8 @@ hs-exp.jp##.entry-footer > div:last-child:style(margin: 0em auto !important;)
 hs-exp.jp#@#.adsbygoogle
 
 ! --- i-bbs.sijex.net --- !
+||images-amazon.com^$domain=i-bbs.sijex.net
+||amazon-adsystem.com^$domain=i-bbs.sijex.net,important
 ||dmm.co.jp^$domain=i-bbs.sijex.net
 ||e-nls.com^$domain=i-bbs.sijex.net
 i-bbs.sijex.net##[href^="https://www.e-nls.com/"]
