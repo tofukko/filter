@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/03/05 14:00
+! 最終更新 2023/03/07 17:04
 !
 
 !2023/02/17 記事非公開
@@ -1942,7 +1942,6 @@ jalan.net##.jsc-ad-bannerList
 japan.cnet.com##.ad_large
 japan.cnet.com##.inner-pr
 japan.cnet.com##.right-ad-block
-japan.techrepublic.com##.ad
 japan.zdnet.com##.ad_container
 japan-attractions.jp##.ad
 japandesign.ne.jp##.ad
@@ -5269,7 +5268,7 @@ ashemaletube.com##+js(aopr, open)
 	! トップバナー
 @@||afi-b.com/assets/dist/img/general/top/img/ad/$image,domain=afi-b.com
 	! https://github.com/tofukko/filter/issues/35
-@@||aiasahi.jp/ads/$image,domain=japan.cnet.com|japan.techrepublic.com|japan.zdnet.com
+@@||aiasahi.jp/ads/$image,domain=japan.cnet.com|japan.zdnet.com
 	! 動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
 	! https://github.com/tofukko/filter/issues/45
