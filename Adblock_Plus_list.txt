@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/03/07 17:04
+! 最終更新 2023/03/08 15:11
 !
 
 !2023/02/17 記事非公開
@@ -3133,11 +3133,13 @@ coolrom.com.au##+js(set-constant, time, 0)
 
 ! --- denfaminicogamer.jp --- !
 ||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/js/ranking.js
-||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/ad-jack.js?
 news.denfaminicogamer.jp##.amazon-ranking
 news.denfaminicogamer.jp###pc_article_billboard
 wiki.denfaminicogamer.jp###ad-wiki-content-lower
 wiki.denfaminicogamer.jp###ad-wiki-footer-upper
+! jack
+||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
+news.denfaminicogamer.jp###dfng-jack
 
 ! --- dmm --- !
 ||aztool.org$third-party
