@@ -4286,6 +4286,48 @@ emu.web-g-p.com##.set_wrapper
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
 
+! --- sheepplus.com --- !
+! https://www.sheepplus.com
+! https://www.sheepplus.com/frontmission4/other/el.html
+sheepplus.com##.adh::before
+sheepplus.com##.adsa,.adsb,.adh:style(border-top: 0 !important;)
+sheepplus.com,ff10-hd.com,ff8clear.net,winningpost8.com##.ad
+sheepplus.com,ff10-hd.com,ff8clear.net,winningpost8.com##.s1a,.s1b,.s1c,.s1d,.s1n,.s2a,.s2b,.s2c,.s2d,.s2e,.s2n,.s3a,.s3b,.s3c,.s3d,.s3e,.s3g,.s3n.s4a,.s4b,.s4c,.s4n:style(padding-top: 0 !important;)
+sheepplus.com,ff10-hd.com,ff8clear.net,winningpost8.com##.c3a,.c3b,.c3c,.e1a,.e1b,.e1c,.e2a,.e2b,.e2c,.e2d,.e3a,.e3b,.e3c,.e3d,.e3e,.e3f,.e4a,.e4b,.e4c,.e4d:style(padding-bottom: 0 !important;)
+sheepplus.com,ff10-hd.com,ff8clear.net,winningpost8.com###new:style(position: static !important;)
+! http://www.atrain3d.com/
+! http://www.wpclear.com
+atrain3d.com,dq5clear.com,wpclear.com##[class^="afad_"]
+atrain3d.com,dq5clear.com,wpclear.com###afad
+atrain3d.com,dq5clear.com,wpclear.com###ad
+||atrain3d.com/wrapper/$subdocument
+||dq5clear.com/wrapper/$subdocument
+||wpclear.com/wrapper/$subdocument
+! http://www.dq8clear.com/
+! http://www.game-gundam.com
+! https://www.khclear.com
+dq8clear.com,ffclear.com,game-gundam.com,khclear.com##[class^="ad_"]
+dq8clear.com,ffclear.com,game-gundam.com,khclear.com###ad
+||dq8clear.com/wrapper/$subdocument
+||ffclear.com/wrapper/$subdocument
+||game-gundam.com/wrapper/$subdocument
+||khclear.com/wrapper/$subdocument
+! https://www.winningpost8.com
+! https://www.winningpost8.com/lineage/
+winningpost8.com##[id^="ad"]
+! https://www.sheepplus.com
+! https://www.sheepplus.com/sakatoku/
+sheepplus.com###top > #main:style(margin-bottom: 0 !important;)
+! https://www.dqclear.com
+dqclear.com###right:style(padding-top: 0 !important;)
+! http://www.dq5clear.com
+dq5clear.com###gamefooter
+! http://www.dqmj.info
+dqmj.info##.amra
+! https://www.ff8clear.net
+! https://www.ff8clear.net/cardgame/
+ff8clear.net###adright
+
 ! --- sitemix・tok2.com --- !
 /ad.min.js
 ###sitemix_pr_footer_js
