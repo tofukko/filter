@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/03/09 22:20
+! 最終更新 2023/03/14 0:10
 !
 
 !2023/02/17 記事非公開
@@ -4458,7 +4458,6 @@ ryokin.whotwi.com##.ad_300x250
 trends.whotwi.com##div[style="width: 728px;height:90px;margin: 20px auto 20px;"]
 trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 
-
 ! --- wix.com --- !
 ###WIX_ADS
 wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height: 0px !important;)
@@ -4702,7 +4701,6 @@ otekomachi.yomiuri.co.jp##[id^="ad_gam_"]
 !ヨミドクター
 yomidr.yomiuri.co.jp##[id^="ad_dfp_"]
 yomidr.yomiuri.co.jp##.thumbnail-ad
-
 
 ! --- amazon --- !
 ||amazon-adsystem.com^$third-party
@@ -5117,10 +5115,8 @@ tube8.*###result_container > [class]:not(.video_box)
 ||faphouse.com^$subdocument,third-party
 ||tsyndicate.com^
 ||hpyrdr.com^
-
 ||collector.xhamster.com^
 ||xhcdn.com/js/track.
-
 xhamster.com##.player-container > div[class*="-"]:not([class*="player"])
 xhamster.com##.thumb-list--promoted-video-banner:style(width: auto !important;)
 xhamster.com##.thumb-list--sidebar .thumb-list__look-like-item
@@ -5147,7 +5143,6 @@ avgle.com##a[href*="/redirect"]
 avgle.com##img[src*=".php"]
 avgle.com##+js(nowebrtc)
 
-
 ! --- jav系 --- !
 ! 気が向いたらやる
 
@@ -5159,10 +5154,11 @@ ashemaletube.com##+js(aopr, open)
 
 ! regex
 /[0-9a-f]{32}\/invoke\.js/$script,third-party
-/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party
+/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party
 ! https://github.com/easylist/easylist/issues/6476
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.com\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-5]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,script,xmlhttprequest,popup,third-party,match-case
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.website\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-5]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,script,xmlhttprequest,popup,third-party,match-case
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$script,third-party,match-case,redirect=noop.js
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.com\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.website\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
 ! https://github.com/easylist/easylist/issues/6471
 /\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script
 /^https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6}$/$script,xmlhttprequest,third-party
@@ -5188,19 +5184,6 @@ ashemaletube.com##+js(aopr, open)
 /^https?:\/\/[-a-z]{6,}\.pro\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
 /^https?:\/\/[-a-z]{6,}\.xyz\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
 
-! generic filters for revolving adservers
-/ntfc.php?$script
-/pfe/current/*$script,third-party
-/aas/r45d/vki/*$script,third-party
-/lv/esnk/*$script,third-party
-/i/npage/*/code.js|$script,third-party
-/bultykh/ipp24/7/bazinga/*$script,third-party
-/pn07uscr/f/tr/zavbn/*$script,third-party
-/v2/a/push/js/*$script,third-party
-/sdk/push_web/?zid=$script,third-party
-/code/native.js?h=$script
-/q/tdl/95/dnt/*$script,third-party
-
 ! Mostly taken from AG and seen on various NSFW sites
 /_a_ta/s/s/*
 /a/ipn/js/*
@@ -5219,17 +5202,43 @@ ashemaletube.com##+js(aopr, open)
 /s/s/js/m/im.js?
 /s/s/js/ssu.v2.
 /s/s/js/m/push.js?
+/a/na/js/*$third-party
 
 ! pp server
-/^https?:\/\/[a-z]{8,15}\.(?:com|net|xyz)\/5\/\d{7}(?:\?_=\d+)?$/$script,third-party
+/^https?:\/\/[a-z]{8,15}\.(?:com|net|xyz)\/5\/\d{6,7}(?:\?_=\d+)?$/$script,third-party
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/400\/\d{7}$/$script,third-party
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/401\/\d{7}$/$script,third-party
 /^https:\/\/[-a-z]{8,15}\.(?:com|net)\/500\/\d{7}\?/$xmlhttprequest,third-party
-||jaqkxifbudohxp.com^
+/^https?:\/\/[a-z]{8,15}\.(?:com|net)\/tag\.min\.js$/$script,third-party
+||go.bundlebyte.net^
 ||mhskfkinwk.xyz^
 ||mpmqqbinaakpsqu.xyz^
 ||jaelejgwiu.xyz^
 ?oo=1^$xmlhttprequest,third-party
+||groopsie.net^
+||aguwehajqluorgv.com^
+||doopimim.net^
+
+.com/src/ppu/
+/aas/r45d/vki/*
+/bultykh/ipp24/7/*
+/ceef/gdt3g0/tbt/*
+/code/native.js?h=$script
+/fyckld0t/ckp/fd3w4/*
+/i/npage/*$script,third-party
+/in/track?data=
+/lv/esnk/*$script,third-party
+/ntfc.php?
+/pfe/current/*$script,third-party
+/pn07uscr/f/tr/zavbn/*
+/q/tdl/95/dnt/*
+/sc4fr/rwff/f9ef/*
+/script/awesome.js
+/sdk/push_web/?zid=
+/senddata?site=banner
+/senddata?site=inpage
+/t/9/heis/svewg/*
+/v2/a/push/js/*
 
 !------------------------ホワイトリスト------------------------!
 
