@@ -2405,6 +2405,8 @@ opantsu.fun##.itiran-ad
 opantsu.fun##.kizi-under-box
 opantsu.fun##.side-topad > .ad:not(:first-child):not(:nth-last-child(-n+2))
 open2ch.net##.kokoku
+oppainorakuen.com###e
+oppainorakuen.com###e + div[class^="entry_body"]
 or2.mobi##.single_ad
 or2.mobi##.top_ad
 orangepage.net##.doubleRectangle
