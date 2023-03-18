@@ -2435,6 +2435,8 @@ p-game.jp###sideAd
 p-game.jp##.home_carousel > div[class^="css-"]:only-child > div[class^="css-"]:nth-child(2)
 p-game.jp##.categoryGamesPC > div[class^="css-"]:first-child > div[class^="css-"]:last-child
 p-game.jp#?#[class^="css-"]:-abp-has(> [class]:first-child + .chakra-text:-abp-contains(スポンサーリンク))
+paintmanga.web.fc2.com##a[href*=".afl.rakuten.co.jp/"]
+paintmanga.web.fc2.com##div[style="border:1px solid #000000;margin:0px;padding:6px 0px;background-color:#ffffff;width:160px;text-align:center;float:left"]
 paipan-holic.com###block-135
 paipan-holic.com###block-274
 paipan-holic.com###block-284
