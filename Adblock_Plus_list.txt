@@ -2290,7 +2290,6 @@ mora.jp##.wide_adBox_footer
 mora.jp##.special_adBox
 mora.jp###special_adBox_bg
 moto-neta.com##.add
-movie.jorudan.co.jp##.ad
 motor-fan.jp##.ad-management
 motor-fan.jp##.l-sidebar-widget-area,#text-2:style(margin-top: 0 !important;)
 moviewalker.jp##.bl_adSPWrap
@@ -3684,6 +3683,18 @@ javynow.com##.banner-player
 javynow.com##.videos-ad:style(float: none !important;width: auto !important;padding: 0 !important;)
 javynow.com##.videos-view__side__ad__banner
 javynow.com##+js(nowoif)
+
+! --- jorudan.co.jp --- !
+jorudan.co.jp###site-ad
+jorudan.co.jp##.ad
+jorudan.co.jp##div[id^="Ads_google_"]
+mb.jorudan.co.jp##.area4
+mb.jorudan.co.jp##.HEADER_PARTS
+movie.jorudan.co.jp##.ad
+news.jorudan.co.jp##.wrapper:style(margin-top: 142px !important;)
+www.jorudan.co.jp##.com_pr_rmads_right
+! https://github.com/tofukko/filter/issues/81
+@@||google-analytics.com/ga.js$script,domain=bimi.jorudan.co.jp
 
 ! --- kakaku.com --- !
 ||kakaku.com^*/kakakuad/
