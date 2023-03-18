@@ -2609,6 +2609,7 @@ share-videos.se###ad_html
 share-videos.se###new_ad_html
 shimotsuke.co.jp##.article-body > .slide-wrapper
 shimotsuke.co.jp##.top-banner
+shiroutowiki.work##.p-adBox
 shogi-sanpo.com##.abemaBtn
 shogi-sanpo.com##.ad_double
 shogi-sanpo.com##.h_280
