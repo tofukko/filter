@@ -2076,6 +2076,7 @@ karapaia.com##.readmore-header
 karapaia.com##[id^="karapaia_"]
 karapaia.com##[class^=ads-label]
 karapaia.com##div[style="padding-top: 10px; height: 600px"]
+kazn-mk-games.com##.st-h-ad
 keisan-mondai.com##.head-ad
 keisanki.me#?#.block > div.container > div.row > article:-abp-has(> div > div > ins.adsbygoogle)
 kenjyaegg.livedoor.blog##.ad_1
