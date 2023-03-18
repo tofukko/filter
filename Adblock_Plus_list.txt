@@ -2033,7 +2033,6 @@ kai-you.net##.l-pc_resp_all_inhouse_1st
 kai-you.net##.l-recommend-product
 kai-you.net##.l-side-common-banner-outer
 kai-you.net##.m-ad-pc-article-title
-keisanki.me#?#.block > div.container > div.row > article:-abp-has(> div > div > ins.adsbygoogle)
 kaiten-heiten.com###text-18
 kaiten-heiten.com###text-20
 kaiten-heiten.com##.header_ad
@@ -2069,6 +2068,7 @@ karapaia.com##[id^="karapaia_"]
 karapaia.com##[class^=ads-label]
 karapaia.com##div[style="padding-top: 10px; height: 600px"]
 keisan-mondai.com##.head-ad
+keisanki.me#?#.block > div.container > div.row > article:-abp-has(> div > div > ins.adsbygoogle)
 kenjyaegg.livedoor.blog##.ad_1
 kenjyaegg.livedoor.blog##.kiji_ad01
 keyakizaka46matomerabo.com##.ads
