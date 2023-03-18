@@ -1696,6 +1696,8 @@ fashionsnap.com###mainArticleBottom_rightUnit
 fashionsnap.com###mainFooterUnit
 fashionsnap.com###mainTop_ATFUnit
 fashionsnap.com###sideTop_ATFUnit
+fashionsnap.com##div[class*="teads_here"]
+fashionsnap.com#?#div[class]:not([class^="_"]):-abp-has(> div:only-child > p:has-text(ADVERTISING))
 favolog.org###side > div:first-child
 fevian.org##article:nth-of-type(16n+1):not(:first-of-type)
 fgamers.saikyou.biz###ad-area-1
