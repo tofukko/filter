@@ -715,6 +715,7 @@ _ads.js.
 ||photozou.jp/script/ad_sticky.js?
 ||piapro.jp/images/ads/
 ||python.jp/ext/$xmlhttprequest
+||repsoku.net/amazon.html$subdocument
 ||scienceplus2ch.up.seesaa.net/common/sitejack.js$domain=scienceplus2ch.com
 ||server-navi.info/cgi/book_
 ||sexyvoice.org/banner/
@@ -2550,6 +2551,7 @@ refind2ch.org##[class^="ads_"]
 renote.net##.ad__bit
 renote.net##[class$="__ad__container"]
 repeat-drama.info##.ad
+repsoku.net###ad
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
 reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
