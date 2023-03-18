@@ -581,6 +581,7 @@ _ads.js.
 ||type-bee.co.jp/assets/*/shared/tapnovel-banner-
 ||theta360.com/intl/common/inc/ad_banner.html?
 
+||153.120.62.146/ad_wp/$domain=news30over.com
 ||2ch.vet/img/ani_
 ||3751chat.com/ad/
 ||4chan-ads.org^
@@ -3783,6 +3784,7 @@ jav.guru##.alignnone
 ||player-cdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
 
 ! --- livedoor --- !
+/blog_ads/*
 /settings/ad.js
 ||gsspcln.jp^
 ||coppedex.com^
