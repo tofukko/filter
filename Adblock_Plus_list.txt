@@ -1329,6 +1329,7 @@ animatetimes.com##.c-banner-lg-area
 animatetimes.com###times_affiliate-writer
 animatetimes.com##.c-reccomendArea-product
 anime-hiroba.com##.ad
+animeanime.jp##.af_box
 ! IID
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
