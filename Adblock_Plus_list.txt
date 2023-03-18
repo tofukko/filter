@@ -1940,6 +1940,7 @@ itaishinja.com##.ADW
 iwate-np.co.jp##.ad
 iwate-np.co.jp#?#.article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
+jacom.or.jp##div[class^="banner"] > a:not([href*="://www.ja"])
 jalan.net##.jsc-ad-bannerList
 japan.cnet.com##.ad_large
 japan.cnet.com##.inner-pr
