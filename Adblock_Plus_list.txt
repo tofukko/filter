@@ -4143,6 +4143,12 @@ news.nicovideo.jp###billboard_container
 ##.advrbox
 ||neofield.click^$third-party
 
+! --- nikkan.co.jp --- !
+nikkan.co.jp##.adLeft
+nikkan.co.jp##.pr_txt
+estate.nikkan.co.jp##.ad_bottom
+estate.nikkan.co.jp##.rect_b
+
 ! --- nikkei --- !
 ||nikkei.com/.resources/k-components/rtoaster/
 ||nikkei.com/.resources/static/nad/foneh-view.$subdocument
