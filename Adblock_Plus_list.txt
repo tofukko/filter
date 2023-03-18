@@ -588,6 +588,7 @@ _ads.js.
 ||70okugame.com/js/ad_
 ||a.konachan.net^$domain=konachan.com
 ||ad.land.to^$domain=land.to
+||adultblogranking.com/ad_frame.php?
 ||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
 ||akiba-souken.com/js/ad_
 ||akiba-souken.com/js/ad/
