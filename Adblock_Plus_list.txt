@@ -2527,6 +2527,7 @@ qoly.jp##.banner
 qoly.jp##div[style="height:90px; width:728px;"]
 rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
+rank-king.jp##.l-fixed-ad
 ranking-best.net##[style="height:250px; width:300px;"]
 ranking-best.net##[style="height:90px; width:728px;"]
 ranking-best.net##[style="min-height: 320px;"]
