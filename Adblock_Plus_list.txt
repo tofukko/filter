@@ -655,6 +655,7 @@ _ads.js.
 ||gameranbu.jp/js/scrole_ad_
 ||gamespark.jp/feature/advertising/
 ||gamewith.*/ad/index.js?
+||gamewith.jp/js/dist/jp/search/cta.js
 ||gehasoku.com/JS/newama.js
 ||getchu.com/mbanner/$~image
 ||gigazine.net/pw/p.js
