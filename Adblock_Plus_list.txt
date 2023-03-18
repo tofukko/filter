@@ -2426,6 +2426,11 @@ p-game.jp###sideAd
 p-game.jp##.home_carousel > div[class^="css-"]:only-child > div[class^="css-"]:nth-child(2)
 p-game.jp##.categoryGamesPC > div[class^="css-"]:first-child > div[class^="css-"]:last-child
 p-game.jp#?#[class^="css-"]:-abp-has(> [class]:first-child + .chakra-text:-abp-contains(スポンサーリンク))
+paipan-holic.com###block-135
+paipan-holic.com###block-274
+paipan-holic.com###block-284
+paipan-holic.com###block-6
+paipan-holic.com##.bottom_ad
 pakutaso.com##.banner
 pakutaso.com##.l-sidebar > .sidebarBlock:first-child
 pakutaso.com##.sidebarBlock[style^="min-height:"]
