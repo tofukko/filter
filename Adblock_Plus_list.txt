@@ -1463,6 +1463,7 @@ buzzap.jp###Cresponsive_2nd
 buzzap.jp##.afamazon-box
 buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
+calculator.jp###im_panel_pc
 caloo.jp##[id^="dfp-Caloo_"]
 campify.jp##.pc-overlay-ad
 car-me.jp##.p-article_kaitori_cta
