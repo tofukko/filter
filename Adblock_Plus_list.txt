@@ -2792,7 +2792,9 @@ uta-net.com###view_amazon
 uta-net.com##.ad-area-b:not(.pc-official-link)
 uta-net.com##.ad-area-c
 utaten.com###sidebar > .MediumRectangleBanner
+utaten.com##.footerBanner
 utaten.com##.sideBySideBanner
+utaten.com##.topBanner
 valorantnews.jp##.header-cls
 vidoza.net##.pvr
 vipcle2.com###text-23
