@@ -3008,6 +3008,7 @@ blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ di
 allabout.co.jp##.aa_ad-home-thumb-small
 allabout.co.jp##.aa_area-above-main
 allabout.co.jp##.aa_area-content-top
+allabout.co.jp##.aa_side-rakuten-search
 allabout.co.jp##.aa_rec-box
 allabout.co.jp##.rakuten
 allabout.co.jp##.sys-ga-event-affiliate
