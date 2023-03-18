@@ -1534,6 +1534,7 @@ cman.jp##.tmAdGaid
 cnn.co.jp###ad-large-header
 cnn.co.jp###ad-rect
 cnn.co.jp##.ad-txt
+coco.to###content > div.clearboth[style="padding:35px 0 30px 10px"]
 coinpost.jp##.googlead
 coliss.com##.googleAd
 coliss.com###recommend
