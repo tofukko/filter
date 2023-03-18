@@ -708,6 +708,7 @@ _ads.js.
 ||nijie.net/*/banner/
 ||nissen.co.jp/BtoB/$subdocument
 ||open2ch.net/test/dd.cgi/
+||pachinkas.net/p-ad
 ||pawoo.net/packs/media/pawoo/images/about/banner-
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
