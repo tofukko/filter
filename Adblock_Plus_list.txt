@@ -1272,6 +1272,8 @@ _analytics.js?
 4shared.com##.rightPanelMargin:first-child
 4shared.com##.sideRekl
 55sedori.com##.ad
+9db.jp#?##container > div#footer:-abp-has(> div > ins.adsbygoogle):style(display: none !important;)
+9db.jp###contents:style(margin-bottom: 0 !important;)
 9ketsuki.info##.manual_ads
 9ketsuki.info##.widget_custom_html.widget-main
 a-antenam.info,antenam.biz,antenam.info,antenam.jp,atna.jp,readers.jp##.ad_footer
