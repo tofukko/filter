@@ -2139,6 +2139,10 @@ lyrical-nonsense.com#?#.lyricside:-abp-has(> [id^="ezoic-pub-ad-placeholder-"])
 lyrical-nonsense.com##.playblockbtmcon
 lyrical-nonsense.com##.responsive0inc
 lyrical-nonsense.com##.responsive1inc
+macsoft.jp##.freebox
+macsoft.jp##.home-post
+macsoft.jp##.post-widgets-top
+macsoft.jp##.side-topad
 maho.jp##.Ad
 mag.japaaan.com##.after_go_next
 mag.japaaan.com##.area_a
