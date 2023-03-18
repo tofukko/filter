@@ -3920,6 +3920,14 @@ minpachi.com##.ad1
 minpachi.com##.ad2
 minpachi.com###text-13
 
+! --- minkabu.jp --- !
+minkabu.jp###ad1201_wrapper
+minkabu.jp##.ad_hide
+fx.minkabu.jp##.gpt-ad
+cc.minkabu.jp#?#div[id^="cc_"] > div[id^="div-gpt-"]:upward(1)
+cc.minkabu.jp##.l-side_section:first-child
+itf.minkabu.jp##.pageCon_ad
+
 ! --- moeclo.ldblog.jp --- !
 ||blog.livedoor.jp/moeclo/topad01.html$domain=moeclo.ldblog.jp
 ||moeclo.ldblog.jp/livedoorad/
