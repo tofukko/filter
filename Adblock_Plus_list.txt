@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/03/14 0:10
+! 最終更新 2023/03/18 21:19
 !
 
 !2023/02/17 記事非公開
@@ -3252,6 +3252,12 @@ app.famitsu.com##.amazon-under-post
 app.famitsu.com##[style="width: 1000px;height: 150px"]
 wiki.famitsu.com###ad-wiki-content-lower
 wiki.famitsu.com###ad-wiki-content-upper
+
+! --- fc2hub.com --- !
+||xadsmart.com^
+||d11enq2rymy0yl.cloudfront.net^
+fc2hub.com##.card[style="margin: 15px 0px"]
+fc2hub.com##.col-xl-8 > div.row > div.col > div.card.d-lg-block
 
 ! --- fig-memo.com --- !
 fig-memo.com###text-42
