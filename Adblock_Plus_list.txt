@@ -1341,6 +1341,7 @@ app-liv.jp##.ad-bnr-words
 app-liv.jp##.adv-area
 appget.com##.adsence
 appget.com##.PC_header_ad
+applikoryaku.com##.ad_overlay
 appllio.com##.ad-appllio-Bottom
 appllio.com##.ad-appllio-Title
 !jack
