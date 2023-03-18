@@ -1240,6 +1240,8 @@ _analytics.js?
 ~dlsite.com##.plugin-memo a[href*="dlsite.co"]
 
 
+0115765.com##.sticky-ads
+0115765.com##.rectangle
 1000mg.jp##.main-top
 1000mg.jp##div[style^="clear:both;margin-top:0px;margin-"]
 1rk.net##.ad
