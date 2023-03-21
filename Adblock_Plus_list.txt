@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/03/18 21:19
+! 最終更新 2023/03/21 21:15
 !
 
 !2023/02/17 記事非公開
@@ -1210,7 +1210,12 @@ _analytics.js?
 ##[id^="div_fam_async_"]
 ##a[href*="nxcount.com/AdClick/"]
 
-
+! ameblo
+! 	#freespace
+! livedoor
+! 	.sidewrapper
+! fc2 (2nt)
+! 	.plugin-freearea
 !----amazon
 ~amazon.*###freespace a[href*="amazon.co.jp"], #freespace a[href*="amzn.to"]
 ~amazon.*###sidemenu a[href*="amazon.co.jp"], #sidemenu a[href*="amzn.to"]
@@ -1222,26 +1227,35 @@ _analytics.js?
 ~amazon.*##.right-column-inner a[href*="amazon.co.jp"], .right-column-inner a[href*="amzn.to"]
 ~amazon.*##.right-container a[href*="amazon.co.jp"], .right-container a[href*="amzn.to"]
 ~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], .sidemenu2 a[href*="amzn.to"]
-~amazon.*##.plugin-memo a[href*="amazon.co.jp"], .plugin-memo a[href*="amzn.to"]
-##.t_h ~ .t_b ~ [href^="https://www.amazon.co.jp/"]
+~amazon.*##.sidewrapper a[href*="amazon.co.jp"], .sidewrapper a[href*="amzn.to"]
+##.t_h ~ .t_b ~ [href*="amazon.co.jp"], .t_h ~ .t_b ~ a[href*="amzn.to"]
+##.t_h ~ .t_b ~ .amazlet-box
 ##.t_h ~ .t_b ~ .amazon
+##.t_h ~ .t_b ~ .krb-amzlt-box
 
 !----rakuten
-##.plugin-memo a[href*=".afl.rakuten.co.jp"]
-
+###freespace a[href*=".afl.rakuten.co.jp"]
+##.plugin-freearea a[href*=".afl.rakuten.co.jp"]
+##.sidewrapper a[href*=".afl.rakuten.co.jp"]
 !----e-nls
+~e-nls.com###freespace a[href*="e-nls.com/access"]
 ~e-nls.com##.plugin-freearea a[href*="e-nls.com/access"]
-~e-nls.com##.plugin-memo a[href*="e-nls.com/access"]
+~e-nls.com##.sidewrapper a[href*="e-nls.com/access"]
 !----dmm
 !艦これスタートボタン
+~dmm.com,~dmm.co.jp###freespace a[href*="dmm.co"]
+~dmm.com,~dmm.co.jp##.plugin-freearea a[href*="dmm.co"]
+~dmm.com,~dmm.co.jp##.sidewrapper a[href*="dmm.co"]
 ~dmm.com,~dmm.co.jp##a[href^="http://ad.dmm.com/ad/p/r?"]
 ~dmm.com,~dmm.co.jp##a[href^="https://ad.dmm.com/ad/p/r?"]
-~dmm.com,~dmm.co.jp##.plugin-freearea a[href*="dmm.co"]
-~dmm.com,~dmm.co.jp##.plugin-memo a[href*="dmm.co"]
 !----dlsite
+~dlsite.com###freespace a[href*="dlsite.co"]
 ~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
-~dlsite.com##.plugin-memo a[href*="dlsite.co"]
-
+~dlsite.com##.sidewrapper a[href*="dlsite.co"]
+!----suruga-ya
+~suruga-ya.jp###freespace a[href^="https://affiliate.suruga-ya.jp/"]
+~suruga-ya.jp##.plugin-freearea a[href^="https://affiliate.suruga-ya.jp/"]
+~suruga-ya.jp##.sidewrapper a[href^="https://affiliate.suruga-ya.jp/"]
 
 0115765.com##.sticky-ads
 0115765.com##.rectangle
