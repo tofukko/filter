@@ -2,8 +2,180 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/03/21 21:15
+! 最終更新 2023/04/02 11:47
 !
+
+!2023/04/02 twitter API
+
+! ぷらいべったー
+! 維持？ https://twitter.com/privatter
+privatter.net##.col-md-4 > .hidden-print.clearfix
+privatter.net##.col-md-4 .hidden-print.clearfix + :is(table,div,p)
+privatter.net##[data-target="#adModal"]
+privatter.net##.“hidden-print”
+privatter.net##[href="/adcookie.php"]
+
+! twittbot
+! 維持 https://twitter.com/twittbotinfo/status/1626488452849242112
+
+! ふせったー
+! 維持？ https://twitter.com/fusetter
+
+! togetter
+! 維持 https://twitter.com/togetter_jp/status/1641290544780550144
+togetter.com###ad_overlay
+togetter.com##.ad_custom
+togetter.com##.ad_custom_fluid
+togetter.com##.ad_list_top
+togetter.com##.ad_rectangle
+togetter.com##.ad_topics_custom
+togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
+
+! マシュマロ
+! 維持？ https://twitter.com/marshmallow_qa/status/1641372497882005504
+
+! お題箱
+! 維持？ https://twitter.com/nerikeshi_k/status/1641786680389795840
+
+! 診断メーカー
+! 維持 https://shindanmaker.com/articles/mzvG4n0y26lyRAVZ
+
+! Skeb
+! 維持 https://twitter.com/skeb_jp/status/1621384206223048706
+
+! ツイキャス
+! 維持？ https://twitter.com/twitcasting_jp/status/1621375366140149760
+
+! buhitter
+! サ終？ https://twitter.com/ekaki3_net/status/1641231725912293378
+buhitter.com##aside.row[style="display: flex; justify-content: center;height: 320px;overflow:hidden;margin:8px;"]
+! buhitter.com
+! https://github.com/tofukko/filter/issues/79
+@@||js.gsspcln.jp/w/ad_format/reward/gnsrwdmod.js$script,domain=buhitter.com
+@@||googletagmanager.com/gtm.js$script,domain=buhitter.com
+@@||googletagservices.com/tag/js/gpt.js$script,domain=buhitter.com
+@@||googlesyndication.com/safeframe/$domain=buhitter.com
+@@||safeframe.googlesyndication.com^$subdocument,domain=buhitter.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=buhitter.com
+@@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
+@@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
+
+! ひすったー
+! サ終 https://info.otapps.net/archives/808
+! --- otapps.net --- !
+! https://info.otapps.net/
+followcheck.itby.net##.mms
+followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> .uk-panel > .uk-margin-top > .adsbygoogle)
+followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> div > .adsbygoogle)
+followmanager.net##.ad
+
+! CERON
+! サ終 https://ceron.jp/20230331.html
+ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
+
+! 蒼天画廊
+! サ終 https://www.azure-gallery.net/
+
+! ツイセーブ
+! サ終？ https://twitter.com/9m/status/1641350437625536514
+twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
+twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
+
+! #リツイート直後のツイートを表示するやつ
+! サ終？ https://togetter.com/li/2113907
+
+! #生活習慣の乱れを可視化するやつ
+! サ終 https://twitter.com/p1ass/status/1641417687678189568
+
+! whotwi
+! サ終 https://twitter.com/koni/status/1641794762520023041
+! --- whotwi.com --- !
+whotwi.com###header_ad_area
+whotwi.com##.stats_ad_300x250_2
+whotwi.com##.tweets_list_ad_responsive
+bbs.whotwi.com##div[style="width: 728px;height:90px;margin: 0px auto 10px;"]
+hoihoi.whotwi.com##.ad_336x280
+ryokin.whotwi.com##.ad_300x250
+trends.whotwi.com##div[style="width: 728px;height:90px;margin: 20px auto 20px;"]
+trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
+
+! ふぁぼりま
+! サ終 https://favrima.jp/
+
+! Twtimez
+! サ終 https://twitter.com/TwTimez/status/1641980394437480450
+twtimez.net##.adDown
+twtimez.net##.adMiddle
+twtimez.net##.adTop
+
+! 質問箱
+! 不明 https://twitter.com/peing_net
+
+! TwiPla
+! 不明 https://twitter.com/twipla/status/1621406951916851200
+
+! Twilog favolog
+! 不明 https://twitter.com/ropross/status/1641353674046992385
+twilog.org###ad-main-top
+twilog.org##[style^="height:250px"]
+favolog.org###side > div:first-child
+
+! ポイピク
+! 不明 https://poipiku.com/2/
+poipiku.com##.PcSideBarAd
+
+! えごったー
+! 不明 https://twitter.com/ego_tter/status/1641392829682548736
+! egotter.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/64186
+@@||cloudfront.net/adsense.js$domain=egotter.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
+egotter.com##[id^="async-adsense-"]
+
+! ツイプロ
+! 不明 https://twpro.jp/
+!      https://twpf.jp/
+twpro.jp##.ads-banner-box
+
+! ぶろるっく
+! 不明 https://blolook.osa-p.net/index.html
+
+! Twitter動画保存ランキング(24時間)| TWIIGLE
+! Twitter動画保存ランキング&Twitter動画ダウンロード｜Twihozon
+! 裏垢まとめドットコム
+! Twitter動画保存ランキング - TwiHub/ツイハブ
+! ツイッター動画保存ランキング！ - ついどう, ツイドウ
+! Twitter動画保存ランキング（24時間） | TWIVIDEO
+! Twitter Video Tools
+! 不明
+twidou.link##.mb-3.mt-4.c-min-height
+twidou.link##.py-4.my-5.container
+twihub.me###overlay_area
+twihub.me##.c-max-width-height-350
+uraaka.com##.ad-overlay
+uraaka.com##.gallery__interstitial
+uraaka.com##body:style(overflow-y: auto !important;)
+
+! Skebetter
+! 不明
+skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
+skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-w-2xl
+skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
+skebetter.com##a[href*=".dmm.co.jp/"]
+
+! プロフカード
+! 不明 https://twitter.com/profcard_info
+
+! meyou
+! 不明 https://meyou.jp/
+
+! Twoucan
+! 不明
+||twoucan.com/ad?name=
+
+! 裏垢女子まとめ
+! 不明
+||uraaka-joshi.com/ad-
 
 !2023/02/17 記事非公開
 ! helpsupport.blog.fc2.com
@@ -746,8 +918,6 @@ _ads.js.
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
 ||tbsradio.jp/assets/js/ad/
-||twoucan.com/ad?name=
-||uraaka-joshi.com/pr$subdocument
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
 ||vcomi.jp/page_ad/
@@ -1477,7 +1647,6 @@ brutus.jp##.c-widget-adbanner-frame
 bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
 buhidoh.net###center-left:style(height: auto !important)
-buhitter.com##aside.row[style="display: flex; justify-content: center;height: 320px;overflow:hidden;margin:8px;"]
 businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
@@ -1510,7 +1679,6 @@ cat.sc##.adsense
 cavolump.com##.pick_news
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
-ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
 cgworld.jp##.banner
 cgworld.jp##.banner_special_content
 chanto.jp.net###cha_pc_all_header
@@ -1717,7 +1885,6 @@ fashionsnap.com###mainTop_ATFUnit
 fashionsnap.com###sideTop_ATFUnit
 fashionsnap.com##div[class*="teads_here"]
 fashionsnap.com#?#div[class]:not([class^="_"]):-abp-has(> div:only-child > p:has-text(ADVERTISING))
-favolog.org###side > div:first-child
 fevian.org##article:nth-of-type(16n+1):not(:first-of-type)
 fgamers.saikyou.biz###ad-area-1
 fgamers.saikyou.biz###ad-area-2
@@ -2507,7 +2674,6 @@ pixwox.com##[class^="ah-box-"]
 plicy.net##.adMiddleRect2Css
 pointdream.jp###geniee_overray_base
 pointtown.com##.pt-side-ad
-poipiku.com##.PcSideBarAd
 pokemon-matome.net###header_ads
 pokemon-matome.net###hoge
 pokemon-matome.net##.inner
@@ -2520,11 +2686,6 @@ popeyemagazine.jp##.ad
 pormo.me##.ads-text
 pouchs.jp##[style^="height:90px;width:728px;"]
 prcm.jp##.ad-rectangle
-privatter.net##.col-md-4 > .hidden-print.clearfix
-privatter.net##.col-md-4 .hidden-print.clearfix + :is(table,div,p)
-privatter.net##[data-target="#adModal"]
-privatter.net##.“hidden-print”
-privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
 punyu.com###copyright > p
 punyu.com##.addl
@@ -2653,10 +2814,6 @@ sitebk.com##.nest-h3:has(> .productWrap)
 sitebk.com##.side > nav > ol > li:has-text(このページを見ている人におすすめの商品)
 sk-hanbai.com##.adsense
 sk-seisan.com##.adsense
-skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
-skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-w-2xl
-skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
-skebetter.com##a[href*=".dmm.co.jp/"]
 smhn.info###topAD
 smhn.info#?#aside:-abp-has(.adsbygoogle)
 smashop.jp###r1_advertisement
@@ -2753,13 +2910,6 @@ tocana.jp###hashiraL
 tocana.jp###hashiraR
 tochidai.info###Left_AD
 tochidai.info##[class^="AD_"]
-togetter.com###ad_overlay
-togetter.com##.ad_custom
-togetter.com##.ad_custom_fluid
-togetter.com##.ad_list_top
-togetter.com##.ad_rectangle
-togetter.com##.ad_topics_custom
-togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 tokai-tv.com##.adArea
 tokai-tv.com##.advertisement_area
 ！news
@@ -2796,18 +2946,6 @@ tver.jp##[class^="two-column_companionAd__"]
 tvlife.jp###tvl_pc_article_footer
 tvlife.jp##.ad
 tvlife.jp##[id^="tvl_pc_all_"]
-twidou.link##.mb-3.mt-4.c-min-height
-twidou.link##.py-4.my-5.container
-twihub.me###overlay_area
-twihub.me##.c-max-width-height-350
-twilog.org###ad-main-top
-twilog.org##[style^="height:250px"]
-twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
-twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
-twpro.jp##.ads-banner-box
-twtimez.net##.adDown
-twtimez.net##.adMiddle
-twtimez.net##.adTop
 tyoieronews.blog.jp##a[href^="https://www.dlsite.com/"]
 tyoieronews.blog.jp##table[summary="DMM"]
 umamusume.net###amabox
@@ -2816,9 +2954,6 @@ umamusume.net##.ad8
 umamusume.net##.pc-first
 unityroom.com##.bl_adunit
 uptodown.com##.ad
-uraaka.com##.ad-overlay
-uraaka.com##.gallery__interstitial
-uraaka.com##body:style(overflow-y: auto !important;)
 urbanlife.tokyo##[class^="fluct-unit-"]
 ure.pia.co.jp###wrapper #button_id
 ure.pia.co.jp###wrapper #anchor_i
@@ -4226,13 +4361,6 @@ srad.jp###tophat
 srad.jp##.srad-contentad-banner
 tenshoku.srad.jp###top-hat
 
-! --- otapps.net --- !
-! https://info.otapps.net/
-followcheck.itby.net##.mms
-followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> .uk-panel > .uk-margin-top > .adsbygoogle)
-followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> div > .adsbygoogle)
-followmanager.net##.ad
-
 ! --- pixiv --- !
 ||pximg.net/source/dic/javascript/side_ads.js?
 www.pixiv.net###js-mount-point-header:style(min-height: auto !important;)
@@ -4537,16 +4665,6 @@ ejje.weblio.jp#?#.sideBlock:-abp-has(> [id^="div-gpt-ad"]):not(.userInfoBoxR)
 ejje.weblio.jp#?#.sideBlock:-abp-has(> script:-abp-contains(/adScS|_ADOBE_/))
 translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
-
-! --- whotwi.com --- !
-whotwi.com###header_ad_area
-whotwi.com##.stats_ad_300x250_2
-whotwi.com##.tweets_list_ad_responsive
-bbs.whotwi.com##div[style="width: 728px;height:90px;margin: 0px auto 10px;"]
-hoihoi.whotwi.com##.ad_336x280
-ryokin.whotwi.com##.ad_300x250
-trends.whotwi.com##div[style="width: 728px;height:90px;margin: 20px auto 20px;"]
-trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 
 ! --- wix.com --- !
 ###WIX_ADS
@@ -5343,17 +5461,6 @@ ashemaletube.com##+js(aopr, open)
 @@||47club.jp^*/images/ad/$image,domain=47club.jp
 @@||amazonaws.com^*/images/ad/$image,domain=47club.jp
 
-! buhitter.com
-! https://github.com/tofukko/filter/issues/79
-@@||js.gsspcln.jp/w/ad_format/reward/gnsrwdmod.js$script,domain=buhitter.com
-@@||googletagmanager.com/gtm.js$script,domain=buhitter.com
-@@||googletagservices.com/tag/js/gpt.js$script,domain=buhitter.com
-@@||googlesyndication.com/safeframe/$domain=buhitter.com
-@@||safeframe.googlesyndication.com^$subdocument,domain=buhitter.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=buhitter.com
-@@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
-@@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
-
 ! cxense.com
 ||cxense.com^$third-party
 @@||cxense.com/cx.cce.js$script
@@ -5697,12 +5804,6 @@ connect.coron.tech###sub div[style$="text-align:center;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81505
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=crefan.jp
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=crefan.jp
-
-! egotter.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/64186
-@@||cloudfront.net/adsense.js$domain=egotter.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
-egotter.com##[id^="async-adsense-"]
 
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
