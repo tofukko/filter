@@ -1167,6 +1167,7 @@ _analytics.js?
 ||kissmetrics.com^$third-party
 ||linkfind.org^$third-party
 ||litix.io^$third-party
+||lngtd.com^$third-party
 ||log-marketing.jp^$third-party
 ||lphbs.com^$third-party
 ||mcnt.jp^$third-party
@@ -5527,12 +5528,10 @@ ashemaletube.com##+js(aopr, open)
 /v2/a/push/js/*
 
 !------------------------ホワイトリスト------------------------!
-
 !tver 芋
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
 	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
-
 
 ! 47club.jp
 ! https://github.com/tofukko/filter/issues/29
@@ -5557,6 +5556,12 @@ ashemaletube.com##+js(aopr, open)
 @@||cm-widget.nakanohito.jp/img/$image
 @@||support-beacon.nakanohito.jp/widget/$xmlhttprequest
 @@||support-widget.nakanohito.jp/chatbot$script,stylesheet
+
+! outbrain
+! https://github.com/gorhill/uBlock/issues/1082
+! https://github.com/gorhill/uBlock/issues/1250#issuecomment-173533894
+! https://github.com/gorhill/uBlock/issues/2155
+||widgets.outbrain.com/outbrain.js$script,redirect=outbrain-widget.js:5,domain=~mainichi.jp|~vice.com
 
 ! solty.biz
 ||solty.biz^$third-party
