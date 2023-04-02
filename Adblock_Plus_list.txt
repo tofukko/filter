@@ -898,6 +898,7 @@ _ads.js.
 ||share-videos.se/js/pjs.js
 	||admesia.com^$third-party
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
+||signal-flag-z.asuscomm.com:9443/api/amznWidget$domain=signal-flag-z.blogspot.com
 ||simozo.com/js/ad_
 ||so-zou.jp/js/ads.js
 ||squallchannel.com/sqa.html
