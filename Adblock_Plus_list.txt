@@ -2914,6 +2914,7 @@ tokai-tv.com##.adArea
 tokai-tv.com##.advertisement_area
 ！news
 tokubai.co.jp##.dfp-tag-wrapper
+tokyo-calendar.jp##.article_in_ad
 tokyo-calendar.jp##.super-banner-field
 tokyo-sports.co.jp##.head-bnr-area
 tonarinoyj.jp##.js-page-ad
