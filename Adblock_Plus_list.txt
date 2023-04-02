@@ -2257,6 +2257,8 @@ kanaloco.jp##.ad
 kanaloco.jp##.blk-bnr02
 kanaloco.jp##.bnr01
 kanaloco.jp##.top-head-bnr
+kandatasokuho.com##div[style^="margin-bottom:5px;padding:2px;width:840px overflow:auto;height:362px"]
+kandatasokuho.com##div[style^="margin-bottom:5px;width:832px overflow:auto;height:148px"]
 kanji.reader.bz##span:-abp-contains(スポンサードリンク)
 kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
