@@ -448,6 +448,7 @@ _ads.js.
 ||eisys-bcs.jp^$third-party
 ||exelator.com^$third-party
 ||exponential.com^$third-party
+||fam-8.net^$third-party
 ||fastclick.net^$third-party
 ||find-a.jp^$third-party
 ||flux-cdn.com^$third-party
