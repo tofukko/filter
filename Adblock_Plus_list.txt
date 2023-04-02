@@ -5908,6 +5908,8 @@ connect.coron.tech###sub div[style$="text-align:center;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81505
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=crefan.jp
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=crefan.jp
+crefan.jp##+js(no-setTimeout-if, objDef.resolve, 3000)
+crefan.jp#?#div[align="center"]:-abp-has(> .badge-success:-abp-contains(スポンサード リンク))
 
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
