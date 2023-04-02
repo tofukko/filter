@@ -2730,6 +2730,10 @@ refind2ch.org##[class^="ads_"]
 renote.net##.ad__bit
 renote.net##[class$="__ad__container"]
 repeat-drama.info##.ad
+renso-ruigo.com###header-ad
+renso-ruigo.com##.ad-posi1
+renso-ruigo.com##.content-banner
+renso-ruigo.com##.sidebar-box3:first-child
 repsoku.net###ad
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
