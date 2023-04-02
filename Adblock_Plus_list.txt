@@ -4721,7 +4721,12 @@ wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height:
 ##.thk_ps_widget
 ##.widget_common_ad
 ##.widget_fit_aditem_class
+##.widget_mobile_ad
+##.widget_pc_ad
 ##.widget_swell_ad_widget
+##.widget_tsnc_ad_custom_html
+##.widget_tsnc_ads_custom_html
+##.wipe-ad-div-class
 ##[id^="adswidget"][id*="-quick-adsense-"]
 !あれなやつ
 ###side > aside > div.ad:first-child
