@@ -857,6 +857,7 @@ _ads.js.
 ||kakijun.jp/js/u_kakijun_books%
 ||kidslink.jp/cgi-bin/esb/main.cgi?
 ||kidslink.jp^*/dummy.html
+||kijorabu.com/ads/
 ||kokuban.in/ad/
 ||kooss.com/*.htm$subdocument
 ||kuchi.info/image/bana/
