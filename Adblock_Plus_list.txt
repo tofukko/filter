@@ -2868,6 +2868,7 @@ sutekicookan.com##.e-wiki_middle_responsive_kk_conf
 swiki.jp###ads_menubar
 swiki.jp##.rklink
 swiki.jp##.rkmark
+syokuraku-web.com###text-64
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
