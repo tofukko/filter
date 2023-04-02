@@ -821,7 +821,6 @@ _ads.js.
 ||equity.jiji.com/storage/banner/
 ||fategrandorder.info/html/js/ad_
 ||fc2.com/b/i/k/bikyakudaimaou/ad-$domain=bikyakudaimaou.com
-||fod.fujitv.co.jp/mz/
 ||gakuryou.net/fb/
 ||gakuryou.net/right-banner/
 ||game8.jp/assets/pc/ads/
@@ -1323,7 +1322,6 @@ _analytics.js?
 ||etoyota.net/include/js/measurementBeacon.js
 ||facebook.com*/impression.php
 ||facebook.com/xti.php?
-||fujitv.co.jp^*/rtx/
 ||github.com/_private/browser/stats
 ||gnavi.co.jp/analysis/
 ||ismedia.jp/oo/
@@ -1927,7 +1925,6 @@ friday.kodansha.co.jp##[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fuelle.jp###js-overlay
 fuelle.jp##.bn_gpt_box
-fujitv.co.jp###fp-bhp-rectangle
 fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
 gaccom.jp##.ads
@@ -3488,6 +3485,15 @@ news.fresheye.com##.listing-ad
 news.fresheye.com##.nw-ad
 ||fresheye.com^*/js/v
 ||fresheye.com/s.gif
+
+! --- fujitv.co.jp --- !
+||fod.fujitv.co.jp/mz/
+||fujitv.co.jp^*/rtx/
+fujitv.co.jp###fp-bhp-rectangle
+! https://otn.fujitv.co.jp/gamecenter/index.html
+||fujitv.co.jp/banner/otn/sb.html
+||otn.fujitv.co.jp/fp/ad/
+otn.fujitv.co.jp##.pcMenuBannerZone:style(padding-top: 87px !important;)
 
 ! --- futaba --- !
 ||2chan.net/bin/*.htm
