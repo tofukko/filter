@@ -1786,6 +1786,8 @@ daily.co.jp##aside.add
 daily.co.jp##[id^="browsi_adWrapper_"]
 dailynewsonline.jp##.adArea
 dan-ball.jp##[class^="ad_div_"]
+danna-shine.com###text-18
+danna-shine.com##.advertising
 db.msin.jp##.pr
 ddnavi.com##.ad-twoside
 ddnavi.com##.side-er
