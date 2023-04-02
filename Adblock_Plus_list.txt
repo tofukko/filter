@@ -1786,8 +1786,6 @@ daily.co.jp##aside.add
 daily.co.jp##[id^="browsi_adWrapper_"]
 dailynewsonline.jp##.adArea
 dan-ball.jp##[class^="ad_div_"]
-danna-shine.com###text-18
-danna-shine.com##.advertising
 db.msin.jp##.pr
 ddnavi.com##.ad-twoside
 ddnavi.com##.side-er
@@ -3339,6 +3337,18 @@ coolrom.com.au##td[style="margin:0px;padding:0px;"][width="336"]
 coolrom.com.au##td[colspan="2"][width="100%"][bgcolor="#000000"][align="center"]
 coolrom.com.au##div[style="min-height:250px;"]
 coolrom.com.au##+js(set-constant, time, 0)
+
+! --- danna-shine.com --- !
+! https://danna-shine.com/
+danna-shine.com###text-18
+danna-shine.com##.advertising
+! https://dokuoya-shine.com/
+dokuoya-shine.com###text-5
+dokuoya-shine.com##.advertising
+! https://gifubo-shine.com
+gifubo-shine.com###text-5
+gifubo-shine.com##.advertising
+! https://rinjin-shine.com/
 
 ! --- denfaminicogamer.jp --- !
 ||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/js/ranking.js
