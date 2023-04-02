@@ -3005,6 +3005,8 @@ weathernews.jp###sticky_pc
 web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
+web.ultra-soccer.jp##div[id^="JP_TWS_"]
+web.ultra-soccer.jp##div[style*="height:280px;"]
 web-ace.jp##[class^="ad_rect"]
 webcartop.jp###jp_wct_pc_article_undernextpage
 webcartop.jp###main > div[style="min-height: 250px;"]:first-child
