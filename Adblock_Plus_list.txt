@@ -1386,6 +1386,7 @@ _analytics.js?
 ! 	.sidewrapper
 ! fc2 (2nt)
 ! 	.plugin-freearea
+!	.plugin1_outline
 !----amazon
 ~amazon.*###freespace a[href*="amazon.co.jp"], #freespace a[href*="amzn.to"]
 ~amazon.*###sidemenu a[href*="amazon.co.jp"], #sidemenu a[href*="amzn.to"]
@@ -1394,6 +1395,7 @@ _analytics.js?
 ~amazon.*##.left-container a[href*="amazon.co.jp"], .left-container a[href*="amzn.to"]
 ~amazon.*##.plugin-freearea a[href*="amazon.co.jp"], .plugin-freearea a[href*="amzn.to"]
 ~amazon.*##.plugin-freearea1 a[href*="amazon.co.jp"], .plugin-freearea1 a[href*="amzn.to"]
+~amazon.*##.plugin1_outline a[href*="amazon.co.jp"], .plugin1_outline a[href*="amzn.to"]
 ~amazon.*##.right-column-inner a[href*="amazon.co.jp"], .right-column-inner a[href*="amzn.to"]
 ~amazon.*##.right-container a[href*="amazon.co.jp"], .right-container a[href*="amzn.to"]
 ~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], .sidemenu2 a[href*="amzn.to"]
