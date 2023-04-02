@@ -1971,16 +1971,8 @@ gensun.org##[style^="width:728px;height:90px"]
 getchu.com###rectangle
 getchu.com##.banner
 getnavi.jp##.ad
-getnews.jp###leftColumn > .widget_text:first-child
-getnews.jp###rightColumn > .widget_text:first-child
-getnews.jp###resp_article_undertitle
-getnews.jp###resp_article_underarticle
-getnews.jp##.bal_insert_ad
-	conveni.getnews.jp##.ad-pc-article-ander
-	conveni.getnews.jp##.ad-pc-top
-	conveni.getnews.jp###jp_cgn_pc_all_right_1st
-	conveni.getnews.jp###jp_cgn_pc_article_header
-	conveni.getnews.jp###jp_cgn_pc_article_inarticle
+getsuvolley.com##[class^="foot-gtp-ad-"]
+getsuvolley.com##[class^="top-gtp-adArea-"]
 getuploader.com###banner_eye_catch
 gigafree.net##.above-caption
 gigafree.net##.bottombox > .bottombox
@@ -3540,6 +3532,18 @@ gamebox.gesoten.com###gamecolorbox-overlay
 kantan.game##.ad_half
 kantan.game##.ad_rectangle
 kantan.game##.ad_super
+
+! --- getnews.jp --- !
+getnews.jp###leftColumn > .widget_text:first-child
+getnews.jp###rightColumn > .widget_text:first-child
+getnews.jp###resp_article_undertitle
+getnews.jp###resp_article_underarticle
+getnews.jp##.bal_insert_ad
+conveni.getnews.jp##.ad-pc-article-ander
+conveni.getnews.jp##.ad-pc-top
+conveni.getnews.jp###jp_cgn_pc_all_right_1st
+conveni.getnews.jp###jp_cgn_pc_article_header
+conveni.getnews.jp###jp_cgn_pc_article_inarticle
 
 ! --- gigafile.nu --- !
 gigafile.nu##[class*="banner_type_"]
