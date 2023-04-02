@@ -2742,9 +2742,6 @@ rollingstonejapan.com##.addSide
 rollingstonejapan.com##.articleDetailAdd
 roomclip.jp###pc_billboard
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
-roote.ekispert.net##.banner_area
-! https://github.com/AdguardTeam/AdguardFilters/commit/a61e5b8483323573d22fbae6921b7c1c163e5437
-roote.ekispert.net###bottom_area:style(height: 1px!important)
 rrpg.jp##[id^="adsense_"]
 russianbeauties.jp###dmm-bottomad-column
 russianbeauties.jp###extra-column > [class$="corner"]
@@ -4491,6 +4488,13 @@ romhustler.org##.square_ad_big
 romhustler.org##.square_ad_small
 romhustler.org##div[style="padding-bottom:5px;padding-top:5px;"]
 romhustler.org##+js(nano-sib, timer.remove)
+
+! --- roote.ekispert.net --- !
+||excite.co.jp/jp/transfer/iframe/ad/
+||ekispert.net/assets/adRequest-
+roote.ekispert.net##.banner_area
+! https://github.com/AdguardTeam/AdguardFilters/commit/a61e5b8483323573d22fbae6921b7c1c163e5437
+roote.ekispert.net###bottom_area:style(height: 1px!important)
 
 !g --- sankakucomplex.com --- !
 ||msgose.com^
