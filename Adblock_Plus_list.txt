@@ -1725,6 +1725,10 @@ clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 clicccar.com##.ad-management
 clipconverter.cc##+js(acis, Math, break;case $.)
+! きょりタン
+cloudwoods.jp##td[style="vertical-align:top;padding-left:25px;padding-top:5px;"]
+! はんけい
+cloudwoods.jp##div[style="float:left;padding-left:25px;padding-top:5px;"]
 cman.jp###tmBottomAd
 cman.jp###tmContHeadAd
 cman.jp###tmHeadAd
