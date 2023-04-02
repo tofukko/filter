@@ -3915,8 +3915,6 @@ jugem.jp#?#.entry:-abp-has(.entry_title > a[href$=".jugem.jp/?eid="])
 jugem.jp#?#.entry:-abp-has(> h2:-abp-contains(/^スポンサーサイト$/))
 jugem.jp#?#.entry:-abp-has(h2 > a[href$=".jugem.jp/?eid="])
 
-
-
 ! --- kakaku.com --- !
 ||kakaku.com^*/kakakuad/
 ||kakaku.com^*/RdmReviewAd.js
@@ -4014,6 +4012,9 @@ playhydrax.com,hydracdn.*,hydrax.net##div#over:remove()
 jav.guru##.aligncenter
 jav.guru##.alignnone
 ||player-cdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
+
+! --- kyokugen.info --- !
+##.ad_desc
 
 ! --- livedoor --- !
 /blog_ads/*
