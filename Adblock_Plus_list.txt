@@ -1398,10 +1398,10 @@ _analytics.js?
 ~amazon.*##.right-container a[href*="amazon.co.jp"], .right-container a[href*="amzn.to"]
 ~amazon.*##.sidemenu2 a[href*="amazon.co.jp"], .sidemenu2 a[href*="amzn.to"]
 ~amazon.*##.sidewrapper a[href*="amazon.co.jp"], .sidewrapper a[href*="amzn.to"]
-##.t_h ~ .t_b ~ [href*="amazon.co.jp"], .t_h ~ .t_b ~ a[href*="amzn.to"]
-##.t_h ~ .t_b ~ .amazlet-box
-##.t_h ~ .t_b ~ .amazon
-##.t_h ~ .t_b ~ .krb-amzlt-box
+##.t_b ~ [href*="amazon.co.jp"], .t_b ~ a[href*="amzn.to"]
+##.t_b ~ .amazlet-box
+##.t_b ~ .amazon
+##.t_b ~ .krb-amzlt-box
 
 !----rakuten
 ###freespace a[href*=".afl.rakuten.co.jp"]
