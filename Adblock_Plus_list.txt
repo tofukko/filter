@@ -910,6 +910,7 @@ _ads.js.
 ||tatituteto.net/images/banner/
 ||tenhou.net/ad1.js
 ||tenhou.net/ad2.js
+||tg-uchi.jp/img/ad_manager/
 ||tgiw.info/amazon
 ||timeout.*/static/js/ads-
 ||tinami.com/ad/
