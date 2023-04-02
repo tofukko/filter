@@ -4703,6 +4703,7 @@ wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height:
 /adtools.js
 /advanced-ads-$domain=~wordpress.org
 /advanced-ads/*$domain=~wordpress.org
+/display-ad/*
 /fixed_ad.js
 /plugins/ads-
 /plugins/ads/*
