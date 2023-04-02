@@ -3694,7 +3694,7 @@ www.google.*##div.ellip > span:has-text(/^Ads?$/):upward(2)
 www.google.*##div[data-section-id] > a[href^="/aclk"][href*="placesheetAdFix="][href*="adurl="]:upward(1)
 www.google.*##:matches-path(/travel/hotels/) div[data-is-promoted="true"]
 
-! thememazing .com broken page + other anti adb
+! thememazing .com broken page + other fb
 ! fix mdpDeBlocker + some other anti-adb
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,redirect=googlesyndication_adsbygoogle.js:5,domain=~zipextractor.app
 ||googleads.g.doubleclick.net/$xhr,redirect-rule=nooptext
@@ -5914,6 +5914,11 @@ gato.intaa.net##.adwidget
 	!gigaho.com##+js(aopr, onload)
 	!gigaho.com#@#.adsbygoogle
 	!gigaho.com##ins.adsbygoogle
+
+! hadakanonude.com
+hadakanonude.com##+js(noeval-if, fairAdblock)
+hadakanonude.com##.main-inner > center:first-child
+hadakanonude.com##[id^="execphp-"]:not(#execphp-13, #execphp-5, #execphp-14)
 
 ! investing.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10098
