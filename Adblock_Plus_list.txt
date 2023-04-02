@@ -850,7 +850,6 @@ _ads.js.
 ||japanese.joins.com/HomeAds/
 ||jma.go.jp/bosai/ad/
 ||joysound.com/web/src/s/ad/
-||jugem.jp/ad/
 ||kabutan.jp/js/rand_ads.js?
 ||kakijun.jp/js/u_kakijun_books%
 ||kidslink.jp/cgi-bin/esb/main.cgi?
@@ -2196,9 +2195,6 @@ jpnumber.com##.adsline
 jprime.jp##div[style="min-height:250px;"]
 jpshowbiz.us##.video-plugin-div
 jpshowbiz.us##+js(nostif, alert)
-jugem.jp##.UBH_new
-! http://jugem.jp/theme/
-jugem.jp##div[style="height:280px;position: relative; margin-bottom:15px;"]
 jyouhouya3.net##.link_ra
 jyouhouya3.net##.side_syohin_entry
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="amazon.co"])
@@ -3874,6 +3870,21 @@ news.jorudan.co.jp##.wrapper:style(margin-top: 142px !important;)
 www.jorudan.co.jp##.com_pr_rmads_right
 ! https://github.com/tofukko/filter/issues/81
 @@||google-analytics.com/ga.js$script,domain=bimi.jorudan.co.jp
+
+! --- jugem.jp --- !
+||jugem.jp/ad/
+jugem.jp##.UBH_new
+! http://jugem.jp/theme/
+jugem.jp##div[style="height:280px;position: relative; margin-bottom:15px;"]
+! 一定期間更新なし
+jugem.jp#?##entry:-abp-has(.entry_title:-abp-contains(/^スポンサーサイト$/))
+jugem.jp#?#.entry:-abp-has(.entry_title:-abp-contains(/^スポンサーサイト$/))
+jugem.jp#?#.entry:-abp-has(.entry-title:-abp-contains(/^スポンサーサイト$/))
+jugem.jp#?#.entry:-abp-has(.entry_title > a[href$=".jugem.jp/?eid="])
+jugem.jp#?#.entry:-abp-has(> h2:-abp-contains(/^スポンサーサイト$/))
+jugem.jp#?#.entry:-abp-has(h2 > a[href$=".jugem.jp/?eid="])
+
+
 
 ! --- kakaku.com --- !
 ||kakaku.com^*/kakakuad/
