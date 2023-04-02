@@ -2806,6 +2806,8 @@ shogi-sanpo.com##.tac.mb30
 shuchi.php.co.jp##.tac
 shuchi.php.co.jp##[style="height: 600px;"]
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
+sin-space.com##.ad-side
+sin-space.com##div[class^="insentence-adsense-"]
 sirabee.com###rectangle
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
