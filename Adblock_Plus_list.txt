@@ -1656,6 +1656,8 @@ buzzap.jp###Cresponsive_2nd
 buzzap.jp##.afamazon-box
 buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
+cad-data.com###topKokuchi
+cad-data.com###KkPcSideTu > nav + aside
 calculator.jp###im_panel_pc
 caloo.jp##[id^="dfp-Caloo_"]
 campify.jp##.pc-overlay-ad
