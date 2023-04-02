@@ -180,18 +180,17 @@ skebetter.com##a[href*=".dmm.co.jp/"]
 ! 不明
 ||uraaka-joshi.com/ad-
 
+! 2023/04/02 2020年頃から放置
+||share-videos.se/js/pjs.js
+	||admesia.com^$third-party
+share-videos.se###ad_html
+share-videos.se###new_ad_html
+
 !2023/02/17 記事非公開
 ! helpsupport.blog.fc2.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81515
 helpsupport.blog.fc2.com#@#.AdContainer
 helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
-
-!2023/01/23 2023年3月31日 GYAO! トレンドニュース 終了
-!https://gyao.yahoo.co.jp/thankyou
-gyao.yahoo.co.jp##.ad
-gyao.yahoo.co.jp##.yads-overlay
-gyao.yahoo.co.jp##[class^=timeline-ad_timelineAd__]
-@@||yimg.jp/bdv/yahoo/javascript/gyao/clover.js?
 
 !2022/12/20 2023年6月28日 ゲームアツマール終了
 !https://blog.nicovideo.jp/niconews/183352.html
@@ -895,8 +894,6 @@ _ads.js.
 ||scienceplus2ch.up.seesaa.net/common/sitejack.js$domain=scienceplus2ch.com
 ||server-navi.info/cgi/book_
 ||sexyvoice.org/banner/
-||share-videos.se/js/pjs.js
-	||admesia.com^$third-party
 ||shopping.sponichi.co.jp/scripts/sannex_banner_auction.js
 ||signal-flag-z.asuscomm.com:9443/api/amznWidget$domain=signal-flag-z.blogspot.com
 ||simozo.com/js/ad_
@@ -2797,8 +2794,6 @@ server-setting.info###pr_bottom
 server-setting.info###pr_side_top
 sexyvoice.org###side-scroll
 sexyvoice.org##.block_ranking
-share-videos.se###ad_html
-share-videos.se###new_ad_html
 shimotsuke.co.jp##.article-body > .slide-wrapper
 shimotsuke.co.jp##.top-banner
 shiroutowiki.work##.p-adBox
