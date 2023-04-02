@@ -2735,6 +2735,7 @@ renso-ruigo.com##.ad-posi1
 renso-ruigo.com##.content-banner
 renso-ruigo.com##.sidebar-box3:first-child
 repsoku.net###ad
+retro-gamer.jp##[id^="text-"] > .textwidget a[href*="amazon.co.jp"],[id^="text-"] > .textwidget a[href*="amzn.to"]
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
 reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
