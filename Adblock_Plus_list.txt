@@ -2066,8 +2066,6 @@ hominis.media##.ad
 hinata.me##[class^="articleId__AdWrapper-"]
 hinative.com##.mod_ads_trek_balloon
 hmv.co.jp##div[style="width: 700px; margin: 30px auto 0 auto; height: 250px;"]
-hobby.dengeki.com##.ad_column
-hobby.dengeki.com##.afbox
 hobonichielog.com##.mainwidget > [id^="text-"]
 hochi.news##.ad[style="min-width: 300px; min-height: 250px; color:#fff; text-align:center;"]
 hochi.news##.header__ad
@@ -3782,6 +3780,11 @@ hitomi.la##.container > div[class$="content"] > div[class] > script:upward(1)
 hitomi.la##[class="navbar"]:style(display: flex !important;flex-flow: wrap !important;height: auto !important;)
 hitomi.la##.drop-button:style(margin-left: auto !important;)
 hitomi.la##.top-content:style(margin-top: 0px !important;)
+
+! --- hobby.dengeki.com --- !
+||hobby.dengeki.com/wp-content/themes/hobby2021/common/js/jack_ad.js
+hobby.dengeki.com##.ad_column
+hobby.dengeki.com##.afbox
 
 ! --- Hrs-Game --- !
 hrs-game.main.jp##[class^="ads_"]
