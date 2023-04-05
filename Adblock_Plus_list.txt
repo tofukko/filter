@@ -2225,6 +2225,8 @@ jpnumber.com##.adsline
 jprime.jp##div[style="min-height:250px;"]
 jpshowbiz.us##.video-plugin-div
 jpshowbiz.us##+js(nostif, alert)
+juuuke.com##.adArea
+juuuke.com##.product
 jyouhouya3.net##.link_ra
 jyouhouya3.net##.side_syohin_entry
 jyouhouya3.net#?#[class^="pnews"]:-abp-has(> a[href*="amazon.co"])
