@@ -4390,7 +4390,7 @@ news.nicovideo.jp###billboard_container
 ||analytics.cocolog-nifty.com^
 ||nifty.com/pubc0m/js/tag/_nif_tag.js
 ||nifty.gesoten.com/nifty/banner
-! nifty.softgames.com
+! nifty.gamedistribution.com
 ||improvedigital.com^$third-party
 
 ! --- nijigen-daiaru.com --- !
@@ -4969,18 +4969,6 @@ games.wkb.jp##.footer-ad
 games.wkb.jp##.left-ad
 games.wkb.jp##.top-ad
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.wkb.jp
-
-!SOFTGAMES
-||vntsm.com^$third-party
-games.softgames.com##.sgYMenuContainer + div
-!@@||stats.g.doubleclick.net/*__utm.gif?$image,domain=games.softgames.com
-!@@||stats.g.doubleclick.net/dc.js$script,domain=games.softgames.com
-@@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Fgames.softgames.com$xmlhttprequest,domain=games.softgames.com|imasdk.googleapis.com
-@@||googletagservices.com/tag/js/gpt.js$script,domain=games.softgames.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.softgames.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=games.softgames.com
-@@||games.softgames.com/assets/advertisement.js$domain=games.softgames.com
-||imasdk.googleapis.com/js/core/bridge3.*_en.html$subdocument,important,redirect=noop.html,domain=games.softgames.com
 
 !Aeria
 minigame.aeriagames.jp###centerADBox
