@@ -1964,6 +1964,8 @@ gameranbu.jp##.ad_center
 gameranbu.jp##.side_ad > .cf
 gameranbu.jp##.side_ad_top
 gameranbu.jp##.side_recomend_trac
+gamesindustry.biz##.main_contents > div.middle_section
+gamesindustry.biz##.banner_rectangle
 gamesink.net##.footer_ov_ad
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
@@ -2210,8 +2212,6 @@ jmty.jp##.p-adsense-list-right-column-high-block
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
 joker004.blog.fc2.com##[style^="width:728px;height:90px"]
-jp.gamesindustry.biz##.banner_rectangle
-jp.gamesindustry.biz##.middle_section
 jp.wazap.com##.bodyFootBanner
 jp.wazap.com##.fullBanner
 jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
