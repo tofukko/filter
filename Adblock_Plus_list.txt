@@ -2384,6 +2384,9 @@ mamadays.tv##[class^="style_ad_"]
 mamagirl.jp##.p-ad
 manager-life.net##[id^="ad_"]
 manga.okiba.info,manga.okiba.jp##.amazon-ranking-outer
+manga-5.com##.ad
+manga-5.com##.list_series > li.product:not([id])
+manga-5.com##.sticky_banners
 manga-comisol.jp##.ad-list
 manga-gai.net##.menu_bottom + hr:style(clear: both !important;)
 manga-yomeru.com##.adbox
