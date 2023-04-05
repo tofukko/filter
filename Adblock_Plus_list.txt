@@ -46,6 +46,9 @@ togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 ! ツイキャス
 ! 維持？ https://twitter.com/twitcasting_jp/status/1621375366140149760
 
+! 抽選ったー
+! サ終 https://lottritter.o-kami.com/
+
 ! アニメレーダー https://ckworks.jp/animeradar/about/
 ! 一部サ終 https://ckworks.jp/animeradar/about/
 
