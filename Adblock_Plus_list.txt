@@ -2489,6 +2489,7 @@ mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
 moguravr.com##.mg-ads-placement
+momi3.net##td[width="635"][valign="top"] > table > tbody > tr:first-child
 momon-ga.com###menu-pr
 momon-ga.com##.asmr18
 momon-ga.com##.tablink
