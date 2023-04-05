@@ -46,6 +46,12 @@ togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 ! ツイキャス
 ! 維持？ https://twitter.com/twitcasting_jp/status/1621375366140149760
 
+! あたるってぃー
+! 維持？ https://irucabot.com/news/future_services.html
+
+! あたれら https://atarela.herokuapp.com/
+! サ終？ https://twitter.com/twirela/status/1641226076138663936
+
 ! 抽選ったー
 ! サ終 https://lottritter.o-kami.com/
 
@@ -113,6 +119,12 @@ trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 twtimez.net##.adDown
 twtimez.net##.adMiddle
 twtimez.net##.adTop
+
+! アプリ☆メーカー https://appli-maker.jp/
+! 不明 https://twitter.com/Diver_Down_LLC/
+
+! 黒歴史クリーナー https://kurorekishi.me/cleaner/getstarted
+! 不明 
 
 ! 質問箱
 ! 不明 https://twitter.com/peing_net
