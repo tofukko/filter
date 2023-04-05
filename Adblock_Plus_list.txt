@@ -4399,6 +4399,17 @@ news.nicovideo.jp###billboard_container
 ! nifty.gamedistribution.com
 ||improvedigital.com^$third-party
 
+! https://www.reddit.com/r/uBlockOrigin/comments/vf5dyc/cant_play_bubble_game/
+! https://github.com/uBlockOrigin/uAssets/issues/13814
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=html5.gamedistribution.com
+@@||hb.improvedigital.com/pbw/headerlift.min.js$script,domain=html5.gamedistribution.com
+@@||hb.improvedigital.com/pbw/prebid/*$script,domain=html5.gamedistribution.com
+||tag.atom.gamedistribution.com^$xhr,redirect-rule=nooptext,1p
+! https://github.com/uBlockOrigin/uAssets/issues/15382
+@@||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule,domain=html5.gamedistribution.com
+! https://github.com/uBlockOrigin/uAssets/issues/13814#issuecomment-1415669318
+html5.gamedistribution.com##+js(no-fetch-if, api)
+
 ! --- nijigen-daiaru.com --- !
 ! https://nijigen-daiaru.com/
 ! https://hentai-books.com
