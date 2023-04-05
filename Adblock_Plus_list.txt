@@ -1773,6 +1773,9 @@ conveni-now.com,iqos-laboratory.com##div[class^="ads-tag"]
 cookien.com##.pr_content
 cookpad.com##.ad_wrapper
 cookpad.com###sticky_reference_element
+cocktaillog.com##app-adsense-display-ads
+cocktaillog.com##app-adsense-list-in-feed-ads
+cocktaillog.com##app-the-moneytizer-ads
 coromoo.com##.affiliate
 coromoo.com##.amazon-link
 corriente.top##.adbox
