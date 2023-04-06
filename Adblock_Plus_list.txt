@@ -2269,6 +2269,9 @@ kakijun.jp###rcounter > div:not([style="margin:20px auto;text-align:center;font-
 kakijun.jp##.gadcenter
 kakomonn.com##[class^=ctr_ad_]
 kaku-navi.com##[class^="google_ad_kanji_"]
+kakuba.jp##.creative-grid__item:not([data-id])
+kakuba.jp##.pr-banner-img > a[href^="https://brainmagicproduct.com/orbital2-sterna/"]
+kakuba.jp##[class^="ad-"][class$="_wrapper"]
 kakuge.com##.ad
 kakuyomu.jp##[class*="widget-ad-"]
 kamigame.jp###ad_overlay
