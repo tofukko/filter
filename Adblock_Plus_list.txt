@@ -2225,6 +2225,7 @@ jpnumber.com##.adsline
 jprime.jp##div[style="min-height:250px;"]
 jpshowbiz.us##.video-plugin-div
 jpshowbiz.us##+js(nostif, alert)
+jumpmatome2ch.biz##[class^="ad-box"]
 juuuke.com##.adArea
 juuuke.com##.product
 jyouhouya3.net##.link_ra
