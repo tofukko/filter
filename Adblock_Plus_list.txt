@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/04/05 16:38
+! 最終更新 2023/04/06 18:03
 !
 
 !2023/04/02 twitter API
@@ -6045,41 +6045,29 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 ! youpouch.com
 @@||fundingchoicesmessages.google.com^$script,domain=youpouch.com|rocketnews24.com
 @@||pagead2.googlesyndication.com/pagead/$script,domain=youpouch.com|rocketnews24.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=youpouch.com|rocketnews24.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=youpouch.com|rocketnews24.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=youpouch.com|rocketnews24.com
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=youpouch.com|rocketnews24.com
+@@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=rocketnews24.com|youpouch.com
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 rocketnews24.com,youpouch.com#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 !chrome
-@@||tpc.googlesyndication.com/simgad/*$image,xhr,domain=rocketnews24.com|youpouch.com
-
-||afl.rakuten.co.jp^$image,domain=rocketnews24.com|youpouch.com
+@@||tpc.googlesyndication.com/simgad/*$image,xmlhttprequest,domain=rocketnews24.com|youpouch.com
 ||googlesyndication.com/safeframe/$frame,redirect-rule=noop.html,domain=rocketnews24.com|youpouch.com
-rocketnews24.com,youpouch.com##.abgc
-rocketnews24.com,youpouch.com##.adunit
-rocketnews24.com,youpouch.com##+js(ra, href, #aw0)
-rocketnews24.com,youpouch.com##+js(remove-attr, src, #aw0 > .img_ad)
-
-rocketnews24.com###sub-content > ul:first-child:style(display: flex !important; flex-wrap: wrap !important;margin-top: -1843px !important;)
-rocketnews24.com###sub-content > ul > li[id]:not([id^="custom_html-"]):style(order: 1 !important;)
-rocketnews24.com##[id^="custom_html-"]:style(height: 600px !important;)
-rocketnews24.com###fixed-widgets:style(margin-bottom: -565px !important;)
-rocketnews24.com###header .misc .ad
-rocketnews24.com###div-gpt-ad-footer
-rocketnews24.com###main-content .ads-relatedbottom
-rocketnews24.com###div-gpt-ad-pagebottom
-
-youpouch.com###primary-widgets:style(display: flex !important; flex-wrap: wrap !important;margin-top: -1839px !important;)
-youpouch.com###primary-widgets > li[id]:not([id^="custom_html-"]):style(order: 1 !important;)
-youpouch.com###primary-widgets > :is(li:not([id]),[id^="custom_html-"]):style(height: 600px !important;)
-youpouch.com###fixed-widgets:style(margin-bottom: -250px !important;)
-youpouch.com###header #header-main .ad
-youpouch.com##.post-footer .ads-relatedbottom
-youpouch.com###div-gpt-ad-footer
-
+rocketnews24.com,youpouch.com##+js(no-fetch-if, tpc.googlesyndication.com)
+rocketnews24.com,youpouch.com##+js(remove-attr, id, #div-gpt-ad-sidebottom)
+rocketnews24.com,youpouch.com##+js(remove-attr, id, #div-gpt-ad-footer)
+rocketnews24.com,youpouch.com##+js(remove-attr, id, #div-gpt-ad-pagebottom)
+rocketnews24.com,youpouch.com##+js(remove-attr, id, #div-gpt-ad-relatedbottom-1)
+rocketnews24.com##.widget_custom_html:not(#custom_html-2)
+rocketnews24.com###custom_html-2 > .custom-html-widget > .ad
+rocketnews24.com###header > .misc > .ad
+youpouch.com###header > #header-main > .ad
+youpouch.com##.post-footer > .ads-relatedbottom
+youpouch.com###primary-widgets > .widget_custom_html
+youpouch.com###primary-widgets > .widget_text:first-child
+youpouch.com###custom_html-2 > .custom-html-widget > .ad300x250
 googlesyndication.com##.GoogleActiveViewElement
-
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/1388
 @@||googletagmanager.com/gtm.js$script,redirect-rule,domain=rocketnews24.com
 
