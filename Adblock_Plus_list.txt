@@ -3102,6 +3102,11 @@ xvideo-jp.com##.p-articleDMM
 xvideo-jp.com##.p-dmmad
 xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
 yakkun.com##.ad
+yakuji.co.jp#?##main > .aside:-abp-has(> .category-list > .ad-text03)
+yakuji.co.jp#?##main > .aside:-abp-has(> .center > .ad)
+yakuji.co.jp##.ad-text01
+yakuji.co.jp##.pd
+yakuji.co.jp##.rb
 yamakei-online.com###text_ad
 yamareco.com###sidebar_right > .mb20[style="clear:both;"] + .box:style(clear: both !important;)
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
