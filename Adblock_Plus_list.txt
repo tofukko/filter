@@ -1811,6 +1811,7 @@ db.msin.jp##.pr
 ddnavi.com##.ad-twoside
 ddnavi.com##.side-er
 ddnavi.com##[style="font-family:Gill Sans;font-size:12px;line-height:12px;color:#CCC;text-align:center;margin:0 0 5px;clear:both;"]
+deli-fuzoku.jp#?#.mod-bnrWrap:-abp-has(> a[href^="https://www.dlsite.com/"])
 dengekionline.com##.gAdBanner.u-mbM
 dengekionline.com##.gAdBanner-pickUp
 dengekionline.com##.gMovBox.u-mtbS
