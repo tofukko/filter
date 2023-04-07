@@ -4420,7 +4420,7 @@ news.nicovideo.jp###billboard_container
 
 ! --- nifty --- !
 ||analytics.cocolog-nifty.com^
-||nifty.com/pubc0m/js/tag/_nif_tag.js
+||nifty.com/pubc0m/$script
 ||nifty.gesoten.com/nifty/banner
 ! nifty.gamedistribution.com
 ||improvedigital.com^$third-party
