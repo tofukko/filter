@@ -3530,6 +3530,16 @@ fig-memo.com##.gallery
 fig-memo-r18.site##.foogallery
 fig-memo-r18.site##.post_content > table[style="border-collapse: collapse; width: 100%;"]
 
+! --- fmworld.net --- !
+azby.fmworld.net###leftAffi
+azby.fmworld.net###subContents > .mrgB10:last-of-type
+community2.fmworld.net##.articleDeleteButtonWrap
+fmv-mypage.fmworld.net##.home-recommend__item[class$="hidden"]
+||fmworld.net/*/adv-html/$subdocument
+! https://github.com/AdguardTeam/AdguardFilters/issues/128061
+azby.fmworld.net##+js(no-xhr-if, /recommendations.)
+@@||images.taboola.com/taboola/image/fetch/$image,domain=azby.fmworld.net
+
 ! --- foto.ne.jp --- !
 ||cg-foto.jp/share/v5/img/stock_bnr_
 ||food-foto.jp/share/v5/img/stock_bnr_
