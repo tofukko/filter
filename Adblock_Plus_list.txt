@@ -5689,6 +5689,8 @@ ashemaletube.com##+js(aopr, open)
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 	!sideランキング12345
 @@||ascii.jp/img/ad/$image,domain=ascii.jp
+        ! https://github.com/tofukko/filter/issues/83
+@@||cdn.taboola.com/magazine/
 	!できない
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
 	!トップページ他
