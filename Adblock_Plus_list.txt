@@ -2574,6 +2574,7 @@ news-postseven.com##div[style*="min-height: 250px"]
 news-us.org##.sponsored
 news24.jp###adText01
 news4wide.net##.wipe-ad-div-class
+newsee-media.com##.s-side[style^="position: fixed;"]
 newser.cc##.ad
 newswitch.jp##.banner
 nhentai.net##.advertisement
