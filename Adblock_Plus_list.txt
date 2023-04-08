@@ -3155,6 +3155,7 @@ zekkei-matome.com##.col-md-4.foot_menu
 zekkei-matome.com##[class="contaimer"] > br
 zekkei-matome.com##[href^="https://www.cross-a.net"]
 zokugo-dict.com##.koukokusm
+zuuonline.com###js-overlay
 !上
 zyuken.net###AdminPage > .Centering.MarginTop10Bottom10
 zyuken.net###SchoolPage > .Centering.MarginTop10Bottom10
