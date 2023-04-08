@@ -2837,7 +2837,8 @@ sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
 sakigake.jp###sakigake_pc_all_header:upward(1)
 sanabo.com##.add
-sanspo.com##.article__inline-ad
+sanspo.com##.article__inline-gptAd
+sanspo.com##.gptAd
 sanyonews.jp##.ad_space
 say-move.org###my_navigation:style(padding-top: 10px !important)
 say-move.org##.wrap_player:style(padding-top: 0 !important)
