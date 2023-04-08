@@ -2077,6 +2077,15 @@ haijin-boys.com##.adsense
 hamachan.info###sidetop_ad_pc
 hamazo.tv##.ad
 hameets.com##.advertisement
+hamlife.jp###adsense-content-unit
+hamlife.jp###h-superbanner
+hamlife.jp###main-contents > article.post-box.dnm
+hamlife.jp###media_image-2
+hamlife.jp###text-28
+hamlife.jp##.parallel
+hamlife.jp##.widget-right.widget_sp_image:not(#widget_sp_image-60)
+hamlife.jp##.widget-right.widget_text:has(a[href^="https://www.amazon.co.jp"])
+hamlife.jp##.widget_text:has(iframe[src^="//rcm-fe.amazon-adsystem.com"])
 hanako.tokyo##.ad-banner
 hanakomama.jp##.ad-banner
 happycampus.co.jp##div[style="width: 100%; height: 90px; clear: both;"]
