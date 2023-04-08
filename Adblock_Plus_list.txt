@@ -3905,7 +3905,8 @@ i-bbs.sijex.net##span[style="display:block;margin:5px 0 0 0;padding:0;text-align
 
 ! --- impress.co.jp --- !
 ||yamakei-online.com/new_images/adv/banner/
-ganref.jp##[id^="gpt-ad-"]:upward(1)
+forest.watch.impress.co.jp##.ad_download
+ganref.jp##.p-banner-wrap
 game.watch.impress.co.jp###game-rakuten-ranking
 it.impress.co.jp##.ad-pr-text
 netshop.impress.co.jp###bancho_adsense_nodefooter
