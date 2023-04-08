@@ -1661,6 +1661,7 @@ blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
 blog.esuteru.com,otakomu.jp##.jackFix
 blog.ss-blog.jp###ad-days-area
 blogcircle.jp##.ads
+blogmimi.com,attracted.info,livemimi.com,meidomimi.com##[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 blogmura.com##.ad
 blogmura.com##.ad-header
 blogmura.com##.ad-list
