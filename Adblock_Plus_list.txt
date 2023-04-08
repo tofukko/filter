@@ -2849,6 +2849,7 @@ serai.jp##.post_content--ad_area
 server-navi.info##.boxp
 server-setting.info###pr_bottom
 server-setting.info###pr_side_top
+service.webgoto.net##[data-fee-style]
 sexyvoice.org###side-scroll
 sexyvoice.org##.block_ranking
 shimotsuke.co.jp##.article-body > .slide-wrapper
