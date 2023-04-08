@@ -1520,6 +1520,11 @@ altema.jp###\30 2.exclude-h2-cnt
 altema.jp##.tableLine.PRrank-icon2
 ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
+ani-chat.net###execphp-63
+ani-chat.net###execphp-66 > .execphpwidget > .btn + .idname
+ani-chat.net###execphp-66 > .execphpwidget > .btn + .idname + .txt
+ani-chat.net###resid
+ani-chat.net###side-scroll
 anicobin.ldblog.jp###ad_area
 anicobin.ldblog.jp##.article_inline_ad_more
 anicobin.ldblog.jp##.rss-wrapper2:style(padding-bottom: 0 !important;)
