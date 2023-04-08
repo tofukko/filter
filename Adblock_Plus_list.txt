@@ -2313,7 +2313,9 @@ kenjyaegg.livedoor.blog##.kiji_ad01
 keyakizaka46matomerabo.com##.ads
 kidsna.com#?##kidsna-articlelist > ul > li:-abp-has(.pr)
 kimootoko.net###custom_html-5
+kimootoko.net###custom_html-62
 kimootoko.net###custom_html-63
+kimootoko.net##[class^="fanzakiji"]
 kinmaweb.jp##.book-tiles
 kkbox.com##.google-ad-manager
 kobe-np.co.jp###prBox
