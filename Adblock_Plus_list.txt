@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/04/08 6:47
+! 最終更新 2023/04/09 15:53
 !
 
 !2023/04/02 twitter API
@@ -3850,24 +3850,26 @@ q.hatena.ne.jp##.sidebar-banner
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
 ! --- hayamimi --- !
-! 早耳ガンプラ情報局
-||hayamimi-hobby.com/gen-rss/r?rss_url=bandai&$subdocument
-gtoys.blog.fc2.com###Navigation2 > ul > li > a:not([href="http://gtoys.blog48.fc2.com/blog-entry-31.html"])
-gtoys.blog.fc2.com###outline > table[bgcolor="#ffffff"] > tbody > tr > td[width="32%"]
-gtoys.blog.fc2.com###p5tittle
-gtoys.blog.fc2.com###p6tittle
-gtoys.blog.fc2.com##.ads
-gtoys.blog.fc2.com##.ads1
 ! 早耳ホビー
+hayamimi-hobby.com##.d-md-block > .list-product
+hayamimi-hobby.com##.height-300
+hayamimi-hobby.com##.height-350.px-1.col-md-4
+hayamimi-hobby.com##.menu-1 > .menu-item:not(.menu-item-38):not(.menu-item-39)
+hayamimi-hobby.com##.mt-2.pb-1
+hayamimi-hobby.com##.p-1.border-ao.border-bottom-2.text-dark.text-center.content_title
+hayamimi-hobby.com##.p-1.position-relative[style="width: 50%"]
+hayamimi-hobby.com##.sticky-top
+hayamimi-hobby.com##.text-center.col-xs-12.col-md-12.position-relative
+hayamimi-hobby.com##.wrap.simple-vertical
 ! 早耳ガンプラ
-||hayamimi-hobby.com/gen-rss/r?rss_url=aws&$subdocument
-hayamimi-gunpla.com,hayamimi-hobby.com##.d-md-block > .list-product
-hayamimi-gunpla.com,hayamimi-hobby.com##.menu-1 > .menu-item:not(.menu-item-38):not(.menu-item-39)
-hayamimi-gunpla.com,hayamimi-hobby.com##.p-1.border-ao.border-bottom-2.text-dark.text-center.content_title
-hayamimi-gunpla.com,hayamimi-hobby.com##.plugin:nth-last-of-type(2)
-hayamimi-gunpla.com,hayamimi-hobby.com##.wrap.simple-vertical
-hayamimi-gunpla.com,hayamimi-hobby.com##amp-carousel
-hayamimi-gunpla.com,hayamimi-hobby.com#?#div:-abp-has(> .banner-id)
+||hayamimi-hobby.com/gen-rss/r?rss_url=$subdocument
+hayamimi-gunpla.com###Navigation2 > ul > li > a:not([href="http://gtoys.blog48.fc2.com/blog-entry-31.html"])
+hayamimi-gunpla.com###outline td[width="425px"]
+hayamimi-gunpla.com###p5tittle
+hayamimi-gunpla.com###p6tittle
+hayamimi-gunpla.com##.ads
+hayamimi-gunpla.com##.ads1
+hayamimi-gunpla.com##.sticky-ad
 
 !g --- hitomi.la --- !
 ! https://github.com/uBlockOrigin/uAssets/issues/11515
