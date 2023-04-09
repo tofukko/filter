@@ -3427,6 +3427,13 @@ wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
 news.denfaminicogamer.jp###dfng-jack
 
+! --- diet2channel --- !
+! http://blog.livedoor.jp/diet2channel/
+||blog.livedoor.jp/diet2channel/js/adarea.js
+||blog.livedoor.jp/diet2channel/js/adtop.js
+blog.livedoor.jp###YDNA
+blog.livedoor.jp###YDNB
+
 ! --- dmm --- !
 ||aztool.org$third-party
 ||150601.fc2rs.com^
