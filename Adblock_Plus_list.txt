@@ -173,6 +173,9 @@ twihub.me##.c-max-width-height-350
 uraaka.com##.ad-overlay
 uraaka.com##.gallery__interstitial
 uraaka.com##body:style(overflow-y: auto !important;)
+||uraaka.com/iframe-ad/
+uraaka.com##div[class^="back-ad_"]
+uraaka.com##div[class^="overlay-ad_"]
 
 ! Skebetter
 ! 不明
