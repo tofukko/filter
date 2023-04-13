@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/04/13 11:06
+! 最終更新 2023/04/13 22:54
 !
 
 !2023/04/02 twitter API
@@ -182,7 +182,7 @@ uraaka.com##div[class^="overlay-ad_"]
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-w-2xl
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
-skebetter.com##a[href*=".dmm.co.jp/"]
+skebetter.com##a[href*="dmm.co"]
 
 ! プロフカード
 ! 不明 https://twitter.com/profcard_info
