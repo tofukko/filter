@@ -3084,6 +3084,9 @@ weeklybcn.com##.footer__pr
 weeklybcn.com##.section-ad:not(.side_bnr)
 wezz-y.com##[id^="adSideRectangle"]
 wikihow.jp##.wh_ad_inner
+wikiwand.com##[class^="article_footerStickyAd__"]
+wikiwand.com##[class^="article_sectionAd__"]
+wikiwand.com##[class^="content_headerAd__"]
 wikiwiki.jp##[id$="-ad-container"]
 wiper.xii.jp##[class^="ads_"]
 wired.jp##.ad--mid-content
