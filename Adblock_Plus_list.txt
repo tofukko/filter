@@ -2565,6 +2565,8 @@ nanigoto.net##.header-widgets
 natsukimemo.com##.adsense
 navitime.co.jp###under-advertisement
 navitime.co.jp##[class^="section-ad-"]
+navitime.co.jp##div[style$="margin: 30px 0; height: 250px;"]
+navitime.co.jp##div[style$="margin:30px 0;height:280px;"]
 nazo2.net##.ad_article_center
 nazo2.net##.footer_ad
 nazology.net##.ads-wide
