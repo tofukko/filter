@@ -1941,6 +1941,7 @@ flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.c
 flashfabrica.com##.footer:style(clear:both;)
 football-tribe.com##div[id^="da-article-"]
 forbesjapan.com##.ad_header
+forbesjapan.com##.ad-pc
 forbesjapan.com##.ad_under
 forbesjapan.com##[id^="ad-"]
 formula1-data.com##.ad
