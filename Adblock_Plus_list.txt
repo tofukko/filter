@@ -4522,6 +4522,10 @@ xtech.nikkei.com##.p-article + .l-section
 xtech.nikkei.com##.p-article_ad
 ! 日経xwoman
 aria.nikkei.com,doors.nikkei.com,dual.nikkei.com,woman.nikkei.com###stickyArea1
+! 日経CNBC
+nikkei-cnbc.co.jp###headerbanner
+nikkei-cnbc.co.jp##headerr:matches-media((min-width: 768px)):style(height: 150px !important;)
+nikkei-cnbc.co.jp##main:matches-media((min-width: 768px)):style(padding-top: 110px !important;)
 
 ! --- nukistream.com --- !
 ! ぬきスト系
