@@ -49,6 +49,20 @@ togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 ! あたるってぃー
 ! 維持？ https://irucabot.com/news/future_services.html
 
+! ツイプロ
+! https://twpro.jp/
+!      https://twpf.jp/
+! 維持 https://twitter.com/twprofile
+twpro.jp##.ads-banner-box
+
+! プロフカード
+! https://twitter.com/profcard_info
+! 維持 https://twitter.com/profcard_info/status/1645713931107987456
+
+! Twoucan
+! 維持 更新停止 https://twitter.com/twoucan/status/1645664297241178112
+||twoucan.com/ad?name=
+
 ! あたれら https://atarela.herokuapp.com/
 ! サ終？ https://twitter.com/twirela/status/1641226076138663936
 
@@ -150,11 +164,6 @@ poipiku.com##.PcSideBarAd
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 egotter.com##[id^="async-adsense-"]
 
-! ツイプロ
-! 不明 https://twpro.jp/
-!      https://twpf.jp/
-twpro.jp##.ads-banner-box
-
 ! ぶろるっく
 ! 不明 https://blolook.osa-p.net/index.html
 
@@ -184,15 +193,8 @@ skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
 skebetter.com##a[href*="dmm.co"]
 
-! プロフカード
-! 不明 https://twitter.com/profcard_info
-
 ! meyou
 ! 不明 https://meyou.jp/
-
-! Twoucan
-! 不明
-||twoucan.com/ad?name=
 
 ! 裏垢女子まとめ
 ! 不明
