@@ -5009,6 +5009,12 @@ art.blog,business.blog,car.blog,code.blog,data.blog,design.blog,family.blog,fash
 ||value-domain.com/xrea_header.js
 ||ax.xrea.com^
 
+!g --- y2mate.com --- !
+! https://github.com/uBlockOrigin/uAssets/issues/13391
+extratorrent.*,torrentstatus.*,yts2.*,y2mate.*##+js(aopw, afStorage)
+extratorrent.*,torrentstatus.*,yts2.*,y2mate.*##+js(nowoif)
+torrentstatus.*,yts2.*,y2mate.*##+js(aopr, mm)
+
 ! --- yahoo --- !
 /yads.
 ||jill.fc.yahoo.com^
