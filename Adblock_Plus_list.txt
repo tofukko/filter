@@ -1619,6 +1619,7 @@ automaton-media.com##.td-a-rec
 ! jack
 automaton-media.com##body:style(background: none!important)
 av-photograph.com##.wakupr
+b.ibbs.info###carousel-banner
 baby-calendar.jp##.bnr
 baby-calendar.jp##[id^="JP_BABY_"]
 bakufu.jp###entryPrBox
