@@ -3206,6 +3206,7 @@ xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//a
 ||5ch.net/css/ad.css
 ||5ch.net/js/ad_on_mango.js?
 ||5ch.net/js/top_ad.js?
+||jump.5ch.net/js/ad.js
 5ch.net###banner
 5ch.net###js-square_ads
 5ch.net###js-rectangle_ads
