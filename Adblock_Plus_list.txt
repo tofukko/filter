@@ -749,6 +749,7 @@ _ads.js.
 ||blogroll.livedoor.net/blogroll/banner/
 ||btopc.jp/css/ec-468x67
 ||coincheck.com/images/affiliates/
+||dgpot.com/blogparts/$third-party
 ||digiket.com/xml/ad/
 ||dietnavi.com/pc/banner/
 ||dogma-annex.com/media/affiliate/
@@ -769,6 +770,7 @@ _ads.js.
 ||munchkin.marketo.net^
 ||optad360.io^
 ||partner*.become.co.jp^
+||pcolle.*/parts/js/parts.js
 ||pikkur.com/bn/
 ||pos.baidu.com^
 ||queen-casino.info/affi/
