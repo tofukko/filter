@@ -4658,6 +4658,13 @@ viki.com##+js(set, VikiPlayer.prototype.pingAbFactor, noopFunc)
 ! @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=viki.com
 *$script,redirect-rule=noopjs,domain=viki.com
 
+! --- rancolle.com --- !
+||rancolle.com/js/adjustbox.js
+rancolle.com##.ad_artbox
+rancolle.com##.amazon_link
+rancolle.com##.follow_region > .pc_only[style="margin-bottom:10px;"]
+rancolle.com##.ri_box.undisplay_s600
+
 ! --- recommend --- !
 ! popin
 !||popin.cc/searchbox/
