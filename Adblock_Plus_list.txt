@@ -1840,6 +1840,8 @@ diskgarage.com##.ads
 diskgarage.com##.cm_ads
 dl-x.com##._ad
 dl-x.com##.vip-center
+dokuha.jp###ad-wall-first-view
+dokuha.jp##.owl-item > div.ad-wrapper:upward(1)
 dotpict.net##[id^="ads"]:upward(1)
 douga100ka.jp##.ad_index_main_base
 douga100ka.jp##.ad_item_head
