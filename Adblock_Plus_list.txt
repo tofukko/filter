@@ -39,6 +39,7 @@ togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 
 ! 診断メーカー
 ! 維持 https://shindanmaker.com/articles/mzvG4n0y26lyRAVZ
+shindanmaker.com##.ads_rect
 
 ! Skeb
 ! 維持 https://twitter.com/skeb_jp/status/1621384206223048706
@@ -4219,6 +4220,9 @@ m4ex.com##.kadomaru.move
 ||highrevenuegate.com^
 ||hdselection.com^
 ||bobabillydirect.org^
+mangagun.net##+js(nowoif)
+weloma.art##+js(nowoif)
+welovemanga.one##+js(nowoif)
 
 ! --- milky エロムビ ？ --- !
 ! キャラメル喫茶
