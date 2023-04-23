@@ -1314,7 +1314,6 @@ _analytics.js?
 ||mc.yandex.ru^
 ||metrics.brightcove.com^
 ||onesignal.com/webPushAnalytics|
-||sea.pakapeko.com^
 ||seg.sharethis.com^
 ||suteki-tool.com/al
 ||suteki-tool.com/pr
@@ -1512,8 +1511,6 @@ adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp##.relatedlabel
 adultblogranking.com##.ads-a
 adultblogranking.com##.rank > li[id]
 adultcomic.dbsearch.net##.img-spc-box.sph250
-adultlog.net,btblog.jp##.story_box:first-child
-adultlog.net,btblog.jp##td.inside
 afpbb.com##.bnr
 akiba-souken.com###adGameRanking
 akiba-souken.com##.articleGoodsBox
@@ -1686,7 +1683,6 @@ buhidoh.net###center-left:style(height: auto !important)
 businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
-buttobi.net##div[style="position: relative; z-index:255;"]
 buzzap.jp###Cresponsive
 buzzap.jp###Cresponsive_2nd
 buzzap.jp##.afamazon-box
@@ -3387,6 +3383,11 @@ bloomberg.co.jp##.leaderboard-wrapper
 @@||sourcepointcmp.bloomberg.com/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
+
+! --- buttobi.net --- !
+||sea.pakapeko.com^
+adultlog.net,btblog.jp##.story_box:has(> tbody > tr > td[valign="middle"])
+buttobi.net##div[style="position: relative; z-index:255;"]
 
 ! --- carview.co.jp -- !
 ||shopping.yahoo.co.jp/sads/deliver/$subdocument,domain=minkara.carview.co.jp
