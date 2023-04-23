@@ -6083,6 +6083,12 @@ investing.com##div[class^="ad_"]
 kledgeb.blogspot.com##+js(abort-current-script, document.getElementById, _0x)
 kledgeb.blogspot.com##body > div[style="visibility: hidden;"]:style(visibility: visible !important;)
 
+! lemino.docomo.ne.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/148073
+lemino.docomo.ne.jp##+js(no-xhr-if, doubleclick.net)
+||g.doubleclick.net/gampad/ads?$xmlhttprequest,redirect=noop.txt,important,domain=lemino.docomo.ne.jp
+@@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=lemino.docomo.ne.jp
+
 ! manga1001.vip
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129121
 @@||cdn.adschill.com/*/unit/*.js$domain=manga1001.vip
