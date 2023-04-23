@@ -2375,6 +2375,7 @@ lifehack2ch.livedoor.biz##.elsebody
 lifehack2ch.livedoor.biz##.yahoo-ad1b
 lifehacker.jp##[class^="articles_pArticles_List__"] > a:not([href])
 lifehacker.jp##[class^="articles_pArticles_HeroLink"]:not([href])
+lifehacker.jp##[class*="bodyAd_BillboardAd__"]
 lifehacker.jp##[class^="bodyAd_BodyAd__"]
 lifehacker.jp##[class^="bodyAd_InnerAd_Label__"]
 linkfang.org###LinkFang_Horizontal
