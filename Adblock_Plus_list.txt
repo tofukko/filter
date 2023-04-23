@@ -5468,6 +5468,7 @@ kanasoku.info##.cent_top
 
 !金時 http://blog.livedoor.jp/goldennews/
 blog.livedoor.jp##[src="http://blog.livedoor.jp/goldennews/settings/ad.js"] + script + #header + #wrapper > #main-column > .kiziue > a[href*="amazon.co.jp"]
+blog.livedoor.jp##:matches-path(/goldennews/)#side-column[style^="position: fixed"]:style(position: static !important;)
 
 !ハター報
 ||blog.livedoor.jp/hamusoku*/amazon
