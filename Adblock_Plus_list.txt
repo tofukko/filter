@@ -4591,6 +4591,10 @@ srad.jp###tophat
 srad.jp##.srad-contentad-banner
 tenshoku.srad.jp###top-hat
 
+! --- picb2.com --- !
+picb2.com#?#div[class$="mb-3 d-none d-md-block"]:-abp-has([href^="https://al.dmm.co.jp/"])
+||picb2.com/post/dmm-images/
+
 ! --- pixiv --- !
 ||pximg.net/source/dic/javascript/side_ads.js?
 www.pixiv.net###js-mount-point-header:style(min-height: auto !important;)
