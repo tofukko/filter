@@ -4933,6 +4933,7 @@ wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height:
 ##.quads-location
 ##.related-ad-area
 ##.related-ad-unit-area
+##.sp-infeed-ad
 ##.sponsor-h2-center
 ##.sponsor-top
 ##.st-h-ad
