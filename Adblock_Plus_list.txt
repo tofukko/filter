@@ -1936,6 +1936,7 @@ fashionsnap.com#?#div[class]:not([class^="_"]):-abp-has(> div:only-child > p:has
 fevian.org##article:nth-of-type(16n+1):not(:first-of-type)
 fgamers.saikyou.biz###ad-area-1
 fgamers.saikyou.biz###ad-area-2
+fgamers.saikyou.biz##.side a[href*="amazon.co.jp"]
 fgamers.saikyou.biz##[id^="subAmzn"]
 figure-times.com###sticky-ads
 financial-field.com##.ad
