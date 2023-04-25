@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/04/23 12:52
+! 最終更新 2023/04/25 21:17
 !
 
 !2023/04/02 twitter API
@@ -91,10 +91,10 @@ buhitter.com##aside.row[style="display: flex; justify-content: center;height: 32
 ! サ終 https://info.otapps.net/archives/808
 ! --- otapps.net --- !
 ! https://info.otapps.net/
-followcheck.itby.net##.mms
-followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> .uk-panel > .uk-margin-top > .adsbygoogle)
-followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> div > .adsbygoogle)
-followmanager.net##.ad
+! followcheck.itby.net##.mms
+! followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> .uk-panel > .uk-margin-top > .adsbygoogle)
+! followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> div > .adsbygoogle)
+! followmanager.net##.ad
 
 ! CERON
 ! サ終 https://ceron.jp/20230331.html
@@ -131,9 +131,9 @@ trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 
 ! Twtimez
 ! サ終 https://twitter.com/TwTimez/status/1641980394437480450
-twtimez.net##.adDown
-twtimez.net##.adMiddle
-twtimez.net##.adTop
+! twtimez.net##.adDown
+! twtimez.net##.adMiddle
+! twtimez.net##.adTop
 
 ! アプリ☆メーカー https://appli-maker.jp/
 ! 不明 https://twitter.com/Diver_Down_LLC/
