@@ -944,6 +944,7 @@ _ads.js.
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
+||tver.jp/web/TEAD_banner_ui/
 ||tbsradio.jp/assets/js/ad/
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
