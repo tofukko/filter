@@ -1410,6 +1410,8 @@ _analytics.js?
 
 ! ameblo
 ! 	#freespace
+! cocolog-nifty.com
+!	.module-body.module-content
 ! livedoor
 ! 	.sidewrapper
 ! fc2 (2nt)
@@ -1422,6 +1424,7 @@ _analytics.js?
 ~amazon.*##.column-inner-2 a[href*="amazon.co.jp"], .column-inner-2 a[href*="amzn.to"]
 ~amazon.*##.left-column-inner a[href*="amazon.co.jp"], .left-column-inner a[href*="amzn.to"]
 ~amazon.*##.left-container a[href*="amazon.co.jp"], .left-container a[href*="amzn.to"]
+~amazon.*##.module-body.module-content a[href*="amazon.co"],.module-body.module-content a[href*="amzn.to"]
 ~amazon.*##.plugin-freearea a[href*="amazon.co.jp"], .plugin-freearea a[href*="amzn.to"]
 ~amazon.*##.plugin-freearea1 a[href*="amazon.co.jp"], .plugin-freearea1 a[href*="amzn.to"]
 ~amazon.*##.plugin1_outline a[href*="amazon.co.jp"], .plugin1_outline a[href*="amzn.to"]
