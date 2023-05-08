@@ -4037,6 +4037,10 @@ news.kakaku.com##.pr-bnr
 !si
 ||demand.supply^$third-party
 ||ad.kissanime.*^
+||mfbjifwyieopx.com^
+||iwhoosty.com^
+||tzegilo.com^
+||glizauvo.net^
 !digital
 ||kissanime.digital/addons/*.gif|$image
 kissanime.digital##main + script + div[class]
