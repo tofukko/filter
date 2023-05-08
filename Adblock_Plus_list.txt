@@ -1379,6 +1379,7 @@ _analytics.js?
 ##.ad-rectangle
 ##.article_ad
 ###fluct-pc-sticky-ad
+##[href^="https://rapidgator.net/article/premium/ref/"]
 
 ! fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com
 ##.ggbox
@@ -4230,6 +4231,7 @@ m4ex.com##.kadomaru.move
 ||highrevenuegate.com^
 ||hdselection.com^
 ||bobabillydirect.org^
+||prplads.com^
 mangagun.net##+js(nowoif)
 weloma.art##+js(nowoif)
 welovemanga.one##+js(nowoif)
