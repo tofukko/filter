@@ -1970,7 +1970,6 @@ fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
 full-count.jp##.l-sidebar-ads
 full-count.jp##.s-entry-ads
-futabaforest.net##[class^="c11-"]
 gaccom.jp##.ads
 gahalog.2chblog.jp###sidebar:style(position: static !important;)
 gakuryou.net##[id^="ADw"]
@@ -3637,6 +3636,10 @@ otn.fujitv.co.jp##.pcMenuBannerZone:style(padding-top: 87px !important;)
 ||2chan.net/bin/count.swf
 ||2chan.net/bin/uuacount.php?*
 ||2chan.net/bin/uucount.php
+
+dev.ftbucket.info##[href^="http://www.dlsite.com/"]
+dev.ftbucket.info##body > font[size="2"]:first-child
+futabaforest.net##[class^="c11-"]
 
 ! --- futabanet.jp --- !
 ||futabanet.jp/oo/
