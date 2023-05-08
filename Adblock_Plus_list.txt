@@ -1970,6 +1970,7 @@ fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
 full-count.jp##.l-sidebar-ads
 full-count.jp##.s-entry-ads
+futabaforest.net##[class^="c11-"]
 gaccom.jp##.ads
 gahalog.2chblog.jp###sidebar:style(position: static !important;)
 gakuryou.net##[id^="ADw"]
