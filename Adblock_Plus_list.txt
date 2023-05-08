@@ -1381,6 +1381,7 @@ _analytics.js?
 ##.ad-rectangle
 ##.article_ad
 ###fluct-pc-sticky-ad
+##div[id^="JP_"][style]
 ##[href^="https://rapidgator.net/article/premium/ref/"]
 
 ! fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com
