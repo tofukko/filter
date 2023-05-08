@@ -1527,8 +1527,7 @@ altema.jp##.tableLine.PRrank-icon2
 ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
 ani-chat.net###execphp-63
-ani-chat.net###execphp-66 > .execphpwidget > .btn + .idname
-ani-chat.net###execphp-66 > .execphpwidget > .btn + .idname + .txt
+ani-chat.net###execphp-66 .txt
 ani-chat.net###resid
 ani-chat.net###side-scroll
 anicobin.ldblog.jp###ad_area
