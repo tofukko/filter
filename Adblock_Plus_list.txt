@@ -2364,6 +2364,8 @@ kurashi-no.jp##.p-article__nro
 kurashiru.com##.DlyFixedBanner
 kurashiru.com##.FooterAppPc-adsWrapper
 kurashiru.com##.PcAside-ads
+kuroyonhon.com###adbox
+kuroyonhon.com###commodity_ul
 kurukura.jp##.double-rectangle
 kurukura.jp#?#.single-sidebar:-abp-has(> .ad-bnr)
 kyobun.co.jp##.kyobu-widget
