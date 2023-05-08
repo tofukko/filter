@@ -3611,6 +3611,10 @@ cg-foto.jp,food-foto.jp,model-foto.jp,pro-foto.jp##.stock_bnr_block
 cg-foto.jp,food-foto.jp,model-foto.jp,pro-foto.jp##[class|="ad_block"]
 free.foto.ne.jp##.ad_full
 
+! --- freeup.jp --- !
+||banner.worldranking.jp^
+freeup.jp##table[width="98%"][cellspacing="0"][bordercolor="#0000FF"][border="1"][bgcolor="#FFFFFF"]
+
 ! --- fresheye.com --- !
 ||relart.fresheye.com^
 ||fresheye.com/parts/koma/parts_ad2_i.html
