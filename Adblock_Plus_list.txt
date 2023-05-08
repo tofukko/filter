@@ -926,6 +926,7 @@ _ads.js.
 ||squallchannel.com/sqa.html
 ||squallchannel.com/squallch.html
 ||square-enix.com/common/templates/js/ad/
+||streamtape.com/adgpt.js
 ||stv.jp/nnn/assets/$subdocument
 ||style.potepan.com/wp-content/themes/potepan-style/js/article-detail/popUpBanner.js
 ||style.potepan.com/wp-content/themes/potepan-style/js/common/fixedFooter.js
