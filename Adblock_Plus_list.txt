@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/08 21:32
+! 最終更新 2023/05/09 16:53
 !
 
 !2023/04/02 twitter API
@@ -4106,10 +4106,10 @@ streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
 *$3p,denyallow=tapecontent.net|google.com|gstatic.com|hcaptcha.com|recaptcha.net,domain=streamtape.*|strtape.*
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6738
-fmovies.*##+js(acis, parseInt, break;case $.)
-fmovies.*##^script:has-text(break;case $.)
+! https://github.com/uBlockOrigin/uAssets/issues/17145
 fmovies.*##+js(nowoif)
-||fmovies.*/sw.js
+fmovies.*##+js(aopr, mm)
+||stovecharacterize.com^
 fmovies.*##+js(set, console.clear, undefined)
 ! fmovies.ps popup
 fmovies.*###modalshare
@@ -4122,25 +4122,26 @@ fmovies.*###gift-top
 @@||iamcdn.net/players/*ads$script,domain=playhydrax.com
 ||iamcdn.net/players/ads.watch.min.js$script,domain=playhydrax.com,important
 ||iamcdn.net/players/playera.dmins.js$script,domain=playhydrax.com
-||iamcdn.net/players/player*.*mins.js$script,domain=hydracdn.*|nazarickol.com|freeplayervideo.com|player-cdn.com
-hydracdn.*##+js(acis, String.fromCharCode, /btoa|break/)
+||iamcdn.net/players/player*.*mins.js$script,domain=freeplayervideo.com|hydracdn.*|nazarickol.com|player-cdn.com
 hydracdn.*,hydrax.net,playhydrax.com##+js(aopr, AaDetector)
 hydracdn.*,hydrax.net,playhydrax.com##+js(nostif, debugger)
 playhydrax.com##+js(nosiif, _0x)
 hydracdn.*,hydrax.net,playhydrax.com##+js(nowoif, /^/, 2)
-nazarickol.com,freeplayervideo.com,player-cdn.com##+js(set, detectAdBlockAll, noopFunc)
-*$image,redirect-rule=32x32.png,domain=nazarickol.com|freeplayervideo.com|player-cdn.com
-nazarickol.com,freeplayervideo.com,player-cdn.com##+js(set, console.clear, undefined)
-nazarickol.com,freeplayervideo.com,player-cdn.com##+js(ra, style, #over)
-nazarickol.com,freeplayervideo.com,player-cdn.com###playback-fake
-nazarickol.com,freeplayervideo.com,player-cdn.com##+js(nowoif, /^/, 1)
+! abysscdn.com,freeplayervideo.com,nazarickol.com,player-cdn.com##+js(set, detectAdBlockAll, noopFunc)
+abysscdn.com,freeplayervideo.com,nazarickol.com,player-cdn.com##+js(aeld, , break;case $.)
+*$image,redirect-rule=32x32.png,domain=freeplayervideo.com|nazarickol.com|player-cdn.com
+freeplayervideo.com,geoip.redirect-ads.com,nazarickol.com,player-cdn.com##+js(set, console.clear, undefined)
+freeplayervideo.com,nazarickol.com,player-cdn.com##+js(ra, style, #over)
+abysscdn.com,freeplayervideo.com,geoip.redirect-ads.com,nazarickol.com,player-cdn.com##+js(nowoif, /^/, 1)
 playhydrax.com,hydracdn.*,hydrax.net##div#over:remove()
 @@||hydracdn.*^$generichide
 @@||hydrax.net^$generichide
 @@||playhydrax.com^$generichide
-jav.guru##.aligncenter
-jav.guru##.alignnone
-||player-cdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
+jav.guru##.inside-right-sidebar > aside.widget_custom_html
+jav.guru###text-76
+jav.guru###text-92
+jav.guru###text-93
+||abysscdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32450
 ! https://github.com/uBlockOrigin/uAssets/issues/2973
