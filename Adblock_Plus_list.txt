@@ -263,7 +263,6 @@ _728_90.
 /A-affiliate2/*
 /aamsz=
 /acc_random=
-/ad_plugin.js
 /ad.cgi?
 _ad.html|
 /ad.js?slot
@@ -630,7 +629,6 @@ _ads.js.
 ||xmax.jp^$third-party
 ||yieldmanager.com^$third-party
 ||zedo.com^$third-party
-||zemanta.com^$third-party
 
 !----18
 ||angel-group.net^$third-party
@@ -679,7 +677,6 @@ _ads.js.
 ||awempire.com^$third-party
 ||awemwh.com^$third-party
 ||bebi.com^$third-party
-||bidadx.com^$third-party
 ||clicksvenue.com^$third-party
 ||creamssicsite.com^$third-party
 ||deployads.com^$third-party
@@ -720,7 +717,6 @@ _ads.js.
 ||speednetwork14.com^$third-party
 ||spotxchange.com^$third-party
 ||superfastcdn.com^$third-party
-||tapad.com^$third-party
 ||teads.tv^$third-party
 ||tororango.com^$third-party
 ||tradeadexchange.com^$third-party
@@ -733,6 +729,7 @@ _ads.js.
 ||videoegg.com^$third-party
 ||voluumtrk.com^$third-party
 ||xtendmedia.com^$third-party
+||zemanta.com^$third-party
 ||zerezas.com^$third-party
 
 !----third-party
@@ -909,6 +906,7 @@ _ads.js.
 ||pawoo.net/packs/media/pawoo/images/about/banner-
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
+||piapro.jp/images/ads/
 ||python.jp/ext/$xmlhttprequest
 ||repsoku.net/amazon.html$subdocument
 ||scienceplus2ch.up.seesaa.net/common/sitejack.js$domain=scienceplus2ch.com
@@ -3376,7 +3374,7 @@ weather.biglobe.ne.jp###header:style(height: 60px !important;)
 
 ! --- bloomberg.co.jp --- !
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
-||bbthat.com^$script,$third-party
+||bbthat.com^$script,third-party
 ||crwdcntrl.net^$third-party
 ||youborafds01.com^$third-party
 bloomberg.co.jp##.leaderboard-container
@@ -4184,61 +4182,63 @@ m4ex.com##.inmaincmframe ~ div
 m4ex.com##.kadomaru.move
 
 !g --- manga --- !
-/prebidlink/*
-/api/spots/*&ev$script
-/api/spots/*?s1=%$script
-/api/spots/*?kw=$script
 /api/spots/*$subdocument
+/api/spots/*&ev$script
+/api/spots/*?kw=$script
+/api/spots/*?s1=%$script
 /cdn-cgi/zaraz/*
+/prebidlink/*
 ||a.vdo.ai^
+||adform.net^$third-party
+||adschill.com^
+||adxpub.com^$third-party
 ||aso1.net^
+||bidadx.com^$third-party
+||bobabillydirect.org^
+||bongacams.com^
+||buram.xyz^
+||byambipoman.com^
 ||cogleapad.com^
 ||comasoiling.casa^
+||courteous-development.com^
 ||dramaco.xyz^
+||dvypar.com^
 ||dyecowwhy.com^
 ||exdynsrv.com^
+||exmarketplace.com^$third-party
 ||eyefuneve.com^
+||goomaphy.com^
 ||greeter.me^
+||hdselection.com^
+||highcpmrevenuenetwork.com^
+||highrevenuegate.com^
 ||inpage-push.com^
+||inpagepush.com^$important
+||jads.co^
 ||jiltlargosirk.com^
 ||lzrikate.com^
 ||mehebborc.com^
-||netcatx.com^
-||prosumsit.com^
-||adform.net^$third-party
-||adxpub.com^$third-party
-||viglink.com^$third-party
-||spolecznosci.net^$third-party
-||inpagepush.com^$important
-||roataisa.net^
-||wpadmngr.com^
-||whcp4.com/apis-7.js
-||buram.xyz^
-||outoctillerytor.com^
-||wpush.org^
-||wovazaix.com^
-||totlnkbn.com^
-||exmarketplace.com^$third-party
-||pubfuture.com^$third-party
-||your-notice.com^
 ||mgid.com^$third-party
-||byambipoman.com^
-||goomaphy.com^
-||jads.co^
 ||mhuvmleot.com^
-||adschill.com^
-||onclickprediction.com^
+||netcatx.com^
 ||oaphoace.net^
-||tracot.com^
-||zebraicrudista.com^
-||dvypar.com^
-||courteous-development.com^
-||highcpmrevenuenetwork.com^
-||bongacams.com^
-||highrevenuegate.com^
-||hdselection.com^
-||bobabillydirect.org^
+||onclickprediction.com^
+||outoctillerytor.com^
+||prosumsit.com^
 ||prplads.com^
+||pubfuture.com^$third-party
+||roataisa.net^
+||spolecznosci.net^$third-party
+||tapad.com^$third-party
+||totlnkbn.com^
+||tracot.com^
+||viglink.com^$third-party
+||whcp4.com/apis-7.js
+||wovazaix.com^
+||wpadmngr.com^
+||wpush.org^
+||your-notice.com^
+||zebraicrudista.com^
 mangagun.net##+js(nowoif)
 weloma.art##+js(nowoif)
 welovemanga.one##+js(nowoif)
@@ -4327,44 +4327,44 @@ itf.minkabu.jp##.pageCon_ad
 moeclo.ldblog.jp###main_head_ad
 
 ! --- mozakin.com --- !
-mozakin.com##body > div > div[style="height: 300px;"]
-mozakin.com##body > div > div[style="height: 840px; padding: 6px; margin: 0px 0px 16px;"]
-mozakin.com###ad960x540
+!||mozakin.com/auto_updater/dti_get.php?
+!||mozakin.com/v4/js/bbs/dynamic/popup_pc.js
+||10musume.com^$domain=mozakin.com
+||aff.jskyservices.com^
+||heyzo.com^$image,domain=mozakin.com
 ||mozakin.com/ad/
+||mozakin.com/auto_updater/nls/ranking_list.js
+||mozakin.com/v4/ad/
+||mozakin.com/v4/js/imgx/imgd.js
+||pacopacomama.com$domain=mozakin.com
+||1pondo.tv^$domain=mozakin.com
+bbs4.mozakin.com###ad_bottom
+bbs4.mozakin.com###ad_right
+bbs4.mozakin.com###dtiovervideo
+bbs4.mozakin.com###left_ad_body
+bbs4.mozakin.com###main_tbl_right > div[style="width: 360px; z-index: 100; padding: 1px; margin-top: 2px;"] > div:last-child:not([style])
+bbs4.mozakin.com###thread_index_adb > div[style]
+bbs4.mozakin.com###thread_index_adt > div[style]
+bbs4.mozakin.com##.adsepa:style(height:0!important;overflow:auto!important;)
+bbs4.mozakin.com##.reply_txad:style(border:0!important;)
 bbs4.mozakin.com##.trend_body > div:nth-of-type(1)
 bbs4.mozakin.com##.txtad
-||mozakin.com/v4/ad/
-||mozakin.com/auto_updater/nls/ranking_list.js
-!||mozakin.com/auto_updater/dti_get.php?
-bbs4.mozakin.com##.adsepa:style(height:0!important;overflow:auto!important;)
-bbs4.mozakin.com###left_ad_body
-bbs4.mozakin.com##div[style="z-index: 105; position: fixed; bottom: 1px; left: 3px; width: 202px; height: 170px; border: 1px solid gray;"]
-bbs4.mozakin.com###ad_right
-bbs4.mozakin.com###main_tbl_right > div[style="width: 360px; z-index: 100; padding: 1px; margin-top: 2px;"] > div:last-child:not([style])
-mozakin.com###dti_movie
-||aff.jskyservices.com^
 bbs4.mozakin.com##[id^="movie_"] > div[style^="margin-bottom: 4px;"]
 bbs4.mozakin.com##[id^="movie_"] > video[style*="display: none;"]:style(display:block!important;)
-||10musume.com^$domain=mozakin.com
-||pacopacomama.com$domain=mozakin.com
+bbs4.mozakin.com##div.thread_txad:style(border:0!important;)
+bbs4.mozakin.com##div[style="background-color: black; overflow: hidden; color: white; border-radius: 6px; box-sizing: border-box; padding: 0px 2px 6px;"]
+bbs4.mozakin.com##div[style="margin-bottom: 16px;"]
+bbs4.mozakin.com##div[style="overflow: hidden; margin: 4px 0px;"]
+bbs4.mozakin.com##div[style="z-index: 105; position: fixed; bottom: 1px; left: 3px; width: 202px; height: 170px; border: 1px solid gray;"]
+mozakin.com###ad960x540
+mozakin.com###dti_movie
+mozakin.com###wrap01:style(height:2300px!important;)
 mozakin.com##.ad700x200
 mozakin.com##.adbd[style="background-color: rgb(255, 0, 96); color: white; text-align: center; font-size: 13px;"]
 mozakin.com##.tabpain[style="left: -260px; top: 280px;"]:style(top:0!important;)
 mozakin.com##.tabpain[style="top: 550px; left: 0px;"]:style(top:-1120px!important;)
-mozakin.com###wrap01:style(height:2300px!important;)
-bbs4.mozakin.com###ad_bottom
-bbs4.mozakin.com##div[style="margin-bottom: 16px;"]
-bbs4.mozakin.com##.reply_txad:style(border:0!important;)
-bbs4.mozakin.com##div[style="background-color: black; overflow: hidden; color: white; border-radius: 6px; box-sizing: border-box; padding: 0px 2px 6px;"]
-bbs4.mozakin.com###dtiovervideo
-bbs4.mozakin.com##div[style="overflow: hidden; margin: 4px 0px;"]
-!||mozakin.com/v4/js/bbs/dynamic/popup_pc.js
-||mozakin.com/v4/js/imgx/imgd.js
-bbs4.mozakin.com##div.thread_txad:style(border:0!important;)
-||heyzo.com^$image,domain=mozakin.com
-bbs4.mozakin.com###thread_index_adt > div[style]
-bbs4.mozakin.com###thread_index_adb > div[style]
-||1pondo.tv^$domain=mozakin.com
+mozakin.com##body > div > div[style="height: 300px;"]
+mozakin.com##body > div > div[style="height: 840px; padding: 6px; margin: 0px 0px 16px;"]
  
 ! --- msn --- !
 /display-ads-$domain=~google.co.uk|~google.com|~google.com.au
@@ -4623,11 +4623,12 @@ comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
 
-! --- rakuten楽天 --- !
+! --- rakuten 楽天 --- !
 ||adroll.com^$third-party
 ||afl.rakuten.co.jp^$third-party
 ||dynamic.rakuten.co.jp^
 ||ias.rakuten.co.jp^$domain=~event.rakuten.co.jp|~ias.rakuten.co.jp|~search.rakuten.co.jp
+||xml.affiliate.rakuten.co.jp^$third-party
 ||books.rakuten.co.jp/pzd_contents/js/ranking-ad/*
 ||rakuten-static.com/1/grp/banner/js/create.js
 ||rakuprop.net^$third-party
@@ -4747,6 +4748,7 @@ emu.web-g-p.com##.set_wrapper
 ! --- seesaa.jp --- !
 !seesaa系blog
 !seesaa.net,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他
+/ad_plugin.js
 ||bblog.sso.biglobe.ne.jp/js/insert-ad.js
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
