@@ -203,7 +203,7 @@ skebetter.com##a[href*="dmm.co"]
 
 ! 2023/04/02 2020年頃から放置
 ||share-videos.se/js/pjs.js
-	||admesia.com^$third-party
+||admesia.com^$third-party
 share-videos.se###ad_html
 share-videos.se###new_ad_html
 
@@ -479,7 +479,6 @@ _ads.js.
 ||focas.jp^$third-party
 ||fourmtagservices.com^$third-party
 ||fout.jp^$third-party
-||free-video-movie.com^$third-party
 ||fun9.net^$third-party
 ||fuseplatform.net^
 ||fwmrm.net^$third-party
@@ -729,13 +728,11 @@ _ads.js.
 ||trafficforce.com^$third-party
 ||trafficstars.com^$third-party
 ||trw12.com^$third-party
-||tsyndicate.com^$third-party
 ||vacaneedasap.com^$third-party
 ||video-people.com^$third-party
 ||videoegg.com^$third-party
 ||voluumtrk.com^$third-party
 ||xtendmedia.com^$third-party
-||zemanta.com^$third-party
 ||zerezas.com^$third-party
 
 !----third-party
@@ -895,7 +892,6 @@ _ads.js.
 ||matomedane.jp/js/adv/
 ||matomedane.jp/js/right_navi/
 ||medibang.com/viewer/fixedAds/
-||mgstage.com/js/mgs_Widget.js?
 	!minnano-av.com
 ||minnano-*.com/top_center_bn/
 ||mixi.jp^*/adnetwork/
@@ -913,7 +909,6 @@ _ads.js.
 ||pawoo.net/packs/media/pawoo/images/about/banner-
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
-||piapro.jp/images/ads/
 ||python.jp/ext/$xmlhttprequest
 ||repsoku.net/amazon.html$subdocument
 ||scienceplus2ch.up.seesaa.net/common/sitejack.js$domain=scienceplus2ch.com
@@ -3383,7 +3378,6 @@ weather.biglobe.ne.jp###header:style(height: 60px !important;)
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
 ||bbthat.com^$script,$third-party
 ||crwdcntrl.net^$third-party
-||indexww.com^$third-party
 ||youborafds01.com^$third-party
 bloomberg.co.jp##.leaderboard-container
 bloomberg.co.jp##.leaderboard-wrapper
@@ -3863,7 +3857,6 @@ googlesyndication.com##.left-container
 
 ! --- garanger.net --- !
 ||gamushara.jp/pr/
-||pcolle.com/parts/js/parts.js
 ||palpis.net/js/blogparts/parts.js
 ||andhub.jp^
 ||banner1.site^
@@ -4214,17 +4207,13 @@ m4ex.com##.kadomaru.move
 ||prosumsit.com^
 ||adform.net^$third-party
 ||adxpub.com^$third-party
-||bidadx.com^$third-party
-||tapad.com^$third-party
 ||viglink.com^$third-party
-||vlitag.com^$third-party
 ||spolecznosci.net^$third-party
 ||inpagepush.com^$important
 ||roataisa.net^
 ||wpadmngr.com^
 ||whcp4.com/apis-7.js
 ||buram.xyz^
-||roataisa.net^
 ||outoctillerytor.com^
 ||wpush.org^
 ||wovazaix.com^
@@ -4266,7 +4255,6 @@ caramel-sp.com###native_2
 ! https://erodouga-s.com
 erodouga-s.com##.pc-overlay
 erodouga-s.com##.rectangle
-||eromovie-s.com/feed/erozou_
 ! えろほん
 ! https://erogazou-s.com
 ||erogazou-s.com/fanza/
@@ -4357,7 +4345,6 @@ mozakin.com###dti_movie
 ||aff.jskyservices.com^
 bbs4.mozakin.com##[id^="movie_"] > div[style^="margin-bottom: 4px;"]
 bbs4.mozakin.com##[id^="movie_"] > video[style*="display: none;"]:style(display:block!important;)
-||1pondo.tv^$media,domain=mozakin.com
 ||10musume.com^$domain=mozakin.com
 ||pacopacomama.com$domain=mozakin.com
 mozakin.com##.ad700x200
@@ -4641,7 +4628,6 @@ dic.pixiv.net##.d_header
 ||afl.rakuten.co.jp^$third-party
 ||dynamic.rakuten.co.jp^
 ||ias.rakuten.co.jp^$domain=~event.rakuten.co.jp|~ias.rakuten.co.jp|~search.rakuten.co.jp
-||xml.affiliate.rakuten.co.jp^$third-party
 ||books.rakuten.co.jp/pzd_contents/js/ranking-ad/*
 ||rakuten-static.com/1/grp/banner/js/create.js
 ||rakuprop.net^$third-party
@@ -4678,7 +4664,6 @@ websearch.rakuten.co.jp###ads-billboard
 @@||rmp.rakuten.co.jp/ads/$domain=edy.rakuten.co.jp
 
 ||r10s.jp/com/js/d/ad_liquid_table/
-||rakuten-static.com/1/grp/banner/js/create.js
 ||rmp.rakuten.co.jp/js/aa.js$domain=~edy.rakuten.co.jp
 
 ! viki.com
@@ -4762,7 +4747,6 @@ emu.web-g-p.com##.set_wrapper
 ! --- seesaa.jp --- !
 !seesaa系blog
 !seesaa.net,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他
-/ad_plugin.js
 ||bblog.sso.biglobe.ne.jp/js/insert-ad.js
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
@@ -4846,8 +4830,6 @@ spankbang.com##.video-list-with-ads > .video-item[data-id="0"]
 spankbang.com##.ptgncdn_holder
 ##a[href^="https://deliver.ptgncdn.com/"]
 ##a[href^="https://go.xlviiirdr.com"]
-
-||cloudflareinsights.com^$third-party
 
 ! --- takeshobo.co.jp --- !
 ! mangalifewin
@@ -5209,7 +5191,6 @@ yomidr.yomiuri.co.jp##.thumbnail-ad
 
 amazon.co.jp###nav-swmslot
 amazon.co.jp###sponsoredProducts2_feature_div
-amazon.co.jp###sponsoredProducts2_feature_div
 amazon.co.jp##.AdHolder
 amazon.co.jp##.sbv-video-single-product
 amazon.co.jp##div[cel_widget_id*="_SponsoredProducts"]
@@ -5236,7 +5217,6 @@ amazon.co.jp##div[id^="sp_detail"]
 ||drk7.jp^$third-party
 ||pritre.com^$third-party
 ||ranklet.come.cc^$third-party
-||solty.biz^$third-party
 ||yasui-kamo.com^$third-party
 
 ||2blo.net/ama/widget/
@@ -5434,8 +5414,6 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 ||ba1.shinobi.jp^
 ||v2st.shinobi.jp^
 ||vis1.shinobi.jp^
-||vis1.shinobi.jp/js/
-||vis1.shinobi.jp/jsr/
 ! blog
 ###ninja-blog-inactive
 ##.NinjaEntryCommercial
