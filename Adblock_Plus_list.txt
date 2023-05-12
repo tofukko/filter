@@ -2917,6 +2917,9 @@ socom.yokohama##.dspace-block
 socom.yokohama##.e3lan
 socom.yokohama##.wpap-tpl
 socom.yokohama##div[style="margin-bottom: 15px; min-height: 340px; height: auto"]
+sorae.info###fix_sidebar
+sorae.info##.code-block-3 font[size="-1"]
+sorae.info##.code-block:not(.code-block-3)
 sound.jp###adfloat
 spaia.jp##.ad
 spaia.jp##.ad-wrapper
