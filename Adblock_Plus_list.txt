@@ -4502,6 +4502,8 @@ dic.nicovideo.jp##.adsense-728
 dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
 !コモンズ
 com.nicovideo.jp###community_pc_top
+! https://github.com/AdguardTeam/AdguardFilters/issues/150552
+@@||ads.nicovideo.jp/assets/js/ads2.js$domain=com.nicovideo.jp
 !チャンネル
 ch.nicovideo.jp##.ads_nicovideo
 !ニコニコインフォ
