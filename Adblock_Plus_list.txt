@@ -3536,13 +3536,15 @@ eroterest.net##.adAreaNativeDmm
 ! --- excite --- !
 ||excite.co.jp/jp/ad/
 ||excite.co.jp/jp/ox/
+excite.co.jp##div[class^="ad-aside"]
+excite.co.jp##div[id^="gpt_pc_"]
 laurier.excite.co.jp##.ad-header-banner
 newssearch.excite.co.jp,websearch.excite.co.jp##.searchResults > aside
+woman.excite.co.jp###ad300x250
 woman.excite.co.jp###header_bnr
 woman.excite.co.jp##div[style="text-align:center; overflow:hidden; margin: 0 auto 10px; width:610px;"]
 www.excite.co.jp##.extra
 www.excite.co.jp##.ec-ranking
-www.excite.co.jp##div[class^="ad-aside"]
 !ほにゃく
 www.excite.co.jp###rakutenMW
 www.excite.co.jp##.ad728
