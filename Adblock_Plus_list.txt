@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/14 11:43
+! 最終更新 2023/05/14 15:56
 !
 
 !2023/04/02 twitter API
@@ -1815,7 +1815,7 @@ cyzowoman.com##.ad
 dacelo.space##.adsense
 daily.co.jp##.pageAd
 daily.co.jp##.pnl-aside
-daily.co.jp##aside.add
+daily.co.jp##aside.add > div
 daily.co.jp##[id^="browsi_adWrapper_"]
 dailynewsonline.jp##.adArea
 dan-ball.jp##[class^="ad_div_"]
@@ -4534,8 +4534,11 @@ news.nicovideo.jp###billboard_container
 ||tag.atom.gamedistribution.com^$xhr,redirect-rule=nooptext,1p
 ! https://github.com/uBlockOrigin/uAssets/issues/15382
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule,domain=html5.gamedistribution.com
+
+! 2023/05/14 ゲームが自動で始まるので勝手にBGMが流れる場合がある
+! http://egg.2ch.net/test/read.cgi/software/1675241210/209
 ! https://github.com/uBlockOrigin/uAssets/issues/13814#issuecomment-1415669318
-html5.gamedistribution.com##+js(no-fetch-if, api)
+! html5.gamedistribution.com##+js(no-fetch-if, api)
 
 ! --- nijigen-daiaru.com --- !
 ! https://nijigen-daiaru.com/
