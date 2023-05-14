@@ -4191,6 +4191,7 @@ m4ex.com##.inmaincmframe ~ div
 m4ex.com##.kadomaru.move
 
 !g --- manga --- !
+/adgpt.js
 /api/spots/*$subdocument
 /api/spots/*&ev$script
 /api/spots/*?kw=$script
