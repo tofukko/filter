@@ -1816,6 +1816,7 @@ dacelo.space##.adsense
 daily.co.jp##.pageAd
 daily.co.jp##.pnl-aside
 daily.co.jp##aside.add > div
+daily.co.jp##aside.add[style^="min-height:"]
 daily.co.jp##[id^="browsi_adWrapper_"]
 dailynewsonline.jp##.adArea
 dan-ball.jp##[class^="ad_div_"]
