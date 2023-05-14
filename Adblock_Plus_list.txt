@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/13 6:57
+! 最終更新 2023/05/14 11:43
 !
 
 !2023/04/02 twitter API
@@ -1469,7 +1469,7 @@ _analytics.js?
 2nn.jp##.ads
 30calclub.sakura.ne.jp##table[width="146"] > tbody > tr > td[align="center"]:not([bgcolor]):not([style])
 30calclub.sakura.ne.jp##td[colspan="16"][height="430"][align="left"] > font
-30calclub.sakura.ne.jp##td[colspan="16"][align="left"] > font:-abp-contains(/^通販情報/)
+30calclub.sakura.ne.jp#?#td[colspan="16"][align="left"] > font:-abp-contains(/^通販情報/)
 373news.com###ad_prinfo
 373news.com##.mns_bn
 47news.jp###following_ad
@@ -2317,7 +2317,7 @@ kanaloco.jp##.bnr01
 kanaloco.jp##.top-head-bnr
 kandatasokuho.com##div[style^="margin-bottom:5px;padding:2px;width:840px overflow:auto;height:362px"]
 kandatasokuho.com##div[style^="margin-bottom:5px;width:832px overflow:auto;height:148px"]
-kanji.reader.bz##span:-abp-contains(スポンサードリンク)
+kanji.reader.bz#?#span:-abp-contains(スポンサードリンク)
 kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
 kanmsu.com##.google-adbox
@@ -2373,7 +2373,7 @@ kyobun.co.jp##.kyobu-widget
 kyoko-np.net##div[style="width: 300px; height: 250px;"]:upward(.ad)
 kyoko-np.net#?#section:-abp-has(> h3:-abp-contains(/おすすめリンク|注目コンテンツ|社主ピックアップ/))
 kyounoryouri.jp###floating-banner
-kyoushinomikata.com##.entry-content > p:-abp-has(> .adsbygoogle)
+kyoushinomikata.com#?#.entry-content > p:-abp-has(> .adsbygoogle)
 last.fm##.full-bleed-ad-container
 last.fm##.sidebar-ad-container
 lee.hpplus.jp##.media-ad
@@ -2737,7 +2737,7 @@ peko-step.com###cgrig_contsec:style(grid-column-end: 4 !important;)
 peko-step.com###cgrig_commid:style(grid-column-end: 4 !important;)
 peko-step.com###rescentinner:style(padding-right: 0 !important;)
 photosku.com##.ap-block-ar
-photosku.com##.hdg-c:-abp-contains(売れ筋ランキング)
+photosku.com#?#.hdg-c:-abp-contains(売れ筋ランキング)
 photozou.jp##[class^="ad_side_"]
 piapro.jp###footer:style(height: 121px !important;padding-top: 20px !important;)
 piapro.jp###main:style(padding-bottom: 210px !important;)
@@ -2782,7 +2782,7 @@ python.jp##.bottom-container
 qiita.com##.p-items_main > div[class^="css-"]:has(div[id^="dfp-slot-"])
 qiita.com#?#div[id^="New2HomeTrendPage-"] > div[class] > div[class] > div[class]:-abp-has(> div#trend-side-ad:only-child)
 qiita.com##[id^="dfp-slot-"]
-qiita.com##[class^="css-"]:-abp-has(> [id$="-side-ad"])
+qiita.com#?#[class^="css-"]:-abp-has(> [id$="-side-ad"])
 ! logly
 qiita.com##[id^=logly-lif]
 qiita.com##[id^=logly-lif]:upward(2)
@@ -3080,7 +3080,7 @@ walkerplus.com##.m-prlist
 wanchan.jp##.detail_footer__ad
 wanchan.jp##.top_ad
 warotanien.net##.extendedwopts-show
-warotanien.net##[id^="simplicityclassictextwidget-"]:-abp-has([href^="//ck.jp.ap.valuecommerce.com"])
+warotanien.net#?#[id^="simplicityclassictextwidget-"]:-abp-has([href^="//ck.jp.ap.valuecommerce.com"])
 warotanien.net##[style="width:336px;height:280px;text-align:center;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:10px;"]
 weathernews.jp###sticky_pc
 web.gekisaka.jp###PC_SP_NEWS_D_GROUP
