@@ -823,6 +823,7 @@ _ads.js.
 ||cyclingtime.com/adimg/
 ||daily.jp/Koukoku/
 ||dailynewsonline.jp/skin/frontend/js/g_ad.js?
+||ddd-smart.net/ad/
 ||diced.jp/webs/
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
 ||dlsite.com/js/blogparts.js
