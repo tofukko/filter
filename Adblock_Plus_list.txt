@@ -2271,6 +2271,7 @@ k-zone.co.jp##.yohaku_link
 k-zone.co.jp##[class^="adunit_"]
 	money.k-zone.co.jp##.sp-bottom-sidebar > a > img[src^="https://money.k-zone.co.jp/rails/active_storage/"]
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
+k3su.xyz##.fs_08em.al_c.fc_gy.mg_b_5
 ka-soku.com##.article-body > span:last-of-type ~ b
 ka-soku.com##.article-body > span:last-of-type ~ br
 kabu-sokuhou.com###HomeAdBottom
