@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/14 15:56
+! 最終更新 2023/05/16 21:02
 !
 
 !2023/04/02 twitter API
@@ -3894,6 +3894,8 @@ b.hatena.ne.jp##[class^="entry-ad-"]
 d.hatena.ne.jp###hot-topics + div
 q.hatena.ne.jp##.hatena-asin-detail
 q.hatena.ne.jp##.sidebar-banner
+! https://github.com/AdguardTeam/AdguardFilters/issues/82773
+||st-hatena.com/valve/
 	!言及先エントリを開くが消える
 @@||www.googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp
 
