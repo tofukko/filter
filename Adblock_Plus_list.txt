@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/16 21:02
+! 最終更新 2023/05/18 16:20
 !
 
 !2023/04/02 twitter API
@@ -3647,6 +3647,7 @@ otn.fujitv.co.jp##.pcMenuBannerZone:style(padding-top: 87px !important;)
 ||free2.jp^$domain=2chan.net
 2chan.net,nijiura-doll.info###rightad
 2chan.net,nijiura-doll.info##.tue
+2chan.net,nijiura-doll.info##.tue2
 2chan.net,nijiura-doll.info##div[style*="margin:2px"]
 2chan.net,nijiura-doll.info##[style="width:728px;height:90px;margin:4px;"]
 2chan.net,nijiura-doll.info##[style="height:68px;"]
