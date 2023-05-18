@@ -4896,6 +4896,13 @@ thefastcode.com##body[style="margin-top: 90px; margin-bottom: 90px;"]:style(marg
 ||static.fc2.com/distribution/preroll/$script,domain=tokyomotion.net
 osakamotion.net,tokyomotion.net###nuevoa
 
+! --- townnews.co.jp --- !
+||townnews.co.jp/entry_ad.json?
+||townnews.co.jp/js/entry_advertising.js
+townnews.co.jp##.googleAdSense
+townnews.co.jp##.pr
+townnews.co.jp##.sideBnr
+
 ! --- twitter.com --- !
 ||ads-twitter.com^
 ||twitter.com^*/videoads/
