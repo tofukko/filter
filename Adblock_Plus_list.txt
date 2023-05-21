@@ -1697,7 +1697,7 @@ calculator.jp###im_panel_pc
 caloo.jp##[id^="dfp-Caloo_"]
 campify.jp##.pc-overlay-ad
 car-me.jp##.p-article_kaitori_cta
-car-me.jp##.u-center.u-mb_l
+car-me.jp##.p-mh250
 car-mo.jp##.ad-carview
 car-mo.jp##.pr-modal
 career.joi.media###post-advertisement
