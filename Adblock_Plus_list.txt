@@ -2383,6 +2383,7 @@ last.fm##.full-bleed-ad-container
 last.fm##.sidebar-ad-container
 lee.hpplus.jp##.media-ad
 leon.jp##.st-BottomBanner-top
+lettuceclub.net##.p-ad
 library.mitaka.tokyo.jp##.banner
 lifehack2ch.livedoor.biz###rakuafi
 lifehack2ch.livedoor.biz##.elsebody
