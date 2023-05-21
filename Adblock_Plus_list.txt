@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/18 16:20
+! 最終更新 2023/05/21 21:15
 !
 
 !2023/04/02 twitter API
@@ -1711,6 +1711,7 @@ cartoonnetwork.jp##.bnrBottom
 cartoonnetwork.jp##.bnrBottomTop
 cartoonnetwork.jp##.campad
 cartoonnetwork.jp##.skyscraper
+cartune.me##div[style^="display:flex;"][style*="align-items:center;"][style*="min-height:280px;"]
 casabrutus.com##[id^="ads-"]
 cat.sc##.adsense
 cavolump.com##.pick_news
