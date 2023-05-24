@@ -1457,8 +1457,7 @@ _analytics.js?
 ~suruga-ya.jp##.plugin-freearea a[href^="https://affiliate.suruga-ya.jp/"]
 ~suruga-ya.jp##.sidewrapper a[href^="https://affiliate.suruga-ya.jp/"]
 
-0115765.com##.sticky-ads
-0115765.com##.rectangle
+0115765.com###bottom
 1000mg.jp##.main-top
 1000mg.jp##div[style^="clear:both;margin-top:0px;margin-"]
 1rk.net##.ad
