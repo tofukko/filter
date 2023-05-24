@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/21 21:15
+! 最終更新 2023/05/24 11:44
 !
 
 !2023/04/02 twitter API
@@ -30,6 +30,12 @@ togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
 togetter.com##.ad_topics_custom
 togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
+! Twilog favolog
+! https://twitter.com/ropross/status/1641353674046992385
+! 再開 https://twitter.com/ropross/status/1661193739145195521
+twilog.togetter.com###ad-main-top
+twilog.togetter.com##[style^="height:250px"]
+favolog.org###side > div:first-child
 
 ! マシュマロ
 ! 維持？ https://twitter.com/marshmallow_qa/status/1641372497882005504
@@ -146,12 +152,6 @@ trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
 
 ! TwiPla
 ! 不明 https://twitter.com/twipla/status/1621406951916851200
-
-! Twilog favolog
-! 不明 https://twitter.com/ropross/status/1641353674046992385
-twilog.org###ad-main-top
-twilog.org##[style^="height:250px"]
-favolog.org###side > div:first-child
 
 ! ポイピク
 ! 不明 https://poipiku.com/2/
