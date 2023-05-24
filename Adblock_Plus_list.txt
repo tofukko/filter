@@ -3116,6 +3116,8 @@ weeklybcn.com##.footer__pr
 weeklybcn.com##.section-ad:not(.side_bnr)
 wezz-y.com##[id^="adSideRectangle"]
 wikihow.jp##.wh_ad_inner
+wikiru.jp##.menubar > a[target="_blank"] > img[width="250"][height="250"]
+wikiru.jp##.menubar > a[target="_blank"] + br
 wikiwand.com##[class^="article_footerStickyAd__"]
 wikiwand.com##[class^="article_sectionAd__"]
 wikiwand.com##[class^="content_headerAd__"]
