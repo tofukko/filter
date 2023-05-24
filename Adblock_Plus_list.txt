@@ -1943,6 +1943,9 @@ fgamers.saikyou.biz##.side a[href*="amazon.co.jp"]
 fgamers.saikyou.biz##[id^="subAmzn"]
 figure-times.com###sticky-ads
 financial-field.com##.ad
+financial-field.com##div[style^="min-width: 300px; min-height: 250px"]
+financial-field.com##div[style^="width: 100%; height: 280px"]
+financial-field.com##div[style^="min-height: 250px;"]
 firecross.jp###js-ad-modal
 firecross.jp###stage:style(max-height: 100% !important;)
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
