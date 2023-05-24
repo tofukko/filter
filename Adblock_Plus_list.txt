@@ -2660,6 +2660,7 @@ o-dan.net###spgLoadAd
 o-uccino.jp##[class^="float_banner_"]
 oceans-nadia.com###pc_tag_banner_area_1
 oceans-nadia.com##[class^="AdSlot_"]
+odaibako.net#?#main > div[class^="css-"]:-abp-has(div[id^="div-gpt-ad"])
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 ohen.tv###top-ad1-wrapper
 ohen.tv##.ad-wrapper
