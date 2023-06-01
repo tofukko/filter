@@ -2520,7 +2520,10 @@ minnano-cafe.com##.dfp_tag
 minpo.jp##.ads730
 minpo.jp##.ads970:style(min-height: 0 !important;)
 minpo.jp##.side-ads
+mirrorz.jp###_popIn_recommend2
+mirrorz.jp#?##sranking > div > dl:-abp-has(a[onclick^="ga"])
 mirrorz.jp##.my_adslot_top2_div
+mirrorz.jp##[id^=ad-]
 misskey.io##.xF6dY
 misskey.io##div[class][style*=" "] div[class]:not([style]) ~ div[class] a[href^="https://go.misskey.io/"] > img[class]:not([src]) ~ button
 misskey.io##+js(json-prune, ads.[].imageUrl)
