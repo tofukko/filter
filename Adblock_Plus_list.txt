@@ -5070,6 +5070,13 @@ art.blog,business.blog,car.blog,code.blog,data.blog,design.blog,family.blog,fash
 ||stats.wp.com^
 ||stats.wordpress.com^
 
+! --- xfolio.jp --- !
+||xfolio.jp/lu_assets/ad.
+xfolio.jp###ranking_ul > .cardList__list_item:nth-child(4)
+xfolio.jp###ranking_ul > .cardList__list_item:nth-child(20)
+xfolio.jp##.card--recommend6__list:not([show-index])
+xfolio.jp##div.swiper-slide[style="margin-right: 20px;"]
+
 ! --- xrea.com --- !
 ||ad.xrea.com^
 ||imgj.xrea.com^
