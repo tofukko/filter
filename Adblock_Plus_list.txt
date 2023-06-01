@@ -4001,6 +4001,14 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.co.jp/css/sa.js
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
+! toppage
+itmedia.co.jp###OwnedAd
+itmedia.co.jp###SideLink
+itmedia.co.jp###SuperBanner
+itmedia.co.jp###TopBox
+itmedia.co.jp##div[id^="RcolRectangle"]
+itmedia.co.jp##div[id$="BrandText"]
+itmedia.co.jp##div[id$="InFeedNative"]
 atmarkit.itmedia.co.jp###globalHeaderMiddle
 atmarkit.itmedia.co.jp###header_ad
 atmarkit.itmedia.co.jp###ITN
