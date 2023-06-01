@@ -2625,8 +2625,6 @@ news4wide.net##.wipe-ad-div-class
 newsee-media.com##.s-side[style^="position: fixed;"]
 newser.cc##.ad
 newswitch.jp##.banner
-nhentai.net##.advertisement
-nhentai.net##+js(nowoif)
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
 niigata-nippo.co.jp##.m-ad
@@ -4268,7 +4266,6 @@ m4ex.com##.kadomaru.move
 mangagun.net##+js(nowoif)
 weloma.art##+js(nowoif)
 welovemanga.one##+js(nowoif)
-
 ||jiordgxkpglzm.com^
 ||wqjbldnnceroue.com^
 ||d13k7prax1yi04.cloudfront.net^
@@ -4474,6 +4471,16 @@ gekimatosoku.com,newmatosoku.com#?#.waku-zentai:-abp-has(> .ako1)
 bazutore.com##.hed0
 bazutore.com##.kijikome3
 bazutore.com#?#.kijisita-itiran:-abp-has(> h3:-abp-contains(紹介))
+
+! --- nhentai.net --- !
+! nhentai.net
+nhentai.net##.advertisement
+nhentai.net##+js(nowoif)
+! hentaipaw.com
+||madeupadoption.com^
+||cloudimagesb.com^
+hentaipaw.com##.header-ad
+hentaipaw.com##+js(nostif, m(!0))
 
 ! --- nicovideo ニコニコ動画 --- !
 ||ads.nicovideo.jp^
