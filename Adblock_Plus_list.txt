@@ -4470,18 +4470,12 @@ ura-akiba.jp###rank_goods
 ura-akiba.jp##.side_ads
 
 ! --- newmatosoku.com --- !
-newmatosoku.com##.ako1
-newmatosoku.com##.ako2
-newmatosoku.com##.hed0
-newmatosoku.com##.hedsenden
-newmatosoku.com##.kanrenkijilink > [href^="https://www.amazon.co.jp"]
-gekimatosoku.com,newmatosoku.com##.kokowaku2
 newmatosoku.com##.sideh2:first-child
-gekimatosoku.com,newmatosoku.com#?#.waku-zentai:-abp-has(> .ako1)
+newmatosoku.com,gekimatosoku.com##.side > div[class]:not(.sideh2, .sidedaimei, .panel, .menseki)
+newmatosoku.com,gekimatosoku.com#?#.waku-zentai:-abp-has(> div[class] > span.spanend)
 
-bazutore.com##.hed0
 bazutore.com##.kijikome3
-bazutore.com#?#.kijisita-itiran:-abp-has(> h3:-abp-contains(紹介))
+bazutore.com##.kouwaku5
 
 ! --- nhentai.net --- !
 ! nhentai.net
