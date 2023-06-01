@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/05/24 11:44
+! 最終更新 2023/06/01 22:33
 !
 
 !2023/04/02 twitter API
@@ -2803,6 +2803,7 @@ rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
 rakukan.net##.article__title--ad-left
 rank-king.jp##.l-fixed-ad
+rank1-media.com##div[style="padding-top: 15px; padding-bottom: 5px; margin-bottom: 15px; background: whitesmoke;"]
 ranking-best.net##[style="height:250px; width:300px;"]
 ranking-best.net##[style="height:90px; width:728px;"]
 ranking-best.net##[style="min-height: 320px;"]
