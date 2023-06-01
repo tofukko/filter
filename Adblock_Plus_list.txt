@@ -2529,7 +2529,7 @@ misskey.io##.xF6dY
 misskey.io##div[class][style*=" "] div[class]:not([style]) ~ div[class] a[href^="https://go.misskey.io/"] > img[class]:not([src]) ~ button
 misskey.io##+js(json-prune, ads.[].imageUrl)
 mitok.info##.mybox-right-narrow
-mixch.tv##.footer_ad
+mixch.tv##.footer-ad
 mixi.jp##.adsenseBannerArea
 mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
