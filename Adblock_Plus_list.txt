@@ -5802,6 +5802,14 @@ ashemaletube.com##+js(aopr, open)
 @@||api.cxense.com/public/widget/data^$script,xmlhttprequest
 @@||api.cxense.com/document/search?$script,xmlhttprequest
 
+! deagostini.jp
+! https://github.com/tofukko/filter/issues/85
+@@||googletagservices.com^$script,domain=deagostini.jp
+@@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*$script,domain=deagostini.jp
+@@||securepubads.g.doubleclick.net/gampad/ads$xhr,domain=deagostini.jp
+deagostini.jp#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
+deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+
 ! nakanohito
 ||nakanohito.jp^$third-party
 ! https://github.com/easylist/easylist/issues/7760
