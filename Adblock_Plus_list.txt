@@ -2616,6 +2616,8 @@ news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
 news.ntv.co.jp##.header-publicity
 news.ntv.co.jp##.overlay-publicity
+news.ntv.co.jp##.publicity-contents
+news.ntv.co.jp##div[id^="div-gpt-"]
 news.shitaraba.net##.sidebar_ad
 news.tbs.co.jp##.cp-pcAd
 news.tbs.co.jp##.cp-spAd
