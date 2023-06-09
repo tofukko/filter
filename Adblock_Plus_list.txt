@@ -5317,7 +5317,7 @@ video.fc2.com##.banner
 video.fc2.com##.clmn-side > div[id]
 video.fc2.com##.content-wrap[aria-hidden="false"]
 video.fc2.com##.l-ctnt_ls--flex_side_sec
-video.fc2.com##.l-ctnt_ls:style(margin-top: 16px !important;)
+video.fc2.com##[class="u-fixed-contents"][style="margin-bottom: 60px"] > [class="l-ctnt_ls"]:style(padding-top: 116px !important;)
 video.fc2.com##.list-subCont > li[style]
 video.fc2.com##.promotion
 video.fc2.com##.sectionCrd + .sectionCrd
