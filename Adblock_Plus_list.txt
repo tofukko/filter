@@ -5670,6 +5670,199 @@ ashemaletube.com##.ads-block-rightside
 ashemaletube.com##.video-end-overlay
 ashemaletube.com##+js(aopr, open)
 
+! Common rules for TXXX network
+/\/[a-z]{4,}\/(?!holly7)[0-9a-z]{3,}\d\.\d{1,2}\.\d{1,2}\.[0-9a-f]{32}\.js$/$script,domain=555.porn|bigdick.tube|hclips.com|hdzog.*|hotmovs.*|imzog.com|inporn.com|javdaddy.com|porn555.com|pornforrelax.com|porngo.tube|pornj.com|pornl.com|pornq.com|porntop.com|privatehomeclips.com|puporn.com|see.xxx|shemalez.com|sss.xxx|thegay.*|tubepornclassic.com|tuberel.com|txxx.*|txxxporn.tube|upornia.*|vjav.*|voyeurhit.*|vxxx.com
+/\.[a-z]{3,5}\/[a-z]{8,12}\/[a-z]{8,12}\.js$/$script,domain=555.porn|asiantv.fun|blackporn.tube|bdsmx.tube|bigdick.tube|hclips.com|hdzog.*|hotmovs.*|imzog.com|inporn.com|javdaddy.com|mrgay.tube|porn555.com|pornclassic.tube|pornforrelax.com|porngo.tube|pornhits.com|pornj.com|pornl.com|pornq.com|porntop.com|pornzog.com|privatehomeclips.com|puporn.com|see.xxx|senzuri.tube|shemalez.com|sss.xxx|teenorgy.video|thegay.*|tubepornclassic.com|tuberel.com|txxx.*|txxxporn.tube|upornia.*|vjav.*|voyeurhit.*|vxxx.com|xmilf.com
+/afon7.$script,1p
+/barbar7.$script,1p
+! https://github.com/uBlockOrigin/uAssets/issues/10064
+/huyass7.$script,1p
+/lemon7.$script,1p
+/rass7.$script,1p
+/teo7.$script,1p
+/nofa7.$script,1p
+/ytrek7.$script,1p
+/kzdh7.$script,1p
+/klesd7.$script,1p
+/assets/jwplayer-*/vast.js$script,1p
+! https://github.com/uBlockOrigin/uAssets/issues/953
+txxx.*##+js(acs, setTimeout, hommy.mutation.mutation)
+txxx.*##+js(aeld, click, pop.beforeOpen)
+txxx.*##+js(aopr, jwplayer.utils.Timer)
+txxx.*##.content.page.page-video .video-content > div[class] > div > div[class] > div[class][style^="background-image:"]:style(background-image: none !important;)
+txxx.*##div[style="display:flex !important"] > div
+txxx.*##.page-video > div.video-videos-slider ~ div[class]:matches-css(justify-content: center)
+txxx.*##.video-videos-slider
+txxx.*##.video-content > div + div:last-child
+txxx.*##.video-content > div:first-child > div[class]:has(> div > a[href="#"])
+txxx.*##.videos-tube-friends
+txxx.*##span:has-text(AD):upward(2)
+*$frame,3p,denyallow=google.com|gstatic.com,domain=txxx.*
+*$popunder,3p,domain=txxx.*
+! https://github.com/uBlockOrigin/uAssets/issues/956
+voyeurhit.*##+js(acs, adver)
+voyeurhit.com##+js(aeld, , window.open)
+voyeurhit.com##+js(nosiif, document.readyState)
+voyeurhit.*##.content > div > .container + div
+voyeurhit.*##.video-page__content > div.left + div[class]:last-child
+voyeurhit.*##.video-page__underplayer > div[class]:first-child > div[class]
+voyeurhit.*##.video-related + div[class] > div[class]:only-child
+voyeurhit.*##div[style="display:flex !important"] > div
+##.__nat_link
+||mysmokingmistress.com^$3p
+! https://github.com/uBlockOrigin/uAssets/issues/957
+upornia.*##+js(acs, adver)
+upornia.com##+js(nosiif, undefined)
+upornia.com##+js(nowoif)
+upornia.*##div[style="display:flex !important"] > div
+upornia.*##.video-content > div[class] > div.text > a[href="#"]:upward(2)
+upornia.*##.videoplayer-wrapper + div > div[class]:only-child
+upornia.*##.video-ad-videos + div.aa_label
+upornia.*##div[class$="related"] + div.aa_label
+upornia.*##.video-videos-slider
+upornia.*##.aa_label + div:not([class])
+upornia.*##.video-videos-slider + .aa_label
+pornzog.com###ntv_a
+pornzog.com##.video-ntv-list
+! https://github.com/uBlockOrigin/uAssets/issues/2074
+hotmovs.com##+js(acs, adver)
+hotmovs.com##+js(aopr, ExoLoader)
+hotmovs.com##+js(aopw, ads_priv)
+hotmovs.com##+js(aeld, , pop)
+hotmovs.com##.partners-wrap
+hotmovs.*##.block_label--last + div[class]
+hotmovs.*##.pagination + div.block_label--last
+hotmovs.*##.underplayer__info > div[class]:first-child
+hotmovs.*##.video-page__content > div.left + div[class]:last-child
+hotmovs.*##div[style="display:flex !important"] > div
+hotmovs.*##.video-page > div.block_label.mt-15 + div[class]
+hotmovs.*##.videos-tube-friends
+||hotmovs.com/sw.js$script,1p
+! https://github.com/uBlockOrigin/uAssets/issues/959
+vjav.com##+js(acs, document.getElementById, pop)
+vjav.com##+js(aeld, , window.open)
+vjav.com##+js(nosiif, document.readyState)
+*$script,3p,denyallow=gstatic.com,domain=vjav.*
+||vjav.com/sw.js$script,1p
+vjav.*##.hv-block
+vjav.*##.suggestions
+vjav.*##div[style="display:flex !important"] > div
+vjav.*##.album-page > div.video-page__wrapper + div[class]
+vjav.*##.content > div:not([class]) > div.video-page + div[class]
+vjav.*##.video-page__content > div.left + div[class]:last-child
+vjav.*##.video-page__player + div[class] > div[class]
+! pornq .com popups
+pornq.com##+js(aeld, , window.open)
+||pornq.com/sw.js$script,1p
+||bitupsss.com^$all
+! pornj .com popups
+pornj.com##+js(aopr, open)
+pornj.com##.vda-item
+! pornl.com
+pornl.com##+js(aeld, , pop)
+pornl.com##+js(aopr, open)
+pornl.com##.adv-list--footer
+pornl.com##div.vda-item.thumbnail-next.thumbnail-x2
+! porn555 .com popups
+porn555.com##+js(aeld, , window.open)
+porn555.com##.vda-x2
+! see .xxx
+||see.xxx/sw.js$script,1p
+||see.xxx/nr.js
+see.xxx##+js(aeld, , pop)
+see.xxx##div.vda-x2.vda-item
+! https://github.com/easylist/easylist/pull/6720
+||porntop.com/magic/$script,1p
+porntop.com###inv_pause
+porntop.com##.ip > .btn-close
+||sss.xxx/sw.js$script,1p
+tuberel.com##+js(aeld, , open)
+||tuberel.com/*.php
+||puporn.com/sw.js$script,1p
+! https://github.com/easylist/easylist/issues/7918
+! https://github.com/AdguardTeam/AdguardFilters/issues/131194
+thegay.*##+js(acs, adver)
+thegay.*##.content > div:not([class]) > .wrapper ~ div[class]:not(.wrapper)
+thegay.*##.underplayer__info > div[class]:first-child
+thegay.*##.video-page__content > div.left + div[class]:last-child
+thegay.*##div[style="display:flex !important"] > div
+
+||thegay.com^$csp=default-src 'self' *.ahcdn.com fonts.gstatic.com fonts.googleapis.com https://thegay.com https://tn.thegay.com 'unsafe-inline' 'unsafe-eval' data: blob:,badfilter
+! privatehomeclips.com
+privatehomeclips.com##.footer-banners
+privatehomeclips.com##div[style="display:flex !important"] > div
+privatehomeclips.com##.partners-wrap
+privatehomeclips.com##.video-page__content > .right
+privatehomeclips.com##.video-page__item
+privatehomeclips.com##.content > div > .wrapper + div[class]:not(.wrapper)
+privatehomeclips.com##.underplayer > div[class]:not([class*="_"]) > div[class]
+privatehomeclips.com##.partners-wrap + div[class]
+! vxxx.com
+vxxx.com##+js(acs, ACtMan)
+vxxx.com###player-1 > div[style="display:flex !important"]
+vxxx.com##.video-page-content + div[class]
+vxxx.com##.video-page-content-left + div[class]:last-child
+vxxx.com##.videoplayer + div > div[class]
+vxxx.com##.wrapper-margin + div[class]:last-child
+! pornhits.com popup/under
+pornhits.com##+js(acs, ACtMan)
+pornhits.com###s-suggesters
+pornhits.com##.ft
+pornhits.com##.index-ntv
+pornhits.com##.jwplayer > span
+pornhits.com##.sponsor
+||pornhits.com/magic/
+||red12flyw2.site^$3p
+! inporn.com ads/PH
+inporn.com##.video-page__content > div.right
+inporn.com##.video-info > section
+inporn.com##.video__wrapper > div.wrapper.headline
+inporn.com##.wrapper > article
+inporn.com##section[is-footer-banners]
+inporn.com###in_v
+inporn.com##.btn-close
+inporn.com##[style="display:flex !important"] > div > div:not(:last-child)
+mrgay.*,pornhits.com##.right
+! senzuri.tube redirect, ad
+senzuri.tube##+js(acs, adver)
+senzuri.tube##.right
+senzuri.tube##.video-tube-friends-wrapper
+! https://github.com/AdguardTeam/AdguardFilters/issues/130607
+txxxporn.tube##div[style="display:flex !important"] > div
+txxxporn.tube##.video-videos-slider + div[class] + div[class]
+txxxporn.tube##div.text:upward(1)
+txxxporn.tube##img[src^="https://tn.txxx.tube/contents/cst/"]:upward(.video-content > div > div)
+txxxporn.tube##.video-content > div:not(:has(.pplayer))
+txxxporn.tube##.video-content > div[class]:first-child > div[class]:has(> div > a[href="#"])
+! https://github.com/uBlockOrigin/uAssets/issues/4234
+hclips.com##+js(acs, adver)
+hclips.com##+js(acs, document.getElementById, popunder)
+hclips.com##+js(aopr, ExoLoader)
+hclips.com##.adv-box-holder
+hclips.com##[class^="pl_"]
+hclips.com##iframe[src="javascript:false"]
+hclips.com##div[style="display:flex !important"] > div
+hclips.com##.video-page__content > .right
+hclips.com##.video-page__item
+hclips.com##.content > div > .wrapper + div[class]:not(.wrapper)
+hclips.com##.underplayer > div[class]:not([class*="_"]) > div[class]
+hclips.com##.wrapper + .partners-wrap + div[class]
+*$frame,3p,denyallow=google.com|gstatic.com,domain=hclips.com
+! https://github.com/uBlockOrigin/uAssets/issues/8391
+! https://github.com/uBlockOrigin/uAssets/issues/1114
+hdzog.*##+js(acs, adver)
+hdzog.com###under-pl-ad
+hdzog.com##+js(aeld, , pop)
+hdzog.*##.content > div:not([class]) > div.content-block ~ div[class]:not(.content-block)
+hdzog.*##.suggestions
+hdzog.*##.partners-wrap
+hdzog.*##.pagination +  div[class]:last-of-type
+hdzog.*##.video-page__left > div[class]:last-of-type
+hdzog.*##div[style="display:flex !important"] > div
+! https://www.reddit.com/r/uBlockOrigin/comments/10abahw/
+hdzog.*##.video-page__content > div:not([class*="video"])
+hdzog.*##.video-page__row > div:not([class*="video"])
+
 ! regex
 /[0-9a-f]{32}\/invoke\.js/$script,third-party
 /^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party
