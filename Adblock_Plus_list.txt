@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/06/01 22:33
+! 最終更新 2023/06/09 10:22
 !
 
 !2023/04/02 twitter API
@@ -42,6 +42,7 @@ favolog.org###side > div:first-child
 
 ! お題箱
 ! 維持？ https://twitter.com/nerikeshi_k/status/1641786680389795840
+odaibako.net#?#main > div[class^="css-"]:-abp-has(div[id^="div-gpt-ad"])
 
 ! 診断メーカー
 ! 維持 https://shindanmaker.com/articles/mzvG4n0y26lyRAVZ
@@ -70,11 +71,23 @@ twpro.jp##.ads-banner-box
 ! 維持 更新停止 https://twitter.com/twoucan/status/1645664297241178112
 ||twoucan.com/ad?name=
 
+! TwiPla
+! 維持 https://twitter.com/twipla/status/1621406951916851200
+
+! ツイマンガ
+twiman.net##p[class="text-center caption"]
+
+! えごったー
+! 閲覧専用として維持 https://twitter.com/ego_tter/status/1641392829682548736
+! egotter.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/64186
+@@||cloudfront.net/adsense.js$domain=egotter.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
+egotter.com##[id^="async-adsense-"]
+
 ! あたれら https://atarela.herokuapp.com/
 ! サ終？ https://twitter.com/twirela/status/1641226076138663936
-
-! 抽選ったー
-! サ終 https://lottritter.o-kami.com/
+! あたれら2号 https://twitter.com/twirela/status/1662307637038555136
 
 ! アニメレーダー https://ckworks.jp/animeradar/about/
 ! 一部サ終 https://ckworks.jp/animeradar/about/
@@ -93,77 +106,17 @@ buhitter.com##aside.row[style="display: flex; justify-content: center;height: 32
 @@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
 
-! ひすったー
-! サ終 https://info.otapps.net/archives/808
-! --- otapps.net --- !
-! https://info.otapps.net/
-! followcheck.itby.net##.mms
-! followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> .uk-panel > .uk-margin-top > .adsbygoogle)
-! followcheck.itby.net#?#[class*="uk-width-large"]:-abp-has(> div > .adsbygoogle)
-! followmanager.net##.ad
-
-! CERON
-! サ終 https://ceron.jp/20230331.html
-ceron.jp#?#div[style]:-abp-has([id^="yoneads"])
-
-! 蒼天画廊
-! サ終 https://www.azure-gallery.net/
-
-! ツイセーブ
-! サ終？ https://twitter.com/9m/status/1641350437625536514
-twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
-twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
-
-! #リツイート直後のツイートを表示するやつ
-! サ終？ https://togetter.com/li/2113907
-
-! #生活習慣の乱れを可視化するやつ
-! サ終 https://twitter.com/p1ass/status/1641417687678189568
-
-! whotwi
-! サ終 https://twitter.com/koni/status/1641794762520023041
-! --- whotwi.com --- !
-whotwi.com###header_ad_area
-whotwi.com##.stats_ad_300x250_2
-whotwi.com##.tweets_list_ad_responsive
-bbs.whotwi.com##div[style="width: 728px;height:90px;margin: 0px auto 10px;"]
-hoihoi.whotwi.com##.ad_336x280
-ryokin.whotwi.com##.ad_300x250
-trends.whotwi.com##div[style="width: 728px;height:90px;margin: 20px auto 20px;"]
-trends.whotwi.com##div[style="margin:20px auto;width: 300px;height:250px;"]
-
-! ふぁぼりま
-! サ終 https://favrima.jp/
-
-! Twtimez
-! サ終 https://twitter.com/TwTimez/status/1641980394437480450
-! twtimez.net##.adDown
-! twtimez.net##.adMiddle
-! twtimez.net##.adTop
-
-! アプリ☆メーカー https://appli-maker.jp/
-! 不明 https://twitter.com/Diver_Down_LLC/
-
-! 黒歴史クリーナー https://kurorekishi.me/cleaner/getstarted
-! 不明 
+! ツイコミ
+! 不明 https://twitter.com/twicomi_kari
+||twicomi.com/ads/
+twicomi.com#?#.interrupt:-abp-has(> .ad-group):style(height: 0 !important;min-height: 0 !important;overflow: hidden !important;)
 
 ! 質問箱
 ! 不明 https://twitter.com/peing_net
 
-! TwiPla
-! 不明 https://twitter.com/twipla/status/1621406951916851200
-
 ! ポイピク
 ! 不明 https://poipiku.com/2/
 poipiku.com##.PcSideBarAd
-
-! えごったー
-! 不明 https://twitter.com/ego_tter/status/1641392829682548736
-! egotter.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/64186
-@@||cloudfront.net/adsense.js$domain=egotter.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
-egotter.com##[id^="async-adsense-"]
 
 ! ぶろるっく
 ! 不明 https://blolook.osa-p.net/index.html
@@ -189,6 +142,8 @@ uraaka.com##div[class^="overlay-ad_"]
 
 ! Skebetter
 ! 不明
+skebetter.com##.md\:h-24
+skebetter.com##.md\:h-48
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-w-2xl
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
@@ -200,6 +155,26 @@ skebetter.com##a[href*="dmm.co"]
 ! 裏垢女子まとめ
 ! 不明
 ||uraaka-joshi.com/ad-
+
+! 蒼天画廊
+! サ終 https://www.azure-gallery.net/
+
+! ツイセーブ
+! サ終？ https://twitter.com/9m/status/1641350437625536514
+twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
+twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
+
+! #リツイート直後のツイートを表示するやつ
+! サ終？ https://togetter.com/li/2113907
+
+! #生活習慣の乱れを可視化するやつ
+! サ終 https://twitter.com/p1ass/status/1641417687678189568
+
+! Twtimez
+! サ終 https://twitter.com/TwTimez/status/1641980394437480450
+twtimez.net##.adDown
+twtimez.net##.adMiddle
+twtimez.net##.adTop
 
 ! 2023/04/02 2020年頃から放置
 ||share-videos.se/js/pjs.js
@@ -2666,7 +2641,6 @@ o-dan.net###spgLoadAd
 o-uccino.jp##[class^="float_banner_"]
 oceans-nadia.com###pc_tag_banner_area_1
 oceans-nadia.com##[class^="AdSlot_"]
-odaibako.net#?#main > div[class^="css-"]:-abp-has(div[id^="div-gpt-ad"])
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 ohen.tv###top-ad1-wrapper
 ohen.tv##.ad-wrapper
@@ -5430,6 +5404,7 @@ times.abema.tv##.main-adarea
 ||youtube.com/api/stats/qoe?
 ||youtube.com/ptracking?
 youtube.com###masthead-ad
+youtube.com##ytd-ad-slot-renderer
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-display-ad-renderer:upward(2)
 youtube.com##ytd-promoted-sparkles-web-renderer
