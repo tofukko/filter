@@ -2374,6 +2374,7 @@ lifehacker.jp##[class^="bodyAd_BodyAd__"]
 lifehacker.jp##[class^="bodyAd_InnerAd_Label__"]
 linkfang.org###LinkFang_Horizontal
 live.kufu.co.jp##.banner_box
+live-events.a-jp.org##.sb-pc
 livefans.jp##.adCenter
 livefans.jp##.bannerBox
 lmaga.jp##.contents_ad
