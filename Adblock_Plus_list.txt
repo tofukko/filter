@@ -5327,6 +5327,8 @@ video.fc2.com##.main.only-one-row.with-ad:style(width: 100% !important;)
 video.fc2.com##.main.only-one-row.with-ad[data-layout="list"] .content-wrap:style(width: 100% !important;)
 video.fc2.com##.main.only-one-row.with-ad[data-layout="list"] .main-header:style(width: 100% !important;)
 
+adult.contents.fc2.com#?#.list_wrapper:-abp-has(> p[class="promotion_tag_spn"])
+
 !live.fc2.com
 ||live.fc2.com/friendlyAd.php?
 live.fc2.com##.m-viewAd
