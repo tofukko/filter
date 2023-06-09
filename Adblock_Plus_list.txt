@@ -6241,7 +6241,7 @@ deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!importan
 	! https://github.com/tofukko/filter/issues/62
 70okugame.com#@#.dfad
 	!header
-number.bunshun.jp##.global-container:style(margin-top: 53px !important;)
+number.bunshun.jp##.global-container:style(margin-top: 64px !important;)
 	! https://github.com/tofukko/filter/issues/63
 catmiimi.com#@#.dfad
 	! https://github.com/tofukko/filter/issues/28 サイドバー
