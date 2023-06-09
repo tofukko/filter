@@ -1764,6 +1764,7 @@ cookpad.com###sticky_reference_element
 cocktaillog.com##app-adsense-display-ads
 cocktaillog.com##app-adsense-list-in-feed-ads
 cocktaillog.com##app-the-moneytizer-ads
+cocreco.kodansha.co.jp##.banner-area
 coromoo.com##.affiliate
 coromoo.com##.amazon-link
 corriente.top##.adbox
