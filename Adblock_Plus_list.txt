@@ -2145,7 +2145,7 @@ ibarakinews.jp##.textad_box
 idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
 idol-blog.com##[id^="post-"] + .box ~ div
-ign.com##.zad.billboard:style(min-height: 0 !important;)
+ign.com##.zad.billboard:style(min-height: 0 !important;padding-top: 0 !impotant;)
 ign.com##.zad:not(.billboard)
 imashun-navi.com##.ads
 img.favsite.jp##[class$="-lg"]
