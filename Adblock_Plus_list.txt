@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/06/09 10:22
+! 最終更新 2023/06/15 8:46
 !
 
 !2023/04/02 twitter API
@@ -4639,7 +4639,7 @@ picb2.com#?#div[class$="mb-3 d-none d-md-block"]:-abp-has([href^="https://al.dmm
 ! --- pixiv --- !
 ||pximg.net/source/dic/javascript/side_ads.js?
 www.pixiv.net###js-mount-point-header:style(min-height: auto !important;)
-www.pixiv.net###root > .charcoal-token > div:only-child > div:first-child > div[style="position: static; z-index: auto;"] + div[class^="sc-"]
+www.pixiv.net###root > .charcoal-token > div:only-child > div > div[style="position: static; z-index: auto;"] + div[class^="sc-"]
 www.pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > div:only-child > div[class^="sc-"] > ul[class^="sc-"] > li[class^="sc-"][size="2"][offset="1"]
 www.pixiv.net##aside > section + div > div[style="font-size: 0px;"]
 www.pixiv.net##div[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
