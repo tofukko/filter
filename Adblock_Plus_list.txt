@@ -2367,11 +2367,6 @@ library.mitaka.tokyo.jp##.banner
 lifehack2ch.livedoor.biz###rakuafi
 lifehack2ch.livedoor.biz##.elsebody
 lifehack2ch.livedoor.biz##.yahoo-ad1b
-lifehacker.jp##[class^="articles_pArticles_List__"] > a:not([href])
-lifehacker.jp##[class^="articles_pArticles_HeroLink"]:not([href])
-lifehacker.jp##[class*="bodyAd_BillboardAd__"]
-lifehacker.jp##[class^="bodyAd_BodyAd__"]
-lifehacker.jp##[class^="bodyAd_InnerAd_Label__"]
 linkfang.org###LinkFang_Horizontal
 live.kufu.co.jp##.banner_box
 live-events.a-jp.org##.sb-pc
@@ -4170,6 +4165,15 @@ mp4upload.com###lay.lay
 
 ! --- kyokugen.info --- !
 ##.ad_desc
+
+! --- lifehacker.jp --- !
+||ad2iction.com^$third-party
+||costory.media-assistant.tech/app/index.html$domain=lifehacker.jp
+lifehacker.jp##[class^="articles_pArticles_List__"] > a:not([href])
+lifehacker.jp##[class^="articles_pArticles_HeroLink"]:not([href])
+lifehacker.jp##[class*="bodyAd_BillboardAd__"]
+lifehacker.jp##[class^="bodyAd_BodyAd__"]
+lifehacker.jp##[class^="bodyAd_InnerAd_Label__"]
 
 ! --- livedoor --- !
 /blog_ads/*
