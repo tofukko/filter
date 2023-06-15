@@ -3220,6 +3220,9 @@ xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//a
 ! 過去
 5ch.net###js--banners--thread
 5ch.net##[style="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;margin-right: 215px;"]
+! 新
+jump.5ch.net##[id$="-ads"]
+||vntsm.com^
 
 ! pink
 ||bbspink.com/js/ad.js?
