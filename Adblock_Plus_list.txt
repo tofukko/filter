@@ -5107,6 +5107,7 @@ chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"]
 creators.yahoo.co.jp##.Ad--lrec
 detail.chiebukuro.yahoo.co.jp#?#aside[class^=ClapLv3SubList_Chie-SubList__ListItem__]:-abp-has(> .infdAd)
 detail.chiebukuro.yahoo.co.jp#?#[class^="ClapLv3SearchList_Chie-SearchList__Item__"]:-abp-has(> div > [class^="ClapLv2ListItemSS_Chie-ListItem__Anchor__"] + [class^="ClapLv2ListItemSS_Chie-ListItem__Information__"])
+finance.yahoo.co.jp##div[id^="ad_"]
 finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
 finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
 finance.yahoo.co.jp#?##contents-body + div > div:first-child > div > div:-abp-has([id^="ad_"])
