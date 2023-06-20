@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/06/15 8:46
+! 最終更新 2023/06/21 8:18
 !
 
 !2023/04/02 twitter API
@@ -6349,6 +6349,13 @@ ff14angler.com##.side_banner:style(position: fixed !important;)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/96832
 !g-pc.info##+js(set, adsbygoogle.loaded, true)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=g-pc.info
+
+! gamemod.blog.fc2.com
+gamemod.blog.fc2.com#@#.AdContainer
+gamemod.blog.fc2.com##+js(no-setTimeout-if, AdContainer)
+||fc2.com/g/a/m/gamemod/jQuery-1x-ie8.js
+||fc2.com/g/a/m/gamemod/jQuery-2x-ie9.js
+||fc2.com/g/a/m/gamemod/min-user-comment.js
 
 ! gametter.com
 !gametter.com##+js(acis, addEventListener, google_ad_client)
