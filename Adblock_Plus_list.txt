@@ -3691,6 +3691,7 @@ kantan.game##.ad_rectangle
 kantan.game##.ad_super
 
 ! --- getnews.jp --- !
+getnews.jp###jp_gn_resp_article_inarticle_fundo
 getnews.jp###leftColumn > .widget_text:first-child
 getnews.jp###rightColumn > .widget_text:first-child
 getnews.jp###resp_article_undertitle
