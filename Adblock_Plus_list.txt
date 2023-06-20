@@ -4171,7 +4171,7 @@ mp4upload.com###lay.lay
 
 ! --- lifehacker.jp --- !
 ||ad2iction.com^$third-party
-||costory.media-assistant.tech/app/index.html$domain=lifehacker.jp
+||costory.media-assistant.tech/app/index.html$third-party
 lifehacker.jp##[class^="articles_pArticles_List__"] > a:not([href])
 lifehacker.jp##[class^="articles_pArticles_HeroLink"]:not([href])
 lifehacker.jp##[class*="bodyAd_BillboardAd__"]
