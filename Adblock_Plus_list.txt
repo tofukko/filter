@@ -5498,13 +5498,18 @@ bipblog.com###BottomAmazon
 bipblog.com##.amachazl-box
 
 !fig速
-||ota-goods.info/json/widget.php?
+||figsoku.net/rank/load.php?
 ||ota-goods.info/checkerjson/widget2.php
+||ota-goods.info/dmmjson/widget3.php?
+||ota-goods.info/json/widget.php?
+||ota-goods.info/json/widget_calendar.php?
 ||figsoku.net/wp/wp-content/themes/figsoku/js/sidefix.min.js
 figsoku.net##.gad
 figsoku.net##.sum
 figsoku.net##.shop
+figsoku.net##.spadd2
 figsoku.net##.textwidget:only-child
+figsoku.net##.tokka
 figsoku.net##.wama
 figsoku.net##.textwidget [href^="http://px.a8.net/svt/ejp"]
 figsoku.net##.textwidget [href^="http://click.linksynergy.com/"]
