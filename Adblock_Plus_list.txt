@@ -4166,6 +4166,21 @@ mp4upload.com###lay.lay
 *$script,redirect-rule=noopjs,domain=mp4upload.com
 *$script,3p,denyallow=cloudflare.com|cloudflare.net|fontawesome.com|hwcdn.net|jquery.com|jsdelivr.net,domain=mp4upload.com
 
+! https://github.com/AdguardTeam/AdguardFilters/issues/66996
+! https://github.com/uBlockOrigin/uAssets/issues/17289
+*$script,redirect-rule=noopjs,domain=vidmoly.me|vidmoly.net|vidmoly.to
+||vidmoly.to/static/vastAD.js$script
+||vastz.b-cdn.net/*.mp4$media,domain=vidmoly.to,redirect=noopmp3-0.1s
+
+! https://github.com/uBlockOrigin/uAssets/issues/13833
+! vidmoly . me | .to popups
+vidmoly.*##+js(nowoif)
+||apptospace.com^
+||disproveknob.com^
+vidmoly.*###mg_vd
+vidmoly.*###voc_block
+vidmoly.*###dos_vlock
+
 ! --- kyokugen.info --- !
 ##.ad_desc
 
