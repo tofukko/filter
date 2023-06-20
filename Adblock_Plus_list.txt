@@ -3049,6 +3049,7 @@ utaten.com###sidebar > .MediumRectangleBanner
 utaten.com##.footerBanner
 utaten.com##.sideBySideBanner
 utaten.com##.topBanner
+utaten.com#?#tbody > tr:-abp-has(> td > aside.sideBySideBanner)
 valorantnews.jp##.header-cls
 vidoza.net##.pvr
 vipcle2.com###text-23
@@ -6351,6 +6352,7 @@ ff14angler.com##.side_banner:style(position: fixed !important;)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=g-pc.info
 
 ! gamemod.blog.fc2.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/153183
 gamemod.blog.fc2.com#@#.AdContainer
 gamemod.blog.fc2.com##+js(no-setTimeout-if, AdContainer)
 ||fc2.com/g/a/m/gamemod/jQuery-1x-ie8.js
