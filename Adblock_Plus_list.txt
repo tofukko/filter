@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/06/21 8:18
+! 最終更新 2023/06/28 17:06
 !
 
 !2023/04/02 twitter API
@@ -187,15 +187,6 @@ share-videos.se###new_ad_html
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81515
 helpsupport.blog.fc2.com#@#.AdContainer
 helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
-
-!2022/12/20 2023年6月28日 ゲームアツマール終了
-!https://blog.nicovideo.jp/niconews/183352.html
-!アツマール
-||game.nicovideo.jp/atsumaru/ads/
-game.nicovideo.jp###footer-ad
-game.nicovideo.jp#?#.Modal__Modal__Overlay:-abp-has(> .GamePageModal__GamePageModal > .InGameAdvertisingModal__ModalContent)
-game.nicovideo.jp##+js(nano-stb, u(!0), 5000)
-game.nicovideo.jp##+js(nano-stb, [native code], 15000)
 
 !2022/11/17
 ||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
