@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/06/28 17:06
+! 最終更新 2023/07/03 18:05
 !
 
 !2023/04/02 twitter API
@@ -6411,7 +6411,6 @@ kledgeb.blogspot.com##body > div[style="visibility: hidden;"]:style(visibility: 
 ! lemino.docomo.ne.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/148073
 lemino.docomo.ne.jp##+js(no-xhr-if, doubleclick.net)
-||g.doubleclick.net/gampad/ads?$xmlhttprequest,redirect=noop.txt,important,domain=lemino.docomo.ne.jp
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=lemino.docomo.ne.jp
 
 ! manga1001.vip
