@@ -6438,6 +6438,10 @@ motorsport.com##.lgux-banner
 motorsport.com##.ms-apb
 motorsport.com##.ms-hapb
 
+! nakiny.com
+! https://github.com/tofukko/filter/issues/86
+nakiny.com##+js(nostif, ai_adb)
+
 ! nordot.app
 nordot.app##.main__ad
 nordot.app##+js(acis, document.createElement, admiral)
