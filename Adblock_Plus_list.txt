@@ -3127,6 +3127,8 @@ www-creators.com##.adsense
 x-feeder.info##div[style^="width: 300px; height: 250px"]
 x-feeder.info##div[style*="width: 728px; height: 90px"]
 x-feeder.info##div[style="height: 600px;"]
+xbooks.one###custom_html-2
+xbooks.one##.pc_area
 xvideo-jp.com###dmmad
 xvideo-jp.com##.p-article__sub
 xvideo-jp.com##.p-articleDMM
