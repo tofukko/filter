@@ -2338,6 +2338,7 @@ kotobank.jp##div[class$="word-ad"]
 ktkm.net###custom_html-43
 kumiko-jp.com##div[class*="fourm"]
 kurashi-no.jp##.p-article__nro
+kurashiru.com##.banner-wrapper
 kurashiru.com##.DlyFixedBanner
 kurashiru.com##.FooterAppPc-adsWrapper
 kurashiru.com##.PcAside-ads
