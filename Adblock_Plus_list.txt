@@ -6014,6 +6014,12 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 deagostini.jp#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 
+! etude000.com
+! https://github.com/tofukko/filter/issues/87
+etude000.com#@#.thk_ps_widget
+etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_widget-60, #thk_ps_widget-15)
+etude000.com##.top-ad
+
 ! nakanohito
 ||nakanohito.jp^$third-party
 ! https://github.com/easylist/easylist/issues/7760
