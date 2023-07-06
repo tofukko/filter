@@ -1452,6 +1452,7 @@ _analytics.js?
 4gamer.net##.medipartner:style(position: static !important;)
 4gamer.net##.sidetop
 4gamer.net##.satellite_banner
+4meee.com##div[id^="gtm_"]
 4ndan.com##.adtop
 4ndan.com##.sponserdlink
 4shared.com##.jsReklBlock
