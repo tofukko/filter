@@ -4489,8 +4489,8 @@ nhentai.net##+js(nowoif)
 ! hentaipaw.com
 ||madeupadoption.com^
 ||cloudimagesb.com^
-hentaipaw.com##.header-ad
-hentaipaw.com##+js(nostif, m(!0))
+hentaipaw.com,hentai-one.com##.header-ad
+hentaipaw.com,hentai-one.com##+js(nostif, m(!0))
 
 ! --- nicovideo ニコニコ動画 --- !
 ||ads.nicovideo.jp^
