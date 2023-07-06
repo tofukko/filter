@@ -1612,6 +1612,7 @@ beauty-navi.com##.p-headerBnr
 bengo4.com##.p-dfp-banner-area--desktop-only-block
 bengo4.com##.p-topics-list__item--ad-ranking
 bengo4.com##.p-topics-list__item:not(.h-stretched-link-wrapper)
+bestcarweb.jp##[class^="pc_CLS"]
 bg-mania.jp##.adunit
 bikebros.co.jp##.ad
 bikebros.co.jp##.adsw
