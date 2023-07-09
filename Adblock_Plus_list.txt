@@ -5028,6 +5028,7 @@ wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height:
 ##.ad-single-h2
 ##.ad-space
 ##.adarea-box
+##.advads-widget
 ##.afc_popup
 ##.adPost
 ##.adWidget
