@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/07/04 20:31
+! 最終更新 2023/07/09 20:18
 !
 
 !2023/04/02 twitter API
@@ -5364,6 +5364,7 @@ adult.contents.fc2.com#?#.list_wrapper:-abp-has(> p[class="promotion_tag_spn"])
 live.fc2.com##.m-viewAd
 
 ||vip.chps-api.fc2.com/apis/footer/
+||vip-chps-api.2nt.com/apis/footer/
 
 fc2.com###ad-content
 fc2.com###ad-footer
@@ -5397,6 +5398,7 @@ web.fc2.com##.ad-inactive
 
 !アルバムメーカー
 @@||vip.chps-api.fc2.com/apis/imageViewer/access?
+@@||vip.chps-api.2nt.com/apis/imageViewer/access?
 
 ! --- ameba --- !
 ||ameba.jp/ad/
