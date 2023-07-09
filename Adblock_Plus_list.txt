@@ -1790,6 +1790,8 @@ daily.co.jp##aside.add > div
 daily.co.jp##aside.add[style^="min-height:"]
 daily.co.jp##[id^="browsi_adWrapper_"]
 dailynewsonline.jp##.adArea
+dailyshincho.jp##.p-block__side--lg
+dailyshincho.jp##.p-block__side--lg + p:style(width: auto !important;)
 dan-ball.jp##[class^="ad_div_"]
 db.msin.jp##.pr
 ddnavi.com##.ad-twoside
