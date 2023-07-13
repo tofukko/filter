@@ -3972,6 +3972,7 @@ it.impress.co.jp##.ad-pr-text
 netshop.impress.co.jp###bancho_adsense_nodefooter
 thinkit.co.jp##.region-top-ad
 watch.impress.co.jp##.billboard
+watch.impress.co.jp##div[class^="affiliate_tag_"]
 watch.impress.co.jp##[id$="-amazon-ranking"]
 watch.impress.co.jp##[id$="-rakuten-ranking"]
 webtan.impress.co.jp###webtan_adsense_nodefooter
