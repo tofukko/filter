@@ -6579,6 +6579,10 @@ wowgame.jp##.rm-footer
 wowgame.jp##[style="width:300px; height:250px;"]
 @@||adservice.google.com.tr/adsid/integrator.js$xmlhttprequest,domain=player.tubia.com
 
+@@||a.image.accesstrade.net/m/m_img/*120$image,domain=wowgame.jp
+@@||a.image.accesstrade.net/m/m_img/*/File4.jpg$domain=wowgame.jp
+@@||h.accesstrade.net/sp/rr?rk=$image,domain=wowgame.jp
+
 ! https://github.com/uBlockOrigin/uAssets/issues/14141
 ! https://github.com/uBlockOrigin/uAssets/issues/14150
 ! https://github.com/uBlockOrigin/uAssets/issues/15183
