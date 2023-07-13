@@ -832,7 +832,6 @@ _ads.js.
 ||hinative.com/assets/banners/trek/
 ||homemate-research.com/js/ad/
 ||horne.red/banner/
-||jalan.net/jalan/doc/top/js/randombanner.js
 ||japan.cnet.com/parts/frame/
 ||japanese.joins.com/HomeAds/
 ||jma.go.jp/bosai/ad/
@@ -2175,7 +2174,6 @@ izzetmtgnews.com###text-4
 izzetmtgnews.com###text-14
 izzetmtgnews.com###text-15
 jacom.or.jp##div[class^="banner"] > a:not([href*="://www.ja"])
-jalan.net##.jsc-ad-bannerList
 japan.cnet.com##.ad_large
 japan.cnet.com##.inner-pr
 japan.cnet.com##.right-ad-block
@@ -4016,6 +4014,14 @@ j-town.net##.ad-unit
 www.j-cast.com##.ad-rectangle-bnr
 www.j-cast.com##.ad_entry_toptext
 www.j-cast.com##.adunit
+
+! --- jalan.net --- !
+||jalan.net/jalan/doc/ad/
+||jalan.net/js/segmentContentsAdDisp.js
+||jalan.net^*/jkg_ads$script
+! https://github.com/AdguardTeam/AdguardFilters/issues/125647
+@@||tm.r-ad.ne.jp/*/default.js$domain=jalan.net
+@@||tm.r-ad.ne.jp/cv?k=$domain=jalan.net
 
 !g --- javynow.com --- !
 javynow.com##.banner-player
