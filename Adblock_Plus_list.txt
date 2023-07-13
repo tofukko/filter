@@ -2879,7 +2879,7 @@ shuchi.php.co.jp##[style="height: 600px;"]
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sin-space.com##.ad-side
 sin-space.com##div[class^="insentence-adsense-"]
-sirabee.com###rectangle
+sirabee.com##[data-newsy-ad-device]
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sitebk.com##.nest-h3:has(> .productWrap)
