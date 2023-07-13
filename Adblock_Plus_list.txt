@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/07/09 20:18
+! 最終更新 2023/07/13 19:51
 !
 
 !2023/04/02 twitter API
@@ -2580,7 +2580,6 @@ news.2chblog.jp##.article-body-inner > table[width="750"][height="320"]
 news.2chblog.jp##.kjs
 news.ameba.jp##[class^="AdGoogle__"]
 news.ameba.jp##[class^="SpAd"][class*="Module__container--"]
-news.dwango.jp##.bnrs
 news.j-wave.co.jp##.adSet
 news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
