@@ -2194,6 +2194,9 @@ jbbs.shitaraba.net##table[cellpadding="7"] + hr + ul + hr + table
 jbpress.ismedia.jp##.ad-billboard
 jbpress.ismedia.jp##.ad-block
 jbpress.ismedia.jp##.ad-gate
+jglobal.jst.go.jp##.ad_comment
+jglobal.jst.go.jp##.advert
+jglobal.jst.go.jp##.similar_ad
 jidoushatounan.com##.master_post_advert
 jidoushatounan.com##.pl_banner_bottom
 jidoushatounan.com##.pl_banner_middle
