@@ -1413,8 +1413,6 @@ _analytics.js?
 ~dmm.com,~dmm.co.jp###freespace a[href*="dmm.co"]
 ~dmm.com,~dmm.co.jp##.plugin-freearea a[href*="dmm.co"]
 ~dmm.com,~dmm.co.jp##.sidewrapper a[href*="dmm.co"]
-~dmm.com,~dmm.co.jp##a[href^="http://ad.dmm.com/ad/p/r?"]
-~dmm.com,~dmm.co.jp##a[href^="https://ad.dmm.com/ad/p/r?"]
 !----dlsite
 ~dlsite.com###freespace a[href*="dlsite.co"]
 ~dlsite.com##.plugin-freearea a[href*="dlsite.co"]
@@ -3600,6 +3598,14 @@ fmv-mypage.fmworld.net##.home-recommend__item[class$="hidden"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/128061
 azby.fmworld.net##+js(no-xhr-if, /recommendations.)
 @@||images.taboola.com/taboola/image/fetch/$image,domain=azby.fmworld.net
+
+! --- fob.jp --- !
+fob.jp##.site-header
+fob.jp###mainEntity p[style="padding-top: 10px;"] > a[target="_blank"]
+fob.jp##.moe
+fob.jp##.prurun
+forestofbreast.com##.ad-box-header-pc
+@@||fob.jp/images/ad/
 
 ! --- foto.ne.jp --- !
 ||cg-foto.jp/share/v5/img/stock_bnr_
