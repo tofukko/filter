@@ -1338,6 +1338,7 @@ _analytics.js?
 ##.ad-container
 ##.ad-center
 ##.ad-footer
+##.ad_overlay
 ##.ad-rectangle
 ##.article_ad
 ###fluct-pc-sticky-ad
