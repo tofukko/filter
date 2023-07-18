@@ -1900,7 +1900,6 @@ fandom.com##.aff-unit__disclaimer-message
 fandom.com##.aff-unit__wrapper
 fandom.com##.wikia-ad
 fandom.com##div[data-campaign]
-fantv.jp##.ml_ad_widget
 fashionsnap.com###mainArticleBottom_leftUnit
 fashionsnap.com###mainArticleBottom_rightUnit
 fashionsnap.com###mainFooterUnit
