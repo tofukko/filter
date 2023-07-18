@@ -1643,6 +1643,8 @@ blogmura.com##.ad-side
 blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
+bookmeter.com###sticky_sidebar_advertising-sticky-wrapper
+bookmeter.com##.default__ads
 booksprivilege.com###ad
 booksprivilege.com###adsub
 brutus.jp##.c-widget-adbanner-frame
