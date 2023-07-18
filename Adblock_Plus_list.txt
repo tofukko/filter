@@ -1976,6 +1976,7 @@ gamesink.net##.footer_ov_ad
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
 gamewith.jp###ad-jack
+gaming-city.com###top-video-list-header-block
 ! jack
 gaming-city.com##.side-ad
 gaming-city.com##.top-banner
