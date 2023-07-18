@@ -2892,6 +2892,8 @@ smhn.info#?#aside:-abp-has(.adsbygoogle)
 smashop.jp###r1_advertisement
 smashop.jp##.ad_double_300_300
 smt-cinema.com##.ad
+smt-cinema.com##.md_singleBanner
+smt-cinema.com##.md_tripleBanner
 snapdish.co##.book-detail__promotion
 snapdish.co##.side__ad
 soco-st.com##.footer_ad
