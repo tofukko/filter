@@ -3744,6 +3744,7 @@ dictionary.goo.ne.jp##.NR-ad
 map.goo.ne.jp###lnavi_site-cross
 map.goo.ne.jp###map-areamatch_wide
 news.goo.ne.jp##[class^="gooad_"]
+oshiete.goo.ne.jp##.addArea
 oshiete.goo.ne.jp##.gheader
 sports.goo.ne.jp##.clearfix[style="margin-top:20px;min-height:250px;"]
 sports.goo.ne.jp##div[style="margin: 1em 0 0; min-height: 90px; display: flex; justify-content: center; align-items: center;"]
