@@ -2041,7 +2041,6 @@ goonews.jp##.article.pr > .prlist
 goonews.jp##[href^="/bannerCount.php"]
 gori.me##.ads
 gori.me##.sidebar-single-ad
-gorin.jp##.ad
 gorillawiki.jp##.new_koukokuwaku_wrapper
 gqjapan.jp##.ad-stickyhero
 gqjapan.jp##.full-bleed-ad
