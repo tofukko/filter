@@ -2430,6 +2430,7 @@ mangabank.org##+js(acis, document.querySelectorAll, popMagic)
 mangacross.jp###top-component > [style="background: rgb(255, 255, 255); height: 115px; padding-bottom: 15px;"]
 mangacross.jp##.ad-box
 mangahack.com##[class^="ad_"]
+mangalove.me##.ad
 mangalove.me##.lastInterstitial
 mangalove.me##.interstitial
 mangalove.me#?#li:-abp-has(> .native-ad-wrap)
