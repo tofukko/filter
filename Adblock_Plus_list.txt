@@ -3153,6 +3153,10 @@ yakuji.co.jp#?##main > .aside:-abp-has(> .center > .ad)
 yakuji.co.jp##.ad-text01
 yakuji.co.jp##.pd
 yakuji.co.jp##.rb
+yama.minato-yamaguchi.co.jp##.footad
+yama.minato-yamaguchi.co.jp##.headad
+yama.minato-yamaguchi.co.jp##.texad
+yama.minato-yamaguchi.co.jp##.texmongon
 yamakei-online.com###text_ad
 yamareco.com###sidebar_right > .mb20[style="clear:both;"] + .box:style(clear: both !important;)
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
