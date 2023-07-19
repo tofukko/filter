@@ -2525,6 +2525,12 @@ momi3.net##td[width="635"][valign="top"] > table > tbody > tr:first-child
 momon-ga.com###menu-pr
 momon-ga.com##.asmr18
 momon-ga.com##.tablink
+monokakitools.net###adview
+monokakitools.net##div[style="background-color:#fafafa;padding: 5px;"]
+monokakitools.net##div[style="font-size:90%;color:#999;text-align:center;margin-bottom:1rem;	"]
+monokakitools.net##div[style="margin: 1em 0;padding:0.1rem;background-color:#efefef;font-size:0.95rem;"]
+monokakitools.net##div[style="margin:20px 0;"]
+monokakitools.net##div[style="margin:20px 0;clear:both;"]
 moqlog.jp##.double-rect-ads-group
 moqlog.jp##.pcbill
 moqlog.jp##.squareb
