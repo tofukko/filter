@@ -2682,6 +2682,8 @@ or2.mobi##.single_ad
 or2.mobi##.top_ad
 orangepage.net##.doubleRectangle
 orangepage.net##.recipeBlock.clearfix.pr
+oreno3d.com###full-size-ol
+oreno3d.com,erommdtube.com##div[style^="display: block; position: absolute; top: 0px; left: 0px"]
 oricon.co.jp###orecView2:style(margin-top: 0 !important;)
 oricon.co.jp##.block-ads-yahoo
 oricon.co.jp##.block-header-banner-wrapper
@@ -4029,6 +4031,10 @@ nlab.itmedia.co.jp###globalHeader
 nlab.itmedia.co.jp##.bannar
 nlab.itmedia.co.jp##.headerbannar
 nlab.itmedia.co.jp##div[style="text-align:center;margin:40px 0;"]
+
+! --- iwara.tv --- !
+||ero-labs.com^$domain=iwara.tv
+||illustrious-halva-eb1986.netlify.app^$domain=iwara.tv
 
 ! --- ixll.co.jp --- !
 figgy.jp##.wrapper:style(margin-top: 90px !important;)
