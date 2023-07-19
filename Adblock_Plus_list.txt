@@ -2729,8 +2729,9 @@ piapro.jp##div[style="width:300px; height:250px; background-color:#cccccc; margi
 picmix.com##.ad
 picrew.me##.c_ad_wrapper
 picrew.me##.discovery_list_ad
-picrew.me##.imagemaker_ad_wrapper
-picrew.me##.imagemaker_container:style(height: 100% !important;)
+picrew.me##.play-Imagemaker_Footer
+picrew.me##.play-Imagemaker:style(height: 100% !important;)
+picrew.me##.search-Sidebar
 pictab.art##.pum-overlay:style(display: none !important;)
 pictab.art##.pum-open:style(overflow: auto !important;)
 piliapp.com##.ads
