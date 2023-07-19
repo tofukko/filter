@@ -3623,6 +3623,7 @@ azby.fmworld.net##+js(no-xhr-if, /recommendations.)
 ! --- fob.jp --- !
 fob.jp##.site-header
 fob.jp###mainEntity p[style="padding-top: 10px;"] > a[target="_blank"]
+fob.jp##.ad-box-left
 fob.jp##.moe
 fob.jp##.prurun
 forestofbreast.com##.ad-box-header-pc
