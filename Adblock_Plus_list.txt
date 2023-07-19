@@ -4610,6 +4610,8 @@ news.nicovideo.jp###billboard_container
 ! nifty.gamedistribution.com
 ||improvedigital.com^$third-party
 
+myhome.nifty.com###footerRect
+
 ! https://www.reddit.com/r/uBlockOrigin/comments/vf5dyc/cant_play_bubble_game/
 ! https://github.com/uBlockOrigin/uAssets/issues/13814
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=html5.gamedistribution.com
