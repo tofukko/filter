@@ -2400,8 +2400,6 @@ mag2.com##.format-standard:has(> .ad-disclosure_chumoku)
 mag2.com##.pf_relatedpost
 mag2.com##.share-ranking-ad
 mag2.com##div[class*="ad-h"]
-magnet-novels.com##.ad
-magnet-novels.com##.adBox
 maidonanews.jp##[class^="module-ad"]
 maidonanews.jp##.module-list-articles__ad
 maidonanews.jp##.module-list-articles__item--ad
