@@ -2282,7 +2282,9 @@ kakijun.jp###header1 > div
 kakijun.jp###hidari:style(top: unset !important)
 kakijun.jp###rcounter > div:not([style="margin:20px auto;text-align:center;font-size:12px;"])
 kakijun.jp##.gadcenter
-kakomonn.com##[class^=ctr_ad_]
+kakomonn.com##div[class^=ctr_ad_]
+kakomonn.com##div[class^="advertisement"]
+kakomonn.com#?#li:-abp-has(> .centerbody01_04)
 kaku-navi.com##[class^="google_ad_kanji_"]
 kakuba.jp##.creative-grid__item:not([data-id])
 kakuba.jp##.pr-banner-img > a[href^="https://brainmagicproduct.com/orbital2-sterna/"]
