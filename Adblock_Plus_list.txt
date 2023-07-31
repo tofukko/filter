@@ -4343,6 +4343,7 @@ m4ex.com##.kadomaru.move
 ||zebraicrudista.com^
 mangagun.net##+js(nowoif)
 weloma.art##+js(nowoif)
+||weloma.art^*/pop.js
 welovemanga.one##+js(nowoif)
 ||jiordgxkpglzm.com^
 ||wqjbldnnceroue.com^
