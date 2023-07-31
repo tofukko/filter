@@ -2469,6 +2469,7 @@ marshmallow-qa.com##.ad
 massigra.net##.adlabel
 massigra.net##[class^="kkvxmargin"]
 mathlog.info##.sticky-main-top > .mb-3.card
+matome.eternalcollegest.com##.sponsored
 matome.f-book.net##.ad_waku
 matome.f-book.net#?#div.section_ad:-abp-has(a[href^="https://preaf.jp/"])
 matomame.jp###page_bottom_fixed
