@@ -872,7 +872,6 @@ _ads.js.
 ||open2ch.net/test/dd.cgi/
 ||pachinkas.net/p-ad
 ||pawoo.net/packs/media/pawoo/images/about/banner-
-||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
 ||piapro.jp/images/ads/
 ||python.jp/ext/$xmlhttprequest
@@ -4723,6 +4722,12 @@ srad.jp###gpt-sd_other_rec
 srad.jp###tophat
 srad.jp##.srad-contentad-banner
 tenshoku.srad.jp###top-hat
+
+! --- phileweb.com --- !
+www.phileweb.com###topBanner
+www.phileweb.com###rightBanner_1
+gadget.phileweb.com##.b--header
+gadget.phileweb.com###text-2
 
 ! --- picb2.com --- !
 picb2.com#?#div[class$="mb-3 d-none d-md-block"]:-abp-has([href^="https://al.dmm.co.jp/"])
