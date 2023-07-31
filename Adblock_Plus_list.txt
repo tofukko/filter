@@ -715,6 +715,7 @@ _ads.js.
 ||dogma-annex.com/media/affiliate/
 ||e-nls.com/pict_af/
 ||free-video-movie.com^
+||gcolle.net/v1/blogparts.js
 ||gunosy.com/adnet/
 ||hogei.info^
 ||i-section.net/rakuten_ranklet/$third-party
