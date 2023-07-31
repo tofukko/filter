@@ -2827,6 +2827,7 @@ rastaneko-blog.com##[class^="kijinaka-outer"]
 realsound.jp###ad_entryBottom
 realsound.jp###adEntry2rec
 realsound.jp##.ad
+receive.shamimomo.net##.convert-ads
 recipe-blog.jp###pc_right_top
 recipe-blog.jp##[id^="reb_pc_"]
 recipekensaku.com##.adsense-card
