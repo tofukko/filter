@@ -2125,6 +2125,17 @@ hokkaido-np.co.jp##.detailAdsense
 hokkaido-np.co.jp##.pr
 hokkaidofan.com##.vce-ad-container
 horiemon.com##.ad
+hostlove.com###ad_foot_box
+hostlove.com###ad_right
+hostlove.com###imob
+hostlove.com###op_a
+hostlove.com###top_ad_box
+hostlove.com##.ad_head
+hostlove.com##.job_ad_list_in
+hostlove.com##.menu_ad
+hostlove.com##div[style="position:relative;height:250px;"]
+hostlove.com###main.template1:style(padding-top: 0px !important;)
+hostlove.com##.wrap_box.search.search_top:style(margin-top: 0 !important;)
 hosyusokuhou.jp##.abanner
 hosyusokuhou.jp##.abox
 hosyusokuhou.jp#?#.sidewrapper:-abp-has(> .sidetitle:-abp-contains(★))
