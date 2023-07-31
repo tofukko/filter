@@ -5486,6 +5486,11 @@ ameblo.jp##div[style^="max-height: 250px"][style*="justify-content: center;"]
 ameblo.jp##footer + div[class^="_"][aria-hidden]
 	! https://github.com/tofukko/filter/issues/14
 ameblo.jp###subAInner:style(position: static !important; margin-top: auto !important;)
+! picktag
+ameblo.jp##.pickTag
+ameblo.jp##div[data-slot="injected"][style^="min-height: 2"]
+||ameblo.jp/_api/mypick;
+||ameba.jp/ameblo/pick/
 news.ameba.jp##[class^="MainAdModule__"]
 
 !abema
