@@ -35,6 +35,7 @@ togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 ! 再開 https://twitter.com/ropross/status/1661193739145195521
 twilog.togetter.com###ad-main-top
 twilog.togetter.com##[style^="height:250px"]
+twilog.togetter.com##div[style="display: flex; justify-content: space-between; margin:0 0 16px; padding-bottom:12px; border-bottom:1px dotted #ccc; "]
 favolog.org###side > div:first-child
 
 ! マシュマロ
