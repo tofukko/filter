@@ -1979,6 +1979,7 @@ gameranbu.jp##.ad_center
 gameranbu.jp##.side_ad > .cf
 gameranbu.jp##.side_ad_top
 gameranbu.jp##.side_recomend_trac
+gamerch.com##div[style="display:inline-block;width:300px;height:250px;"]
 gamesindustry.biz##.main_contents > div.middle_section
 gamesindustry.biz##.banner_rectangle
 gamesink.net##.footer_ov_ad
