@@ -3483,12 +3483,11 @@ gifubo-shine.com##.advertising
 news.denfaminicogamer.jp##.amazon-ranking
 news.denfaminicogamer.jp###pc_article_billboard
 news.denfaminicogamer.jp##.rectangle-bn
-news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
 wiki.denfaminicogamer.jp###ad-wiki-content-lower
 wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ! jack
 ||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
-news.denfaminicogamer.jp###dfng-jack
+news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
 
 ! --- diet2channel --- !
 ! http://blog.livedoor.jp/diet2channel/
