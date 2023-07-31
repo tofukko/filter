@@ -3483,6 +3483,7 @@ gifubo-shine.com##.advertising
 news.denfaminicogamer.jp##.amazon-ranking
 news.denfaminicogamer.jp###pc_article_billboard
 news.denfaminicogamer.jp##.rectangle-bn
+news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
 wiki.denfaminicogamer.jp###ad-wiki-content-lower
 wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ! jack
