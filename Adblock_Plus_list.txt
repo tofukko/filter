@@ -1471,6 +1471,14 @@ a-matome.com##.footer:nth-of-type(2)
 a-matome.com##.head3
 a-matome.com##.LIST5
 a-matome.com##.LOG > .LOG2
+ac-illust.com,photo-ac.com###voting-taboola-wrapper
+ac-illust.com,photo-ac.com##.ac-p-2.bg-light.ac-mt-3
+ac-illust.com,photo-ac.com##div[id^="search-result-"] div.bg-light.ac-p-2
+ac-illust.com##.ac-p-2.bg-light.ac-mb-2
+ac-illust.com##.ad-fluid
+ac-illust.com##.col-12.px-1
+ac-illust.com##.section-creator-ads
+ac-illust.com##.theme-ads-box
 accuweather.com##.glacier-ad
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adbottom_box
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adcenter_box
