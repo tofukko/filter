@@ -3448,6 +3448,11 @@ bloomberg.co.jp##.leaderboard-wrapper
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
 
+! --- bokete.jp --- !
+bokete.jp##._popIn_recommend_article_ad:upward(1)
+bokete.jp##._popIn_infinite_page:style(display: block !important;)
+bokete.jp##._popIn_infinite_page > li:style(float: left !important;)
+
 ! --- buttobi.net --- !
 ||sea.pakapeko.com^
 adultlog.net,btblog.jp##.story_box:has(> tbody > tr > td[valign="middle"])
