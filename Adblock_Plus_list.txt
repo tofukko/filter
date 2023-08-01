@@ -1656,6 +1656,10 @@ bookmeter.com###sticky_sidebar_advertising-sticky-wrapper
 bookmeter.com##.default__ads
 booksprivilege.com###ad
 booksprivilege.com###adsub
+brightdays.jp###secondary > aside.widget_text:not(#twitterLine)
+brightdays.jp##.amLink
+brightdays.jp##.prePaidBanner
+brightdays.jp##.rkLink
 brutus.jp##.c-widget-adbanner-frame
 bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
