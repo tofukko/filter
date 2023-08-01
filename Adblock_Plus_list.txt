@@ -4774,7 +4774,6 @@ www.pixiv.net##iframe[name][width="500"][height="520"]
 www.pixiv.net##iframe[name][width="184"][height="232"]:upward(1)
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
 comic.pixiv.net##.screen4\:hidden.bg-surface4.w-screen.h-\[100px\]
-comic.pixiv.net
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
 
