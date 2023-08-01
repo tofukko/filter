@@ -2536,6 +2536,7 @@ misskey.io##+js(json-prune, ads.[].imageUrl)
 mitok.info##.mybox-right-narrow
 mixch.tv##.footer-ad
 mixi.jp##.adsenseBannerArea
+mmd-list.com##.movie__main > .movie__tag + div[style*="display: block; position: absolute; top:"]
 mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
 moeasia.net##.abox
