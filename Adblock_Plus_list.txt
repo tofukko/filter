@@ -1750,6 +1750,8 @@ cnn.co.jp###ad-large-header
 cnn.co.jp###ad-rect
 cnn.co.jp##.ad-txt
 coco.to###content > div.clearboth[style="padding:35px 0 30px 10px"]
+cocokara-next.com##div[class^="ad-JP_"]
+cocokara-next.com#?#.txtBox > p:-abp-has(> ins.adsbygoogle)
 cocoromembers.jp.sharp##.adsArea
 coinpost.jp##.googlead
 coliss.com##.googleAd
