@@ -3805,6 +3805,7 @@ news.goo.ne.jp##[class^="gooad_"]
 oshiete.goo.ne.jp##.addArea
 oshiete.goo.ne.jp##.gheader
 ranking.goo.ne.jp##.l-browsi
+ranking.goo.ne.jp#?#.main-ranking > dd > ul > li:-abp-has(> div.NR-ad)
 sports.goo.ne.jp##.clearfix[style="margin-top:20px;min-height:250px;"]
 sports.goo.ne.jp##div[style="margin: 1em 0 0; min-height: 90px; display: flex; justify-content: center; align-items: center;"]
 wpedia.goo.ne.jp##.inner-ad
