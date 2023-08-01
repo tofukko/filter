@@ -5240,6 +5240,7 @@ search.yahoo.co.jp##.Ad
 search.yahoo.co.jp,realtime.yahoo.co.jp##div[class^="Lrec_"]
 search.yahoo.co.jp,realtime.yahoo.co.jp##div[class*="Yda_"]
 soccer.yahoo.co.jp##.sc-lrec
+sports.yahoo.co.jp##.cm-modCommon02
 sports.yahoo.co.jp##.yf-lrec
 weather.yahoo.co.jp##.ad-frame-fix
 
