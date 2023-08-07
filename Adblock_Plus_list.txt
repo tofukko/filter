@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/08/01 17:42
+! 最終更新 2023/08/08 0:09
 !
 
 !2023/04/02 twitter API
@@ -160,10 +160,11 @@ skebetter.com##a[href*="dmm.co"]
 ! 蒼天画廊
 ! サ終 https://www.azure-gallery.net/
 
-! ツイセーブ
+! ツイセーブ 
+! 2023/08/08 https://twisave.com/info/close
 ! サ終？ https://twitter.com/9m/status/1641350437625536514
-twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
-twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
+!twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
+!twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
 
 ! #リツイート直後のツイートを表示するやつ
 ! サ終？ https://togetter.com/li/2113907
