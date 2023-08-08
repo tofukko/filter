@@ -5037,6 +5037,7 @@ townnews.co.jp##.sideBnr
 ||tver.jp/web/TEAD_banner_ui/
 tver.jp##[class^="floating-companion-ad-slot_host__"]
 tver.jp##[class^="two-column_companionAd__"]
+tver.jp##[class^="episode-page-main_companionAd__"]
 plus.tver.jp##.ad
 @@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
