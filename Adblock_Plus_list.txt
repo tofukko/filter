@@ -4313,6 +4313,7 @@ m4ex.com##.inmaincmframe ~ div
 m4ex.com##.kadomaru.move
 
 !g --- manga --- !
+/ad-provider.
 /adgpt.js
 /api/spots/*$subdocument
 /api/spots/*&ev$script
