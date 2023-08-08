@@ -5514,7 +5514,9 @@ web.fc2.com##.ad-inactive
 
 !アルバムメーカー
 @@||vip.chps-api.fc2.com/apis/imageViewer/access?
+@@||vip-chps-api.fc2.com/apis/imageViewer/access?
 @@||vip.chps-api.2nt.com/apis/imageViewer/access?
+@@||vip-chps-api.2nt.com/apis/imageViewer/access?
 
 ! --- ameba --- !
 ||ameba.jp/ad/
