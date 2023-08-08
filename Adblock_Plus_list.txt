@@ -2759,6 +2759,8 @@ pashplus.jp##.single_bnr_wrap
 pashplus.jp##.specialBanners-cover
 paso-kake.com##.st-eyecatch
 pastebin.com##.adsbyvli
+pastebin.com##.content > [style^="padding-bottom:"]
+pastebin.com##div[style^="color: #999; font-size: 12px; text-align: center;"]
 pc-karuma.net##.ads-widget
 pctrouble.net##.ads
 peko-step.com###cgrig_base_pic:style(grid-auto-rows: auto !important;)
