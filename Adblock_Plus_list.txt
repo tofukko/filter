@@ -2758,6 +2758,7 @@ pashplus.jp##.google_ads
 pashplus.jp##.single_bnr_wrap
 pashplus.jp##.specialBanners-cover
 paso-kake.com##.st-eyecatch
+pastebin.com##.adsbyvli
 pc-karuma.net##.ads-widget
 pctrouble.net##.ads
 peko-step.com###cgrig_base_pic:style(grid-auto-rows: auto !important;)
