@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/08/08 0:09
+! 最終更新 2023/08/08 21:32
 !
 
 !2023/04/02 twitter API
@@ -1577,6 +1577,7 @@ atwiki.jp###recommend
 atwiki.jp##.ads
 atwiki.jp##.atwiki-ads-margin
 atwiki.jp##.atwiki_ads
+atwiki.jp##.atwiki-ads-pc-overlay
 atwiki.jp##[id^="advp"]
 atwiki.jp##div[style="width: 160px;height:600px"]
 aucfree.com###adOvl
