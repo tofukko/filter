@@ -906,7 +906,6 @@ _ads.js.
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
-||tver.jp/web/TEAD_banner_ui/
 ||tbsradio.jp/assets/js/ad/
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
@@ -3079,8 +3078,6 @@ tv-asahi.co.jp##.init-ad
 tv-tokyo.co.jp##.rectangle
 tv-tokyo.co.jp##.tbcms_ad-block
 tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
-tver.jp##[class^="floating-companion-ad-slot_host__"]
-tver.jp##[class^="two-column_companionAd__"]
 tvlife.jp###tvl_pc_article_footer
 tvlife.jp##.ad
 tvlife.jp##[id^="tvl_pc_all_"]
@@ -5036,6 +5033,15 @@ townnews.co.jp##.googleAdSense
 townnews.co.jp##.pr
 townnews.co.jp##.sideBnr
 
+! --- tver.jp --- !
+||tver.jp/web/TEAD_banner_ui/
+tver.jp##[class^="floating-companion-ad-slot_host__"]
+tver.jp##[class^="two-column_companionAd__"]
+plus.tver.jp##.ad
+@@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
+	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
+
 ! --- twitter.com --- !
 ||ads-twitter.com^
 ||twitter.com^*/videoads/
@@ -6110,11 +6116,6 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 /v2/a/push/js/*
 
 !------------------------ホワイトリスト------------------------!
-!tver 芋
-@@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
-	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
-
 ! 47club.jp
 ! https://github.com/tofukko/filter/issues/29
 @@||47club.jp^*/images/ad/$image,domain=47club.jp
