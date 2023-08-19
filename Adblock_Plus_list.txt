@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/08/08 21:32
+! 最終更新 2023/08/19 20:40
 !
 
 !2023/04/02 twitter API
@@ -94,7 +94,7 @@ egotter.com##[id^="async-adsense-"]
 ! 一部サ終 https://ckworks.jp/animeradar/about/
 
 ! buhitter
-! サ終？ https://twitter.com/ekaki3_net/status/1641231725912293378
+! 維持 https://twitter.com/ekaki3_net/status/1641231725912293378
 buhitter.com##aside.row[style="display: flex; justify-content: center;height: 320px;overflow:hidden;margin:8px;"]
 ! buhitter.com
 ! https://github.com/tofukko/filter/issues/79
@@ -108,7 +108,7 @@ buhitter.com##aside.row[style="display: flex; justify-content: center;height: 32
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
 
 ! ツイコミ
-! 不明 https://twitter.com/twicomi_kari
+! 維持 https://twitter.com/twicomi_kari
 ||twicomi.com/ads/
 twicomi.com#?#.interrupt:-abp-has(> .ad-group):style(height: 0 !important;min-height: 0 !important;overflow: hidden !important;)
 
@@ -860,7 +860,6 @@ _ads.js.
 ||medibang.com/viewer/fixedAds/
 	!minnano-av.com
 ||minnano-*.com/top_center_bn/
-||mixi.jp^*/adnetwork/
 ||mona-news.com/ad-*.js
 ||muragon.com/js/ad-fixed.js?
 ||muragon.com/js/replace-afp-ad.js?
@@ -1595,6 +1594,8 @@ automaton-media.com##.td-a-rec
 ! jack
 automaton-media.com##body:style(background: none!important)
 av-photograph.com##.wakupr
+avtokutei.com###st_custom_html_widget-20
+avtokutei.com###st_custom_html_widget-8
 b.ibbs.info###carousel-banner
 baby-calendar.jp##.bnr
 baby-calendar.jp##[id^="JP_BABY_"]
@@ -1617,6 +1618,7 @@ basso.to,nazca.co.jp##span[style="font-size:12px; line-height:120%;"]:first-chil
 battle-one.com##.adsense
 battlecats-db.com##div[style="width:336px;float:right;"]
 bbc.com##[data-e2e="advertisement"]
+bbm-japan.com##.ad-pc
 beauty-navi.com##.p-headerBnr
 bengo4.com##.p-dfp-banner-area--desktop-only-block
 bengo4.com##.p-topics-list__item--ad-ranking
@@ -2133,6 +2135,7 @@ hoiclue.jp##[class^="adPC"]
 hokkaido-np.co.jp##.detailAdsense
 hokkaido-np.co.jp##.pr
 hokkaidofan.com##.vce-ad-container
+home.kingsoft.jp##div[style$="height:250px"]
 horiemon.com##.ad
 hostlove.com###ad_foot_box
 hostlove.com###ad_right
@@ -2196,9 +2199,10 @@ ipentec.com##[class^="FlexContainerAdsense"]
 iphone-mania.jp##.single_pr_ad_all
 irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
+iromame-beans.jp###page_bottom_fixed
 iromame-beans.jp##.ads3
 iromame-beans.jp##.ads4
-ita-do.com##.deleteBox
+ita-do.com,ore-nijigazo.com##.deleteBox
 ita-do.com##.pcAd01
 itaishinja.com##.ADW
 iwate-np.co.jp##.ad
@@ -2444,8 +2448,6 @@ mainichigahakken.net##.ad-block
 mainichigahakken.net##[id$="_gam"]
 making.pipa.jp##.NoFrame.RelatedWorkRight
 makitani.net##.ablock
-mamadays.tv##[class*="_ads__"]
-mamadays.tv##[class^="style_ad_"]
 mamagirl.jp##.p-ad
 manager-life.net##[id^="ad_"]
 manga.okiba.info,manga.okiba.jp##.amazon-ranking-outer
@@ -2482,6 +2484,7 @@ mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
 mantan-web.jp##[style^="width:728px;height:90px;"]
 maonline.jp##.ad_box
+maonline.jp##.mgnT60.mgnB60
 mapfan.com##.header-ad
 mapfan.com##.footer-ad
 mapion.co.jp##.ad-728x90
@@ -2518,8 +2521,9 @@ mens-modern.jp##[style="height:90px; width:728px;"]
 mens-modern.jp##[style="min-height: 320px;"]
 mercari.com#?#div[style^="padding-top"] > div[class^="_container_"]:-abp-has(> div[class^="_wrapped-about-ads-link"])
 merkmal-biz.jp##aside.box[style="min-height:900px"]
-mi-mollet.com##.ad-bnr
 mi-mollet.com###MM_PC_rectangle_1st
+mi-mollet.com##.ad-bnr
+mi-mollet.com##div[style="min-height: 250px; margin-bottom: 48px;"]
 middle-edge.jp###detad
 mimizun.com###adleft
 mimizun.com###thread:style(margin-left: 0 !important;)
@@ -2527,7 +2531,6 @@ mimizun.com##.ad300x250
 mimizun.com##.ad728x90t
 minkch.com###post-0
 minkch.com##.menu-item > .external
-minnano-cafe.com##.dfp_tag
 minpo.jp##.ads730
 minpo.jp##.ads970:style(min-height: 0 !important;)
 minpo.jp##.side-ads
@@ -2539,6 +2542,7 @@ misskey.io##.xF6dY
 misskey.io##div[class][style*=" "] div[class]:not([style]) ~ div[class] a[href^="https://go.misskey.io/"] > img[class]:not([src]) ~ button
 misskey.io##+js(json-prune, ads.[].imageUrl)
 mitok.info##.mybox-right-narrow
+mitok.info##div[style="min-height: 325px;"]
 mixch.tv##.footer-ad
 mixi.jp##.adsenseBannerArea
 mmd-list.com##.movie__main > .movie__tag + div[style*="display: block; position: absolute; top:"]
@@ -2588,7 +2592,7 @@ moviewalker.jp##div[style^="padding-top:10px; padding-bottom: 10px;"]
 mudainodocument.com##.adset-Cover
 mudainodocument.com##.article-body-inner [href^="https://px.a8.net/"]
 muragon.com##.footer-adarea
-muragon.com##[class^="adarea"]
+muragon.com##div[class^="adarea"]
 musmus.main.jp##div[class*="ad_"]
 musmus.main.jp##div[id^="sub_ad"]
 mutyun.com##.amazon-auto-links-widget
@@ -2644,6 +2648,7 @@ news-us.org##.sponsored
 news24.jp###adText01
 news4wide.net##.wipe-ad-div-class
 newsee-media.com##.s-side[style^="position: fixed;"]
+newsweekjapan.jp##.ad-teads-nw-box
 newser.cc##.ad
 newswitch.jp##.banner
 nicofinder.net###video-ichiba
@@ -2910,9 +2915,11 @@ seikeidenron.jp##.advertising
 seikeidenron.jp##.articleAdd
 seikeidenron.jp##.rightAdd
 seikyouiku-illust.com##.c-sponsorbanner
+sekkaku.net##.sekkaku-bbs-ad-point
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
 serai.jp##.post_content--ad_area
+sarah30.com##div[style="width:100%;height:90px;padding:2px 0;"]
 server-navi.info##.boxp
 server-setting.info###pr_bottom
 server-setting.info###pr_side_top
@@ -3004,6 +3011,7 @@ syokuraku-web.com###text-64
 syosetu.com##[class^="koukoku_"]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
+tabanavi.com##.widget_st_custom_html_ad_widget
 tabelog.com##.rstdtl-cmad
 tabelog.com##.side-adbanner-wrap
 tabelog.com##[class^="ad-min-size-"]
@@ -3020,6 +3028,7 @@ techacademy.jp###pum-75846
 techacademy.jp##.ad
 techcrunch.com##.ad-unit
 techno-edge.net##.af_box
+technologyreview.jp##.ad-premium-jack
 tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
 telnavi.jp##.google_adsense_placeholder
@@ -3051,6 +3060,7 @@ tokubai.co.jp##.dfp-tag-wrapper
 tokyo-calendar.jp##.article_in_ad
 tokyo-calendar.jp##.super-banner-field
 tokyo-sports.co.jp##.head-bnr-area
+tomonite.com##div[class*="style_ad_"]
 tonarinoyj.jp##.js-page-ad
 toranoana.jp##.tora-ads
 touhouyaruosure.com##[href*="dlsite.com"]
@@ -3330,6 +3340,9 @@ blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ di
 
 ! --- allabout.co.jp --- !
 ||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
+||aacdn.jp/js/*_prebid.js
+||aacdn.jp/js/aa/matome/ad.js
+||aacdn.jp/js/aa/matome/ad_create.js
 ||aacdn.jp/js/allabout-request-async.js?$domain=allabout.co.jp
 ||aacdn.jp/js/mtx/$domain=allabout.co.jp
 allabout.co.jp##.aa_ad-home-thumb-small
@@ -3616,12 +3629,10 @@ exblog.jp##[class*="list" i] > .ss
 @@||www.google-analytics.com/analytics.js$script,domain=woman.excite.co.jp
 
 ! --- exploader.net --- !
-||daotag.com^$domain=exploader.net
 ||dmm.co.jp^$domain=exploader.net
-||exploader.net/images/nls/
-exploader.net###nls
-exploader.net##.dl_items
-exploader.net##.items
+||lvtag.com^$third-party
+exploader.net##[class^="d_"]
+exploader.net##aside > .word + .tag + div
 
 ! --- famitsu.com --- !
 ||famitsu.com^*/amazon_ranking.js
@@ -5357,7 +5368,7 @@ yomiuri.co.jp##div[class^="p-ad-dfp"]
 komachi.yomiuri.co.jp##.ads
 komachi.yomiuri.co.jp##.p-ads-center
 komachi.yomiuri.co.jp##[id^="ad_gam_"]
-komachi.yomiuri.co.jp##[class^="p-ad_"]
+komachi.yomiuri.co.jp##div[class^="p-ad"]
 !OTEKOMACHI
 otekomachi.yomiuri.co.jp##.p-ads-middle-rec
 otekomachi.yomiuri.co.jp##[id^="ad_gam_"]
@@ -5526,6 +5537,7 @@ web.fc2.com##.ad-inactive
 ameblo.jp##.subAdBannerArea
 ameblo.jp##.subAdBannerHeader
 ameblo.jp##.skin-entryAd
+ameblo.jp##[data-amb-auto-ad-style]
 ameblo.jp##div[style^="max-height: 250px"][style*="justify-content: center;"]
 ameblo.jp##footer + div[class^="_"][aria-hidden]
 	! https://github.com/tofukko/filter/issues/14
@@ -6462,6 +6474,9 @@ jav380.com###playertopads
 ! animenew.be
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62482
 animenew.be###ad:style(height: 1px !important;)
+
+! bethaniebu.com
+bethaniebu.com##+js(abort-on-stack-trace, document.getElementsByTagName, adsBlocked)
 
 ! coolpan.net
 coolpan.net#@#.ad-area
