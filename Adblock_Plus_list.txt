@@ -2,8 +2,20 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/08/19 20:40
+! 最終更新 2023/08/30 21:06
 !
+
+! 2023/06/30 サ終
+! --- garanger.net --- !
+||gamushara.jp/pr/
+||palpis.net/js/blogparts/parts.js
+||andhub.jp^
+||banner1.site^
+garanger.net###my_navigation
+garanger.net##.box:first-child
+garanger.net##.board
+garanger.net##.pr
+garanger.net##[href="https://liberty-net.jp/toukou/"]
 
 !2023/04/02 twitter API
 
@@ -3946,17 +3958,6 @@ googlesyndication.com##.left-container
 ||gvt1.com/videoplayback?$media,redirect=noop-1s.mp4,domain=safeframe.googlesyndication.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 ||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,redirect=nooptext,domain=imasdk.googleapis.com
-
-! --- garanger.net --- !
-||gamushara.jp/pr/
-||palpis.net/js/blogparts/parts.js
-||andhub.jp^
-||banner1.site^
-garanger.net###my_navigation
-garanger.net##.box:first-child
-garanger.net##.board
-garanger.net##.pr
-garanger.net##[href="https://liberty-net.jp/toukou/"]
 
 ! --- hatena --- !
 	!hateblo.jp,
