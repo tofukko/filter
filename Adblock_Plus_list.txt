@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/08/30 21:06
+! 最終更新 2023/09/01 15:17
 !
 
 ! 2023/06/30 サ終
@@ -1359,6 +1359,8 @@ _analytics.js?
 
 ! fun.daagreat.com,jp.17gameworld.com,jp.angel-animals.com,jp.bestpets97.com,jp.dinggling.com,jp.smallpopo.com,jp.todaytwnews.com,jp.voosuper.com
 ##.ggbox
+! https://twitter.com/KRRKS_B
+##.ad_splify
 
 ! gacraft.jp
 ##.sherpa-component[data-ad_type]
@@ -1471,6 +1473,7 @@ _analytics.js?
 4shared.com##.rightPanelMargin:first-child
 4shared.com##.sideRekl
 55sedori.com##.ad
+5chan.jp###bbs_advertise_header
 9db.jp#?##container > div#footer:-abp-has(> div > ins.adsbygoogle):style(display: none !important;)
 9db.jp###contents:style(margin-bottom: 0 !important;)
 9ketsuki.info##.manual_ads
@@ -1498,7 +1501,7 @@ adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adtoplabel
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp##.relatedlabel
 adultblogranking.com##.ads-a
 adultblogranking.com##.rank > li[id]
-adultcomic.dbsearch.net##.img-spc-box.sph250
+adultcomic.dbsearch.net##.pc-h90
 afpbb.com##.bnr
 akiba-souken.com###adGameRanking
 akiba-souken.com##.articleGoodsBox
@@ -1806,6 +1809,11 @@ curazy.com##.jsViewer_overlay-dialogAd
 curazy.com##.jsViewer_dialog-ad
 curazy.com##.viewer_controller_footer_ad
 curazy.com##.viewer_controller_footer:style(height: auto !important;)
+cyclesports.jp##.adBanner
+cyclesports.jp##.banner01
+cyclesports.jp##.feature
+cyclesports.jp##.sideBanner
+cyclesports.jp##.pr
 cyclowired.jp##.block.block-block.clearfix
 cyclowired.jp##.field-name-field-amazon-product1
 cyzo.com###ad_rB
@@ -1924,7 +1932,7 @@ eroido.jp##[class^="adv_"]
 eromazofu.com##.c_c_t_w
 ertk.net###banner1
 ertk.net##.dmm-ranking
-exhentai.org###spa
+exhentai.org,e-hentai.org###spa
 facebook.com##.adv
 facebookcorewwwi.onion##.adv
 fandom.com##.ad-slot-placeholder
@@ -2036,6 +2044,7 @@ gendai.media##.ad-in-article
 gendai.media##.articleBottomAd
 genroq.jp##.ad-management
 gensun.org##[style^="width:728px;height:90px"]
+gentosha-go.com###ggo_250_wrapper
 getchu.com###rectangle
 getchu.com##.banner
 getnavi.jp##.ad
@@ -2096,6 +2105,8 @@ h-pon.doorblog.jp##.right-container[style^="position: fixed"]:style(position: st
 h-pon.doorblog.jp##div[id^="imobile_ad_"]
 h1g.jp##.mainbody-ad-top
 h1g.jp##[style^="width: 300px; height: 250px;"]
+h2ch.com###ad
+h2ch.com##[onclick^="ad_click"]
 hadasirori.blog.jp###container > table
 hadasirori.blog.jp##.article-body-more > [href*=".dmm.co.jp/"]
 hadasirori.blog.jp##.article-body-more > [href*=".dmm.co.jp/"] + br
@@ -2192,6 +2203,7 @@ idol-blog.com##[id^="post-"] + .box ~ div
 ign.com##.zad.billboard:style(min-height: 0 !important;padding-top: 0 !impotant;)
 ign.com##.zad:not(.billboard)
 imashun-navi.com##.ads
+ime2.jp##div[style="margin-top:7px; height: 260px;"]
 img.favsite.jp##[class$="-lg"]
 img.favsite.jp#?#div:-abp-has(> .content-rank-img)
 imgur.com##.ad-slot
@@ -2378,6 +2390,8 @@ kimootoko.net###custom_html-63
 kimootoko.net##[class^="fanzakiji"]
 kinmaweb.jp##.book-tiles
 kkbox.com##.google-ad-manager
+knb.ne.jp##.site-bottom-flux
+knb.ne.jp##.site-top-banner
 kobe-np.co.jp###prBox
 kobe-np.co.jp##[id^="browsi_adWrapper_"]
 kobe-np.co.jp##.active.native
@@ -2417,6 +2431,7 @@ last.fm##.sidebar-ad-container
 lee.hpplus.jp##.media-ad
 leon.jp##.st-BottomBanner-top
 lettuceclub.net##.p-ad
+lettuceclub.net##.p-adlcn
 library.mitaka.tokyo.jp##.banner
 lifehack2ch.livedoor.biz###rakuafi
 lifehack2ch.livedoor.biz##.elsebody
@@ -2878,6 +2893,7 @@ retro-gamer.jp##[id^="text-"] > .textwidget a[href*="amazon.co.jp"],[id^="text-"
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
 reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
+rikujyokyogi.co.jp##.code-block
 rkb.jp##[id^="JP_RKBO_"]
 rollingstonejapan.com##.addHead
 rollingstonejapan.com##.addSide
@@ -3030,6 +3046,7 @@ tabelog.com##[class^="ad-min-size-"]
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 tagindex.com###ads_top
 tagindex.com###post
+taittsuu.com#?##posts > div.post-wrap > a[href*="_ad_"][target="_blank"]:upward(1)
 taskle.jp##.ad
 taskle.jp##.ad-widget
 tbsradio.jp##.articles-single__article__ad__underarticle
@@ -3082,6 +3099,8 @@ touhouyaruosure.com##[style="margin:0;padding:5px;font-size:12px;word-break: bre
 touken-world.jp##.pr_bnr_contents_block
 toyokeizai.net###trend-library
 tozanchannel.blog.jp##div[style^="text-align: center; margin-bottom:"]
+trafficnews.jp##.box-ad-left
+trafficnews.jp##.pc-side-ad-mrg
 traicy.com##.pc-ad
 traicy.com##.pc-ad-wide
 travelbook.co.jp##.adsense
@@ -3111,7 +3130,7 @@ unityroom.com##.bl_adunit
 uptodown.com##.ad
 urbanlife.tokyo##[class^="fluct-unit-"]
 ure.pia.co.jp###wrapper #button_id
-ure.pia.co.jp###wrapper #anchor_i
+ure.pia.co.jp##.anchor
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
@@ -3936,12 +3955,11 @@ www.google.*##div.ellip > span:has-text(/^Ads?$/):upward(2)
 www.google.*##div[data-section-id] > a[href^="/aclk"][href*="placesheetAdFix="][href*="adurl="]:upward(1)
 www.google.*##:matches-path(/travel/hotels/) div[data-is-promoted="true"]
 
-! thememazing .com broken page + other fb
+! thememazing .com broken page + other anti adb
 ! fix mdpDeBlocker + some other anti-adb
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,redirect=googlesyndication_adsbygoogle.js:5,domain=~zipextractor.app
-||googleads.g.doubleclick.net/$xhr,redirect-rule=nooptext
-! https://github.com/uBlockOrigin/uAssets/issues/11577
-! https://github.com/uBlockOrigin/uAssets/issues/12163
+||pagead2.googlesyndication.com^$xhr,redirect=noop.js
+||doubleclick.net^$xhr,redirect=noop.txt
 ! Counter ads and requests inside doubleclick. net iFrames (general fix)
 googleads.g.doubleclick.net###google-center-div
 googleads.g.doubleclick.net###abgc
@@ -4392,6 +4410,8 @@ welovemanga.one##+js(nowoif)
 ||wqjbldnnceroue.com^
 ||d13k7prax1yi04.cloudfront.net^
 ||visariomedia.com^
+rawkuma.com##+js(aeld, readystatechange, document.removeEventListener)
+rawkuma.com##+js(acs, parseInt, break;case $.)
 
 ! --- milky エロムビ ？ --- !
 ! キャラメル喫茶
@@ -4592,11 +4612,21 @@ bazutore.com##.kouwaku5
 ! nhentai.net
 nhentai.net##.advertisement
 nhentai.net##+js(nowoif)
+nhentai.net##+js(set, _n_app.popunder, null)
+nhentai.net##+js(rpnt, script, popunder, p)
+nhentai.*##+js(acs, document.querySelectorAll, popMagic)
+nhentai.com##+js(acs, document.createElement, /l\.parentNode\.insertBefore\(s/)
+nhentai.io##+js(aopr, Script_Manager)
+nhentai.io##+js(aopr, Script_Manager_Time)
 ! hentaipaw.com
+||appearedcrawledramp.com^
 ||madeupadoption.com^
 ||cloudimagesb.com^
-hentaipaw.com,hentai-one.com##.header-ad
-hentaipaw.com,hentai-one.com##+js(nostif, m(!0))
+||egoismundonefifth.com^
+hentai-one.com,hentaipaw.com##div[id^="ts_ad_native_"]
+hentai-one.com,hentaipaw.com##.external
+hentai-one.com,hentaipaw.com##.middle-ad
+hentai-one.com,hentaipaw.com##+js(nostif, m(!0), 800)
 
 ! --- nicovideo ニコニコ動画 --- !
 ||ads.nicovideo.jp^
@@ -4809,6 +4839,7 @@ dic.pixiv.net##.d_header
 ##form[action*="afl.rakuten.co.jp"]
 plaza.rakuten.co.jp###commonAdsParts
 plaza.rakuten.co.jp#?##content-sticky > table[width="330px"]:-abp-has(.side_title:-abp-contains(/^PR$/))
+plaza.rakuten.co.jp##div[id^="div-plaza-point-ad-"]
 recipe.rakuten.co.jp##.box_banner--top
 recipe.rakuten.co.jp##.field_search__reccomend
 recipe.rakuten.co.jp##.ranking_recommend_recipe
@@ -5582,18 +5613,17 @@ youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
 youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-search-pyv-renderer
 
-! https://github.com/uBlockOrigin/uAssets/pull/18106/
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds, playabilityStatus.liveStreamability)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds, playerConfig.streamSelectionConfig.maxBitrate)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds, playerConfig.audioConfig.loudnessDb)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds, playerResponse.playerConfig.streamSelectionConfig.maxBitrate)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds, playerResponse.playerConfig.audioConfig.loudnessDb)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds, playerResponse.playabilityStatus.liveStreamability)
-
 ! https://www.reddit.com/r/uBlockOrigin/comments/154vtwy/getting_ads_on_youtube/jsu299l/
 youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.playerAds, undefined)
 youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adSlots, undefined)
 youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
+!#if ext_devbuild
+youtube.com,youtubekids.com,youtube-nocookie.com#@#+js(rpnt, script, (function serverContract(), 'const pruner=text=>{const json=JSON.parse(text);for(k of["playerAds","adPlacements","adSlots"]){json[k]=[];}return JSON.stringify(json);};const urlFromArg=arg=>{if(typeof arg==="string"){return arg;}if(arg instanceof Request){return arg.url;}return String(arg);};const realFetch=window.fetch;window.fetch=new Proxy(window.fetch,{apply:function(target,thisArg,args){if(!(urlFromArg(args[0]).includes("player?key="))){return Reflect.apply(target,thisArg,args);}return realFetch(...args).then(realResponse=>realResponse.text().then(text=>new Response(pruner(text),{status:realResponse.status,statusText:realResponse.statusText,headers:realResponse.headers,})));}}); (function serverContract()')
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots, , /^(?=.*\.js)(?!.*[A-z]jb \S+polymer).*/)
+!#endif
+! https://github.com/uBlockOrigin/uAssets/issues/7636#issuecomment-1674303331
+music.youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots important)
 
 ||tpc.googlesyndication.com^
 ||youtube.com/pagead/
@@ -6042,10 +6072,9 @@ hdzog.*##.video-page__content > div:not([class*="video"])
 hdzog.*##.video-page__row > div:not([class*="video"])
 
 ! regex
-/[0-9a-f]{32}\/invoke\.js/$script,third-party
 /^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party
 ! https://github.com/easylist/easylist/issues/6476
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$script,third-party,match-case,redirect=noop.js
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}(?:\?[_v]=\d+)?$/$script,third-party,match-case,redirect=noop.js
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.com\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.website\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
 ! https://github.com/easylist/easylist/issues/6471
@@ -6108,16 +6137,22 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 ||aguwehajqluorgv.com^
 ||doopimim.net^
 
+
 .com/src/ppu/
 /aas/r45d/vki/*
 /bultykh/ipp24/7/*
 /ceef/gdt3g0/tbt/*
 /code/native.js?h=$script
+/code/pops.js?h=$script
+/code/silent.js?h=$script
 /fyckld0t/ckp/fd3w4/*
+/i/npage/*$script,3p
 /i/npage/*$script,third-party
 /in/track?data=
+/lv/esnk/*$script,3p
 /lv/esnk/*$script,third-party
 /ntfc.php?
+/pfe/current/*$script,3p
 /pfe/current/*$script,third-party
 /pn07uscr/f/tr/zavbn/*
 /q/tdl/95/dnt/*
@@ -6128,6 +6163,8 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 /senddata?site=inpage
 /t/9/heis/svewg/*
 /v2/a/push/js/*
+
+/aas/r45d/vki/*$script,3p,redirect=noop.js
 
 !------------------------ホワイトリスト------------------------!
 ! 47club.jp
