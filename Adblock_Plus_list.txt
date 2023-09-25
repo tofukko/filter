@@ -147,6 +147,8 @@ twidou.link##.mb-3.mt-4.c-min-height
 twidou.link##.py-4.my-5.container
 twihub.me###overlay_area
 twihub.me##.c-max-width-height-350
+twihub.me##.c-min-height-300x100-banner
+twihub.me##.c-min-height-300x100-banner + div.c-min-height
 uraaka.com##.ad-overlay
 uraaka.com##.gallery__interstitial
 uraaka.com##body:style(overflow-y: auto !important;)
