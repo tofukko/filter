@@ -56,6 +56,7 @@ favolog.org###side > div:first-child
 ! お題箱
 ! 維持？ https://twitter.com/nerikeshi_k/status/1641786680389795840
 odaibako.net#?#main > div[class^="css-"]:-abp-has(div[id^="div-gpt-ad"])
+odaibako.net##div[style="min-height:290px"]
 
 ! 診断メーカー
 ! 維持 https://shindanmaker.com/articles/mzvG4n0y26lyRAVZ
