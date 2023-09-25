@@ -2373,6 +2373,7 @@ kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
 kanmsu.com##.google-adbox
 kantsuri.com##.featured.section-inverse
+karakoto.com##.ad
 karapaia.com###header-ad-o
 karapaia.com###overlay
 karapaia.com##.ads
