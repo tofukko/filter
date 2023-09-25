@@ -2237,6 +2237,7 @@ iromame-beans.jp##.ads4
 ita-do.com,ore-nijigazo.com##.deleteBox
 ita-do.com##.pcAd01
 itaishinja.com##.ADW
+iwanichi.co.jp##[class^="ad_"]
 iwate-np.co.jp##.ad
 iwate-np.co.jp#?#.article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
