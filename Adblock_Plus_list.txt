@@ -1879,6 +1879,9 @@ e-nenpi.com##.top_ads
 e-typing.ne.jp##.ad
 e-typing.ne.jp##.adbox_468
 e-typing.ne.jp##[class^="ad"][class*="00"]
+e-words.jp###ad-bottom
+e-words.jp###relbooks
+e-words.jp###Related_Books
 e-words.jp##.ad
 e0166nt.com###module
 easter.ne.jp##div[align="center"] > br:first-child
