@@ -3053,6 +3053,7 @@ tabanavi.com##.widget_st_custom_html_ad_widget
 tabelog.com##.rstdtl-cmad
 tabelog.com##.side-adbanner-wrap
 tabelog.com##[class^="ad-min-size-"]
+tabi-labo.com##.dfp-article
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 tagindex.com###ads_top
 tagindex.com###post
