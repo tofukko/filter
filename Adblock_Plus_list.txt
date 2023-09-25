@@ -5073,6 +5073,7 @@ thefastcode.com##body[style="margin-top: 90px; margin-bottom: 90px;"]:style(marg
 ||tokyo-motion.net/bnr/
 ||static.fc2.com/distribution/preroll/$script,domain=tokyomotion.net
 osakamotion.net,tokyomotion.net###nuevoa
+tokyomotion.net##+js(acs, document.querySelectorAll, popMagic)
 
 ! --- townnews.co.jp --- !
 ||townnews.co.jp/entry_ad.json?
