@@ -4344,10 +4344,11 @@ m4ex.com##.kadomaru.move
 !g --- manga --- !
 /ad-provider.
 /adgpt.js
-/api/spots/*$subdocument
-/api/spots/*&ev$script
-/api/spots/*?kw=$script
-/api/spots/*?s1=%$script
+/api/spots/*$subdocument,script
+/api/spots/*^fill=$xmlhttprequest
+/api/spots/*&kw=$xmlhttprequest
+/api/users/*&ev=$script
+/api/users/*^fill=$xmlhttprequest
 /cdn-cgi/zaraz/*
 /prebidlink/*
 ||a.vdo.ai^
