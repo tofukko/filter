@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/09/01 19:58
+! 最終更新 2023/09/25 20:22
 !
 
 ! 2023/06/30 サ終
@@ -2587,9 +2587,6 @@ mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
 moguravr.com##.mg-ads-placement
 momi3.net##td[width="635"][valign="top"] > table > tbody > tr:first-child
-momon-ga.com###menu-pr
-momon-ga.com##.asmr18
-momon-ga.com##.tablink
 monokakitools.net###adview
 monokakitools.net##div[style="background-color:#fafafa;padding: 5px;"]
 monokakitools.net##div[style="font-size:90%;color:#999;text-align:center;margin-bottom:1rem;	"]
@@ -4495,6 +4492,15 @@ itf.minkabu.jp##.pageCon_ad
 ||moeclo.ldblog.jp/livedoorad/
 ||moeclo.ldblog.jp/topad01.html
 moeclo.ldblog.jp###main_head_ad
+
+! --- momon-ga.com --- !
+momon-ga.com###menu-pr
+momon-ga.com##.asmr18
+momon-ga.com##.tablink
+momon-ga.com##div[style$="width: 92%; height: 400px; margin: 0 auto 80px auto; background-color: #fff;"]
+momon-ga.com#?##main > div.home-h:-abp-has(> a[target="_blank"])
+||creative.*/widgets/spot/
+||creative.*/widgets/v4/Universal?
 
 ! --- mozakin.com --- !
 !||mozakin.com/auto_updater/dti_get.php?
