@@ -145,6 +145,7 @@ poipiku.com##.PcSideBarAd
 ! 不明
 twidou.link##.mb-3.mt-4.c-min-height
 twidou.link##.py-4.my-5.container
+twicoco.com,twidou.link##.c-max-width-320
 twihub.me###overlay_area
 twihub.me##.c-max-width-height-350
 twihub.me##.c-min-height-300x100-banner
