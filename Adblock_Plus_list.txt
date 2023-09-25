@@ -3005,6 +3005,7 @@ sorae.info###fix_sidebar
 sorae.info##.code-block-3 font[size="-1"]
 sorae.info##.code-block:not(.code-block-3)
 sound.jp###adfloat
+soundeffect-lab.info##div[id^="ad-"]
 spaia.jp##.ad
 spaia.jp##.ad-wrapper
 sponichi.co.jp##[data-component="ad-basic"]
