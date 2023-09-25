@@ -3312,6 +3312,13 @@ xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//a
 /sp3pas_ad.js
 /track.php?
 
+! --- 00m.in --- !
+||00m.in/banner/
+00m.in###attention
+00m.in###bar_out
+00m.in###h4title
+00m.in###url:style(display: block !important;)
+
 ! --- 5ch pink --- !
 ||i2ad.jp^
 ||thench.net^
