@@ -2708,6 +2708,7 @@ npn.co.jp##.bnr
 nuwton.com##[class*="banner-"]
 nyahentai.re##.asmr18
 nyahentai.re##.tablink
+nyahentai.re##div[style="max-width: 1200px; width: 92%; height: 400px; margin: 0 auto 80px auto; background-color: #fff;"]
 o-dan.net###spgLoadAd
 	clone.o-dan.net##.apiRsltAd
 	clone.o-dan.net##.apiRsltFigAd
