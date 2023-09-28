@@ -3076,6 +3076,7 @@ techacademy.jp###pum-75846
 techacademy.jp##.ad
 techcrunch.com##.ad-unit
 techno-edge.net##.af_box
+techno-edge.net##.ad-banner
 technologyreview.jp##.ad-premium-jack
 tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
