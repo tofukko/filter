@@ -3356,7 +3356,13 @@ bbspink.com##[class^="banner_"]
 ! 過去
 bbspink.com##.ad--right
 bbspink.com##div[style="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;"]
-
+! 新
+bbspink.com###topleft
+bbspink.com###topright
+bbspink.com###bottomleft
+bbspink.com###bottomright
+bbspink.com##.adbanners
+bbspink.com###adoverlay
 pinktower.com##div
 
 !Mobile
