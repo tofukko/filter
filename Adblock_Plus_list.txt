@@ -157,6 +157,9 @@ uraaka.com##body:style(overflow-y: auto !important;)
 uraaka.com##div[class^="back-ad_"]
 uraaka.com##div[class^="overlay-ad_"]
 
+! 裏ハメ
+urahame.com#?#h2.MuiStack-root > div.MuiStack-root:has(> div.MuiBox-root > script[src^="https://adtest.pages.dev"])
+
 ! Skebetter
 ! 不明
 skebetter.com##.md\:h-24
