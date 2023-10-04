@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/10/01 20:50
+! 最終更新 2023/10/04 17:12
 !
 
 ! 2023/06/30 サ終
@@ -5175,6 +5175,15 @@ www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #lib_tab:style(top:
 www.vector.co.jp##:is(body[vlink], body[id^="v_"], #wrapper) #v_wrapper:style(padding-top: 180px !important;)
 www.vector.co.jp###v_header:style(height: unset !important;)
 www.vector.co.jp##td[width="304"][bgcolor="#eeeeee"][align="center"]:style(vertical-align: top !important;)
+
+! --- viet-jo.com --- !
+||viet-jo.com/js/jcookie-banner-text_top2.js
+||viet-jo.com/image/banner/m_
+viet-jo.com###content ~ #irelated
+viet-jo.com#?##CC_0 > table > tbody > tr:-abp-has(> td:not([valign="top"]))
+viet-jo.com##.banner_left1
+viet-jo.com##div[id^="banner-text-"]
+viet-jo.com##div[id^="master"]
 
 ! --- wav.tv --- !
 ||pokoran.com^
