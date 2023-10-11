@@ -6557,7 +6557,7 @@ trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
 	! https://github.com/tofukko/filter/issues/12 float
 yakkun.com##.ad + div:style(clear: both !important;)
 
-!-------------------anti adblock-------------------------!
+!------------------- anti adblock -------------------------!
 
 ! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
@@ -6639,6 +6639,10 @@ gamemod.blog.fc2.com##+js(no-setTimeout-if, AdContainer)
 
 ! gametter.com
 !gametter.com##+js(acis, addEventListener, google_ad_client)
+
+! ganohr.net
+! https://github.com/AdguardTeam/AdguardFilters/issues/161822
+@@||clarity.ms^$domain=ganohr.net
 
 ! gato.intaa.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/118512
