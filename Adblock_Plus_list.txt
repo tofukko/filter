@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/10/04 17:12
+! 最終更新 2023/10/12 8:38
 !
 
 ! 2023/06/30 サ終
@@ -2694,6 +2694,7 @@ newsee-media.com##.s-side[style^="position: fixed;"]
 newsweekjapan.jp##.ad-teads-nw-box
 newser.cc##.ad
 newswitch.jp##.banner
+next2ch.net##.ad728
 nicofinder.net###video-ichiba
 nicozon.net###ichiba
 niigata-nippo.co.jp##.m-ad
