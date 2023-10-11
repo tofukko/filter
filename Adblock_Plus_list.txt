@@ -940,6 +940,7 @@ _ads.js.
 ||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
 ||yomoyama-bbs.jp/image/ad_images/
+||zerosumonline.com/adstir_
 ||zozo.jp/common/js/ads-inner-tracking.js?
 ||zyuken.net/ads/
 ||zyuken.net/juku_page/ads/
