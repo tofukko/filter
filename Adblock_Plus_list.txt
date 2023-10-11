@@ -2038,6 +2038,9 @@ gaming-city.com###top-video-list-header-block
 ! jack
 gaming-city.com##.side-ad
 gaming-city.com##.top-banner
+gamingdeputy.com##.bottom-sticky-offset
+gamingdeputy.com##.header-banner-desktop
+gamingdeputy.com##[class^="ad-wrapper-parent-"]
 galleria.emotionflow.com##.Ad3Tile
 galleria.emotionflow.com##div[style="width: 1200px; height: 259px; margin: 20px auto 0 auto;"]
 gardenstory.jp##.sponserd
