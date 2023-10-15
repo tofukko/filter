@@ -4422,6 +4422,7 @@ m4ex.com##.kadomaru.move
 ||jads.co^
 ||jiltlargosirk.com^
 ||lzrikate.com^
+||magsrv.com^
 ||mehebborc.com^
 ||mgid.com^$third-party
 ||mhuvmleot.com^
