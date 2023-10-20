@@ -4779,6 +4779,7 @@ nijie.info,horne.red###main-left > .center2
 nijie.info,horne.red###main-right2 img[src^="//pic.nijie.net/"][src*="/banner/"]
 nijie.info,horne.red###side_right_banner
 nijie.info,horne.red###tieup_banner
+nijie.info,horne.red###tieup_rand
 nijie.info,horne.red###view_center_ad
 nijie.info,horne.red##.left_column
 nijie.info,horne.red##.view_top_banner
