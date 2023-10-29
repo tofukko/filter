@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/10/20 21:31
+! 最終更新 2023/10/29 15:36
 !
 
 ! 2023/06/30 サ終
@@ -1678,6 +1678,7 @@ blogring.info##.footer_ad
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
 bookmeter.com###sticky_sidebar_advertising-sticky-wrapper
+bookmeter.com##.application__fixed-footer
 bookmeter.com##.default__ads
 booksprivilege.com###ad
 booksprivilege.com###adsub
