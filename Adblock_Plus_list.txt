@@ -4250,6 +4250,8 @@ kissanime.digital##main + script + div[class]
 ||roujaufu.net^
 ||viatepigan.com^
 
+||iamcdn.net/players/custom-banner.js$script,domain=player-cdn.com
+
 kissanime.*##+js(abort-current-script, JSON.parse, break;case $.)
 kissanime.*##+js(abort-current-script, String.fromCharCode, /btoa|break/)
 vanfem.com##+js(abort-on-property-read, __Y)
