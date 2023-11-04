@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/11/04 13:46
+! 最終更新 2023/11/04 16:11
 !
 
 ! 2023/06/30 サ終
@@ -1975,7 +1975,7 @@ financial-field.com##.ad
 financial-field.com##div[style^="min-width: 300px; min-height: 250px"]
 financial-field.com##div[style^="width: 100%; height: 280px"]
 financial-field.com##div[style^="min-height: 250px;"]
-firecross.jp###js-ad-modal
+firecross.jp###reader_ad_overlay
 firecross.jp###stage:style(max-height: 100% !important;)
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
