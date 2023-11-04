@@ -3598,6 +3598,10 @@ gifubo-shine.com##.advertising
 news.denfaminicogamer.jp##.amazon-ranking
 news.denfaminicogamer.jp###pc_article_billboard
 news.denfaminicogamer.jp##.rectangle-bn
+news.denfaminicogamer.jp##.steam.inner-widget
+news.denfaminicogamer.jp##div[style$="min-height:250px;"]
+news.denfaminicogamer.jp##a[onclick^="dataLayer.push"]
+
 wiki.denfaminicogamer.jp###ad-wiki-content-lower
 wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ! jack
