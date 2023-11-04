@@ -5925,6 +5925,14 @@ xhamster.com##.thumb-list--sidebar .thumb-list__look-like-item
 xhamster.com##.thumb-list > .video-thumb:style(margin-right: 0px !important;)
 xhamster.com##.wio-y
 xhamster.com##.wio-ypremium-overlay
+||xliirdr.com^
+||xxxviijmp.com^
+/related_1.html?language=$subdocument,third-party
+||xhamster.*/api/models/vast*preroll$xmlhttprequest,~third-party
+xhamster.*##div[class*="sp-b"]
+xhamster.*##div[class*="cams-widget"]
+xhamster.*##.video-thumb[class*="__look-like-item"]
+
 
 ! --- xvideos.com --- !
 xvideos.com,xvideos2.com###video-sponsor-links
