@@ -4254,7 +4254,7 @@ kissanime.digital##main + script + div[class]
 ||roujaufu.net^
 ||viatepigan.com^
 
-||iamcdn.net/players/custom-banner.js$script,domain=player-cdn.com
+||iamcdn.net/players/custom-banner.js
 
 kissanime.*##+js(abort-current-script, JSON.parse, break;case $.)
 kissanime.*##+js(abort-current-script, String.fromCharCode, /btoa|break/)
@@ -4273,72 +4273,58 @@ embed.streamx.me##+js(noeval-if, debugger)
 /api/popv2.php$xmlhttprequest,~third-party
 
 ! https://github.com/uBlockOrigin/uAssets/issues/7308
-streamtape.*,streamta.pe,strtape.*##+js(acis, document.createElement, 'script')
-streamtape.*,streamta.pe,strtape.*##+js(aopw, _pop)
-streamtape.*,streamta.pe,strtape.*##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
-streamtape.*,streamta.pe,strtape.*##+js(nosiif, adblock)
-streamtape.*,streamta.pe,strtape.*##+js(nowoif)
-streamtape.*,streamta.pe,strtape.*##+js(ra, target, #downloadvideo)
-streamtape.*,streamta.pe,strtape.*##+js(set, towait, 0)
-streamtape.*,streamta.pe,strtape.*##[class*="bn-container"], div[style*="z-index: 300000;"]
-streamtape.*,streamta.pe,strtape.*##iframe[src^="data:"]
-/sw.js$script,1p,domain=streamtape.*|streamta.pe|strtape.*
-*$3p,denyallow=tapecontent.net|google.com|gstatic.com|hcaptcha.com|recaptcha.net,domain=streamtape.*|strtape.*
+! https://github.com/uBlockOrigin/uAssets/issues/12468
+adblockeronstape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,noblocktape.*,shavetape.*,stapadblockuser.*,stape.*,stapewithadblock.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtapewithadblock.*,strtpe.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(aopw, _pop)
+adblockeronstape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,adblocktape.*,antiadtape.*,noblocktape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtpe.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(nosiif, adblock)
+adblockeronstape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,noblocktape.*,shavetape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblock.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtapewithadblock.*,strtpe.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(nowoif)
+strcloud.*,streamtape.*,streamta.*,strtape.*,strtapeadblock.*##+js(ra, target, #downloadvideo)
+adblockeronstape.*,adblockplustape.com,adblocktape.*,antiadtape.*,noblocktape.*,shavetape.*,stapadblockuser.*,strcloud.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(nano-stb, counter)
+adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,stape.*,strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*#@#.google-ad
+adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,shavetape.*,stape.*,strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*##[class*="bn-container"], div[style*="z-index: 300000;"]
+@@*$ghide,domain=adblockstreamtape.*|adblockstrtape.*|adblockstrtech.*|antiadtape.*|shavetape.cash|stape.*|strcloud.*|streamta.*|streamtape.*|streamtapeadblock.*|strtape.*|strtpe.*
+strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*##iframe[src^="data:"]
+/sw.js$script,1p,domain=strcloud.*|streamtape.*|streamta.*|strtape.*|strtpe.*|strtapeadblock.*
+streamadblocker.*##+js(acs, setTimeout, admc)
+*$popup,3p,from=tapewithadblock.org,badfilter
+streamnoads.com##+js(rmnt, script, FingerprintJS)
+||dzhzp0zlnyoe8.cloudfront.net^
+! https://github.com/uBlockOrigin/uAssets/issues/20336
+tapenoads.com#@#.skyscraper.ad
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6738
 ! https://github.com/uBlockOrigin/uAssets/issues/17145
 fmovies.*##+js(nowoif)
 fmovies.*##+js(aopr, mm)
-||stovecharacterize.com^
 fmovies.*##+js(set, console.clear, undefined)
 ! fmovies.ps popup
-fmovies.*###modalshare
-fmovies.*##.modal-backdrop
-fmovies.*##body.modal-open:style(overflow: auto!important)
+fmovies.*,f2movies.to###modalshare
+fmovies.*,f2movies.to##.modal-backdrop
+fmovies.*,f2movies.to##body.modal-open:style(overflow: auto!important)
 fmovies.*###gift-middle
 fmovies.*###gift-top
-*$script,redirect-rule=noopjs,domain=playhydrax.com
+! https://fmovies.to ads
+fmovies.*##+js(acs, document.write, innerWidth)
 ! https://github.com/NanoMeow/QuickReports/issues/3311
-@@||iamcdn.net/players/*ads$script,domain=playhydrax.com
-||iamcdn.net/players/ads.watch.min.js$script,domain=playhydrax.com,important
-||iamcdn.net/players/playera.dmins.js$script,domain=playhydrax.com
-||iamcdn.net/players/player*.*mins.js$script,domain=freeplayervideo.com|hydracdn.*|nazarickol.com|player-cdn.com
-hydracdn.*,hydrax.net,playhydrax.com##+js(aopr, AaDetector)
-hydracdn.*,hydrax.net,playhydrax.com##+js(nostif, debugger)
-playhydrax.com##+js(nosiif, _0x)
-hydracdn.*,hydrax.net,playhydrax.com##+js(nowoif, /^/, 2)
+||iamcdn.net/players/player*.*mins.js$script,domain=freeplayervideo.com|nazarickol.com|player-cdn.com
 ! abysscdn.com,freeplayervideo.com,nazarickol.com,player-cdn.com##+js(set, detectAdBlockAll, noopFunc)
-abysscdn.com,freeplayervideo.com,nazarickol.com,player-cdn.com##+js(aeld, , break;case $.)
 *$image,redirect-rule=32x32.png,domain=freeplayervideo.com|nazarickol.com|player-cdn.com
-freeplayervideo.com,geoip.redirect-ads.com,nazarickol.com,player-cdn.com##+js(set, console.clear, undefined)
+freeplayervideo.com,nazarickol.com,player-cdn.com##+js(set, console.clear, undefined)
 freeplayervideo.com,nazarickol.com,player-cdn.com##+js(ra, style, #over)
-abysscdn.com,freeplayervideo.com,geoip.redirect-ads.com,nazarickol.com,player-cdn.com##+js(nowoif, /^/, 1)
-playhydrax.com,hydracdn.*,hydrax.net##div#over:remove()
-@@||hydracdn.*^$generichide
-@@||hydrax.net^$generichide
-@@||playhydrax.com^$generichide
+abysscdn.com,freeplayervideo.com,nazarickol.com,player-cdn.com##+js(nowoif, /^/, 1)
 jav.guru##.inside-right-sidebar > aside.widget_custom_html
 jav.guru###text-76
 jav.guru###text-92
 jav.guru###text-93
-||abysscdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
+||abysscdn.com/cdn-cgi/trace$xhr,1p
+
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32450
 ! https://github.com/uBlockOrigin/uAssets/issues/2973
-||mp4upload.com/bd*.html$frame
-||mp4upload.com/1x1.html^$frame
 mp4upload.com##+js(aopw, _pop)
 mp4upload.com##+js(aopw, adcashMacros)
-mp4upload.com##+js(popads-dummy)
-||bitcoadz.io/display/items.php$xhr,redirect=noopjs,domain=mp4upload.com
-||server.cpmstar.com^$xhr,redirect=nooptext,domain=mp4upload.com
-@@||ajax.googleapis.com/ajax/libs/jquery/*$script,domain=mp4upload.com
-mp4upload.com###overlay, div.container
-mp4upload.com##.vjs-fade.vjs-over
 mp4upload.com###lay.lay
 *$script,redirect-rule=noopjs,domain=mp4upload.com
-*$script,3p,denyallow=cloudflare.com|cloudflare.net|fontawesome.com|hwcdn.net|jquery.com|jsdelivr.net,domain=mp4upload.com
-
+*$script,3p,denyallow=cloudflare.com|cloudflare.net|fontawesome.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net,domain=mp4upload.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/66996
 ! https://github.com/uBlockOrigin/uAssets/issues/17289
 *$script,redirect-rule=noopjs,domain=vidmoly.me|vidmoly.net|vidmoly.to
