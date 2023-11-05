@@ -2721,6 +2721,7 @@ novel.prcm.jp##app-remote-ad-frame
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 npn.co.jp##.bnr
+numan.tokyo##.sw-Ad
 nuwton.com##[class*="banner-"]
 nyahentai.re##.asmr18
 nyahentai.re##.tablink
