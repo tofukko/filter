@@ -2677,8 +2677,6 @@ newero1.blog.fc2.com##.pompass
 news.2chblog.jp###side-r:style(position: static!important;)
 news.2chblog.jp##.article-body-inner > table[width="750"][height="320"]
 news.2chblog.jp##.kjs
-news.ameba.jp##[class^="AdGoogle__"]
-news.ameba.jp##[class^="SpAd"][class*="Module__container--"]
 news.j-wave.co.jp##.adSet
 news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
@@ -5673,6 +5671,8 @@ ameblo.jp##div[data-slot="injected"][style^="min-height: 2"]
 ||ameblo.jp/_api/mypick;
 ||ameba.jp/ameblo/pick/
 news.ameba.jp##[class^="MainAdModule__"]
+news.ameba.jp##[class^="AdGoogle__"]
+news.ameba.jp##[class^="SpAd"][class*="Module__container--"]
 
 !abema
 ||ad.abema.io^
