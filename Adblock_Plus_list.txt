@@ -6550,6 +6550,8 @@ etude000.com##.top-ad
 70okugame.com#@#.dfad
 	!header
 number.bunshun.jp##.global-container:style(margin-top: 64px !important;)
+	! https://github.com/tofukko/filter/issues/90
+catchapp.net#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 	! https://github.com/tofukko/filter/issues/63
 catmiimi.com#@#.dfad
 	! https://github.com/tofukko/filter/issues/28 サイドバー
