@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/11/05 14:37
+! 最終更新 2023/11/18 15:00
 !
 
 ! 2023/06/30 サ終
@@ -3037,6 +3037,7 @@ sukima.me##+js(set, adPopupStatus, undefined)
 sukusuku.com##.ad
 sukusuku.com##.aside_ad_pr
 supari.jp##div[class^="c-ads-tag"]
+supercoloring.com#?#div[id^="block-block-"]:-abp-has(div[id^="adngin-"])
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
 supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box
 supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box + a
