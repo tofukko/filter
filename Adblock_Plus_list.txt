@@ -4254,7 +4254,6 @@ kissanime.digital##main + script + div[class]
 ||graizoah.com^
 ||roujaufu.net^
 ||viatepigan.com^
-
 ||iamcdn.net/players/custom-banner.js
 
 kissanime.*##+js(abort-current-script, JSON.parse, break;case $.)
@@ -4282,11 +4281,11 @@ strcloud.*,streamtape.*,streamta.*,strtape.*,strtapeadblock.*##+js(ra, target, #
 adblockeronstape.*,adblockplustape.com,adblocktape.*,antiadtape.*,noblocktape.*,shavetape.*,stapadblockuser.*,strcloud.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(nano-stb, counter)
 adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,stape.*,strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*#@#.google-ad
 adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,shavetape.*,stape.*,strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*##[class*="bn-container"], div[style*="z-index: 300000;"]
-@@*$ghide,domain=adblockstreamtape.*|adblockstrtape.*|adblockstrtech.*|antiadtape.*|shavetape.cash|stape.*|strcloud.*|streamta.*|streamtape.*|streamtapeadblock.*|strtape.*|strtpe.*
+@@*$generichide,domain=adblockstreamtape.*|adblockstrtape.*|adblockstrtech.*|antiadtape.*|shavetape.cash|stape.*|strcloud.*|streamta.*|streamtape.*|streamtapeadblock.*|strtape.*|strtpe.*
 strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*##iframe[src^="data:"]
-/sw.js$script,1p,domain=strcloud.*|streamtape.*|streamta.*|strtape.*|strtpe.*|strtapeadblock.*
+/sw.js$script,~third-party,domain=strcloud.*|streamtape.*|streamta.*|strtape.*|strtpe.*|strtapeadblock.*
 streamadblocker.*##+js(acs, setTimeout, admc)
-*$popup,3p,from=tapewithadblock.org,badfilter
+*$popup,third-party,from=tapewithadblock.org,badfilter
 streamnoads.com##+js(rmnt, script, FingerprintJS)
 ||dzhzp0zlnyoe8.cloudfront.net^
 ! https://github.com/uBlockOrigin/uAssets/issues/20336
@@ -4316,8 +4315,7 @@ jav.guru##.inside-right-sidebar > aside.widget_custom_html
 jav.guru###text-76
 jav.guru###text-92
 jav.guru###text-93
-||abysscdn.com/cdn-cgi/trace$xhr,1p
-
+||abysscdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32450
 ! https://github.com/uBlockOrigin/uAssets/issues/2973
@@ -4325,7 +4323,7 @@ mp4upload.com##+js(aopw, _pop)
 mp4upload.com##+js(aopw, adcashMacros)
 mp4upload.com###lay.lay
 *$script,redirect-rule=noopjs,domain=mp4upload.com
-*$script,3p,denyallow=cloudflare.com|cloudflare.net|fontawesome.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net,domain=mp4upload.com
+*$script,third-party,denyallow=cloudflare.com|cloudflare.net|fontawesome.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net,domain=mp4upload.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/66996
 ! https://github.com/uBlockOrigin/uAssets/issues/17289
 *$script,redirect-rule=noopjs,domain=vidmoly.me|vidmoly.net|vidmoly.to
