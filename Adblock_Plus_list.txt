@@ -4285,7 +4285,7 @@ adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,shavetape.*,s
 strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*##iframe[src^="data:"]
 /sw.js$script,~third-party,domain=strcloud.*|streamtape.*|streamta.*|strtape.*|strtpe.*|strtapeadblock.*
 streamadblocker.*##+js(acs, setTimeout, admc)
-*$popup,third-party,from=tapewithadblock.org,badfilter
+*$popup,third-party,domain=tapewithadblock.org,badfilter
 streamnoads.com##+js(rmnt, script, FingerprintJS)
 ||dzhzp0zlnyoe8.cloudfront.net^
 ! https://github.com/uBlockOrigin/uAssets/issues/20336
