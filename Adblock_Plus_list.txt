@@ -2980,6 +2980,7 @@ shikotch.net##.asmr18
 shikotch.net##div[class^="pc-ads-"]
 shimotsuke.co.jp##.article-body > .slide-wrapper
 shimotsuke.co.jp##.top-banner
+shimotsuke.co.jp##div[id^="jp_soon_"][style]
 shiroutowiki.work##.p-adBox
 shogi-sanpo.com##.abemaBtn
 shogi-sanpo.com##.ad_double
