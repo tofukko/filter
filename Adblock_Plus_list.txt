@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/11/18 15:00
+! 最終更新 2023/11/25 19:29
 !
 
 ! 2023/06/30 サ終
@@ -2497,6 +2497,7 @@ mainichi.jp##.ad-side-1
 mainichi.jp##.ad-article-text
 mainichigahakken.net##.ad-block
 mainichigahakken.net##[id$="_gam"]
+majinai.art##.slide_b
 making.pipa.jp##.NoFrame.RelatedWorkRight
 makitani.net##.ablock
 mamagirl.jp##.p-ad
