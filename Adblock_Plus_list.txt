@@ -148,10 +148,10 @@ poipiku.com##.PcSideBarAd
 twidou.link##.mb-3.mt-4.c-min-height
 twidou.link##.py-4.my-5.container
 twicoco.com,twidou.link##.c-max-width-320
-twihub.me###overlay_area
-twihub.me##.c-max-width-height-350
-twihub.me##.c-min-height-300x100-banner
-twihub.me##.c-min-height-300x100-banner + div.c-min-height
+twihub.net###overlay_area
+twihub.net##.c-max-width-height-350
+twihub.net##.c-min-height-300x100-banner
+twihub.net##.c-min-height-300x100-banner + div.c-min-height
 uraaka.com##.ad-overlay
 uraaka.com##.gallery__interstitial
 uraaka.com##body:style(overflow-y: auto !important;)
