@@ -62,6 +62,10 @@ odaibako.net##.min-h-\[300px\]
 ! 診断メーカー
 ! 維持 https://shindanmaker.com/articles/mzvG4n0y26lyRAVZ
 shindanmaker.com##.ads_rect
+! https://github.com/uBlockOrigin/uAssets/issues/20629
+@@||g.doubleclick.net/tag/js/gpt.js$domain=shindanmaker.com
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=shindanmaker.com
+shindanmaker.com##+js(nano-sib, reward_countdown)
 
 ! Skeb
 ! 維持 https://twitter.com/skeb_jp/status/1621384206223048706
