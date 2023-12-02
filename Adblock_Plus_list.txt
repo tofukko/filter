@@ -3154,6 +3154,7 @@ tvlife.jp##.ad
 tvlife.jp##[id^="tvl_pc_all_"]
 tyoieronews.blog.jp##a[href^="https://www.dlsite.com/"]
 tyoieronews.blog.jp##table[summary="DMM"]
+uma-x.jp##.adsense
 umamusume.net###amabox
 umamusume.net##.ad-inner-pc
 umamusume.net##.ad8
