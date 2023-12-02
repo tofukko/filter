@@ -815,6 +815,7 @@ _ads.js.
 ||crooz.jp^*/popup.js$domain=blog.crooz.jp
 ||ctv.co.jp/adjust/$subdocument
 ||cyclingtime.com/adimg/
+||dabun.net/js/addAmz.js
 ||daily.jp/Koukoku/
 ||dailynewsonline.jp/skin/frontend/js/g_ad.js?
 ||ddd-smart.net/ad/
