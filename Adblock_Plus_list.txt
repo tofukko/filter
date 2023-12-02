@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/11/25 19:29
+! 最終更新 2023/12/02 10:33
 !
 
 ! 2023/06/30 サ終
@@ -3835,7 +3835,7 @@ futaman.futabanet.jp##.ad-billboard
 gaugau.futabanet.jp##.ad-billboard
 gaugau.futabanet.jp##._popIn_recommend_header
 gaugau.futabanet.jp##.r-ad-rectangle
-||reader.futabanet.jp/parts/gamoverlay.js
+||gaugau.futabanet.jp/sr/parts/gamoverlay.js
 reader.futabanet.jp##._popIn_recommend_header
 reader.futabanet.jp##.r-ad-rectangle
 
