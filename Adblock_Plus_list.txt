@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/12/02 10:33
+! 最終更新 2023/12/04 23:26
 !
 
 ! 2023/06/30 サ終
@@ -1320,7 +1320,6 @@ _analytics.js?
 ||analyzer.wox.cc^
 ||analyzer2.curecos.com^
 ||bc.nhk.jp^
-||bing.com/fd/ls/
 ||bunshun.jp/oo/
 ||c.microsoft.com^
 ||cnn.co.jp/js/aclick.js
@@ -1659,7 +1658,6 @@ bike-news.jp##.left.box300
 bikyakudaimaou.com###first > .plugin1_outline:nth-of-type(-n+2)
 bikyakudaimaou.com#?##main > .plugin3_outline:-abp-has(> .plugin3_title)
 bikyakudaimaou.com###second > .plugin2_outline:nth-of-type(1)
-bing.com##.b_ad:remove()
 bioweather.net##.ad
 bizspa.jp###innerAdsense
 bizspa.jp##.ad-wrap
@@ -3535,6 +3533,35 @@ news.biglobe.ne.jp###gadsOverlayUnit
 weather.biglobe.ne.jp###header:style(height: 60px !important;)
 ! https://github.com/tofukko/filter/issues/70
 @@||yads.c.yimg.jp/js/yads.js$script,domain=news.biglobe.ne.jp
+
+! --- bing.com --- !
+||bing.com/fd/ls/l?IG=
+||bing.com/fd/ls/lsp.aspx
+! https://github.com/uBlockOrigin/uAssets/issues/5724
+! https://github.com/uBlockOrigin/uBlock-issues/issues/661
+! https://www.reddit.com/r/uBlockOrigin/comments/doxgp8/bing_ads/
+! https://github.com/uBlockOrigin/uAssets/issues/6886#issuecomment-608605317
+! https://github.com/uBlockOrigin/uAssets/issues/12255
+! https://github.com/uBlockOrigin/uAssets/issues/12505
+bing.com##[onclick^="ad_choice"]:upward(3)
+bing.com###b_results > li[style]:not([class])
+bing.com#?#.b_algo:has(.b_caption>*:matches-css-before(display:inline-block))
+bing.com##.b_algo:has(.b_textAdTitleLink)
+bing.com##.ins_exp.tds
+bing.com#@#li.b_adBottom
+bing.com#@#.b_ad
+bing.com#@#.b_adLastChild
+bing.com#@#.pa_sb
+bing.com##.b_adLastChild:style(position: absolute !important; top: -9999px !important;)
+bing.com##.b_ad:style(position: absolute !important; top: -9999px !important;)
+bing.com##.pa_sb:style(position: absolute !important; top: -9999px !important;)
+bing.com##.b_restorableLink:remove()
+! https://github.com/AdguardTeam/AdguardFilters/issues/136118
+bing.com##.tob_calcontainer > .slide:has(.rtb_ad_caritem_mvtr)
+! https://github.com/uBlockOrigin/uAssets/issues/16791
+bing.com##[mv-data^="Ads"]:has([href*="aclick"]):upward(.b_overlay)
+bing.com###pole:has-text(/Ads|Anzeigen/)
+bing.com##.ra_car_label:has-text(/Ads|Anzeigen/)
 
 ! --- bloomberg.co.jp --- !
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
