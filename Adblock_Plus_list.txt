@@ -1909,6 +1909,8 @@ ehime-np.co.jp##.pr_sq_box
 ehime-np.co.jp##.superbnr_box
 ehonnavi.net##table[width="300"][height="260"]
 eigobu.jp##.mp-Article_Ad
+ekitan.com###div-transit_access_result_summary_bottom
+ekitan.com##.bnr-item
 ekitan.com##.na-bottom-wrap
 ekitan.com##.sidebar-ad-item
 ekitan.com##[class^="ek-forward-display-l_middle_"][style="margin:0 auto; width:728px;"]
