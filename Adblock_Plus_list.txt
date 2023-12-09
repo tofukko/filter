@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/12/06 15:53
+! 最終更新 2023/12/09 21:49
 !
 
 ! 2023/06/30 サ終
@@ -1620,8 +1620,6 @@ automaton-media.com##.td-a-rec
 ! jack
 automaton-media.com##body:style(background: none!important)
 av-photograph.com##.wakupr
-avtokutei.com###st_custom_html_widget-20
-avtokutei.com###st_custom_html_widget-8
 b.ibbs.info###carousel-banner
 baby-calendar.jp##.bnr
 baby-calendar.jp##[id^="JP_BABY_"]
@@ -3511,6 +3509,12 @@ aucfan.com###btmInfoWrap
 aucfan.com###kanrenItems
 aucfan.com###skyscraperAds
 aucfan.com##[class^="showcaseNativeAd"]
+
+! --- avtokutei.com --- !
+||avtokutei.com/wp-content/uploads/fanza-
+||dmm.co.jp/live/api/-/online-banner/?af_id=$third-party,domain=~dmm.com
+avtokutei.com##.post-widgets-top
+avtokutei.com##.post-widgets-bottom
 
 ! --- benesse.ne.jp --- !
 benesse.ne.jp##[id^="div-M_MD_"][id*="_fluid_"]
