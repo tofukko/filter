@@ -2382,6 +2382,7 @@ kamigame.jp###pc-overlay-base
 kamigame.jp##[id^="ad_"][id$="_wrapper"]
 kamigame.jp##[id^="ad_right_"]
 kamigame.jp##.ad
+kamikouryaku.com###sticky-ads
 kanaloco.jp##.ad
 kanaloco.jp##.blk-bnr02
 kanaloco.jp##.bnr01
@@ -2560,6 +2561,10 @@ mbs.jp##.ad-component
 mcsg.co.jp##p[style="color: #666; text-align: center;"]
 mdpr.jp##.c-adBottomOverlay
 meaning.jp##.l-contentsSub > .u-mb-10
+media.finasee.jp##div[style="width: 100%; min-height:90px; margin: 0 auto;"]
+media.finasee.jp##div[style="width: 100%; min-height:250px; margin: 0 auto;"]
+media.finasee.jp##.m-articles__side-articles-ranking-list-item[style="display: block;"]
+media.finasee.jp#?#.m-latest-list-item.p-wide:-abp-has(> div[style="width: 100%; min-height:152px; margin: 0 auto;"])
 medibang.com###content:style(padding-bottom: 394px !important;)
 medibang.com##.asTimelineStickyAd > .adBlock__pc
 medibang.com##.contents-footer-bnr
@@ -5485,6 +5490,9 @@ minigame.aeriagames.jp###zumba-ad
 minigame.aeriagames.jp##+js(nano-stb, aeriaGamesAdCountDown)
 @@||minigame.aeriagames.jp*/ae-tpgs-$domain=minigame.aeriagames.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=minigame.aeriagames.jp
+
+!azerion
+yjgames.gamedistribution.com#?#.MuiPaper-elevation.MuiPaper-rounded:-abp-has(> div[class^="css-"] > div[id^="idhb-"])
 
 !SUCCESS
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=y.honkakuha.success-games.net
