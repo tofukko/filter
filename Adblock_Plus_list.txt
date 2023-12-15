@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/12/09 21:49
+! 最終更新 2023/12/15 14:24
 !
 
 ! 2023/06/30 サ終
@@ -1580,6 +1580,7 @@ as-web.jp###imgUpperRectangle
 as-web.jp###topbillboard
 as-web.jp##.p-bannar_payment_old
 ascii2d.net##.com
+ascii2d.net##[class="p-t-1"]
 ascii.jp##.ad
 ascii.jp##.ad_gam
 ! jack
@@ -2437,6 +2438,7 @@ kokunanmonomousu.com##.Ads__under--permalinks
 kotaro269.com##.ad-box
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 kotobank.jp##div[class$="word-ad"]
+kouryakuwiki.com##.googleads
 ktkm.net###custom_html-43
 kumiko-jp.com##div[class*="fourm"]
 kurashi-no.jp##.p-article__nro
@@ -4309,6 +4311,10 @@ kissanime.digital##main + script + div[class]
 kissanime.*##+js(abort-current-script, JSON.parse, break;case $.)
 kissanime.*##+js(abort-current-script, String.fromCharCode, /btoa|break/)
 vanfem.com##+js(abort-on-property-read, __Y)
+
+! https://github.com/uBlockOrigin/uAssets/issues/21362
+! https://github.com/AdguardTeam/AdguardFilters/issues/168493
+kissanime.*##+js(no-xhr-if, googlesyndication)
 
 ! kissanime. nz scammy 3p scripts
 kissanime.*###upgrade_pop
