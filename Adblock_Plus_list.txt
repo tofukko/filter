@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/12/17 18:57
+! 最終更新 2023/12/18 11:58
 !
 
 ! 2023/06/30 サ終
@@ -1046,6 +1046,9 @@ _analytics.js?
 /omn-js/*
 /omniture/*
 /omniture_
+/oo/*/l.js
+/oo/*/lsync.js
+/oo/cl*.js?rd=
 /php-stats.js.php
 /piwik.js
 /piwik.php
@@ -1320,7 +1323,6 @@ _analytics.js?
 ||analyzer.wox.cc^
 ||analyzer2.curecos.com^
 ||bc.nhk.jp^
-||bunshun.jp/oo/
 ||c.microsoft.com^
 ||cnn.co.jp/js/aclick.js
 ||cnn.co.jp/js/ga_social_tracking.js
@@ -1328,13 +1330,11 @@ _analytics.js?
 ||collector.githubapp.com^
 ||comicnettai.com/js/js-analytics.js
 ||counter-hosting.*/counter.php?
-||diamond.jp/oo/
 ||etoyota.net/include/js/measurementBeacon.js
 ||facebook.com*/impression.php
 ||facebook.com/xti.php?
 ||github.com/_private/browser/stats
 ||gnavi.co.jp/analysis/
-||ismedia.jp/oo/
 ||kadokawagakugei.com/js/ga2.js
 ||kooss.com/cgi-usr/accl/lkz.cgi?
 ||milmil.cc/sys/asiato.cgi?
@@ -1349,7 +1349,6 @@ _analytics.js?
 ||so-zou.jp/js/ga.js
 ||smp.sankei.co.jp^
 ||square-enix.com/sitestratos/ss_squareenix.js
-||toyokeizai.net/oo/
 ||tv-asahi.co.jp/common/js/analysis*.js
 ||wikimedia.org/geoiplookup
 ||zokugo-dict.com^*/ac.js
@@ -3871,7 +3870,6 @@ dev.ftbucket.info##body > font[size="2"]:first-child
 futabaforest.net##[class^="c11-"]
 
 ! --- futabanet.jp --- !
-||futabanet.jp/oo/
 bravo-m.futabanet.jp##.m-ad-rectangle
 futaman.futabanet.jp##.ad-billboard
 gaugau.futabanet.jp##.ad-billboard
