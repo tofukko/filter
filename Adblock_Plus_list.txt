@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2023/12/18 11:58
+! 最終更新 2024/01/09
 !
 
 ! 2023/06/30 サ終
@@ -743,7 +743,6 @@ _ads.js.
 ||e-nls.com/pict_af/
 ||free-video-movie.com^
 ||gcolle.net/v1/blogparts.js
-||gunosy.com/adnet/
 ||hogei.info^
 ||i-section.net/rakuten_ranklet/$third-party
 ||i-section.net/ranklet/$third-party
@@ -943,6 +942,7 @@ _ads.js.
 ||xn--tckxa5c423yemxd.shop/dt/$subdocument,domain=2chnewsblog.blog.jp
 ||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
+||yanmaga.jp/viewer/banner.html
 ||yomoyama-bbs.jp/image/ad_images/
 ||zerosumonline.com/adstir_
 ||zozo.jp/common/js/ads-inner-tracking.js?
@@ -2864,6 +2864,8 @@ pokemon-matome.net##[id^="container_in"]:style(margin-top: 240px !important;)
 poki.jp##[class^="Advertisement__"]
 popeyemagazine.jp##.ad
 pormo.me##.ads-text
+posemaniacs.com##.h-\[250px\].w-\[300px\]
+posemaniacs.com##.tabletL\:w-\[728px\].h-\[100px\]
 pouchs.jp##[style^="height:90px;width:728px;"]
 prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
@@ -2886,6 +2888,7 @@ qiita.com##[id^=logly-lif]:upward(2)
 qoly.jp##.ad
 qoly.jp##.banner
 qoly.jp##div[style="height:90px; width:728px;"]
+quora.com##.PageContentsLayout___StyledBox-d2uxks-0 > .q-box > .q-sticky > .qu-pb--medium
 rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
 rakukan.net##.article__title--ad-left
@@ -2920,6 +2923,7 @@ renso-ruigo.com##.ad-posi1
 renso-ruigo.com##.content-banner
 renso-ruigo.com##.sidebar-box3:first-child
 repsoku.net###ad
+resize-video.com###desktop-ad-top
 retro-gamer.jp##[id^="text-"] > .textwidget a[href*="amazon.co.jp"],[id^="text-"] > .textwidget a[href*="amzn.to"]
 retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
@@ -3081,6 +3085,7 @@ tabi-labo.com##.dfp-article
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 tagindex.com###ads_top
 tagindex.com###post
+taishu.jp##body:style(min-width: 1100px !important;)
 taittsuu.com#?##posts > div.post-wrap > a[href*="_ad_"][target="_blank"]:upward(1)
 taskle.jp##.ad
 taskle.jp##.ad-widget
