@@ -1824,8 +1824,8 @@ cyclesports.jp##.banner01
 cyclesports.jp##.feature
 cyclesports.jp##.sideBanner
 cyclesports.jp##.pr
-cyclowired.jp##.block.block-block.clearfix
-cyclowired.jp##.field-name-field-amazon-product1
+cyclowired.jp##.field-amazon-product1	
+cyclowired.jp##div[id^="block-banner"]
 cyzo.com###ad_rB
 cyzo.com###ad_rC
 cyzo.com###ad_rD
