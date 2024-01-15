@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/01/09
+! 最終更新 2024/01/15 14:24
 !
 
 ! 2023/06/30 サ終
@@ -2371,9 +2371,6 @@ kakomonn.com##div[class^=ctr_ad_]
 kakomonn.com##div[class^="advertisement"]
 kakomonn.com#?#li:-abp-has(> .centerbody01_04)
 kaku-navi.com##[class^="google_ad_kanji_"]
-kakuba.jp##.creative-grid__item:not([data-id])
-kakuba.jp##.pr-banner-img > a[href^="https://brainmagicproduct.com/orbital2-sterna/"]
-kakuba.jp##[class^="ad-"][class$="_wrapper"]
 kakuge.com##.ad
 kakuyomu.jp##[class*="widget-ad-"]
 kamigame.jp###ad_overlay
