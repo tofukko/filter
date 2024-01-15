@@ -6815,6 +6815,12 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 ! nazolog.com
 	!nazolog.com#@#.adsbygoogle
 
+! pks.raenonx.cc
+pks.raenonx.cc##.bg-red-500\/50
+pks.raenonx.cc##.lg\:h-28.h-36
+pks.raenonx.cc##.lg\:min-h-\[12rem\].min-h-\[15rem\]
+pks.raenonx.cc##.w-full.info-section-opaque.fixed.bottom-0.z-nav
+
 ! puzzle-ch.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/152033
 puzzle-ch.com##+js(nostif, getComputedStyle)
