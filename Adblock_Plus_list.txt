@@ -1837,6 +1837,11 @@ daily.co.jp##.pnl-aside
 daily.co.jp##aside.add > div
 daily.co.jp##aside.add[style^="min-height:"]
 daily.co.jp##[id^="browsi_adWrapper_"]
+! https://www.daily.co.jp/umaya/
+daily.co.jp##.aside-mv-ad
+daily.co.jp##.aside-side-ad
+daily.co.jp##.aside-ad
+daily.co.jp##.aside-mv-lower-ad
 dailynewsonline.jp##.adArea
 dailyshincho.jp##[class^="c-box-ad"]
 dan-ball.jp##[class^="ad_div_"]
@@ -2372,6 +2377,7 @@ kakomonn.com##div[class^="advertisement"]
 kakomonn.com#?#li:-abp-has(> .centerbody01_04)
 kaku-navi.com##[class^="google_ad_kanji_"]
 kakuge.com##.ad
+kakuyomu.jp#?#div[class^=" Gap_size"] > div[class^="Layout_"]:-abp-has(> div[class^="Ad_ad_"])
 kakuyomu.jp##[class*="widget-ad-"]
 kamigame.jp###ad_overlay
 kamigame.jp###ad_footer
@@ -6656,6 +6662,9 @@ jav380.com###playertopads
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62482
 animenew.be###ad:style(height: 1px !important;)
 
+! asobeans.jp,warau.jp
+asobeans.jp,warau.jp##div[class^="sw-AdNetWork"]
+
 ! bethaniebu.com
 bethaniebu.com##+js(abort-on-stack-trace, document.getElementsByTagName, adsBlocked)
 
@@ -6743,6 +6752,11 @@ investing.com##div[class^="ad_"]
 investing.com###ad1
 investing.com##.desktop\:bg-background-default > .h-\[333px\]
 investing.com##div[data-test="ad-slot-visible"]
+
+! iwb.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/159931
+iwb.jp##+js(nosiif, getComputedStyle)
+iwb.jp##+js(nostif, getComputedStyle)
 
 ! kledgeb.blogspot.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/137131
