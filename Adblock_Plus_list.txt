@@ -4508,9 +4508,11 @@ m4ex.com##.kadomaru.move
 ||your-notice.com^
 ||zebraicrudista.com^
 mangagun.net##+js(nowoif)
-weloma.art##+js(nowoif)
-||weloma.art^*/pop.js
-welovemanga.one##+js(nowoif)
+weloma.*##+js(nowoif)
+weloma.*##+js(aopw, document.ready)
+weloma.*##+js(acs, document.createElement, /l\.parentNode\.insertBefore\(s/)
+/app/manga/themes/*/ads/pop.js
+welovemanga.one##+js(aopw, document.ready)
 ||jiordgxkpglzm.com^
 ||wqjbldnnceroue.com^
 ||d13k7prax1yi04.cloudfront.net^
