@@ -829,7 +829,6 @@ _ads.js.
 ||eegg.*/js/delay_ad.js?
 ||egone.org/js/amazon_
 ||enoge.org/js/amazon_
-||erologz.com/campaign
 ||eromanga-life.com/life.$subdocument
 ||estar.jp/assets/js/ad/
 ||estar.jp/page/ad/
@@ -1928,6 +1927,9 @@ entamega.com###ad_right-column01
 entnavi.com##.doublerec_css
 eow.alc.co.jp##.box-ad
 eow.alc.co.jp##.header-ad
+erologz.com##.bann
+erologz.com##.bann + .flex-container
+erologz.com##.bann + .flex-container + .button010
 eparet.net##div[style="width:300px;height:250px;float:left;border:#ffaaaa double 3px;margin:0px auto;"]
 eparet.net##div[style="width:620px;float:right;"]:style(float: none !important;)
 epub-tw.com##.ad
