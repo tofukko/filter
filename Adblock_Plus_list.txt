@@ -5469,6 +5469,7 @@ mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsSideColumn)
 map.yahoo.co.jp##.SS--north
 map.yahoo.co.jp##.SS--south
+map.yahoo.co.jp##.App__contentsMap[style="height: calc(100% - 50px);"]:style(height: 100% !important;)
 movies.yahoo.co.jp##.ad
 movies.yahoo.co.jp###ad-lrec
 movies.yahoo.co.jp##[class^="overlay-ad_"]
