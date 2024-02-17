@@ -3233,6 +3233,9 @@ webllica.com###headlinkad
 webllica.com##.sponsored_link
 webliker.info##.p-adsense-anchor
 webun.jp##.m-ad
+webword.jp###adtop
+webword.jp###adtoplabel
+webword.jp###adcenter_box
 weeklybcn.com##.ad-wrapper
 weeklybcn.com##.footer__pr
 weeklybcn.com##.section-ad:not(.side_bnr)
