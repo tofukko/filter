@@ -2798,6 +2798,7 @@ orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
 otakei.otakuma.net###amazon-article
+otakei.otakuma.net###banner-article
 otakei.otakuma.net##[class^="ad_side_widget_"]
 otapol.com###entryAdAmazonArea
 otapol.com##.sideAd
@@ -6038,7 +6039,7 @@ avgle.com##img[src*=".php"]
 avgle.com##+js(nowebrtc)
 
 ! --- jav系 --- !
-! 気が向いたらやる
+||pemsrv.com^
 
 ! --- ashemaletube.com --- !
 ||ashemaletube.com/ast/b/
