@@ -4407,6 +4407,17 @@ vidmoly.*###dos_vlock
 ! --- kyokugen.info --- !
 ##.ad_desc
 
+! --- leaked.jp --- !
+||leaked.jp/pc-side-aztool-
+leaked.jp###execphp-44 > .execphpwidget > div[style^="margin:"]:nth-last-child(-n+2)
+leaked.jp##[class*="-widgets-top"]
+leaked.jp##.age
+leaked.jp##.kanren
+leaked.jp##.side-topad
+leaked.jp###scrollad
+leaked.jp###execphp-45
+leaked.jp###execphp-7
+
 ! --- lifehacker.jp --- !
 ||ad2iction.com^$third-party
 ||costory.media-assistant.tech/app/index.html$third-party
