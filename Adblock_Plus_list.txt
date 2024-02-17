@@ -2586,6 +2586,7 @@ meitou.info##[href^="https://amzn.to/"] + small
 mens-ex.jp##.m-tieupRecommend
 mens-modern.jp##[style="height:90px; width:728px;"]
 mens-modern.jp##[style="min-height: 320px;"]
+meow.fan##p[style="text-align: center;"]
 mercari.com#?#div[style^="padding-top"] > div[class^="_container_"]:-abp-has(> div[class^="_wrapped-about-ads-link"])
 merkmal-biz.jp##aside.box[style="min-height:900px"]
 mi-mollet.com###MM_PC_rectangle_1st
