@@ -6768,8 +6768,9 @@ investing.com##div[data-test="ad-slot-visible"]
 
 ! iwb.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159931
-iwb.jp##+js(nosiif, getComputedStyle)
-iwb.jp##+js(nostif, getComputedStyle)
+iwb.jp##+js(alert-buster)
+iwb.jp##+js(abort-on-property-read, onload)
+iwb.jp##+js(noeval-if, /chp_?ad/)
 
 ! kledgeb.blogspot.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/137131
