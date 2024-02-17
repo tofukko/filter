@@ -2325,6 +2325,7 @@ joker004.blog.fc2.com##[style^="width:728px;height:90px"]
 jp.wazap.com##.bodyFootBanner
 jp.wazap.com##.fullBanner
 jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
+jp.wazap.com##.pr-ranking
 jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jpnumber.com###sponsor-link
 jpnumber.com##.adsline
