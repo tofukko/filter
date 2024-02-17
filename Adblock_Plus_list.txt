@@ -3459,6 +3459,8 @@ allabout.co.jp##.aa_side-rakuten-search
 allabout.co.jp##.aa_rec-box
 allabout.co.jp##.rakuten
 allabout.co.jp##.sys-ga-event-affiliate
+allabout.co.jp###sys-pc-inArticleREC
+allabout.co.jp##.shuffle-list-item
 allabout.co.jp##div[data-tracking-zone="modules-common-adUpperAfc"]
 allabout.co.jp##div[data-tracking-zone^="modules-content-readTogether-parts-adPlacement"]
 allabout.co.jp##div[data-tracking-zone="parts-common-adFirstBanner"]
