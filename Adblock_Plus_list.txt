@@ -3354,6 +3354,10 @@ zyuken.net##.SimpleBox.PaddingRight10Left10[style*="margin-bottom:5px;"]
 ! https://グラビア画像.com/
 xn--cck1a7gsd645rnx7b.com##.container > .navbar-header:style(float: none !important;)
 xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//adframe.kohsoku.info/"])
+! https://攻略1.com/
+xn--1-td6bm19b.com###space1
+xn--1-td6bm19b.com###space2
+xn--1-td6bm19b.com###space3
 
 ! --- @japan --- !
 /clog_ad.js
