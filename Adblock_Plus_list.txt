@@ -4552,6 +4552,7 @@ welovemanga.one##+js(aopw, document.ready)
 ||visariomedia.com^
 rawkuma.com##+js(aeld, readystatechange, document.removeEventListener)
 rawkuma.com##+js(acs, parseInt, break;case $.)
+lovemangaraw.net,mangaraw.asia###jp-smart-banner
 
 ! --- milky エロムビ ？ --- !
 ! キャラメル喫茶
