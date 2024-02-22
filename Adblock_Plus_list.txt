@@ -1792,8 +1792,6 @@ coliss.com###recommend
 coliss.com###sponsors
 coliss.com###sponsorsTop
 color-sample.com##.ads
-comic-walker.com###jump_ad_banner
-comic-walker.com###right_top_banner
 comici.jp##.a-banner-box
 conveni-now.com,iqos-laboratory.com##div[class^="ads-tag"]
 cookien.com##.pr_content
