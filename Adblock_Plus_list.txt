@@ -1928,6 +1928,9 @@ eow.alc.co.jp##.header-ad
 erologz.com##.bann
 erologz.com##.bann + .flex-container
 erologz.com##.bann + .flex-container + .button010
+erologz.com##.bann + .ssh2
+erologz.com##.bann + .ssh2 + .flex-container
+erologz.com##.bann + .ssh2 + .flex-container + .button010
 eparet.net##div[style="width:300px;height:250px;float:left;border:#ffaaaa double 3px;margin:0px auto;"]
 eparet.net##div[style="width:620px;float:right;"]:style(float: none !important;)
 epub-tw.com##.ad
