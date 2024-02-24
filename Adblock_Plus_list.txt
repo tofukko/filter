@@ -2697,6 +2697,7 @@ nengaya.net##[class^=entryadwrapper]
 net-rabo.work##.ad
 newero1.blog.fc2.com###sub-ad
 newero1.blog.fc2.com##.pompass
+newmatosoku.com##.waku-zentai:has(> div:only-child > span)
 news.2chblog.jp###side-r:style(position: static!important;)
 news.2chblog.jp##.article-body-inner > table[width="750"][height="320"]
 news.2chblog.jp##.kjs
