@@ -3515,6 +3515,8 @@ www.asahi.com##.AdMod
 www.asahi.com##.p-rectangleAd
 globe.asahi.com##.module-content-footer__ad
 globe.asahi.com##.module-side-notice
+globe.asahi.com##.module-side-ad
+globe.asahi.com##.module-top-ad
 	!全体的に
 @@||asahi.com/ad/$stylesheet,font,image,script,domain=asahi.com
 	!全部
