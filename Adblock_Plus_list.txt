@@ -164,7 +164,7 @@ uraaka.com##div[class^="back-ad_"]
 uraaka.com##div[class^="overlay-ad_"]
 
 ! 裏ハメ
-urahame.com#?#h2.MuiStack-root > div.MuiStack-root:has(> div.MuiBox-root > script[src^="https://adtest.pages.dev"])
+urahame.com#?#h2.MuiStack-root > div.MuiStack-root:-abp-has(> div.MuiBox-root > script[src^="https://adtest.pages.dev"])
 
 ! Skebetter
 ! 不明
@@ -2158,8 +2158,8 @@ hamlife.jp###media_image-2
 hamlife.jp###text-28
 hamlife.jp##.parallel
 hamlife.jp##.widget-right.widget_sp_image:not(#widget_sp_image-60)
-hamlife.jp##.widget-right.widget_text:has(a[href^="https://www.amazon.co.jp"])
-hamlife.jp##.widget_text:has(iframe[src^="//rcm-fe.amazon-adsystem.com"])
+hamlife.jp#?#.widget-right.widget_text:-abp-has(a[href^="https://www.amazon.co.jp"])
+hamlife.jp#?#.widget_text:-abp-has(iframe[src^="//rcm-fe.amazon-adsystem.com"])
 hanako.tokyo##.ad-banner
 hanakomama.jp##.ad-banner
 happycampus.co.jp##div[style="width: 100%; height: 90px; clear: both;"]
@@ -2359,7 +2359,7 @@ kabu-sokuhou.com###ResSearchAdBottom
 kabu-sokuhou.com###sub_banner_top
 kabu-sokuhou.com##.sponsoredlink
 kabu-sokuhou.com##.topadba
-kabuyoho.ifis.co.jp###topix > .context:has(> #ad_centents_center)
+kabuyoho.ifis.co.jp#?##topix > .context:-abp-has(> #ad_centents_center)
 kabuyoho.ifis.co.jp##div[id^="ad_centents"]
 kabuyoho.ifis.co.jp##div[style="width:300px; height:250px;"]
 kabutan.jp##.acrank_top_news1 > .visited1 > tbody > tr:nth-of-type(6)
@@ -2504,7 +2504,7 @@ macsoft.jp##.side-topad
 maho.jp##.Ad
 mag.japaaan.com##.after_go_next
 mag.japaaan.com##.area_a
-mag2.com##.format-standard:has(> .ad-disclosure_chumoku)
+mag2.com#?#.format-standard:-abp-has(> .ad-disclosure_chumoku)
 mag2.com##.pf_relatedpost
 mag2.com##.share-ranking-ad
 mag2.com##div[class*="ad-h"]
@@ -2698,7 +2698,7 @@ nengaya.net##[class^=entryadwrapper]
 net-rabo.work##.ad
 newero1.blog.fc2.com###sub-ad
 newero1.blog.fc2.com##.pompass
-newmatosoku.com##.waku-zentai:has(> div:only-child > span)
+newmatosoku.com#?#.waku-zentai:-abp-has(> div:only-child > span)
 news.2chblog.jp###side-r:style(position: static!important;)
 news.2chblog.jp##.article-body-inner > table[width="750"][height="320"]
 news.2chblog.jp##.kjs
@@ -2896,7 +2896,7 @@ punyu.com##.top_ad
 puyogo.app##.pr-twitter
 python.jp##.affi_title
 python.jp##.bottom-container
-qiita.com##.p-items_main > div[class^="css-"]:has(div[id^="dfp-slot-"])
+qiita.com#?#.p-items_main > div[class^="css-"]:-abp-has(div[id^="dfp-slot-"])
 qiita.com#?#div[id^="New2HomeTrendPage-"] > div[class] > div[class] > div[class]:-abp-has(> div#trend-side-ad:only-child)
 qiita.com##[id^="dfp-slot-"]
 qiita.com#?#[class^="css-"]:-abp-has(> [id$="-side-ad"])
@@ -3027,7 +3027,7 @@ sin-space.com##div[class^="insentence-adsense-"]
 sirabee.com##[data-newsy-ad-device]
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
-sitebk.com##.nest-h3:has(> .productWrap)
+sitebk.com#?#.nest-h3:-abp-has(> .productWrap)
 sitebk.com##.side > nav > ol > li:has-text(このページを見ている人におすすめの商品)
 sk-hanbai.com##.adsense
 sk-seisan.com##.adsense
@@ -3594,7 +3594,7 @@ weather.biglobe.ne.jp###header:style(height: 60px !important;)
 bing.com##[onclick^="ad_choice"]:upward(3)
 bing.com###b_results > li[style]:not([class])
 bing.com#?#.b_algo:has(.b_caption>*:matches-css-before(display:inline-block))
-bing.com##.b_algo:has(.b_textAdTitleLink)
+bing.com#?#.b_algo:-abp-has(.b_textAdTitleLink)
 bing.com##.ins_exp.tds
 bing.com#@#li.b_adBottom
 bing.com#@#.b_ad
@@ -3605,7 +3605,7 @@ bing.com##.b_ad:style(position: absolute !important; top: -9999px !important;)
 bing.com##.pa_sb:style(position: absolute !important; top: -9999px !important;)
 bing.com##.b_restorableLink:remove()
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136118
-bing.com##.tob_calcontainer > .slide:has(.rtb_ad_caritem_mvtr)
+bing.com#?#.tob_calcontainer > .slide:-abp-has(.rtb_ad_caritem_mvtr)
 ! https://github.com/uBlockOrigin/uAssets/issues/16791
 bing.com##[mv-data^="Ads"]:has([href*="aclick"]):upward(.b_overlay)
 bing.com###pole:has-text(/Ads|Anzeigen/)
@@ -3634,7 +3634,7 @@ bokete.jp##._popIn_infinite_page > li:style(float: left !important;)
 
 ! --- buttobi.net --- !
 ||sea.pakapeko.com^
-adultlog.net,btblog.jp##.story_box:has(> tbody > tr > td[valign="middle"])
+adultlog.net,btblog.jp#?#.story_box:-abp-has(> tbody > tr > td[valign="middle"])
 buttobi.net##div[style="position: relative; z-index:255;"]
 
 ! --- carview.co.jp -- !
