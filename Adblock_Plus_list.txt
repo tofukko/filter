@@ -1730,6 +1730,7 @@ cazual.tv##[id^="search-"] + [id^="text-"]
 cgworld.jp##.banner
 cgworld.jp##.banner_special_content
 chanto.jp.net###cha_pc_all_header
+chanto.jp.net##div[style*="height: 250px"]
 charmer-media.com,elife-media.jp,firststyle.jp,frequ.jp,miima.jp,platabi.com,trip-partner.jp,vivre-media.jp##.my-1
 chat.shalove.net##.ad
 chat.shalove.net,skypemeet.net##.right_cont
