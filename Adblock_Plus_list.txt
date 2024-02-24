@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/02/22 10:28
+! 最終更新 2024/02/24 13:39
 !
 
 ! 2023/06/30 サ終
@@ -6035,15 +6035,15 @@ xhamster.*##.video-thumb[class*="__look-like-item"]
 
 
 ! --- xvideos.com --- !
-xvideos.com,xvideos2.com###video-sponsor-links
-xvideos.com,xvideos2.com###video-ad
-xvideos.com,xvideos2.com###video-ad + div[class]
-xvideos.com,xvideos2.com##.banner-game
-xvideos.com,xvideos2.com##.exo-ad-ins-container
-xvideos.com,xvideos2.com##.remove-ads
-xvideos.com,xvideos2.com##.videoad-title
-xvideos.com,xvideos2.com##+js(aopw, openpop)
-xvideos.com,xvideos2.com##+js(nowoif)
+xvideos.*###ad-footer
+xvideos.com###video-sponsor-links
+xvideos.com###video-ad
+xvideos.com###video-ad + div[class]
+xvideos.com##.remove-ads
+xvideos.com##.thumb-ad
+xvideos.com##.videoad-title
+xvideos.com##+js(nowoif)
+/js/static/header/sda/ppsuma*.js$script
 
 ! --- avgle.com --- !
 *$3p,popup,domain=avgle.com
