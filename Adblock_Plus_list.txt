@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/02/24 16:25
+! 最終更新 2024/03/10 21:20
 !
 
 ! 2023/06/30 サ終
@@ -1483,6 +1483,8 @@ _analytics.js?
 4shared.com##.sideRekl
 55sedori.com##.ad
 5chan.jp###bbs_advertise_header
+8mato.jp###page_bottom_fixed
+8mato.jp##.ads
 9db.jp#?##container > div#footer:-abp-has(> div > ins.adsbygoogle):style(display: none !important;)
 9db.jp###contents:style(margin-bottom: 0 !important;)
 9ketsuki.info##.manual_ads
@@ -3056,6 +3058,8 @@ spaia.jp##.ad-wrapper
 sponichi.co.jp##[data-component="ad-basic"]
 sponichi.co.jp##[id^=space_shopping_]
 sponichi.co.jp##[style="width:298px;height:230px;border:1px #CCCCCC solid;margin-top:7px;"]
+sportingnews.com##.header-advertising
+sportingnews.com##.top-mpu-container
 sportiva.shueisha.co.jp##[style="width: 728px; height: 90px;"]
 squallchannel.com##[class^="ad_space"]
 startpage.com###spon_links
@@ -6502,9 +6506,11 @@ etude000.com##.top-ad
 @@||googletagmanager.com/gtm.js$script,domain=okwave.jp
 @@||google-analytics.com/analytics.js$script,domain=okwave.jp
 	! https://jbbs.shitaraba.net/bbs/read.cgi/internet/25463/1652115193/259
-@@||googletagmanager.com/gtm.js$domain=onlineshop.ocn.ne.jp
+@@||googletagmanager.com/gtm.js$script,domain=onlineshop.ocn.ne.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/173780
+@@||googletagmanager.com/gtm.js$script,domain=sportingnews.com
 	! https://github.com/hirorpt/filters/commit/5b41ca5e9a58de697459ef5c98132f131e887c15
 @@||googletagmanager.com/gtm.js$script,domain=stage.parco.jp
 	! https://github.com/tofukko/filter/issues/40
