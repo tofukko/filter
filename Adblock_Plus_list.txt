@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/03/10 21:20
+! 最終更新 2024/03/28 15:25
 !
 
 ! 2023/06/30 サ終
@@ -2029,6 +2029,8 @@ fujossy.jp##.story__header-adbox
 fukuishimbun.co.jp##.admeasure
 full-count.jp##.l-sidebar-ads
 full-count.jp##.s-entry-ads
+funny-ai.com##.main-frp-ads
+funny-ai.com##.main-header-ads
 gaccom.jp##.ads
 gahalog.2chblog.jp###sidebar:style(position: static !important;)
 gakuryou.net##[id^="ADw"]
@@ -2255,10 +2257,10 @@ inter-edu.com##.im_list
 inter-edu.com##.list_school_banner_read
 inter-edu.com##.res-banner-area
 inter-edu.com##.thread-box > [id^="msg-"]
+ipentec.com##.AdsContainerDocumentTop
+iphone-mania.jp##.single_pr_ad_all
 iqossan.com##.elAds
 iqossan.com##.underHeaderAdPC
-ipentec.com##[class^="FlexContainerAdsense"]
-iphone-mania.jp##.single_pr_ad_all
 irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
 iromame-beans.jp###page_bottom_fixed
@@ -2862,6 +2864,7 @@ picrew.me##.discovery_list_ad
 picrew.me##.play-Imagemaker_Footer
 picrew.me##.play-Imagemaker:style(height: 100% !important;)
 picrew.me##.search-Sidebar
+picrew.me##^script[onload*="error-report.com"]
 pictab.art##.pum-overlay:style(display: none !important;)
 pictab.art##.pum-open:style(overflow: auto !important;)
 piliapp.com##.ads
@@ -2963,12 +2966,7 @@ russianbeauties.jp###secondary-column > [class$="corner"]
 russianbeauties.jp##.article-ad-image
 russianbeauties.jp##.banner
 russianbeauties.jp##a[href^="https://lkstrck2.com/"]
-ryukyushimpo.jp###bn-area
-ryukyushimpo.jp##.alertPr
-ryukyushimpo.jp##.alertPrDetail
-ryukyushimpo.jp##.pc-ad-srv
-! https://ryukyushimpo.jp/style/
-ryukyushimpo.jp##[class*="c_ads_google"]
+ryukyushimpo.jp##div[id^="gpt-"][style^="min-width:"]
 ryusoku.com##.ads
 ryutsuu.biz##.header-main-banner
 ryutsuu.biz##.single-pc-advertisement
@@ -3027,6 +3025,7 @@ simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sin-space.com##.ad-side
 sin-space.com##div[class^="insentence-adsense-"]
 sirabee.com##[data-newsy-ad-device]
+sirogohan.com##.ad-full
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sitebk.com#?#.nest-h3:-abp-has(> .productWrap)
@@ -3123,6 +3122,7 @@ techno-edge.net##.ad-banner
 technologyreview.jp##.ad-premium-jack
 tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
+telling.asahi.com##.p-header-billboard:style(min-height: 0 !important;)
 telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
 teratail.com##div[class^="googlePublisherTags_ads"]
@@ -3216,8 +3216,8 @@ vogue.co.jp##.ad
 voguegirl.jp##.js-ad
 voltechno.com###top-container-widget
 voltechno.com##.single_ads
-waifu2x.udp.jp##.all-page > div[style="min-height: 270px; margin: 1em"]
-waifu2x.udp.jp##.dmm-games
+waifu2x.net##.dmm-games
+waifu2x.net##div[style="min-height: 270px; margin: 1em"]
 walkerplus.com###wp_all_1r_gam
 walkerplus.com###wp_all_bb_gam
 walkerplus.com##.m-prbnr
@@ -3928,17 +3928,6 @@ gesoten.com##.r-wrapper--pagejack:style(background-image: none !important;)
 gesoten.com##.l-pagejack-link
 gesoten.com##.l-wrapper--pagejack:style(background-image: none !important;)
 
-game.goo.ne.jp##.ad_half
-game.goo.ne.jp##.ad_rectangle
-game.goo.ne.jp##.ad_super
-	!@@||game.goo.ne.jp/googleads_ima_html5_samples/advanced/ads.js?$script,domain=game.goo.ne.jp
-@@||imasdk.googleapis.com/js/core/$subdocument,domain=game.goo.ne.jp
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.goo.ne.jp
-@@||googletagservices.com/tag/js/gpt.js$script,domain=game.goo.ne.jp
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=game.goo.ne.jp
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=game.goo.ne.jp
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=game.goo.ne.jp
-
 gamebox.gesoten.com##.ad_half
 gamebox.gesoten.com##.ad_rectangle
 gamebox.gesoten.com##.ad_super
@@ -4576,10 +4565,6 @@ caramel-sp.com###native_2
 ! https://erodouga-s.com
 erodouga-s.com##.pc-overlay
 erodouga-s.com##.rectangle
-! えろほん
-! https://erogazou-s.com
-||erogazou-s.com/fanza/
-erogazou-s.com##.rectangle
 ! エロムビ
 ! https://eromovie-s.com
 ||eromovie-s.com/fanza/
@@ -4603,7 +4588,12 @@ manga-mill.com##.adrectangle
 manga-mill.com##[id^="fanza_"]
 ! メルティーノベル
 ! https://melty-novel.com
+melty-novel.com##div[class^="iads_"]
 melty-novel.com##.rectangle
+! 官能小説パープルノベル
+! https://purple-novel.com/
+purple-novel.com##div[class^="iads_"]
+purple-novel.com##.rectangle
 ! milky
 ! https://milk-key.com
 ||caramel-sp.com/feed/native_
@@ -4617,12 +4607,6 @@ milk-key.com##.rectangle
 milk-key.com##.rectangleBox
 milk-key.com#?#li.item:-abp-has(>[class^="iads_"])
 milk-key.com##[id^="fanza-"]
-! yomimo!
-! https://yomi-mo.com
-||yomi-mo.com/wp/wp-content/themes/yomimo/ad/
-yomi-mo.com##.fanza
-yomi-mo.com##.rectangle
-yomi-mo.com##[id^="fanza_"]
 
 ! --- min-repo.com --- !
 min-repo.com##.ad
@@ -4766,6 +4750,8 @@ ura-akiba.jp##.side_ads
 newmatosoku.com##.sideh2:first-child
 newmatosoku.com,gekimatosoku.com##.side > div[class]:not(.sideh2, .sidedaimei, .panel, .menseki)
 newmatosoku.com,gekimatosoku.com#?#.waku-zentai:-abp-has(> div[class] > span.spanend)
+newmatosoku.com##.sideh2b ~ .awa3
+newmatosoku.com##[class$=" waku-zentai"]
 
 bazutore.com##.kijikome3
 bazutore.com##.kouwaku5
@@ -6888,6 +6874,13 @@ pks.raenonx.cc##.w-full.info-section-opaque.fixed.bottom-0.z-nav
 ! puzzle-ch.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/152033
 puzzle-ch.com##+js(nostif, getComputedStyle)
+
+! pvpoke-re.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/167723
+||pvpoke-re.com/nitro.js
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=pvpoke-re.com
+pvpoke-re.com##[id^="nitro-"]
+pvpoke-re.com##+js(no-setTimeout-if, checkMyBlock)
 
 ! rocketnews24.com
 ! youpouch.com
