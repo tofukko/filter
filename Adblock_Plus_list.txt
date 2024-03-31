@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/03/28 15:25
+! 最終更新 2024/03/31 21:32
 !
 
 ! 2023/06/30 サ終
@@ -46,8 +46,9 @@ togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 ! https://twitter.com/ropross/status/1641353674046992385
 ! 再開 https://twitter.com/ropross/status/1661193739145195521
 twilog.togetter.com###ad-main-top
-twilog.togetter.com##[style^="height:250px"]
-twilog.togetter.com##div[style="display: flex; justify-content: space-between; margin:0 0 16px; padding-bottom:12px; border-bottom:1px dotted #ccc; "]
+twilog.togetter.com###ad-overlay-box
+twilog.togetter.com###ad-right-top
+twilog.togetter.com###ad-right-bottom
 favolog.org###side > div:first-child
 
 ! マシュマロ
