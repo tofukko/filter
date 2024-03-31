@@ -5450,6 +5450,7 @@ carview.yahoo.co.jp###ad_SS
 carview.yahoo.co.jp###ydn-bot
 carview.yahoo.co.jp###ydn-top
 chiebukuro.yahoo.co.jp##.lstAd
+chiebukuro.yahoo.co.jp##[id*="-ad-parent-"]
 chiebukuro.yahoo.co.jp#?#div[class^="Top_chie-Pages__ColumnItem--Sub"] > div[class^="Top_chie-Pages__SubColumnSection--Box"]:-abp-has(> #ad_lrec:only-child)
 chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"] > .SSContainer
 creators.yahoo.co.jp##.Ad--lrec
