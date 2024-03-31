@@ -2419,6 +2419,8 @@ karapaia.com##.readmore-header
 karapaia.com##[id^="karapaia_"]
 karapaia.com##[class^=ads-label]
 karapaia.com##div[style="padding-top: 10px; height: 600px"]
+kateigaho.com##.add
+kateigaho.com##.addSide
 kazn-mk-games.com##.st-h-ad
 keisan-mondai.com###text-5
 keisan-mondai.com##.head-ad
