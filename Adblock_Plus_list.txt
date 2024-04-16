@@ -2701,7 +2701,6 @@ nengaya.net##[class^=entryadwrapper]
 net-rabo.work##.ad
 newero1.blog.fc2.com###sub-ad
 newero1.blog.fc2.com##.pompass
-newmatosoku.com#?#.waku-zentai:-abp-has(> div:only-child > span)
 news.2chblog.jp###side-r:style(position: static!important;)
 news.2chblog.jp##.article-body-inner > table[width="750"][height="320"]
 news.2chblog.jp##.kjs
@@ -4780,11 +4779,9 @@ ura-akiba.jp###rank_goods
 ura-akiba.jp##.side_ads
 
 ! --- newmatosoku.com --- !
-newmatosoku.com##.sideh2:first-child
-newmatosoku.com,gekimatosoku.com##.side > div[class]:not(.sideh2, .sidedaimei, .panel, .menseki)
-newmatosoku.com,gekimatosoku.com#?#.waku-zentai:-abp-has(> div[class] > span.spanend)
-newmatosoku.com##.sideh2b ~ .awa3
-newmatosoku.com##[class$=" waku-zentai"]
+newmatosoku.com##.topmain + div > div:not(.sideh2, .sidedaimei, .tourokusite, .tourokusite2, .panel, .menseki)
+newmatosoku.com#?#.waku-zentai:-abp-has([href*="https://amzn."])
+gekimatosoku.com#?#.waku-zentai:-abp-has(> div[class] > span.spanend)
 
 bazutore.com##.kijikome3
 bazutore.com##.kouwaku5
