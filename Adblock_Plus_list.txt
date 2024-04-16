@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/03/31 21:32
+! 最終更新 2024/04/16 15:00
 !
 
 ! 2023/06/30 サ終
@@ -775,7 +775,6 @@ _ads.js.
 ||a.konachan.net^$domain=konachan.com
 ||ad.land.to^$domain=land.to
 ||adultblogranking.com/ad_frame.php?
-||aiasahi.jp/ad_deliver/$domain=japan.cnet.com
 ||akiba-souken.com/js/ad_
 ||akiba-souken.com/js/ad/
 ||angel-bbs.com/ssi/koukoku_
@@ -859,7 +858,6 @@ _ads.js.
 ||himasoku.com^$subdocument,~third-party
 ||hinative.com/assets/banners/trek/
 ||homemate-research.com/js/ad/
-||japan.cnet.com/parts/frame/
 ||japanese.joins.com/HomeAds/
 ||jma.go.jp/bosai/ad/
 ||joysound.com/web/src/s/ad/
@@ -2280,10 +2278,6 @@ izzetmtgnews.com###text-4
 izzetmtgnews.com###text-14
 izzetmtgnews.com###text-15
 jacom.or.jp##div[class^="banner"] > a:not([href*="://www.ja"])
-japan.cnet.com##.ad_large
-japan.cnet.com##.inner-pr
-japan.cnet.com##.right-ad-block
-japan.zdnet.com##.ad_container
 japan-attractions.jp##.ad
 japandesign.ne.jp##.ad
 japanese.joins.com##.ad
@@ -3125,7 +3119,6 @@ techno-edge.net##.ad-banner
 technologyreview.jp##.ad-premium-jack
 tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
-telling.asahi.com##.p-header-billboard:style(min-height: 0 !important;)
 telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
 teratail.com##div[class^="googlePublisherTags_ads"]
@@ -3519,21 +3512,56 @@ artemisweb.jp##body > center:first-of-type
 artemisweb.jp#?#body > center:last-of-type:-abp-has(a[href="http://www.artemisweb.jp/"][target="_blank"])
 
 ! --- asahi.com --- !
+! 朝日新聞デジタル
 www.asahi.com###HometopAd
 www.asahi.com##.AdMod
 www.asahi.com##.p-rectangleAd
-globe.asahi.com##.module-content-footer__ad
-globe.asahi.com##.module-side-notice
-globe.asahi.com##.module-side-ad
-globe.asahi.com##.module-top-ad
-	!全体的に
-@@||asahi.com/ad/$stylesheet,font,image,script,domain=asahi.com
-	!全部
-@@||asahi.com/ads/$stylesheet,font,image,script,domain=asahi.com
-	!ad
-@@||asahi.com^*/img/ad/$image,domain=publications.asahi.com
-	!動画プレイヤー
-@@||asahicom.jp/ad/js/video/ytpfp.js$script,domain=asahi.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/150818
+@@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
+! 動画プレイヤー操作できない
+www.asahi.com###ytplayer1-ad
+! 好書好日
+book.asahi.com##.module-side-ad
+book.asahi.com##.module-top-ad
+! じんぶん堂
+book.asahi.com##.module-billboard
+! withnews
+||withnews.jp/assets/js/ad/
+withnews.jp##.pickup-news-modal.is-active
+! CNET
+||japan.cnet.com/parts/frame/
+japan.cnet.com##.ad_large
+japan.cnet.com##.inner-pr
+japan.cnet.com##.right-ad-block
+! https://github.com/tofukko/filter/issues/35
+@@||aiasahi.jp/ads/$image,domain=japan.cnet.com|japan.zdnet.com
+! ZDNET
+japan.zdnet.com##.ad_container
+! Tetsudo.com
+tetsudo.com##div[class^="ads-super-banner-"]
+! UchuBiz
+uchubiz.com##.p-under__kv
+uchubiz.com###RECT
+uchubiz.com##.p-top__ad
+! sippo
+sippo.asahi.com##.ad-pc-billboard
+! なかまぁる
+nakamaaru.asahi.com##.top-large-ad
+nakamaaru.asahi.com##.mod-media-add
+nakamaaru.asahi.com##.footer-ad
+! 4years.
+4years.asahi.com##.top-ad-area
+4years.asahi.com##div[class^="sub-ad-area-"]
+4years.asahi.com##.footer-ad-area
+! かがみよかがみ
+mirror.asahi.com##.ad-pc-footer
+mirrorasahi.com##.ad-pc-side-rect
+! 相続会議
+souzoku.asahi.com##.ad-pc-side-rect
+souzoku.asahi.com##.ad-pc-footer
+! ツギノジダイ
+smbiz.asahi.com##.ad-pc-side-rect
+smbiz.asahi.com##.ad-pc-footer
 
 ! --- asg.to --- !
 ||asg.to/ad/
@@ -6433,8 +6461,6 @@ etude000.com##.top-ad
 @@||affiliate.dmm.com/img/ad_about_ad/$image,domain=affiliate.dmm.com
 	! トップバナー
 @@||afi-b.com/assets/dist/img/general/top/img/ad/$image,domain=afi-b.com
-	! https://github.com/tofukko/filter/issues/35
-@@||aiasahi.jp/ads/$image,domain=japan.cnet.com|japan.zdnet.com
 	! 動画見れない
 @@||aka-cdn.adtechus.com/dt/common/DAC.js$script,domain=www.gorin.jp
 	! https://github.com/tofukko/filter/issues/45
