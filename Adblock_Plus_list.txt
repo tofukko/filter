@@ -3259,7 +3259,7 @@ wikiwand.com##[class^="article_sectionAd__"]
 wikiwand.com##[class^="content_headerAd__"]
 wikiwiki.jp##[id$="-ad-container"]
 wiper.xii.jp##[class^="ads_"]
-wired.jp##.ad--mid-content
+wired.jp##.ad
 wired.jp##.ad-stickyhero
 withonline.jp##.banner-area-margin-bottom
 withonline.jp##div[id$=_InArticle-1]
