@@ -9,6 +9,7 @@
 ! --- garanger.net --- !
 ||gamushara.jp/pr/
 ||palpis.net/js/blogparts/parts.js
+||ajfnee.com^
 ||andhub.jp^
 ||banner1.site^
 garanger.net###my_navigation
@@ -203,12 +204,6 @@ skebetter.com##a[href*="dmm.co"]
 twtimez.net##.adDown
 twtimez.net##.adMiddle
 twtimez.net##.adTop
-
-! 2023/04/02 2020年頃から放置
-||share-videos.se/js/pjs.js
-||admesia.com^$third-party
-share-videos.se###ad_html
-share-videos.se###new_ad_html
 
 !2023/02/17 記事非公開
 ! helpsupport.blog.fc2.com
