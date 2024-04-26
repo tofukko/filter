@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/04/23 11:56
+! 最終更新 2024/04/26 19:54
 !
 
 ! 2023/06/30 サ終
@@ -6470,6 +6470,8 @@ etude000.com##.top-ad
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 	!sideランキング12345
 @@||ascii.jp/img/ad/$image,domain=ascii.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/151369
+@@||beacon.unext.jp/beacon/stop/$domain=video.unext.jp
         ! https://github.com/tofukko/filter/issues/83
 @@||cdn.taboola.com/magazine/
 	!できない
