@@ -987,13 +987,10 @@ _analytics.js?
 /autotrack.js
 /autotrack.custom.js
 /bcn.gif?
-! amazon topページ 背景画像とかpngとか
-/beacon/*$domain=~amazon.com|~amazon.co.jp
-! amazon 商品画像動画
-! rma-api.gravity.com 同上
-/beacon.$domain=~amazon.com|~amazon.co.jp
-/beacon_
-/beacon?
+/beacon.cgi?
+/beacon.gif?
+/beacon.js
+/beacon.min.js
 /cdn-cgi/bm/cv/*
 /chartbeat.js
 /clickheat.js
@@ -5673,12 +5670,6 @@ amazon.co.jp##div[id^="sp_detail"]
 
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 
-@@||images-amazon.com^*/beacon/BeaconSprite-$image
-@@||ssl-images-amazon.com^*/beacon/BeaconSprite-$image
-
-@@||images-fe.ssl-images-amazon.com^*/beacon._TTW_.svg
-
-
 
 ! --- fc2.com --- !
 ||affiliate.fc2.com/afftag
@@ -6470,8 +6461,6 @@ etude000.com##.top-ad
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 	!sideランキング12345
 @@||ascii.jp/img/ad/$image,domain=ascii.jp
-	! https://github.com/AdguardTeam/AdguardFilters/issues/151369
-@@||beacon.unext.jp/beacon/stop/$domain=video.unext.jp
         ! https://github.com/tofukko/filter/issues/83
 @@||cdn.taboola.com/magazine/
 	!できない
@@ -6663,9 +6652,6 @@ etude000.com##.top-ad
 	! https://github.com/hirorpt/filters/commit/5382bdeaf36476e17f5d8ab8f101c8ba26a3a7c9
 	! https://www.epson.jp/products/dreamio/ehtw8400/ 製品画像
 @@||yjtag.jp/tag.js$script,domain=www.epson.jp
-	!Minecraft ビーコン画像
-@@||hydra-media.cursecdn.com/minecraft-ja.gamepedia.com/*/Beacon$image,domain=minecraft-ja.gamepedia.com
-@@||atwikiimg.com/www26.atwiki.jp/minecraft/*/beacon.png$image,domain=www26.atwiki.jp
 
 	! https://github.com/tofukko/filter/issues/62
 70okugame.com#@#.dfad
