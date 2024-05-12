@@ -2927,9 +2927,10 @@ rank1-media.com##div[style="padding-top: 15px; padding-bottom: 5px; margin-botto
 ranking-best.net##[style="height:250px; width:300px;"]
 ranking-best.net##[style="height:90px; width:728px;"]
 ranking-best.net##[style="min-height: 320px;"]
-rankingoo.net###im_panel_pc
-rankingoo.net##.ADD_table
-rankingoo.net##.ADD300_250
+rankingoo.net##.content_banner
+rankingoo.net##.header_banner
+rankingoo.net##.side_top_banner
+rankingoo.net##.side_bottom_banner
 rastaneko-blog.com##[class^="header-ad-outer"]
 rastaneko-blog.com##[class^="kijinaka-outer"]
 realsound.jp###ad_entryBottom
