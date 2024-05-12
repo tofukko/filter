@@ -1520,6 +1520,9 @@ ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
 ani-chat.net###execphp-63
 ani-chat.net###execphp-66 .txt
+ani-chat.net###execphp-13
+ani-chat.net###execphp-14
+ani-chat.net###execphp-71
 ani-chat.net###resid
 ani-chat.net###side-scroll
 anicobin.ldblog.jp###ad_area
@@ -2766,11 +2769,16 @@ okmusic.jp##.banner_frame
 okmusic.jp##.right-ad_frame
 okwave.jp###fluct-pc-sticky-ad
 okwave.jp##.adfunnel_header_block
+okwave.jp##.adfunnel_list_under
 okwave.jp##.adfunnel_main_special_box
 okwave.jp##.adfunnel_osusume_box_pc:style(height: auto !important;)
+okwave.jp##.adfunnel_right_inhouse
 okwave.jp##.adfunnel_special_box_pc
+okwave.jp##.adfunnel_special_box_pc_bottom
 okwave.jp##.adfunnel_special_large_under
 okwave.jp##.following_buttons:style(bottom: 0 !important;)
+! https://okbizcs.okwave.jp/mori.nc-net/
+okbizcs.okwave.jp##.c-ad-box
 olive-hitomawashi.com##[style^="display: inline-block; min-width: 300px; min-height: 250px;"]
 omocoro.jp##.ad
 onagazou.info###overlay_area
