@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/04/26 19:54
+! 最終更新 2024/05/12 13:02
 !
 
 ! 2023/06/30 サ終
@@ -5494,6 +5494,7 @@ movies.yahoo.co.jp##.ad
 movies.yahoo.co.jp###ad-lrec
 movies.yahoo.co.jp##[class^="overlay-ad_"]
 news.yahoo.co.jp##.adWrap
+news.yahoo.co.jp##.newsFeed_list > li >  div[id^="ad"]
 search.yahoo.co.jp##.Ad
 ! リアルタイム
 search.yahoo.co.jp,realtime.yahoo.co.jp##div[class^="Lrec_"]
