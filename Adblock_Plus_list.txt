@@ -5,6 +5,14 @@
 ! 最終更新 2024/05/12 13:02
 !
 
+! 2024/05/12 サ終
+! 2024年7月下旬
+! https://www.famitsu.com/article/202405/4738
+wiki.famitsu.com###ad-wiki-content-lower
+wiki.famitsu.com###ad-wiki-content-upper
+wiki.denfaminicogamer.jp###ad-wiki-content-lower
+wiki.denfaminicogamer.jp###ad-wiki-footer-upper
+
 ! 2023/06/30 サ終
 ! --- garanger.net --- !
 ||gamushara.jp/pr/
@@ -3730,8 +3738,6 @@ news.denfaminicogamer.jp##.steam.inner-widget
 news.denfaminicogamer.jp##div[style$="min-height:250px;"]
 news.denfaminicogamer.jp##a[onclick^="dataLayer.push"]
 
-wiki.denfaminicogamer.jp###ad-wiki-content-lower
-wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ! jack
 ||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
 news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
@@ -3841,21 +3847,26 @@ exploader.net##[class^="d_"]
 exploader.net##aside > .word + .tag + div
 
 ! --- famitsu.com --- !
+famitsu.com##aside[class^="SponsorLink_sponsorLinkContainer__"]
+famitsu.com##div[class^="HalfPageBottomOrLargeRectangle_container__"]
+famitsu.com##div[class^="ArticleDetailBanner_container___"]
+famitsu.com##div[class^="FooterRectangle_container__"]
+famitsu.com##div[class^="ArticleDetail_column__"]:has(div[class^="AmazonCard_card_"])
+famitsu.com##section[class^="SecondRightColumn_section__"]:has(div[class^="AmazonCard_card_"])
+famitsu.com##[class^="ArticleDetailBody_articleBody__"] .article_detail_button_ec_amazon
+famitsu.com##[class^="ListLayout_headerBanner__"]
+! 古いページ用
 ||famitsu.com^*/amazon_ranking.js
-famitsu.com##.article-body__contents-pr-primary
 famitsu.com##.banner-pc
-famitsu.com##.banner-super-jack
-famitsu.com##.banner-top-header
-famitsu.com##.l-contents-block--article-amazon
 famitsu.com#?#.l-contents-block:-abp-has(> .row > .col-12 > .card-game-sale-rank--amazon)
+famitsu.com##.l-contents-block--article-amazon
+famitsu.com##.article-body__contents-pr-primary
 !微妙系
 !famitsu.com##[class^="l-contents-block--tie-up-"]
 !famitsu.com#?#.border-col-bottom > [class^="col-"]:-abp-has(> .card > [class*="ad-native-campaign"])
 app.famitsu.com###gam_pc_large_rectangle
 app.famitsu.com##.amazon-under-post
 app.famitsu.com##[style="width: 1000px;height: 150px"]
-wiki.famitsu.com###ad-wiki-content-lower
-wiki.famitsu.com###ad-wiki-content-upper
 
 ! --- fc2hub.com --- !
 ||xadsmart.com^
