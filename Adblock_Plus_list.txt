@@ -2116,8 +2116,6 @@ gizmodo.jp##.ad-banner
 gizmodo.jp##.l-ad
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
-glosbe.com###topBannerContainer
-glosbe.com##.right-sidebar-ads-container
 goal.com##.aside_ad-rail__cawG6
 goal.com##.commercial
 goal.com##.component-ad
