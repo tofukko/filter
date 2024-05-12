@@ -1966,6 +1966,8 @@ erologz.com##.bann + .ssh2
 erologz.com##.bann + .ssh2 + .flex-container
 erologz.com##.bann + .ssh2 + .flex-container + .button010
 eromazofu.com##.c_c_t_w
+erommd-street.com##.content [style*="z-index:"]
+erommd-street.com##.content [style^="position: absolute;"]
 eropuru.com##.plugin_ad_box
 ertk.net###banner1
 ertk.net##.dmm-ranking
