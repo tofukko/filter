@@ -6706,6 +6706,10 @@ yakkun.com##.ad + div:style(clear: both !important;)
 /ad-page/dfp.js
 /modal-dist/index.
 
+! 2game.info
+! https://github.com/AdguardTeam/AdguardFilters/issues/178408
+2game.info##.sponsored-loop300x250:style(position: absolute !important; left: -4000px !important;)
+
 ! 48idol.tv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83410
 	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
