@@ -1863,11 +1863,8 @@ dekiru.net##.module-article-list-ad
 dekiru.net##.module-individual-article-footer-ads
 dekiru.net##.module-individual-article-sub-top-ads
 deli-fuzoku.jp#?#.mod-bnrWrap:-abp-has(> a[href^="https://www.dlsite.com/"])
-dengekionline.com##.gAdBanner.u-mbM
-dengekionline.com##.gAdBanner-pickUp
-dengekionline.com##.gMovBox.u-mtbS
-dengekionline.com##.gNews > .gAdBanner
-dengekionline.com##.gRankMoreNav
+dengekionline.com##[class^="RightColumn_rectangleBanner__"]
+dengekionline.com##[class^="TopHeaderBanner_wrapper__"]
 diamond.jp###piano-cframe
 diamond.jp##.ad-related
 diamond.jp##.gpt-ad
