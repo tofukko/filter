@@ -838,8 +838,9 @@ _ads.js.
 ||gamegift.jp/js/ads.js
 ||gameranbu.jp/js/scrole_ad_
 ||gamespark.jp/feature/advertising/
-||gamewith.*/ad/index.js?
-||gamewith.jp/js/dist/jp/search/cta.js
+	! https://github.com/AdguardTeam/AdguardFilters/issues/175115
+	! ||gamewith.*/ad/index.js?
+	! ||gamewith.jp/js/dist/jp/search/cta.js
 ||gdm.or.jp/bimg/b
 ||gehasoku.com/JS/newama.js
 ||getchu.com/mbanner/$~image
