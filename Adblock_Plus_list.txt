@@ -4729,7 +4729,15 @@ mozakin.com##.tabpain[style="left: -260px; top: 280px;"]:style(top:0!important;)
 mozakin.com##.tabpain[style="top: 550px; left: 0px;"]:style(top:-1120px!important;)
 mozakin.com##body > div > div[style="height: 300px;"]
 mozakin.com##body > div > div[style="height: 840px; padding: 6px; margin: 0px 0px 16px;"]
- 
+ bbs4.mozakin.com##.hey_video
+bbs4.mozakin.com##.hey_douga
+mozakin.com##.dti3free
+mozakin.com##.dx_performer
+mozakin.com##[style="width: 1020px; height: 380px; background-color: white; padding: 4px;"]
+bbs4.mozakin.com###bbs_table_topad
+bbs4.mozakin.com##[style="margin-left: -1px; font-size: 0px; overflow: hidden; width: 200px; border: 1px solid gray; height: 64px;"]
+bbs4.mozakin.com###thread_index_adt
+
 ! --- msn --- !
 /display-ads-$domain=~google.co.uk|~google.com|~google.com.au
 ##display-ads
