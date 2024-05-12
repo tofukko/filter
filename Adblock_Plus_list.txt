@@ -3043,8 +3043,6 @@ sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
 sitebk.com#?#.nest-h3:-abp-has(> .productWrap)
 sitebk.com##.side > nav > ol > li:has-text(このページを見ている人におすすめの商品)
-sk-hanbai.com##.adsense
-sk-seisan.com##.adsense
 smhn.info###topAD
 smhn.info#?#aside:-abp-has(.adsbygoogle)
 smashop.jp###r1_advertisement
