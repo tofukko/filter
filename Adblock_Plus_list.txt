@@ -5601,12 +5601,12 @@ yahoo-jp.portal.connectedgamestore.com###floatingAd
 ||moviead.cdnext.stream.ne.jp/player/latest/MovieADPlayer.js$script,domain=yomiuri.co.jp
 yomiuri.co.jp##.ad
 yomiuri.co.jp##.ads_inview
-yomiuri.co.jp##.home-2020-ad-wide
-yomiuri.co.jp##.home-2020-ad-text
-yomiuri.co.jp##.home-2020-ntvnews-ad
+yomiuri.co.jp##.news-top-latest__ad
 yomiuri.co.jp##.p-ad-thumbnail-txt
+yomiuri.co.jp##[class^="home-ad-"]
 yomiuri.co.jp##[id^="ad_dfp_news-txt"]
 yomiuri.co.jp##div[class^="p-ad-dfp"]
+yomiuri.co.jp##div[class$="__ads"]
 
 !発言小町
 komachi.yomiuri.co.jp##.ads
