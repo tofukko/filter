@@ -149,6 +149,7 @@ poipiku.com##.PcSideBarAd
 ! Twitter動画保存ランキング - TwiHub/ツイハブ
 ! ツイッター動画保存ランキング！ - ついどう, ツイドウ
 ! Twitter動画保存ランキング（24時間） | TWIVIDEO
+||bance.jp^
 ! Twitter Video Tools
 ! 不明
 twidou.link##.mb-3.mt-4.c-min-height
@@ -2582,6 +2583,7 @@ medibang.com##.contents-footer-bnr
 medibang.com##.mdbnAdBlock:not([style="margin:0 0 10px;"])
 medibang.com##.mdbnAdBlock__728x90
 medibang.com##.mdbnAdBlock[style="margin:0 0 10px;"]:style(height: 0 !important;margin: 0 !important;padding-bottom: 10px !important;)
+medibang.com#?#.mdModal:-abp-has(.mdbnViewer__ad)
 medibang.com##[class^="adBlock__"]:style(height: 0 !important;margin: 0 !important;padding-bottom: 10px !important;)
 medibangpaint.com##.adv
 meitou.info###aside
@@ -3065,6 +3067,7 @@ studio-radish.com##.netspeedRightAd
 studio-radish.com##div[style*="background:#FFE4E1;"]
 studyhacker.net##.popup_area
 style.potepan.com##.FixedFooterSection
+suki-kira.com##table[style="margin:0 auto;min-height:250px;"]
 sukima.me##.popupad-box
 sukima.me#?#div:-abp-has(> iframe[src^="/advertise/"]:only-child)
 sukima.me###viewer-menu:style(overflow-y: scroll !important;height: 100% !important;)
@@ -4151,6 +4154,9 @@ googlesyndication.com##.left-container
 anond.hatelabo.jp##.ad-in-entry-block
 anond.hatelabo.jp,hatena.ne.jp##.double-rectangle
 hatenanews.com##.ads-250
+! https://github.com/AdguardTeam/AdguardFilters/issues/177754
+! https://github.com/AdguardTeam/AdguardFilters/issues/178698
+hatena.blog,blog.hatena.ne.jp,hatenablog.com##.globalPage-ad
 a.hatena.ne.jp##.side-ad
 b.hatena.ne.jp##.centerarticle-aside-ad
 b.hatena.ne.jp##.js-keyboard-selectable-item[data-river-placement]
@@ -6606,6 +6612,8 @@ etude000.com##.top-ad
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=followcheck.itby.net
 	! https://github.com/tofukko/filter/issues/49
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=heim.jp
+	! https://github.com/AdguardTeam/AdguardFilters/issues/178020
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=texteditor.nsspot.net
 	! 全部
 @@||picrew.me/player/api/ads?$xmlhttprequest,domain=picrew.me
 	!ポイント貯めるサイト
