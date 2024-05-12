@@ -2403,7 +2403,7 @@ kamigame.jp###pc-overlay-base
 kamigame.jp##[id^="ad_"][id$="_wrapper"]
 kamigame.jp##[id^="ad_right_"]
 kamigame.jp##.ad
-kamikouryaku.com###sticky-ads
+kamikouryaku.com,kamikouryaku.net###sticky-ads
 kanaloco.jp##.ad
 kanaloco.jp##.blk-bnr02
 kanaloco.jp##.bnr01
