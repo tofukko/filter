@@ -3297,11 +3297,8 @@ x-feeder.info##div[style*="width: 728px; height: 90px"]
 x-feeder.info##div[style="height: 600px;"]
 xbooks.one###custom_html-2
 xbooks.one##.pc_area
-xvideo-jp.com###dmmad
-xvideo-jp.com##.p-article__sub
-xvideo-jp.com##.p-articleDMM
-xvideo-jp.com##.p-dmmad
-xvideo-jp.com#?#.c-card:-abp-has([href^="http://xvideo-jp.com/mgs/"])
+xvideos-dl.com##div[style^="margin-top:120px; margin-bottom:"]
+xvideos-dl.com##a[href^="https://go.bbrdbr.com?"]
 yakkun.com##.ad
 yakuji.co.jp#?##main > .aside:-abp-has(> .category-list > .ad-text03)
 yakuji.co.jp#?##main > .aside:-abp-has(> .center > .ad)
@@ -5453,6 +5450,11 @@ xfolio.jp##div.swiper-slide[style="margin-right: 20px;"]
 ||imgj.xrea.com^
 ||value-domain.com/xrea_header.js
 ||ax.xrea.com^
+
+! --- xvideo-jp.com --- !
+||xvideo-jp.com/wp-content/themes/new_Browny/iframe/ad_
+xvideo-jp.com##.p-dmmad
+xvideo-jp.com##div[style="display:flex; justify-content:center;width:100%;height:270px;"]
 
 !g --- y2mate.com --- !
 ! https://github.com/uBlockOrigin/uAssets/issues/13391
