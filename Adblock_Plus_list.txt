@@ -2458,6 +2458,8 @@ kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 kotobank.jp##div[class$="word-ad"]
 kouryakuwiki.com##.googleads
 ktkm.net###custom_html-43
+kumanichi.com##[id^="block-"][id*="-banner"]
+kumanichi.com##[id^="block-"][id*="-ad"]
 kumiko-jp.com##div[class*="fourm"]
 kurashi-no.jp##.p-article__nro
 kurashiru.com##.banner-wrapper
