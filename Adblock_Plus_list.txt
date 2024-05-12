@@ -2736,6 +2736,7 @@ news4wide.net##.wipe-ad-div-class
 newsee-media.com##.s-side[style^="position: fixed;"]
 newsweekjapan.jp##.ad-teads-nw-box
 newser.cc##.ad
+newser.cc##.amazon
 newswitch.jp##.banner
 next2ch.net##.ad728
 nicofinder.net###video-ichiba
