@@ -3038,6 +3038,7 @@ shogi-sanpo.com##.height280
 shogi-sanpo.com##.tac.mb30
 shuchi.php.co.jp##.tac
 shuchi.php.co.jp##[style="height: 600px;"]
+shueisha.online##div[class|="g-a-rectangle"]
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sin-space.com##.ad-side
 sin-space.com##div[class^="insentence-adsense-"]
