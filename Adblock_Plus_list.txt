@@ -182,6 +182,7 @@ urahame.com#?#h2.MuiStack-root > div.MuiStack-root:-abp-has(> div.MuiBox-root > 
 
 ! Skebetter
 ! 不明
+||skebetter.com/api/ad/
 skebetter.com##.md\:h-24
 skebetter.com##.md\:h-48
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
@@ -196,26 +197,13 @@ skebetter.com##a[href*="dmm.co"]
 ! 不明
 ||uraaka-joshi.com/ad-
 
-! 蒼天画廊
-! サ終 https://www.azure-gallery.net/
-
-! ツイセーブ 
-! 2023/08/08 https://twisave.com/info/close
-! サ終？ https://twitter.com/9m/status/1641350437625536514
-!twisave.com##div[style="padding-top: 15px; margin-bottom: 15px; height: 60px; text-align: center"]
-!twisave.com##div[style="text-align: center; padding: 20px; margin-bottom: 20px; background-color: #EEE; positino: relative;"]
-
 ! #リツイート直後のツイートを表示するやつ
+! https://retweets.pronama.jp/
 ! サ終？ https://togetter.com/li/2113907
 
 ! #生活習慣の乱れを可視化するやつ
+! https://midare.p1ass.com/
 ! サ終 https://twitter.com/p1ass/status/1641417687678189568
-
-! Twtimez
-! サ終 https://twitter.com/TwTimez/status/1641980394437480450
-twtimez.net##.adDown
-twtimez.net##.adMiddle
-twtimez.net##.adTop
 
 !2023/02/17 記事非公開
 ! helpsupport.blog.fc2.com
