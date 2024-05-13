@@ -2,8 +2,11 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/12 13:02
+! 最終更新 2024/05/13 21:57
 !
+
+! 2024/05/13 
+mmm.me###imadv
 
 ! 2024/05/12 サ終
 ! 2024年7月下旬
@@ -2634,7 +2637,6 @@ mitok.info##div[style="min-height: 325px;"]
 mixch.tv##.footer-ad
 mixi.jp##.adsenseBannerArea
 mmd-list.com##.movie__main > .movie__tag + div[style*="display: block; position: absolute; top:"]
-mmm.me###imadv
 moae.jp##[class^="mod-ad-"]
 moeasia.net##.abox
 moeeki.net###newboxleft > p
