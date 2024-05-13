@@ -1918,6 +1918,7 @@ easter.ne.jp##div[align="center"] > br:first-child
 easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 ecclab.empowershop.co.jp##.wrap-advert
 efight.jp##.ads
+efight.jp##.billboard
 ehime-np.co.jp##.dfp
 ehime-np.co.jp##.pr_sq_box
 ehime-np.co.jp##.superbnr_box
