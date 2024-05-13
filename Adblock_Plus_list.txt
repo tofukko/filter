@@ -2925,6 +2925,7 @@ qiita.com#?#[class^="css-"]:-abp-has(> [id$="-side-ad"])
 ! logly
 qiita.com##[id^=logly-lif]
 qiita.com##[id^=logly-lif]:upward(2)
+qjweb.jp##.l-aside_ad
 qoly.jp##.ad
 qoly.jp##.banner
 qoly.jp##div[style="height:90px; width:728px;"]
