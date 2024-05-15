@@ -1583,7 +1583,7 @@ as-web.jp###imgUpperRectangle
 as-web.jp###topbillboard
 as-web.jp##.p-bannar_payment_old
 ascii2d.net##.com
-ascii2d.net##[class="p-t-1"]
+ascii2d.net##.col-lg-4 > .message +.p-t-1
 ascii.jp##.ad
 ascii.jp##.ad_gam
 ! jack
