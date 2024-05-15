@@ -6720,6 +6720,8 @@ trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
 yakkun.com##.ad + div:style(clear: both !important;)
 
 !------------------- anti adblock -------------------------!
+! https://github.com/uBlockOrigin/uAssets/issues/8528#issuecomment-1294606224 
+||npttech.com/advertising.js$script,redirect-rule=noop.js
 
 ! https://twitter.com/280blocker/status/1289903534385721344
 /ad-page/dfp.js
