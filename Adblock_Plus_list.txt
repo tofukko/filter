@@ -4226,6 +4226,13 @@ hitomi.la##.top-content:style(margin-top: 0px !important;)
 hobby.dengeki.com##.ad_column
 hobby.dengeki.com##.afbox
 
+! --- home.kingsoft.jp --- !
+home.kingsoft.jp###article-list > .col-md-3.col-12:nth-of-type(12n+4)
+home.kingsoft.jp###article-list > .col-md-3.col-12:nth-of-type(12n+9)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=game.anymanager.io
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl_$script,domain=game.anymanager.io
+@@||pagead2.googlesyndication.com/pagead/*/slotcar_library_$script,domain=game.anymanager.io
+
 ! --- Hrs-Game --- !
 hrs-game.main.jp##[class^="ads_"]
 hrs-game.main.jp##.columm + .ads_native + section:style(clear:both !important;)
