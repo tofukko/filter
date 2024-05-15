@@ -5042,7 +5042,9 @@ www.pixiv.net###js-mount-point-header:style(min-height: auto !important;)
 www.pixiv.net###root > .charcoal-token > div:only-child > div > div[style="position: static; z-index: auto;"] + div[class^="sc-"]
 www.pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > div:only-child > div[class^="sc-"] > ul[class^="sc-"] > li[class^="sc-"][size="2"][offset="1"]
 www.pixiv.net##aside > section + div > div[style="font-size: 0px;"]
-www.pixiv.net##div[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
+www.pixiv.net##[style="margin-left: 0px; --columns: 10;"] > div:only-child > div:only-child > div:nth-last-child(4):last-of-type
+www.pixiv.net###__next > div:only-child > div:nth-child(2) > div:nth-child(4):nth-last-child(4):not([style])
+www.pixiv.net##div[style="height: 540px; opacity: 1;"]
 www.pixiv.net##main > section > div > div > figure + div:empty + div[style]
 www.pixiv.net##iframe[name][width="500"][height="520"]
 www.pixiv.net##iframe[name][width="184"][height="232"]:upward(1)
