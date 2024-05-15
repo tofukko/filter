@@ -3854,8 +3854,8 @@ famitsu.com##aside[class^="SponsorLink_sponsorLinkContainer__"]
 famitsu.com##div[class^="HalfPageBottomOrLargeRectangle_container__"]
 famitsu.com##div[class^="ArticleDetailBanner_container___"]
 famitsu.com##div[class^="FooterRectangle_container__"]
-famitsu.com##div[class^="ArticleDetail_column__"]:has(div[class^="AmazonCard_card_"])
-famitsu.com##section[class^="SecondRightColumn_section__"]:has(div[class^="AmazonCard_card_"])
+famitsu.com#?#div[class^="ArticleDetail_column__"]:-abp-has(div[class^="AmazonCard_card_"])
+famitsu.com#?#section[class^="SecondRightColumn_section__"]:-abp-has(div[class^="AmazonCard_card_"])
 famitsu.com##[class^="ArticleDetailBody_articleBody__"] .article_detail_button_ec_amazon
 famitsu.com##[class^="ListLayout_headerBanner__"]
 ! 古いページ用
