@@ -143,6 +143,9 @@ buhitter.com##aside.row[style="display: flex; justify-content: center;height: 32
 ! 維持 https://twitter.com/twicomi_kari
 ||twicomi.com/ads/
 twicomi.com#?#.interrupt:-abp-has(> .ad-group):style(height: 0 !important;min-height: 0 !important;overflow: hidden !important;)
+twicomi.com##.ads-reserve-area
+||twicomi.com/api/v2/amazon/
+twicomi.com#?#.interrupt:-abp-has(> .free-space)
 
 ! 質問箱
 ! 不明 https://twitter.com/peing_net
