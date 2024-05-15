@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/13 21:57
+! 最終更新 2024/05/15 23:00
 !
 
 ! 2024/05/13 
@@ -2136,7 +2136,7 @@ greasyfork.org##.ad
 greasyfork.org##.ad-entry
 grotty-monday.com##.adVortexFixedAd
 grotty-monday.com##[style^="width:728px;height:90px"]
-guitarmagazine.jp##.ad
+guitarmagazine.jp##[id^="ad-area-"]
 gundam-futab.info##.ad
 gurum.biz##.adsense
 gyazo.com##.lower-ad
