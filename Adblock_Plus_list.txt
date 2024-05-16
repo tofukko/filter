@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/16 13:34
+! 最終更新 2024/05/16 23:43
 !
 
 ! 2024/05/13 
@@ -1734,7 +1734,7 @@ cgworld.jp##.banner
 cgworld.jp##.banner_special_content
 chanto.jp.net###cha_pc_all_header
 chanto.jp.net##div[style*="height: 250px"]
-charmer-media.com,elife-media.jp,firststyle.jp,frequ.jp,miima.jp,platabi.com,trip-partner.jp,vivre-media.jp##.my-1
+frequ.jp,miima.jp,trip-partner.jp##.my-1
 chat.shalove.net##.ad
 chat.shalove.net,skypemeet.net##.right_cont
 chat.shalove.net##[id].hearttext:style(display: inline !important;)
