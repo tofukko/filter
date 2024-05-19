@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/18 12:39
+! 最終更新 2024/05/19 21:02
 !
 
 ! 2024/05/13 
@@ -3071,7 +3071,8 @@ sponichi.co.jp##[id^=space_shopping_]
 sponichi.co.jp##[style="width:298px;height:230px;border:1px #CCCCCC solid;margin-top:7px;"]
 sportingnews.com##.header-advertising
 sportingnews.com##.top-mpu-container
-sportiva.shueisha.co.jp##[style="width: 728px; height: 90px;"]
+sportiva.shueisha.co.jp##.group-column:style(padding-top: 20px !important;)
+sportiva.shueisha.co.jp##.u--height-min-250
 squallchannel.com##[class^="ad_space"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
@@ -6565,6 +6566,8 @@ etude000.com##.top-ad
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/173780
 @@||googletagmanager.com/gtm.js$script,domain=sportingnews.com
+	! https://github.com/tofukko/filter/issues/92
+@@||googletagmanager.com/gtm.js$script,domain=sportiva.shueisha.co.jp
 	! https://github.com/hirorpt/filters/commit/5b41ca5e9a58de697459ef5c98132f131e887c15
 @@||googletagmanager.com/gtm.js$script,domain=stage.parco.jp
 	! https://github.com/tofukko/filter/issues/40
