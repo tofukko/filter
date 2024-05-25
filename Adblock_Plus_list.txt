@@ -1487,6 +1487,7 @@ _analytics.js?
 9db.jp###contents:style(margin-bottom: 0 !important;)
 9ketsuki.info##.manual_ads
 9ketsuki.info##.widget_custom_html.widget-main
+9tsu.cc##.ads_mobile_vert
 a-antenam.info,antenam.biz,antenam.info,antenam.jp,atna.jp,readers.jp##.ad_footer
 a-antenam.info,antenam.biz,antenam.info,antenam.jp,atna.jp,readers.jp#?#.content:-abp-has(.ad_footer)
 a-kimama.com##.blogcard.banner
