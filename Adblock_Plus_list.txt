@@ -2604,6 +2604,7 @@ medibangpaint.com##.adv
 meitou.info###aside
 meitou.info##[href^="https://amzn.to/"], [href^="https://www.amazon.co.jp/"]
 meitou.info##[href^="https://amzn.to/"] + small
+melos.media##.m-ad
 mens-ex.jp##.m-tieupRecommend
 mens-modern.jp##[style="height:90px; width:728px;"]
 mens-modern.jp##[style="min-height: 320px;"]
