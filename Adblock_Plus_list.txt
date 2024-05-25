@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/19 21:02
+! 最終更新 2024/05/25 16:10
 !
 
 ! 2024/05/13 
@@ -3121,7 +3121,6 @@ tabi-labo.com##.dfp-article
 tabinobi.jp##.main-wrap > .detail-block ~ .thumb-block + .thumb-block
 tagindex.com###ads_top
 tagindex.com###post
-taishu.jp##body:style(min-width: 1100px !important;)
 taittsuu.com#?##posts > div.post-wrap > a[href*="_ad_"][target="_blank"]:upward(1)
 taskle.jp##.ad
 taskle.jp##.ad-widget
@@ -3966,9 +3965,11 @@ gaugau.futabanet.jp##._popIn_recommend_header
 gaugau.futabanet.jp##.r-ad-rectangle
 ||gaugau.futabanet.jp/sr/parts/gamoverlay.js
 ||gaugau.futabanex.jp/sr/parts/gamoverlay.js
-
 reader.futabanet.jp##._popIn_recommend_header
 reader.futabanet.jp##.r-ad-rectangle
+taishu.jp##body:style(min-width: 1100px !important;)
+taishurx.jp##.bnr > .ad
+taishurx.jp##.catchup
 
 ! --- gesoten.com --- !
 !jack
