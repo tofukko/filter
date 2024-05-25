@@ -1798,6 +1798,8 @@ coliss.com###recommend
 coliss.com###sponsors
 coliss.com###sponsorsTop
 color-sample.com##.ads
+comic-walker.com##div[class^="AdSection_"]
+comic-walker.com#?#section[class^="ContentsDetailPage_noBackground__"]:-abp-has(div[class^="AdSection_list__"])
 comici.jp##.a-banner-box
 conveni-now.com,iqos-laboratory.com##div[class^="ads-tag"]
 cookien.com##.pr_content
