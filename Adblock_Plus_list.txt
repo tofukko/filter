@@ -4618,6 +4618,8 @@ lovemangaraw.net,mangaraw.asia###jp-smart-banner
 ||adsbetnet.com^$domain=welovemanga.one
 ||profitabledisplaynetwork.com^$domain=weloma.art
 mangarawjp.asia###jp-smart-banner
+||gloaphoo.net^
+/btag.min.js$third-party
 
 ! --- milky エロムビ ？ --- !
 ! キャラメル喫茶
