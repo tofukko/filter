@@ -1640,7 +1640,6 @@ bakusai.com##.lSideColumn:style(width: 100% !important;border-right: 0 !importan
 bakusai.com##.rSideBnr
 bakusai.com##.thrListTxtAd
 bakusai.com##.thrWholeRight
-baila.hpplus.jp##.c-article-ad
 bang-dream-news.com##.ads
 bangumi.org###ad_area
 bangumi.org##.ad_footer_wrap
@@ -2485,7 +2484,6 @@ kyounoryouri.jp###floating-banner
 kyoushinomikata.com#?#.entry-content > p:-abp-has(> .adsbygoogle)
 last.fm##.full-bleed-ad-container
 last.fm##.sidebar-ad-container
-lee.hpplus.jp##.media-ad
 leon.jp##.st-BottomBanner-top
 lettuceclub.net##.p-ad
 lettuceclub.net##.p-adlcn
@@ -4240,6 +4238,13 @@ home.kingsoft.jp###article-list > .col-md-3.col-12:nth-of-type(12n+9)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=game.anymanager.io
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl_$script,domain=game.anymanager.io
 @@||pagead2.googlesyndication.com/pagead/*/slotcar_library_$script,domain=game.anymanager.io
+
+! --- hpplus.jp --- !
+baila.hpplus.jp##.c-article-ad
+lee.hpplus.jp##.media-ad
+nonno.hpplus.jp##.media-ad
+	! https://github.com/tofukko/filter/issues/60
+@@||img-baila.hpplus.jp/common/large/image/ad/$image,domain=baila.hpplus.jp
 
 ! --- Hrs-Game --- !
 hrs-game.main.jp##[class^="ads_"]
@@ -6630,8 +6635,6 @@ etude000.com##.top-ad
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$script,domain=football-tribe.com
 	! https://game.yomipo.yomiuri.co.jp/quiz/ クイズできない
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.yomipo.yomiuri.co.jp
-	! https://github.com/tofukko/filter/issues/60
-@@||img-baila.hpplus.jp/common/large/image/ad/$image,domain=baila.hpplus.jp
 	!
 @@||jsc.adskeeper.co.uk/*/megaup.net$script,domain=megaup.net
 @@||servicer.adskeeper.co.uk^$script,domain=megaup.net
