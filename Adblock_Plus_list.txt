@@ -1801,7 +1801,6 @@ color-sample.com##.ads
 comic-walker.com##div[class^="AdSection_"]
 comic-walker.com#?#section[class^="ContentsDetailPage_noBackground__"]:-abp-has(div[class^="AdSection_list__"])
 comici.jp##.a-banner-box
-conveni-now.com,iqos-laboratory.com##div[class^="ads-tag"]
 cookien.com##.pr_content
 cookpad.com##.ad_wrapper
 cookpad.com###sticky_reference_element
@@ -3088,7 +3087,6 @@ sukima.me###viewer-menu:style(overflow-y: scroll !important;height: 100% !import
 sukima.me##+js(set, adPopupStatus, undefined)
 sukusuku.com##.ad
 sukusuku.com##.aside_ad_pr
-supari.jp##div[class^="c-ads-tag"]
 supercoloring.com#?#div[id^="block-block-"]:-abp-has(div[id^="adngin-"])
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
 supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box
@@ -4624,6 +4622,10 @@ lovemangaraw.net,mangaraw.asia###jp-smart-banner
 mangarawjp.asia###jp-smart-banner
 ||gloaphoo.net^
 /btag.min.js$third-party
+
+! --- mediaexceed.co.jp --- !
+shisha-press.com,discka.com,supari.jp,smopia.com,conveni-now.com,iqos-laboratory.com##div[class^="ads-tag"]
+supari.jp##div[class^="c-ads-tag"]
 
 ! --- milky エロムビ ？ --- !
 ! キャラメル喫茶
