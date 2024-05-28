@@ -6879,10 +6879,10 @@ investing.com##.desktop\:bg-background-default > .h-\[333px\]
 investing.com##div[data-test="ad-slot-visible"]
 
 ! iwb.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/179875
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159931
-iwb.jp##+js(alert-buster)
+iwb.jp##+js(abort-on-property-read, alert)
 iwb.jp##+js(abort-on-property-read, onload)
-iwb.jp##+js(noeval-if, /chp_?ad/)
 
 ! kledgeb.blogspot.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/137131
