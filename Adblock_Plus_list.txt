@@ -5540,11 +5540,17 @@ chiebukuro.yahoo.co.jp##[class^="SearchResults_searchResults__contents__main__"]
 creators.yahoo.co.jp##.Ad--lrec
 detail.chiebukuro.yahoo.co.jp#?#aside[class^=ClapLv3SubList_Chie-SubList__ListItem__]:-abp-has(> .infdAd)
 detail.chiebukuro.yahoo.co.jp#?#[class^="ClapLv3SearchList_Chie-SearchList__Item__"]:-abp-has(> div > [class^="ClapLv2ListItemSS_Chie-ListItem__Anchor__"] + [class^="ClapLv2ListItemSS_Chie-ListItem__Information__"])
+finance.yahoo.co.jp##.cLYod0d6
+finance.yahoo.co.jp##.NRqdNbNt
 finance.yahoo.co.jp##div[id^="ad_"]
+finance.yahoo.co.jp##div[class^="_YDN_"]
+finance.yahoo.co.jp##div[class^="_LREC_"]
 finance.yahoo.co.jp#?#div:-abp-has(> #mainAdTop)
 finance.yahoo.co.jp#?#div:-abp-has(> [id^=subAd])
+finance.yahoo.co.jp#?#div[class]:-abp-has(> div[class]:only-child > div[id^="ad_"]:only-child)
 finance.yahoo.co.jp#?##contents-body + div > div:first-child > div > div:-abp-has([id^="ad_"])
 finance.yahoo.co.jp#?##contents-body + div > div:last-child > div:-abp-has([id^="ad_"])
+finance.yahoo.co.jp###newslist > div[class^="_"] > div[class^="_"] > ul[class^="_"] > li[class^="_"]
 loco.yahoo.co.jp###yjAdsLrec
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsDetail)
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
