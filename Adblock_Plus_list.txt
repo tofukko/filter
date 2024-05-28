@@ -2587,15 +2587,16 @@ media.finasee.jp##div[style="width: 100%; min-height:90px; margin: 0 auto;"]
 media.finasee.jp##div[style="width: 100%; min-height:250px; margin: 0 auto;"]
 media.finasee.jp##.m-articles__side-articles-ranking-list-item[style="display: block;"]
 media.finasee.jp#?#.m-latest-list-item.p-wide:-abp-has(> div[style="width: 100%; min-height:152px; margin: 0 auto;"])
+medibang.com##.mdbnAdBlock[style="min-width: 970px; min-height: 90px;"]
+medibang.com##div[class*="mdbnAdBlock__"].-center
+medibang.com##.footer-inst
+medibang.com##div[style="width: 970px;height: 90px;margin: 10px auto -10px;text-align: center;"]
+medibang.com##div[class^="adBlock__"][class*="mod-visible-"]
 medibang.com###content:style(padding-bottom: 394px !important;)
-medibang.com##.asTimelineStickyAd > .adBlock__pc
 medibang.com##.contents-footer-bnr
-medibang.com##.mdbnAdBlock:not([style="margin:0 0 10px;"])
-medibang.com##.mdbnAdBlock__728x90
-medibang.com##.mdbnAdBlock[style="margin:0 0 10px;"]:style(height: 0 !important;margin: 0 !important;padding-bottom: 10px !important;)
 medibang.com#?#.mdModal:-abp-has(.mdbnViewer__ad)
-medibang.com##[class^="adBlock__"]:style(height: 0 !important;margin: 0 !important;padding-bottom: 10px !important;)
-medibangpaint.com##.adv
+medibangpaint.com##[style*="min-height:250px;"]
+medibangpaint.com##.sideAvs__item
 meitou.info###aside
 meitou.info##[href^="https://amzn.to/"], [href^="https://www.amazon.co.jp/"]
 meitou.info##[href^="https://amzn.to/"] + small
