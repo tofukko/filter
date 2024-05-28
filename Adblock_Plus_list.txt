@@ -4622,6 +4622,8 @@ mangarawjp.asia###jp-smart-banner
 /btag.min.js$third-party
 
 ! --- mediaexceed.co.jp --- !
+shisha-press.com,conveni-now.com,discka.com,smopia.com###kakidashi-box-field
+shisha-press.com,conveni-now.com,discka.com,smopia.com###under-toc-block-container
 shisha-press.com,discka.com,supari.jp,smopia.com,conveni-now.com,iqos-laboratory.com##div[class^="ads-tag"]
 supari.jp##div[class^="c-ads-tag"]
 
