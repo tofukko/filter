@@ -895,7 +895,6 @@ _ads.js.
 ||pachinkas.net/p-ad
 ||pawoo.net/packs/media/pawoo/images/about/banner-
 ||photozou.jp/script/ad_sticky.js?
-||piapro.jp/images/ads/
 ||python.jp/ext/$xmlhttprequest
 ||repsoku.net/amazon.html$subdocument
 ||scienceplus2ch.up.seesaa.net/common/sitejack.js$domain=scienceplus2ch.com
@@ -2869,9 +2868,6 @@ peko-step.com###rescentinner:style(padding-right: 0 !important;)
 photosku.com##.ap-block-ar
 photosku.com#?#.hdg-c:-abp-contains(売れ筋ランキング)
 photozou.jp##[class^="ad_side_"]
-piapro.jp###footer:style(height: 121px !important;padding-top: 20px !important;)
-piapro.jp###main:style(padding-bottom: 210px !important;)
-piapro.jp##div[style="width:300px; height:250px; background-color:#cccccc; margin-bottom:15px;"]
 picmix.com##.ad
 picrew.me##.c_ad_wrapper
 picrew.me##.discovery_list_ad
