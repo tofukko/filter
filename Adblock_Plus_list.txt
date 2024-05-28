@@ -127,7 +127,8 @@ egotter.com##[id^="async-adsense-"]
 
 ! buhitter
 ! 維持 https://twitter.com/ekaki3_net/status/1641231725912293378
-buhitter.com##aside.row[style="display: flex; justify-content: center;height: 320px;overflow:hidden;margin:8px;"]
+buhitter.com###slide_wrap_pc
+buhitter.com##.col.clearfix[style="margin-top: 8px;"]
 ! buhitter.com
 ! https://github.com/tofukko/filter/issues/79
 @@||js.gsspcln.jp/w/ad_format/reward/gnsrwdmod.js$script,domain=buhitter.com
