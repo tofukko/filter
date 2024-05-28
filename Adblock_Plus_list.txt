@@ -2015,6 +2015,7 @@ forzastyle.com##.CLS_reduced
 forzastyle.com##.doublead
 forzastyle.com##.singlead
 forzastyle.com##div[id*="_Infeed_TOP-"]
+freefielder.jp##div[id^="ad_blogbottom"]
 freem.ne.jp##.ad-horizontal-wrapper
 freem.ne.jp##.game-list-ad
 freesoft.tvbok.com###left_box3
