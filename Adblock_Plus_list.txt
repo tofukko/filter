@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/25 16:10
+! 最終更新 2024/05/28 15:13
 !
 
 ! 2024/05/13 
@@ -2460,8 +2460,6 @@ kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
 kokunanmonomousu.com##.Ads__heading
 kokunanmonomousu.com##.Ads__under--permalinks
 kotaro269.com##.ad-box
-kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
-kotobank.jp##div[class$="word-ad"]
 kouryakuwiki.com##.googleads
 ktkm.net###custom_html-43
 kumanichi.com##[id^="block-"][id*="-banner"]
@@ -6884,6 +6882,12 @@ iwb.jp##+js(noeval-if, /chp_?ad/)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/137131
 kledgeb.blogspot.com##+js(abort-current-script, document.getElementById, _0x)
 kledgeb.blogspot.com##body > div[style="visibility: hidden;"]:style(visibility: visible !important;)
+
+! kotobank.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/179614
+kotobank.jp##+js(nostif, return, 7400)
+kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
+kotobank.jp##div[class$="word-ad"]
 
 ! lemino.docomo.ne.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/148073
