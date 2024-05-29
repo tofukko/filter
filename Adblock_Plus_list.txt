@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/28 15:13
+! 最終更新 2024/05/29 15:11
 !
 
 ! 2024/05/13 
@@ -3206,11 +3206,9 @@ uptodown.com##.ad
 urbanlife.tokyo##[class^="fluct-unit-"]
 ure.pia.co.jp###wrapper #button_id
 ure.pia.co.jp##.anchor
-uta-net.com###banner_original
-uta-net.com###recommend
-uta-net.com###view_amazon
-uta-net.com##.ad-area-b:not(.pc-official-link)
 uta-net.com##.ad-area-c
+uta-net.com##div[class="row ad-area-b"]
+uta-net.com##div[style="min-height:74px;"]
 utaten.com###sidebar > .MediumRectangleBanner
 utaten.com##.footerBanner
 utaten.com##.sideBySideBanner
