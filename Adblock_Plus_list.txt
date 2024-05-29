@@ -3207,6 +3207,8 @@ urbanlife.tokyo##[class^="fluct-unit-"]
 ure.pia.co.jp###wrapper #button_id
 ure.pia.co.jp##.anchor
 uta-net.com##.ad-area-c
+uta-net.com##.ad-billboard
+uta-net.com#?#.ad-area-b:-abp-has(> [class="col-12 p-0 text-center"])
 uta-net.com##div[class="row ad-area-b"]
 uta-net.com##div[style="min-height:74px;"]
 utaten.com###sidebar > .MediumRectangleBanner
