@@ -753,6 +753,7 @@ _ads.js.
 ||imagefreak*.com^
 ||javhd.com/sb/$third-party
 ||lancers.jp/img/affiliate/
+||live.primis.tech^$third-party
 ||mgstage.com/afscript/
 ||mgstage.com/js/mgs_Widget
 ||mgstage.com/php/api/widget_affiliate.php
@@ -3212,10 +3213,12 @@ uta-net.com#?#.ad-area-b:-abp-has(> [class="col-12 p-0 text-center"])
 uta-net.com##div[class="row ad-area-b"]
 uta-net.com##div[style="min-height:74px;"]
 utaten.com###sidebar > .MediumRectangleBanner
+utaten.com##.billboardBanner
 utaten.com##.footerBanner
+utaten.com##.list__item[style^="min-height: 120px"]
 utaten.com##.sideBySideBanner
 utaten.com##.topBanner
-utaten.com#?#tbody > tr:-abp-has(> td > aside.sideBySideBanner)
+utaten.com##div[style="text-align: center; min-height: 100px; margin-top: 15px"]
 valorantnews.jp##.header-cls
 vidoza.net##.pvr
 vipcle2.com###text-23
