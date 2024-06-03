@@ -3455,6 +3455,7 @@ itest.5ch.net##[class^="js-ad_iframe"]
 ||akibablog.net/banner-
 ||blog.livedoor.jp/geek/ad-
 ||blog.livedoor.jp/geek/button-ab.html
+akibablog.blog.jp##div[style^="top:0px;position:fixed;z-index:0;left:50%;"]
 akibablog.net##+js(ra, href, .side > font > a:first-child)
 akibablog.net#?#.sidetitle:-abp-has(+ .side > font > a + br:last-child)
 akibablog.net#?#.side:-abp-has(> font > a + br:last-child)
