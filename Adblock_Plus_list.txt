@@ -336,7 +336,7 @@ _ads.js.
 
 .biz/ad/$third-party
 .biz/ads/$third-party
-.com/ad/$third-party
+.com/ad/$~image,third-party
 .com/ads/$third-party
 .jp/ad/$third-party
 .jp/ad_$third-party
