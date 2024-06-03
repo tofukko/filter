@@ -1459,6 +1459,7 @@ _analytics.js?
 30calclub.sakura.ne.jp#?#td[colspan="16"][align="left"] > font:-abp-contains(/^通販情報/)
 373news.com###ad_prinfo
 373news.com##.mns_bn
+4545.to##.ad-banner
 47news.jp###following_ad
 48idol.tv###custom_html-4
 48idol.tv##.ads-above-single-player
