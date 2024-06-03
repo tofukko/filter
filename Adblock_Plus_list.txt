@@ -6764,6 +6764,10 @@ trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
 yakkun.com##.ad + div:style(clear: both !important;)
 
 !------------------- anti adblock -------------------------!
+! CHP
+###container > #footer ~ #go-to-top + div[id][class*=" "]
+###st-ami + div[id][class*=" "]
+
 ! https://github.com/uBlockOrigin/uAssets/issues/8528#issuecomment-1294606224 
 ||npttech.com/advertising.js$script,redirect-rule=noop.js
 
