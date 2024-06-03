@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/05/29 15:11
+! 最終更新 2024/06/03 21:03
 !
 
 ! 2024/05/13 
@@ -4635,7 +4635,6 @@ supari.jp##div[class^="c-ads-tag"]
 ! キャラメル喫茶
 ! https://caramel-sp.com
 ||caramel-sp.com/ad/
-||caramel-sp.com/fanza/
 caramel-sp.com##.rectangle
 caramel-sp.com###native_1
 caramel-sp.com###native_2
@@ -4645,11 +4644,8 @@ erodouga-s.com##.pc-overlay
 erodouga-s.com##.rectangle
 ! エロムビ
 ! https://eromovie-s.com
-||eromovie-s.com/fanza/
 ||eromovie-s.com/feed/
-eromovie-s.com##.adcontent
-eromovie-s.com##.moviedownload,.itemimage:style(display: block !important;)
-eromovie-s.com##.native
+eromovie-s.com##.movie-watch,.movie-purchase:style(display: block !important;)
 eromovie-s.com##.rectangle
 ! キュント
 ! https://kyunto.com
@@ -4659,11 +4655,6 @@ kyunto.com###movie-embed:style(display: block !important;)
 kyunto.com##.rectangle
 ! まんがみる!
 ! https://manga-mill.com
-||manga-mill.com/ad/
-||manga-mill.com/fanza/
-||manga-mill.com/rss/*_rand.php?
-manga-mill.com##.adrectangle
-manga-mill.com##[id^="fanza_"]
 ! メルティーノベル
 ! https://melty-novel.com
 melty-novel.com##div[class^="iads_"]
@@ -4674,7 +4665,7 @@ purple-novel.com##div[class^="iads_"]
 purple-novel.com##.rectangle
 ! milky
 ! https://milk-key.com
-||caramel-sp.com/feed/native_
+||ad-move.jp^
 ||milk-key.com/ad/
 ||milk-key.com/af/
 milk-key.com###adplace
