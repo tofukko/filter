@@ -3465,15 +3465,16 @@ akibablog.net##.side > font > .link:first-child:style(text-decoration: none !imp
 !jack
 blog.livedoor.jp##script[src="http://blog.livedoor.jp/geek/settings/ad.js"] ~ div[style^="top:0px;position:fixed;"]
 
-! --- akinator.com --- !
+!g --- akinator.com --- !
 /cmbdv2.js
 /detroitchicago/houston.js
 /greenoaks.gif?
-/porpoiseant/*
-||ezodn.com^
+/porpoiseant/*$script
+||go.ezodn.com^
 ||quantserve.com^
 /imp.gif?
 ##.adtester-container
+##.ezmob-footer
 
 ! --- allabout.co.jp --- !
 ||aacdn.jp/app/aa-front/js/pc/aa/ad_$domain=allabout.co.jp
