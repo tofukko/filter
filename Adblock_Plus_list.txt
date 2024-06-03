@@ -778,6 +778,7 @@ _ads.js.
 ||a.konachan.net^$domain=konachan.com
 ||ad.land.to^$domain=land.to
 ||adultblogranking.com/ad_frame.php?
+||afsgames.com/top-ad.css
 ||akiba-souken.com/js/ad_
 ||akiba-souken.com/js/ad/
 ||angel-bbs.com/ssi/koukoku_
@@ -1516,6 +1517,7 @@ adultblogranking.com##.ads-a
 adultblogranking.com##.rank > li[id]
 adultcomic.dbsearch.net##.pc-h90
 afpbb.com##.bnr
+afsgames.com##.ad970x250:style(height: 0 !important;margin-top: 45px!important;)
 aikatu.jp###custom_html-2
 aikatu.jp##.main_ad
 akiba-souken.com###adGameRanking
