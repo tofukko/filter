@@ -3624,6 +3624,7 @@ benesse.ne.jp##[style="min-height: 300px;"]
 ! --- biglobe --- !
 biglobe.ne.jp###h_bar
 biglobe.ne.jp##.bl-top-square
+news.biglobe.ne.jp##.adsense
 news.biglobe.ne.jp##[class^="news-ad-square-"]
 news.biglobe.ne.jp###SPbanner
 news.biglobe.ne.jp###gadsOverlayUnit
