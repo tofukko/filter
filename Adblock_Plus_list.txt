@@ -6939,7 +6939,7 @@ motorsport.com##.ms-hapb
 
 ! nakiny.com
 ! https://github.com/tofukko/filter/issues/86
-nakiny.com##+js(nostif, ai_adb)
+	!nakiny.com##+js(nostif, ai_adb)
 
 ! nazology.net
 ||nazology.net/wp-content/themes/nazology/js/adb/
