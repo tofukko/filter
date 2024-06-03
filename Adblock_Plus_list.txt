@@ -884,6 +884,7 @@ _ads.js.
 ||matomedane.jp/js/adv/
 ||matomedane.jp/js/right_navi/
 ||medibang.com/viewer/fixedAds/
+||meiwasuisan.com/ad_banner/
 	!minnano-av.com
 ||minnano-*.com/top_center_bn/
 ||mona-news.com/ad-*.js
