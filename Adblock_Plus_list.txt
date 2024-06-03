@@ -3851,9 +3851,11 @@ exblog.jp##[class*="list" i] > .ss
 
 ! --- exploader.net --- !
 ||dmm.co.jp^$domain=exploader.net
-||lvtag.com^$third-party
 exploader.net##[class^="d_"]
 exploader.net##aside > .word + .tag + div
+exploader.net##div[style^="height: 305px;display: flex;align-items: center;"]
+exploader.net##div[style="width: 1120px;margin-left: -63px;margin-bottom: 5px;height: 450px;display: flex;align-items: center;"]
+exploader.net##li[style="clear: left;width: calc(100% + 3px) !important;margin-right: -1px;height: 120px;margin-left: -2px;float: none;display: block !important;"]
 
 ! --- famitsu.com --- !
 famitsu.com##aside[class^="SponsorLink_sponsorLinkContainer__"]
