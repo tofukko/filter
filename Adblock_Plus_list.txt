@@ -2509,8 +2509,10 @@ loveh.org##a[href^="https://www.dmm.co.jp/"]
 lurenewsr.com##.ad_square_sidebar
 lyrical-nonsense.com#?#.lyricside:-abp-has(> [id^="ezoic-pub-ad-placeholder-"])
 lyrical-nonsense.com##.playblockbtmcon
+lyrical-nonsense.com##.playblocktop
 lyrical-nonsense.com##.responsive0inc
 lyrical-nonsense.com##.responsive1inc
+lyrical-nonsense.com##.responsive3inc
 macsoft.jp##.freebox
 macsoft.jp##.home-post
 macsoft.jp##.post-widgets-top
