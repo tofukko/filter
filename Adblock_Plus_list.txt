@@ -4777,6 +4777,10 @@ msn.com##.nativeadserversidecontentmodule
 msn.com##.sameoab_ad_container
 msn.com##div[class^="displayAds"]:upward(1)
 !news
+msn.com###div[id^="mrr-topad-"]
+msn.com##.consumption-page-banner-wrapper
+msn.com##.ad-slot-placeholder
+msn.com##above-river-block
 msn.com###displayAdCard
 msn.com##.articlePage_eoabNativeAd-DS-EntryPoint1-1
 msn.com##div[class*="_topBannerAdContainer_"]
