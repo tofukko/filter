@@ -439,7 +439,6 @@ _ads.js.
 ||blog-koukoku.com^$third-party
 ||buysellads.com^$third-party
 ||camads.net^$third-party
-||caribbeancom.com^$third-party
 ||casalemedia.com^$third-party
 ||checkm8.com^$third-party
 ||clickfuse.com^$third-party
@@ -459,6 +458,8 @@ _ads.js.
 ||dl-rms.com^$third-party
 ||dt00.net^$third-party
 ||dt07.net^$third-party
+||dtiserv.com^$third-party
+||dtiserv2.com^$third-party
 ||e-click.jp^$third-party
 ||ebis.ne.jp^$third-party
 ||eisys-bcs.jp^$third-party
@@ -3791,18 +3792,6 @@ doucolle.net##iframe[src="http://doucolle-kako.livedoor.biz/pick-top_02.html"]:s
 doucolle.net##.ad2
 doucolle.net,doucolle-kako.livedoor.biz##[href^="https://www.e-nls.com/access.php"]
 doucolle-kako.livedoor.biz###l_info > li:nth-last-child(-n+6)
-
-! --- dtiblog --- !
-||dtiserv.com^$third-party
-||dtiserv2.com^$third-party
-||dtiblog.com/pr_ad/
-||dtiblog.com*/blog_ppv/
-||dtiblog.com*/kokuchi/
-||analyzer*.dtiblog.com^
-||dtiblog.com/hist_count.php
-dtiblog.com,~staff.dtiblog.com###ad2
-dtiblog.com###wrapper_header
-dtiblog.com##script[src="https://xxx.dtiblog.com/pr_ad/ad.js"] + div[style="text-align:center;"]
 
 ! --- eiga.com --- !
 eiga.com##.amazon-item
