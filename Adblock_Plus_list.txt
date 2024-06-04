@@ -2464,6 +2464,7 @@ kokuban.in##div[style="margin-top:15px; padding:5px 0px; text-align:center; font
 kokugo.jitenon.jp##.kanjirighttb:style(margin-bottom: 30px !important;)
 kokunanmonomousu.com##.Ads__heading
 kokunanmonomousu.com##.Ads__under--permalinks
+kongregate.com##.bg-gray-800.rounded-\[8px\]
 kotaro269.com##.ad-box
 kouryakuwiki.com##.googleads
 ktkm.net###custom_html-43
