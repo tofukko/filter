@@ -1965,7 +1965,7 @@ erogazoo555.com##.bbsarea
 erogazooo.club###top_pr
 erogazooo.club##.bbsarea
 erogazooo.club##.pcad
-erogazopple.com###index-content > [id^="text-"]
+erogazopple.com##.post_content_ad
 erogazoufactory.com###main-top-widget > [id^="text-"]
 eroido.jp##[class^="adv_"]
 erologz.com##.bann
