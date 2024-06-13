@@ -24,6 +24,7 @@ wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 ! 2023/06/30 サ終
 ! --- garanger.net --- !
 ||gamushara.jp/pr/
+||liberty-net.jp/bana/
 ||palpis.net/js/blogparts/parts.js
 ||ajfnee.com^
 ||andhub.jp^
