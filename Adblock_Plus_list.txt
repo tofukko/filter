@@ -5968,8 +5968,8 @@ mediafire.com##+js(aeld, click, ClickHandler)
 bipblog.com###TopAmazon
 bipblog.com###BottomAmazon
 bipblog.com##.amachazl-box
-bipblog.com##[href^="https://ad.adpon-affi.net/ad/p/r?"]
-bipblog.com##[href^="https://ratel-ad.com/link.php?"]
+bipblog.com##a[href^="https://ad.adpon-affi.net/ad/p/r?"]
+bipblog.com##a[href^="https://ratel-ad.com/link.php?"]
 
 !fig速
 ||figsoku.net/rank/load.php?
