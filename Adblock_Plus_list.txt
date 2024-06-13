@@ -2791,8 +2791,6 @@ okazurand.net##.ado-widgets
 okazurand.net##.affiliateapi
 okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
 okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
-okmusic.jp##.banner_frame
-okmusic.jp##.right-ad_frame
 okwave.jp###fluct-pc-sticky-ad
 okwave.jp##.adfunnel_header_block
 okwave.jp##.adfunnel_list_under
