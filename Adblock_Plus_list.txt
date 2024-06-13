@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/06/06 20:26
+! 最終更新 2024/06/13 22:01
 !
 
 ! 2024/05/13 
@@ -6748,8 +6748,11 @@ sn-jp.com#@#.diver_widget_adarea
 tofukko.com#@#.ad-area
 	! https://github.com/tofukko/filter/issues/58
 trafficnews.jp##.swiper-slide[data-history^="photo_extra"]:remove()
-	! https://github.com/tofukko/filter/issues/12 float
+	! https://github.com/tofukko/filter/issues/12
 yakkun.com##.ad + div:style(clear: both !important;)
+	! https://github.com/tofukko/filter/issues/93
+yuik.net#@#[id][class*="post-"] div[id*="-"][class*="-"][class*="%e"]
+yuik.net#@#.advads-widget
 
 !------------------- anti adblock -------------------------!
 ! CHP
