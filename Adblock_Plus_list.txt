@@ -1974,6 +1974,7 @@ erologz.com##.bann + .flex-container + .button010
 erologz.com##.bann + .ssh2
 erologz.com##.bann + .ssh2 + .flex-container
 erologz.com##.bann + .ssh2 + .flex-container + .button010
+eromazofu.com##.c_c_b_w
 eromazofu.com##.c_c_t_w
 erommd-street.com##.content [style*="z-index:"]
 erommd-street.com##.content [style^="position: absolute;"]
