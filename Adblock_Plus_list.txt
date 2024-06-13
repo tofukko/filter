@@ -747,6 +747,7 @@ _ads.js.
 ||e-nls.com/pict_af/
 ||free-video-movie.com^
 ||gcolle.net/v1/blogparts.js
+||golden-gateway.com/ad/
 ||hogei.info^
 ||i-section.net/rakuten_ranklet/$third-party
 ||i-section.net/ranklet/$third-party
