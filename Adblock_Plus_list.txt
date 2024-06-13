@@ -5090,6 +5090,7 @@ plaza.rakuten.co.jp###commonAdsParts
 plaza.rakuten.co.jp#?##content-sticky > table[width="330px"]:-abp-has(.side_title:-abp-contains(/^PR$/))
 plaza.rakuten.co.jp##div[id^="div-plaza-point-ad-"]
 recipe.rakuten.co.jp##.box_banner--top
+recipe.rakuten.co.jp##.bt_app-ad_area
 recipe.rakuten.co.jp##.field_search__reccomend
 recipe.rakuten.co.jp##.ranking_recommend_recipe
 recipe.rakuten.co.jp##.recommend_official_recipe
