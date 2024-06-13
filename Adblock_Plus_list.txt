@@ -4498,6 +4498,21 @@ vidmoly.*###dos_vlock
 ! --- kyokugen.info --- !
 ##.ad_desc
 
+! --- kyosui.net --- !
+||kyosui.net/ib/img/Dugasq/
+||kyosui.net/ib/img/Dugamsa/
+||kyosui.net/ib/img/Dugamsb/
+||kyosui.net/ib/img/Fanza/
+||kyosui.net/ib/img/Mddugab/
+||kyosui.net/ib/img/Msudua/
+||kyosui.net/ib/img/Mddugaa/
+||kyosui.net/ib/img/Mdugaa/
+kyosui.net##.dtable
+kyosui.net##.prm
+kyosui.net##[href^="https://click.duga.jp/ppv/"]
+kyosui.net###opacity-style.subbox:nth-of-type(3)
+kyosui.net##.bdotted[style="text-align:center; margin-top:10px;"]:style(height: 0 !important;border: 0 !important;)
+
 ! --- leaked.jp --- !
 ||leaked.jp/pc-side-aztool-
 leaked.jp###execphp-44 > .execphpwidget > div[style^="margin:"]:nth-last-child(-n+2)
