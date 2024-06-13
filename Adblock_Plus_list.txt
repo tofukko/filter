@@ -1351,7 +1351,6 @@ _analytics.js?
 ||so-zou.jp/js/ga.js
 ||smp.sankei.co.jp^
 ||square-enix.com/sitestratos/ss_squareenix.js
-||tv-asahi.co.jp/common/js/analysis*.js
 ||wikimedia.org/geoiplookup
 ||zokugo-dict.com^*/ac.js
 
@@ -3190,9 +3189,6 @@ tsumanne.net###amazon
 tsumanne.net###cm
 tumadouga.jp##.index_banner_space:not(.index_banner_space_02):not(.index_banner_space_06)
 tumadouga.jp##div[id^="index_banner_space"] > div[class^="text-center"]
-tv-asahi.co.jp###rectangle-desktop
-tv-asahi.co.jp##.common-header-pc-v2__commonHeader--koWP-:style(padding-top: 0 !important)
-tv-asahi.co.jp##.init-ad
 tv-tokyo.co.jp##.rectangle
 tv-tokyo.co.jp##.tbcms_ad-block
 tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
@@ -5341,6 +5337,15 @@ townnews.co.jp##.googleAdSense
 townnews.co.jp##.pr
 townnews.co.jp##.sideBnr
 
+!--- tv-asahi.co.jp --- !
+||tv-asahi.co.jp/common/js/analysis*.js
+tv-asahi.co.jp###rectangle-desktop
+tv-asahi.co.jp##.common-header-pc-v2__commonHeader--koWP-:style(padding-top: 0 !important)
+tv-asahi.co.jp##.init-ad
+douga.tv-asahi.co.jp##[class|="common-box-ad"]
+	! https://github.com/tofukko/filter/issues/40
+@@||googletagmanager.com/gtm.js$script,domain=tv-asahi.co.jp
+
 ! --- tver.jp --- !
 ||tver.jp/web/TEAD_banner_ui/
 tver.jp##[class^="floating-companion-ad-slot_host__"]
@@ -6608,8 +6613,6 @@ etude000.com##.top-ad
 @@||googletagmanager.com/gtm.js$script,domain=sportiva.shueisha.co.jp
 	! https://github.com/hirorpt/filters/commit/5b41ca5e9a58de697459ef5c98132f131e887c15
 @@||googletagmanager.com/gtm.js$script,domain=stage.parco.jp
-	! https://github.com/tofukko/filter/issues/40
-@@||googletagmanager.com/gtm.js$script,domain=tv-asahi.co.jp
 	! https://github.com/easylist/easylist/pull/8195
 @@||googletagmanager.com/gtm.js$script,domain=viviennewestwood-tokyo.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/75260
