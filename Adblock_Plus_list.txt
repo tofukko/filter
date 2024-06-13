@@ -2804,6 +2804,11 @@ okwave.jp##.following_buttons:style(bottom: 0 !important;)
 ! https://okbizcs.okwave.jp/mori.nc-net/
 okbizcs.okwave.jp##.c-ad-box
 olive-hitomawashi.com##[style^="display: inline-block; min-width: 300px; min-height: 250px;"]
+olympics.com###grid-container:has(> .story__ad)
+olympics.com###header-adv-banner
+olympics.com##.ad-margin-big
+olympics.com##.adv__leaderboard
+olympics.com##.header-ad-slot
 omocoro.jp##.ad
 onagazou.info###overlay_area
 onagazou.info##+js(set, pum_vars, undefined)
