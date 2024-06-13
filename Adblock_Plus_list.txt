@@ -5,6 +5,11 @@
 ! 最終更新 2024/06/13 22:01
 !
 
+! 2024/06/04
+! 必要なくなったかも 様子見
+||gaugau.futabanet.jp/sr/parts/gamoverlay.js
+||gaugau.futabanex.jp/sr/parts/gamoverlay.js
+
 ! 2024/05/13 
 mmm.me###imadv
 
@@ -3967,8 +3972,6 @@ futaman.futabanet.jp##.ad-billboard
 gaugau.futabanet.jp##.ad-billboard
 gaugau.futabanet.jp##._popIn_recommend_header
 gaugau.futabanet.jp##.r-ad-rectangle
-||gaugau.futabanet.jp/sr/parts/gamoverlay.js
-||gaugau.futabanex.jp/sr/parts/gamoverlay.js
 reader.futabanet.jp##._popIn_recommend_header
 reader.futabanet.jp##.r-ad-rectangle
 taishu.jp##body:style(min-width: 1100px !important;)
