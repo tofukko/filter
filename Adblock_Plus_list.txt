@@ -1880,8 +1880,6 @@ digiday.jp##.advertisement
 discogs.com##.ads-ad
 diskgarage.com##.ads
 diskgarage.com##.cm_ads
-dl-x.com##._ad
-dl-x.com##.vip-center
 dokuha.jp###ad-wall-first-view
 dokuha.jp##.owl-item > div.ad-wrapper:upward(1)
 dotpict.net##[id^="ads"]:upward(1)
@@ -3761,6 +3759,12 @@ news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
 ||blog.livedoor.jp/diet2channel/js/adtop.js
 blog.livedoor.jp###YDNA
 blog.livedoor.jp###YDNB
+
+! --- dl-x.com --- !
+||orbsrv.com^
+||dl-x.com/iframe/ad/
+dl-x.com##._ad
+dl-x.com##.vip-center
 
 ! --- dmm --- !
 ||aztool.org$third-party
