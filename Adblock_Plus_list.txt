@@ -4319,10 +4319,10 @@ itmedia.co.jp##div[id$="InFeedNative"]
 atmarkit.itmedia.co.jp###globalHeaderMiddle
 atmarkit.itmedia.co.jp###header_ad
 atmarkit.itmedia.co.jp###ITN
-nlab.itmedia.co.jp###globalHeader
-nlab.itmedia.co.jp##.bannar
-nlab.itmedia.co.jp##.headerbannar
+nlab.itmedia.co.jp###globalHeader:style(min-height: 0 !important;margin: 0 !important;)
 nlab.itmedia.co.jp##div[style="text-align:center;margin:40px 0;"]
+nlab.itmedia.co.jp##.gad
+nlab.itmedia.co.jp###masterSub > div[id^="logly-lift-"]
 
 ! --- iwara.tv --- !
 ||ero-labs.com^$domain=iwara.tv
