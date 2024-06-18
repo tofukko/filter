@@ -2687,6 +2687,7 @@ mudainodocument.com##.adset-Cover
 mudainodocument.com##.article-body-inner [href^="https://px.a8.net/"]
 muragon.com##.footer-adarea
 muragon.com##div[class^="adarea"]
+music-book.jp##.dsp-in-block
 musmus.main.jp##div[class*="ad_"]
 musmus.main.jp##div[id^="sub_ad"]
 mutyun.com##.amazon-auto-links-widget
