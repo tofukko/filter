@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/06/13 22:01
+! 最終更新 2024/06/18 21:56
 !
 
 ! 2024/06/04
@@ -1534,8 +1534,6 @@ alba.co.jp###header_lower
 alba.co.jp##.result_table > tbody > tr:nth-child(16n):not([class]):remove()
 	sokuho.alba.co.jp##.table-w650-live tr:nth-child(16n):not([class]):remove()
 allcinema.net###area-site-header-ad
-altema.jp###\30 2.exclude-h2-cnt
-altema.jp##.tableLine.PRrank-icon2
 ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
 ani-chat.net###execphp-63
@@ -3404,7 +3402,7 @@ xn--1-td6bm19b.com###space3
 00m.in###url:style(display: block !important;)
 
 ! --- 5ch pink --- !
-||i2ad.jp^
+||i2ad.jp^$third-party
 ||thench.net^
 ||5ch.net/css/ad.css
 ||5ch.net/js/ad_on_mango.js?
@@ -3521,6 +3519,17 @@ alphapolis.co.jp##+js(ra, oncontextmenu)
 alphapolis.co.jp##+js(ra, style, div#novelBoby, stay)
 alphapolis.co.jp##+js(set, document.onselectstart, null)
 alphapolis.co.jp##+js(set, document.oncontextmenu, null)
+
+! --- altema.jp --- !
+altema.jp##.tableLine.PRrank-icon2
+altema.jp##.koukoku_common_tag
+altema.jp##div[id^="adpc"]
+! https://altema.jp/pokemoncard/
+||altema.jp/pokemoncard/js/ad_random.js
+altema.jp##.ad_random_tag
+! https://altema.jp/bcgame/
+altema.jp##.overrayBox_01
+altema.jp##.joubu-rank02
 
 ! --- angelfire.com --- !
 ||angelfire.com/adm/
@@ -5158,7 +5167,7 @@ rancolle.com##.ri_box.undisplay_s600
 !||popin.cc/searchbox/
 ##._popIn_recommend_article_ad
 ##._popIn_recommend_article_ad_reserved
-	!||rtoaster.jp^$third-party
+||rtoaster.jp^$third-party
 ||outbrain.com^$third-party
 ||speee-ad.akamaized.net^
 ||taboola.com^$third-party
