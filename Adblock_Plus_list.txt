@@ -5805,6 +5805,10 @@ amazon.co.jp##div[id^="sp_detail"]
 ||fc2.com/share/image/banner_
 ||2nt.com/js/blog/headbar_ad_load.js
 ||2nt.com/js/blog/ad_ref.js
+! archive用
+||web.archive.org^*.i-mobile.co.jp/
+||web.archive.org^*.fc2.com/js/blog/ad_ref.js?
+||web.archive.org^*.owldata.com/
 
 !video.fc2.com
 ||fc2.com/video/img/b/
