@@ -1401,6 +1401,9 @@ _analytics.js?
 ##[id^="div_fam_async_"]
 ##a[href*="nxcount.com/AdClick/"]
 
+! ezoic
+##span[data-ez-ph-id]
+
 ! ameblo
 ! 	#freespace
 ! cocolog-nifty.com
