@@ -1933,6 +1933,7 @@ ekitan.com##.sidebar-ad-item
 ekitan.com##[class^="ek-forward-display-l_middle_"][style="margin:0 auto; width:728px;"]
 ekitan.com##[class*="ek-route-advertising-no-"]
 elog-ch.net##.relatedad
+encount.press##+js(aopr, document.referrer, isFromCrossHost)
 ent.smt.docomo.ne.jp##.ad_rectangle_article_outer
 entamega.com###ad_right-column01
 entnavi.com##.doublerec_css
