@@ -3751,6 +3751,9 @@ coolrom.com.au##td[colspan="2"][width="100%"][bgcolor="#000000"][align="center"]
 coolrom.com.au##div[style="min-height:250px;"]
 coolrom.com.au##+js(set-constant, time, 0)
 
+! --- danbooru系 --- !
+gelbooru.com##.headerAd
+
 ! --- danna-shine.com --- !
 ! https://danna-shine.com/
 danna-shine.com###text-18
