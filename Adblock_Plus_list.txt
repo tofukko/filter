@@ -3315,6 +3315,7 @@ www.ne.jp##:matches-path(/asahi/asame/shinbun/) td[rowspan="2"][valign="middle"]
 www.ne.jp##:matches-path(/asahi/asame/shinbun/) p > font[size="-1"] > :is(a[href^="https://amzn.to/"], a[href^="https://www.amazon.co.jp/"]):upward(p)
 www.ntv.co.jp###ad
 www.ntv.co.jp###topad
+www.ntv.co.jp##.ntv-box-adBanner
 www-creators.com##.adsense
 x-feeder.info##div[style^="width: 300px; height: 250px"]
 x-feeder.info##div[style*="width: 728px; height: 90px"]
