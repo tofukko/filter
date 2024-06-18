@@ -6636,6 +6636,8 @@ etude000.com##.top-ad
 @@||googletagmanager.com/gtm.js$script,domain=stage.parco.jp
 	! https://github.com/easylist/easylist/pull/8195
 @@||googletagmanager.com/gtm.js$script,domain=viviennewestwood-tokyo.com
+	! https://github.com/tofukko/filter/issues/94
+@@||googletagmanager.com/gtm.js$script,domain=wpb.shueisha.co.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/75260
 @@||googletagmanager.com/gtm.js$script,domain=ymobile.jp
 	! ユーザーローカルAIコメント
