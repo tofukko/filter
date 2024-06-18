@@ -3131,8 +3131,9 @@ swiki.jp##.rkmark
 swiki.jp##[id^="ads_menubar_"]
 syokuraku-web.com###text-64
 syosetu.com##[class^="koukoku_"]
+syosetu.org##div[data-cptid]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
-syosetu.org##div[style^="margin:0 auto;height:"][style$="px;"]
+syosetu.org##div[style*="margin:0 auto;height:"][style$="px;"]
 tabanavi.com##.widget_st_custom_html_ad_widget
 tabelog.com##.rstdtl-cmad
 tabelog.com##.side-adbanner-wrap
