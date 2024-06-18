@@ -6669,6 +6669,8 @@ etude000.com##.top-ad
 @@||googletagmanager.com/gtag/js$script,domain=kawasaki.com
 	! https://github.com/tofukko/filter/issues/44
 @@||grandjump.shueisha.co.jp/original/*/analytics.js$script,domain=grandjump.shueisha.co.jp
+	! https://github.com/tofukko/filter/issues/95
+@@||guinnessworldrecords.jp/ezais/analytics?$xmlhttprequest,domain=guinnessworldrecords.jp
 	! https://github.com/tofukko/filter/issues/39
 @@||harta.jp/bib/i/extensions/analytics/analytics.js$script,domain=harta.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/140718
