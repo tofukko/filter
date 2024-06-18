@@ -2408,6 +2408,7 @@ kakuyomu.jp#?#div[class^=" Gap_size"] > div[class^="Layout_"]:-abp-has(> div[cla
 kakuyomu.jp##[class*="widget-ad-"]
 kamigame.jp###ad_overlay
 kamigame.jp###ad_footer
+kamigame.jp###overlay_ad_pc
 kamigame.jp###pc-overlay-base
 kamigame.jp##[id^="ad_"][id$="_wrapper"]
 kamigame.jp##[id^="ad_right_"]
