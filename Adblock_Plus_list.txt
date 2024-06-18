@@ -2837,8 +2837,11 @@ orangepage.net##.recipeBlock.clearfix.pr
 oreno3d.com###full-size-ol
 oreno3d.com,erommdtube.com##div[style^="display: block; position: absolute; top: 0px; left: 0px"]
 oricon.co.jp###orecView2:style(margin-top: 0 !important;)
+oricon.co.jp###orecView ~ div[style]
 oricon.co.jp##.block-ads-yahoo
 oricon.co.jp##.block-header-banner-wrapper
+oricon.co.jp##.block-banner
+oricon.co.jp##.block-sub-news tbody:nth-of-type(6n)
 oricon.co.jp##.block-sub.block-sub-ad + .block-sub:style(margin-top: 0px !important;)
 oricon.co.jp##.infeed
 	beauty.oricon.co.jp##.Billboard-ad
