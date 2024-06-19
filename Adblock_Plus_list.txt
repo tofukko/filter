@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/06/18 21:56
+! 最終更新 2024/06/19 14:35
 !
 
 ! 2024/06/04
@@ -3880,6 +3880,7 @@ exblog.jp##[class*="list" i] > .ss
 ||dmm.co.jp^$domain=exploader.net
 exploader.net##[class^="d_"]
 exploader.net##aside > .word + .tag + div
+exploader.net##div[data-pr]
 exploader.net##div[style^="height: 305px;display: flex;align-items: center;"]
 exploader.net##div[style="width: 1120px;margin-left: -63px;margin-bottom: 5px;height: 450px;display: flex;align-items: center;"]
 exploader.net##li[style="clear: left;width: calc(100% + 3px) !important;margin-right: -1px;height: 120px;margin-left: -2px;float: none;display: block !important;"]
