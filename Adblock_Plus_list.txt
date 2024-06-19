@@ -1987,6 +1987,7 @@ erommd-street.com##.content [style^="position: absolute;"]
 eropuru.com##.plugin_ad_box
 ertk.net###banner1
 ertk.net##.dmm-ranking
+estar.jp##div[style$="min-width: 250px; min-height: 300px;"]
 exhentai.org,e-hentai.org###spa
 facebook.com##.adv
 facebookcorewwwi.onion##.adv
