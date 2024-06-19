@@ -3246,6 +3246,7 @@ vippers.jp##.ad
 vippers.jp##.blog-card-gtm > .blog-card.pr
 vivi.tv##.adsArea
 vogue.co.jp##.ad
+vogue.co.jp##.ad-stickyhero
 voguegirl.jp##.js-ad
 voltechno.com###top-container-widget
 voltechno.com##.single_ads
