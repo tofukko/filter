@@ -4914,8 +4914,7 @@ eromanga-show.com,hentai-one.com,hentaipaw.com##div[id^="ts_ad_native_"]
 eromanga-show.com,hentai-one.com,hentaipaw.com##.external
 eromanga-show.com,hentai-one.com,hentaipaw.com##.header-ad
 eromanga-show.com,hentai-one.com,hentaipaw.com##.middle-ad
-eromanga-show.com,hentai-one.com,hentaipaw.com##+js(nostif, f(!0), 800)
-
+eromanga-show.com,hentai-one.com,hentaipaw.com##+js(nostif, /[a-z]\(!0\)/, 800)
 ! --- nicovideo ニコニコ動画 --- !
 ||ads.nicovideo.jp^
 ||nimg.jp/web/scripts/common/tracking/google_analytics.js?
