@@ -2579,6 +2579,7 @@ mangaz.com###scroll-adv
 mantan-web.jp##.ad-links
 mantan-web.jp##.ad-rec
 mantan-web.jp##.ad-wrap
+mantan-web.jp##.ad_text
 mantan-web.jp##[style^="width:728px;height:90px;"]
 maonline.jp##.ad_box
 maonline.jp##.mgnT60.mgnB60
@@ -2601,7 +2602,6 @@ mbs.jp##.ad
 mbs.jp##.ad-component
 mcsg.co.jp##p[style="color: #666; text-align: center;"]
 mdpr.jp##.c-adBottomOverlay
-meaning.jp##.l-contentsSub > .u-mb-10
 media.finasee.jp##div[style="width: 100%; min-height:90px; margin: 0 auto;"]
 media.finasee.jp##div[style="width: 100%; min-height:250px; margin: 0 auto;"]
 media.finasee.jp##.m-articles__side-articles-ranking-list-item[style="display: block;"]
