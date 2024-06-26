@@ -60,6 +60,8 @@ togetter.com##.ad_list_top
 togetter.com##.ad_rectangle
 togetter.com##.ad_topics_custom
 togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
+! ログアウト時
+togetter.com##.ad_glia
 ! Twilog favolog
 ! https://twitter.com/ropross/status/1641353674046992385
 ! 再開 https://twitter.com/ropross/status/1661193739145195521
