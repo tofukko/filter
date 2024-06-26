@@ -2346,6 +2346,7 @@ jm1xtk.com##.web_adber-1
 jma.go.jp,jma-net.go.jp##.ad-pc
 jma.go.jp,jma-net.go.jp##.adClear
 jmty.jp##.p-adsense-list-right-column-high-block
+jmty.jp##.p-custom-search-ad
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
 joker004.blog.fc2.com##[style^="width:728px;height:90px"]
@@ -5194,6 +5195,7 @@ rancolle.com##.ri_box.undisplay_s600
 ||taxel.jp^$third-party
 ||logly.co.jp^$third-party
 ||zucks.net$third-party
+||zucks.net.zimg.jp^$third-party
 
 ! --- reverso.net --- !
 reverso.net###rca
