@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/06/19 14:35
+! 最終更新 2024/06/26 13:28
 !
 
 ! 2024/06/04
@@ -5613,7 +5613,6 @@ finance.yahoo.co.jp#?#div[class]:-abp-has(> div[class]:only-child > div[id^="ad_
 finance.yahoo.co.jp#?##contents-body + div > div:first-child > div > div:-abp-has([id^="ad_"])
 finance.yahoo.co.jp#?##contents-body + div > div:last-child > div:-abp-has([id^="ad_"])
 finance.yahoo.co.jp###newslist > div[class^="_"] > div[class^="_"] > ul[class^="_"] > li[class^="_"]
-loco.yahoo.co.jp###yjAdsLrec
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsDetail)
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsListTop)
 mail.yahoo.co.jp#?#div:-abp-has(> #tagYadsSideColumn)
