@@ -2129,7 +2129,7 @@ ginzamag.com##[id^="gn_pc-"][id$="_jack_header"]
 girlswalker.com##.ad_common_header_for_pc
 girlswalker.com##[class^="dfp_"]
 gizmodo.jp##.ad-banner
-gizmodo.jp##.l-ad
+gizmodo.jp##.bnL
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
 goal.com##.aside_ad-rail__cawG6
