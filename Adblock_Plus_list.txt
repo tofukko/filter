@@ -1898,8 +1898,6 @@ douga100ka.jp##.news_ad
 douga100ka.jp##.title_ad01
 douga100ka.jp##div[style="margin-bottom:10px;"] > [href^="https://al.dmm.co.jp/"]
 douga100ka.jp##table[bgcolor="#ff8000"]
-doujinantena.top##.asmr18
-doujinantena.top##.tablink
 downdetector.com##.ad
 downtownreport.net##.ad_overlay
 dqw-game.com##.wrap-ad-common
@@ -2786,9 +2784,6 @@ novelba.com##.exception_flag
 npn.co.jp##.bnr
 numan.tokyo##.sw-Ad
 nuwton.com##[class*="banner-"]
-nyahentai.re##.asmr18
-nyahentai.re##.tablink
-nyahentai.re##div[style="max-width: 1200px; width: 92%; height: 400px; margin: 0 auto 80px auto; background-color: #fff;"]
 o-dan.net###spgLoadAd
 	clone.o-dan.net##.apiRsltAd
 	clone.o-dan.net##.apiRsltFigAd
@@ -4760,13 +4755,21 @@ itf.minkabu.jp##.pageCon_ad
 moeclo.ldblog.jp###main_head_ad
 
 ! --- momon-ga.com --- !
+||creative.*/widgets/spot/
+||creative.*/widgets/v4/Universal?
 momon-ga.com###menu-pr
 momon-ga.com##.asmr18
 momon-ga.com##.tablink
 momon-ga.com##div[style$="width: 92%; height: 400px; margin: 0 auto 80px auto; background-color: #fff;"]
-momon-ga.com#?##main > div.home-h:-abp-has(> a[target="_blank"])
-||creative.*/widgets/spot/
-||creative.*/widgets/v4/Universal?
+momon-ga.com##.home-h:has(> a[href^="https://stripchat.com/"])
+doujinantena.top##.asmr18
+doujinantena.top##.tablink
+doujinantena.top##.home-h:has(> a[href^="https://stripchat.com/"])
+doujinantena.top##div[style$="width: 92%; height: 400px; margin: 0 auto 80px auto; background-color: #fff;"]
+nyahentai.re##.asmr18
+nyahentai.re##.tablink
+nyahentai.re##.home-h:has(> a[href^="https://stripchat.com/"])
+nyahentai.re##div[style$="width: 92%; height: 400px; margin: 0 auto 80px auto; background-color: #fff;"]
 
 ! --- mozakin.com --- !
 !||mozakin.com/auto_updater/dti_get.php?
