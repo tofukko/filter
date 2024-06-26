@@ -3052,6 +3052,9 @@ shikotch.in##div[class*="-ads-"]
 shimotsuke.co.jp##.article-body > .slide-wrapper
 shimotsuke.co.jp##.top-banner
 shimotsuke.co.jp##div[id^="jp_soon_"][style]
+shipping.jp##.banner250
+shipping.jp##.sub_box > h4[style="margin-top:10px;"]
+shipping.jp##.sub_box > h4[style="margin-top:10px;"] + table
 shiroutowiki.work##.p-adBox
 shogi-sanpo.com##.abemaBtn
 shogi-sanpo.com##.ad_double
