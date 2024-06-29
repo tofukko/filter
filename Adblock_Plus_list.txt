@@ -268,7 +268,6 @@ _728_90.
 /aamsz=
 /acc_random=
 /ad.cgi?
-_ad.html|
 /ad.js?slot
 /ad.php?
 /ad1.
@@ -1461,7 +1460,6 @@ _analytics.js?
 0115765.com###bottom
 1000mg.jp##.main-top
 1000mg.jp##div[style^="clear:both;margin-top:0px;margin-"]
-1rk.net##.ad
 ! https://www.hearst.co.jp/digital/web
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.breaker-ad
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.leaderboard-ad
