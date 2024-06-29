@@ -835,7 +835,6 @@ _ads.js.
 ||diced.jp/webs/
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
 ||dlsite.com/js/blogparts.js
-||dmm.co.jp^$domain=jp-xvideos.info
 ||e-typing.ne.jp/app/ad_
 ||eegg.*/ad_html/
 ||eegg.*/js/ad_
@@ -2355,7 +2354,6 @@ jp.wazap.com##.bodyFootBanner
 jp.wazap.com##.fullBanner
 jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
 jp.wazap.com##.pr-ranking
-jp-xvideos.info##[style="width:400px;display: inline-block;"]
 jpnumber.com###sponsor-link
 jpnumber.com##.adsline
 jprime.jp##.ad-overlay
