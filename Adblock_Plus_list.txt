@@ -1196,6 +1196,7 @@ _analytics.js?
 ||mmismm.com^$third-party
 ||mobylog.jp^$third-party
 ||mybloglog.com^$third-party
+||n-analytics.io^$third-party
 ||ninki.net^$third-party
 ||noface.jp^$third-party
 ||nowvisitors.com^$third-party
