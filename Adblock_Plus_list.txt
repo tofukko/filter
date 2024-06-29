@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/06/26 13:28
+! 最終更新 2024/06/29 12:38
 !
 
 ! 2024/06/04
@@ -6417,35 +6417,32 @@ hdzog.*##.video-page__content > div:not([class*="video"])
 hdzog.*##.video-page__row > div:not([class*="video"])
 
 ! regex
-/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party
-! https://github.com/easylist/easylist/issues/6476
+/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party,redirect=noop.js,to=com
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}(?:\?[_v]=\d+)?$/$script,third-party,match-case,redirect=noop.js
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.com\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.website\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/(?:[1-6]\d{4}|[3-9]\d{3})\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
-! https://github.com/easylist/easylist/issues/6471
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.com\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case,to=com
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.website\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,5}\??(?:_=\d+|v=\d)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
 /\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script
-/^https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6}$/$script,xmlhttprequest,third-party
-! https://github.com/easylist/easylist/pull/9330
-/^https:\/\/[0-9a-f]{10}\.[0-9a-f]{10}\.com\/[0-9a-f]{32}\.js$/$script,third-party
+/^https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6,7}$/$script,xmlhttprequest,third-party
+/^https:\/\/[0-9a-f]{10}\.[0-9a-f]{10}\.com\/[0-9a-f]{32}\.js$/$script,third-party,to=com
 ! globalThis
 /^https?:\/\/[0-9a-f]{50,}\.s3\.amazonaws\.com\/[0-9a-f]{10}$/$xmlhttprequest,third-party
 /^https?:\/\/s3\.us-east-1\.amazonaws\.com\/[0-9a-f]{50,}\/[0-9a-f]{10}$/$xmlhttprequest,third-party
 ! propeller new variants
 /^https?:\/\/[a-z]{8,15}\.top(\/(?:\d{1,5}|0NaN|articles?|browse|index|movie|news|pages?|static|view|web|wiki)){1,4}(?:\.html|\/)$/$subdocument,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.top\/[a-z]{4,}\.json$/$xmlhttprequest,third-party,match-case
+/^https?:\/\/[a-z]{8,15}\.top\/(?!api|available|team)[a-z]{4,}\.json$/$xmlhttprequest,third-party,match-case
 /^https?:\/\/[a-z]{8,15}\.top\/[-a-z]{4,}\.css\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$stylesheet,third-party,match-case
 /^https?:\/\/[a-z]{8,15}\.top\/[a-z]{4,}\.png\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$image,third-party,match-case
 /^https?:\/\/[a-z]{8,15}\.xyz(\/(?:\d{1,5}|0NaN|articles?|browse|index|movie|news|pages?|static|view|web|wiki)){1,4}(?:\.html|\/)$/$subdocument,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.xyz\/[a-z]{4,}\.json$/$xmlhttprequest,third-party,match-case
+/^https?:\/\/[a-z]{8,15}\.xyz\/(?!api|available|team)[a-z]{4,}\.json$/$xmlhttprequest,third-party,match-case
 /^https?:\/\/[a-z]{8,15}\.xyz\/[-a-z]{4,}\.css\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$stylesheet,third-party,match-case
 /^https?:\/\/[a-z]{8,15}\.xyz\/[a-z]{4,}\.png\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$image,third-party,match-case
 .top/event|$xmlhttprequest,third-party
 .xyz/event|$xmlhttprequest,third-party
 ! hilltopads
-/^https?:\/\/[-a-z]{6,}\.com?\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
-/^https?:\/\/[-a-z]{6,}\.info\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
-/^https?:\/\/[-a-z]{6,}\.pro\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
-/^https?:\/\/[-a-z]{6,}\.xyz\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case
+/^https?:\/\/[-a-z]{6,}\.com?\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=co|com
+/^https?:\/\/[-a-z]{6,}\.info\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=info
+/^https?:\/\/[-a-z]{6,}\.pro\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=pro
+/^https?:\/\/[-a-z]{6,}\.xyz\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=xyz
 
 ! Mostly taken from AG and seen on various NSFW sites
 /_a_ta/s/s/*
@@ -6468,19 +6465,28 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 /a/na/js/*$third-party
 
 ! pp server
-/^https?:\/\/[a-z]{8,15}\.(?:com|net|xyz)\/5\/\d{6,7}(?:\?_=\d+)?$/$script,third-party
-/^https:\/\/[-a-z]{8,15}\.(?:com|net)\/400\/\d{7}$/$script,third-party
-/^https:\/\/[-a-z]{8,15}\.(?:com|net)\/401\/\d{7}$/$script,third-party
-/^https:\/\/[-a-z]{8,15}\.(?:com|net)\/500\/\d{7}\?/$xmlhttprequest,third-party
+/^https?:\/\/[a-z]{8,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+)?$/$script,third-party
+/^https?:\/\/[a-z]{8,15}\.[a-z]{3}\/5\/\d{7}\/\?/$xmlhttprequest,third-party
+/^https?:\/\/[-a-z]{8,15}\.(?:com|net)\/400\/\d{7}$/$script,third-party
+/^https?:\/\/[-a-z]{8,15}\.(?:com|net)\/401\/\d{7}$/$script,third-party
+/^https?:\/\/[-a-z]{8,15}\.(?:com|net)\/500\/\d{7}\?/$xmlhttprequest,third-party
 /^https?:\/\/[a-z]{8,15}\.(?:com|net)\/tag\.min\.js$/$script,third-party
 ||go.bundlebyte.net^
-||mhskfkinwk.xyz^
-||mpmqqbinaakpsqu.xyz^
-||jaelejgwiu.xyz^
-?oo=1^$xmlhttprequest,third-party
-||groopsie.net^
-||aguwehajqluorgv.com^
-||doopimim.net^
+?oo=1^$xhr,3p
+||ashacauhejoo.com^
+||eavefrom.net^
+||eergortu.net^
+||faituzou.net^
+||oastoamox.com^
+||pekroace.net^
+||phautchiwaiw.net^
+||ptudoalistoy.net^
+||reechoat.com^
+||rghptoxhai.com^
+||shoadseelry.com^
+||wefoonsaidoo.com^
+||zautouchiste.com^
+||zoovagoo.com^
 
 
 .com/src/ppu/
@@ -6509,7 +6515,8 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 /t/9/heis/svewg/*
 /v2/a/push/js/*
 
-/aas/r45d/vki/*$script,3p,redirect=noop.js
+/aas/r45d/vki/*$script,redirect=noop.js
+/^https:\/\/[a-z]{10,12}\.com\/[\/a-z]{2,}\?id=[12]\d{6}$/$script,3p,match-case
 
 !------------------------ホワイトリスト------------------------!
 ! 47club.jp
