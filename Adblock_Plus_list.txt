@@ -2441,7 +2441,7 @@ keisan-mondai.com##.head-ad
 keisan-mondai.com##.nosma
 keisanki.me#?#.block > div.container > div.row > article:-abp-has(> div > div > ins.adsbygoogle)
 kemono.*,coomer.*##+js(aeld, , popMagic)
-kemono.*,coomer.*##[href^="//a.adtng.com/get/"]
+kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
 kenjyaegg.livedoor.blog##.ad_1
 kenjyaegg.livedoor.blog##.kiji_ad01
 keyakizaka46matomerabo.com##.ads
