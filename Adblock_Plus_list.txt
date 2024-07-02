@@ -3162,7 +3162,8 @@ teratail.com##div[class*="_questionBottomAdArea_"]
 tetsudo-ch.com##.ad-dummy
 tetsudo-ch.com##.fixed-ad
 tg-uchi.jp##.topicBanner
-thedigestweb.com##.c-ad-banner--col2 > .c-ad-banner
+thedigestweb.com##.c-ad-banner:not(.-continual)
+thedigestweb.com##.c-ad-banner--col2
 thetv.jp##.ad
 timeout.jp##.ad-mpu
 timeout.jp##[id^="ad-promo-"]
