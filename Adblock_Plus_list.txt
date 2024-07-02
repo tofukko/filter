@@ -2841,9 +2841,9 @@ oricon.co.jp##.infeed
 orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
-otakei.otakuma.net###amazon-article
-otakei.otakuma.net###banner-article
-otakei.otakuma.net##[class^="ad_side_widget_"]
+otakuma.net###amazon-article
+otakuma.net###banner-article
+otakuma.net##[class^="ad_side_widget_"]
 otapol.com###entryAdAmazonArea
 otapol.com##.sideAd
 otonasalone.jp##.adsense
