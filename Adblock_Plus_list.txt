@@ -1457,7 +1457,7 @@ _analytics.js?
 1000mg.jp##div[style^="clear:both;margin-top:0px;margin-"]
 ! https://www.hearst.co.jp/digital/web
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.breaker-ad
-25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.leaderboard-ad
+25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com###gpt-leaderboard-ad
 2ch-c.net#?#li:-abp-has(> .nend_text_ad)
 2chmm.com##.ad
 2nn.jp##.ads
@@ -2185,7 +2185,6 @@ happycampus.co.jp##div[style="width: 160px; height: 600px; margin-bottom: 10px; 
 happycampus.co.jp##div[style="width: 250px; height: 250px; margin-bottom: 10px;  margin-top: 10px;"]
 happycampus.co.jp##div[style="width: 300px; height: 250px; margin-bottom: 10px;  margin-top: 10px;"]
 happycampus.co.jp##div[style="width: 728px; height: 80px; margin-bottom: 10px;  margin-top: 20px; float:left; clear:both;"]
-harpersbazaar.com###gpt-leaderboard-ad
 hattatu-matome.ldblog.jp##.salebox
 hdouga.com##[id^="mhub-hdou"]
 hdouga.com##[class^="d_"]
