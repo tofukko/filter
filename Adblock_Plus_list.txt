@@ -2,13 +2,8 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/06/29 12:38
+! 最終更新 2024/07/02 12:51
 !
-
-! 2024/06/04
-! 必要なくなったかも 様子見
-||gaugau.futabanet.jp/sr/parts/gamoverlay.js
-||gaugau.futabanex.jp/sr/parts/gamoverlay.js
 
 ! 2024/05/13 
 mmm.me###imadv
@@ -7024,6 +7019,7 @@ nazology.net##.amazon__category-af
 nazology.net##.side-adblock
 
 ! nordot.app
+nordot.app##.listPage__ad
 nordot.app##.main__ad
 nordot.app##+js(acis, document.createElement, admiral)
 
