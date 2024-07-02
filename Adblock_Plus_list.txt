@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/02 12:51
+! 最終更新 2024/07/02 19:39
 !
 
 ! 2024/05/13 
@@ -825,7 +825,6 @@ _ads.js.
 ||dabun.net/js/addAmz.js
 ||daily.jp/Koukoku/
 ||dailynewsonline.jp/skin/frontend/js/g_ad.js?
-||ddd-smart.net/ad/
 ||diced.jp/webs/
 ||dlsite.com/js/blog/DLsiteBlogBanner.js
 ||dlsite.com/js/blogparts.js
@@ -3771,6 +3770,11 @@ dokuoya-shine.com##.advertising
 gifubo-shine.com###text-5
 gifubo-shine.com##.advertising
 ! https://rinjin-shine.com/
+
+! --- ddd-smart.net --- ! 
+||ddd-smart.net/ad/
+||mnaspm.com^
+ddd-smart.net##+js(acs, window.onload, univresalP)
 
 ! --- denfaminicogamer.jp --- !
 ||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/js/ranking.js
