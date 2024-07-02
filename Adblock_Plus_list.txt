@@ -2550,11 +2550,6 @@ manga-5.com##.sticky_banners
 manga-comisol.jp##.ad-list
 manga-gai.net##.menu_bottom + hr:style(clear: both !important;)
 manga-yomeru.com##.adbox
-manga-zero.com##.carousel-item:style(padding-bottom: 0 !important;)
-manga-zero.com##.carousel-item__touch:style(width: auto !important;)
-manga-zero.com##.canvas-wrapper:style(position: static !important;width: auto !important;height: 100% !important;)
-manga-zero.com##.viewer-canvas > div:style(height: 100% !important;)
-manga-zero.com##.canvas:style(width: auto !important;)
 mangahack.com##[class^="ad_"]
 mangalove.me##.ad
 mangalove.me##.lastInterstitial
