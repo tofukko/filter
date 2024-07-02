@@ -1782,7 +1782,7 @@ ckworks.jp##div[style="margin:0px 0px 10px 0px; padding:0;"]
 clap.webclap.com##.footer
 clap.webclap.com##div[style="margin:10px 0px 0px;text-align:center;font-size:12px;font-weight:bold;"]
 clicccar.com##.ad-management
-clipconverter.cc##+js(acis, Math, break;case $.)
+clipconverter.cc##+js(acs, parseInt, break;case $.)
 ! きょりタン
 cloudwoods.jp##td[style="vertical-align:top;padding-left:25px;padding-top:5px;"]
 ! はんけい
@@ -2555,7 +2555,6 @@ manga-zero.com##.carousel-item__touch:style(width: auto !important;)
 manga-zero.com##.canvas-wrapper:style(position: static !important;width: auto !important;height: 100% !important;)
 manga-zero.com##.viewer-canvas > div:style(height: 100% !important;)
 manga-zero.com##.canvas:style(width: auto !important;)
-mangabank.org##+js(acis, document.querySelectorAll, popMagic)
 mangahack.com##[class^="ad_"]
 mangalove.me##.ad
 mangalove.me##.lastInterstitial
@@ -3548,7 +3547,7 @@ altema.jp##.joubu-rank02
 ||udmserve.net/udm/
 angelfire.com###lycosFooterAd
 angelfire.com##div[style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999"]
-angelfire.com##+js(acis, document.write, lycos_ad)
+angelfire.com##+js(acs, document.write, lycos_ad)
 
 ! --- artemis --- !
 ||live.fc2.com/liveBlogParts.php$subdocument,domain=artemisweb.jp
@@ -4252,10 +4251,9 @@ hayamimi-gunpla.com##.sticky-ad
 hitomi.la##+js(noeval)
 *$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, open)
-hitomi.la##+js(aopw, _pop)
-hitomi.la##+js(acis, decodeURI, decodeURIComponent)
-hitomi.la##.container > div[class$="content"] > div[class] > script:upward(1)
+hitomi.la##.container > div[class$="content"] > div[class]:has(> script)
 ||ltn.hitomi.la^*?yuo1=$script,~third-party
+hitomi.la##+js(aeld, , popMagic)
 
 ! https://github.com/tofukko/filter/issues/64
 hitomi.la##[class="navbar"]:style(display: flex !important;flex-flow: wrap !important;height: auto !important;)
@@ -6142,16 +6140,13 @@ youpornru.com##.adLinkText
 youpornru.com##[data-tracking="track-close-btn-ad"]
 ##.trafficjunky-float-right
 ! https://github.com/uBlockOrigin/uAssets/issues/2482#issuecomment-395244585
-redtube.*##+js(acis, Object.defineProperty, trafficjunky)
+redtube.*##+js(acs, Object.defineProperty, trafficjunky)
 redtube.*##+js(nowoif)
 redtube.*##+js(set, page_params.holiday_promo, true)
 redtube.*##.abovePlayer
 redtube.*##.adsbytrafficjunky
-redtube.*##.adsbytrafficjunky:upward(li)
+redtube.*##li:has(.adsbytrafficjunky)
 redtube.*##.remove_ads
-!#if env_mobile
-redtube.com#@#[src*="blob:"]
-!#endif
 ! mirror
 9908ww.com,adelaidepawnbroker.com,bztube.com,disputeresolutionfinance.uk,hotovs.com,insuredhome.org,nudegista.com,pornluck.com,vidd.se##+js(set, page_params.holiday_promo, true)
 
@@ -7028,8 +7023,7 @@ nazology.net##.side-adblock
 ! nordot.app
 nordot.app##.listPage__ad
 nordot.app##.main__ad
-nordot.app##+js(acis, document.createElement, admiral)
-
+nordot.app##+js(acs, document.createElement, admiral)
 ! knshow.com
 knshow.com##.listInfoR[style]:style(height: auto !important;)
 	!knshow.com##+js(acis, onload, .ads)
@@ -7104,7 +7098,7 @@ googlesyndication.com##.GoogleActiveViewElement
 @@||googletagmanager.com/gtm.js$script,redirect-rule,domain=rocketnews24.com
 
 !g saucenao.com
-saucenao.com##+js(acis, document.createElement, admiral)
+saucenao.com##+js(acs, document.createElement, admiral)
 ||cloudflareinsights.com^
 ||pub.network^
 
@@ -7112,7 +7106,7 @@ saucenao.com##+js(acis, document.createElement, admiral)
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
 ||acdcdn.com^
 savevideo.me##.ads
-savevideo.me##+js(acis, $, banner)
+savevideo.me##+js(acs, $, banner)
 
 ! sekai-kabuka.com
 ||realtime-chart.info/-$subdocument,domain=sekai-kabuka.com
@@ -7133,7 +7127,7 @@ realtime-chart.info##.瓷估0吼价覿歐笂l亠II
 ! https://github.com/AdguardTeam/AdguardFilters/issues/142790
 ! FirefoxはuBOを無効にしても真っ白になる
 ssbsblg.blogspot.com##+js(ra, hidden, html[hidden])
-ssbsblg.blogspot.com##+js(acis, atob, /documentEl[\s\S]*?_0x/)
+ssbsblg.blogspot.com##+js(acs, atob, /documentEl[\s\S]*?_0x/)
 @@||ssbsblg.blogspot.com^$generichide
 @@||ssbsblg.glitch.me/*.js$domain=ssbsblg.blogspot.com
 ssbsblg.blogspot.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
