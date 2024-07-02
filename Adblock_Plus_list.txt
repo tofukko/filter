@@ -3774,7 +3774,7 @@ gifubo-shine.com##.advertising
 ! --- ddd-smart.net --- ! 
 ||ddd-smart.net/ad/
 ||mnaspm.com^
-ddd-smart.net##+js(acs, window.onload, univresalP)
+ddd-smart.net##+js(set, univresalP, noopFunc)
 
 ! --- denfaminicogamer.jp --- !
 ||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/js/ranking.js
