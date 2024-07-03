@@ -5639,6 +5639,7 @@ soccer.yahoo.co.jp##.sc-lrec
 sports.yahoo.co.jp##.cm-modCommon02[style="min-width: 300px; min-height: 250px"]
 sports.yahoo.co.jp##.yf-lrec
 weather.yahoo.co.jp##.ad-frame-fix
+weather.yahoo.co.jp###ydn-bot:style(height: 0 !important;)
 
 ||analytics.yahoo.co
 ||b0.yahoo.co.jp^
