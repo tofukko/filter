@@ -749,6 +749,7 @@ _ads.js.
 ||e-nls.com/pict_af/
 ||free-video-movie.com^
 ||gcolle.net/v1/blogparts.js
+||go.trvdp.com/init/*.js?pid=
 ||golden-gateway.com/ad/
 ||hogei.info^
 ||i-section.net/rakuten_ranklet/$third-party
@@ -3203,6 +3204,7 @@ tumadouga.jp##div[id^="index_banner_space"] > div[class^="text-center"]
 tv-tokyo.co.jp##.rectangle
 tv-tokyo.co.jp##.tbcms_ad-block
 tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
+tvkingdom.jp##.billboardBannerBox
 tvkingdom.jp##.contBannerList
 tvlife.jp###tvl_pc_article_footer
 tvlife.jp##.ad
