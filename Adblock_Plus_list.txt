@@ -4325,6 +4325,9 @@ itmedia.co.jp###TopBox
 itmedia.co.jp##div[id^="RcolRectangle"]
 itmedia.co.jp##div[id$="BrandText"]
 itmedia.co.jp##div[id$="InFeedNative"]
+! https://www.itmedia.co.jp/fav/
+itmedia.co.jp###AmazonRankingParts
+itmedia.co.jp##.gad
 atmarkit.itmedia.co.jp###globalHeaderMiddle
 atmarkit.itmedia.co.jp###header_ad
 atmarkit.itmedia.co.jp###ITN
