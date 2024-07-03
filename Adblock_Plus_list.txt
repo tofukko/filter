@@ -5094,6 +5094,10 @@ www.phileweb.com###rightBanner_1
 gadget.phileweb.com##.b--header
 gadget.phileweb.com###text-2
 
+! https://github.com/tofukko/filter/issues/97
+phileweb.com##+js(set-attr, .floatL > img.lazyload, src, [data-src])
+phileweb.com##+js(set-attr, .list_thumb img.lazyload, src, [data-src])
+
 ! --- picb2.com --- !
 picb2.com#?#div[class$="mb-3 d-none d-md-block"]:-abp-has([href^="https://al.dmm.co.jp/"])
 ||picb2.com/post/dmm-images/
