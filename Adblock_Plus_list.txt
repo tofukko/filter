@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/02 19:39
+! 最終更新 2024/07/04 7:24
 !
 
 ! 2024/05/13 
@@ -4106,7 +4106,7 @@ www.ocn.ne.jp##.banner
 ||googletagmanager.com/gtag/js$script,xhr,redirect=googletagmanager_gtm.js:5
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
 
-||doubleclick.net^$third-party
+||doubleclick.net^
 ||fundingchoicesmessages.google.com$third-party
 
 #@#ins.adsbygoogle
