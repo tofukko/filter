@@ -1709,9 +1709,8 @@ buhidoh.net###center-left:style(height: auto !important)
 businessinsider.jp##.f-ad
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-cardTile-card.adMg
-buzzap.jp###Cresponsive
-buzzap.jp###Cresponsive_2nd
-buzzap.jp##.afamazon-box
+buzzap.jp##.grid-crectangleitem
+buzzap.jp##.krb-amzlt-box
 buzzfeed.com##.Ad
 buzzfeed.com##[id^="BF_WIDGET"]
 buzzfeed.com##[class^="desktop-sticky-ad_"]
