@@ -2480,6 +2480,7 @@ kurashiru.com##.banner-wrapper
 kurashiru.com##.DlyFixedBanner
 kurashiru.com##.FooterAppPc-adsWrapper
 kurashiru.com##.PcAside-ads
+	hikaku.kurashiru.com##a[class^="side-banner_side_fixed_banner_"]
 kuroyonhon.com###adbox
 kuroyonhon.com###commodity_ul
 kurukura.jp##.double-rectangle
