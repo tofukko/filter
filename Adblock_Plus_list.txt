@@ -2439,8 +2439,6 @@ keisan-mondai.com###text-5
 keisan-mondai.com##.head-ad
 keisan-mondai.com##.nosma
 keisanki.me#?#.block > div.container > div.row > article:-abp-has(> div > div > ins.adsbygoogle)
-kemono.*,coomer.*##+js(aeld, , popMagic)
-kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
 kenjyaegg.livedoor.blog##.ad_1
 kenjyaegg.livedoor.blog##.kiji_ad01
 keyakizaka46matomerabo.com##.ads
@@ -4407,6 +4405,11 @@ kakaku.com##.listPR
 kakaku.com##.prBn
 kakaku.com##.prTitle
 news.kakaku.com##.pr-bnr
+
+! --- kemono --- !
+kemono.*,coomer.*##+js(aeld, , popMagic)
+kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
+||jiclzori.com^
 
 !g --- kissanime --- !
 !si
