@@ -6759,9 +6759,6 @@ etude000.com##.top-ad
 @@||pointi.jp^$generichide
 @@||pointservice.com^$generichide
 @@||rd.yahoo.co.jp/jpr_sports/sumo_pickup/$image,domain=sports.yahoo.co.jp
-	! https://github.com/tofukko/filter/issues/15 あなたにおすすめ
-@@||googletagmanager.com/gtm.js?$script,domain=www.kanaloco.jp
-@@||rtoaster.jp^$script,domain=www.kanaloco.jp
 	! 予約するポップアップ
 @@||rtoaster.jp/Rtoaster.js$script,domain=www.melonbooks.co.jp
 	!申し込みランキング
