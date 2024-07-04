@@ -2449,8 +2449,8 @@ kimootoko.net###custom_html-63
 kimootoko.net##[class^="fanzakiji"]
 kinmaweb.jp##.book-tiles
 kkbox.com##.google-ad-manager
-knb.ne.jp##.site-bottom-flux
-knb.ne.jp##.site-top-banner
+knb.ne.jp##.s-banner-top
+knb.ne.jp##.s-flux-bottom
 kobe-np.co.jp###prBox
 kobe-np.co.jp##[id^="browsi_adWrapper_"]
 kobe-np.co.jp##.active.native
