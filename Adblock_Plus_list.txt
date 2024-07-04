@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/04 7:24
+! 最終更新 2024/07/04 19:10
 !
 
 ! 2024/05/13 
@@ -4407,6 +4407,7 @@ kakaku.com##.prTitle
 news.kakaku.com##.pr-bnr
 
 ! --- kemono --- !
+kemono.*,coomer.*##+js(acs, String.fromCharCode, \x)
 kemono.*,coomer.*##+js(aeld, , popMagic)
 kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
 ||jiclzori.com^
