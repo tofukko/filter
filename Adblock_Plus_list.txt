@@ -6831,8 +6831,6 @@ number.bunshun.jp##.global-container:style(margin-top: 64px !important;)
 catchapp.net#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 	! https://github.com/tofukko/filter/issues/63
 catmiimi.com#@#.dfad
-	! https://github.com/tofukko/filter/issues/28 サイドバー
-daily.co.jp##.secondaryContents.is-fixed:style(position: static !important;margin-left: 0 !important;)
 	! https://github.com/tofukko/filter/issues/61
 fategrandorder.info#@#.dfad
 	! コメント欄
