@@ -6539,11 +6539,6 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 /^https:\/\/[a-z]{10,12}\.com\/[\/a-z]{2,}\?id=[12]\d{6}$/$script,3p,match-case
 
 !------------------------ホワイトリスト------------------------!
-! 47club.jp
-! https://github.com/tofukko/filter/issues/29
-@@||47club.jp^*/images/ad/$image,domain=47club.jp
-@@||amazonaws.com^*/images/ad/$image,domain=47club.jp
-
 ! cxense.com
 ||cxense.com^$third-party
 @@||cxense.com/cx.cce.js$script
