@@ -6722,8 +6722,6 @@ etude000.com##.top-ad
 @@||grandjump.shueisha.co.jp/original/*/analytics.js$script,domain=grandjump.shueisha.co.jp
 	! https://github.com/tofukko/filter/issues/95
 @@||guinnessworldrecords.jp/ezais/analytics?$xmlhttprequest,domain=guinnessworldrecords.jp
-	! https://github.com/tofukko/filter/issues/39
-@@||harta.jp/bib/i/extensions/analytics/analytics.js$script,domain=harta.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/140718
 @@||hbb.afl.rakuten.co.jp/hgb/*%3A%2F%2Fthumbnail.$image,domain=angelfish.jp
 	! https://github.com/tofukko/filter/issues/73
