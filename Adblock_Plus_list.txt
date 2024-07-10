@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/04 19:10
+! 最終更新 2024/07/10 13:15
 !
 
 ! 2024/05/13 
@@ -156,6 +156,7 @@ twicomi.com#?#.interrupt:-abp-has(> .free-space)
 
 ! ポイピク
 ! 不明 https://poipiku.com/2/
+poipiku.com##.DetailIllustItemAd
 poipiku.com##.PcSideBarAd
 
 ! ぶろるっく
@@ -1805,6 +1806,7 @@ coliss.com###recommend
 coliss.com###sponsors
 coliss.com###sponsorsTop
 color-sample.com##.ads
+column.asken.jp##.primary-ad
 comic-walker.com##div[class^="AdSection_"]
 comic-walker.com#?#section[class^="ContentsDetailPage_noBackground__"]:-abp-has(div[class^="AdSection_list__"])
 comici.jp##.a-banner-box
@@ -1995,6 +1997,7 @@ fashionsnap.com###mainTop_ATFUnit
 fashionsnap.com###sideTop_ATFUnit
 fashionsnap.com##div[class*="teads_here"]
 fashionsnap.com#?#div[class]:not([class^="_"]):-abp-has(> div:only-child > p:has-text(ADVERTISING))
+fashiontechnews.zozo.com##div[class^="style-module--ads--"]
 fc1adult.com#?#.list_frame:-abp-has(> .list_side > img[src="/up_files/own.webp"])
 fevian.org##article:nth-of-type(16n+1):not(:first-of-type)
 fgamers.saikyou.biz###ad-area-1
@@ -2007,6 +2010,7 @@ financial-field.com##.ad
 financial-field.com##div[style^="min-width: 300px; min-height: 250px"]
 financial-field.com##div[style^="width: 100%; height: 280px"]
 financial-field.com##div[style^="min-height: 250px;"]
+fineplay.me##.ad
 firecross.jp###reader_ad_overlay
 firecross.jp###stage:style(max-height: 100% !important;)
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
@@ -2062,6 +2066,8 @@ gameranbu.jp##.ad_center
 gameranbu.jp##.side_ad > .cf
 gameranbu.jp##.side_ad_top
 gameranbu.jp##.side_recomend_trac
+! jack
+gamerch.com##.jack
 gamerch.com##div[style="display:inline-block;width:300px;height:250px;"]
 gamesindustry.biz##.main_contents > div.middle_section
 gamesindustry.biz##.banner_rectangle
@@ -2091,6 +2097,7 @@ gendai.media##.ad-slider
 gendai.media##.blockContainer_block
 ! マネー現代
 gendai.media###MG_pc_inArticle
+gendai.media##[class^="sponsored_"]
 ! 現代新書
 gendai.media##div[style="min-height: 250px; overflow: hidden;"]
 gendai.media##div[style="min-height:250px;"]
@@ -2760,6 +2767,9 @@ nijifeti.com##.osu2
 nijifeti.com##.topdmm
 nishinippon.co.jp##.c-ad-side
 northwood.blog.fc2.com#?#.menuBlockBase:-abp-has(> .menuBlockHead > .menuTitle:-abp-contains(PCパーツショップ))
+nosweb.jp##.addHead
+nosweb.jp##.addSide
+nosweb.jp##.articleDetailAdd
 novel.prcm.jp##.app-scroll-lock:style(position: relative !important;)
 novel.prcm.jp##.footer__ad
 novel.prcm.jp##.header-ad
@@ -2961,6 +2971,10 @@ reference.hyper-text.org##.block-ad
 reference.hyper-text.org##.block-books
 refind2ch.org##.ad_overlay
 refind2ch.org##[class^="ads_"]
+rekishikaido.php.co.jp,the21.php.co.jp,voice.php.co.jp###sc_pc_article_billboard
+rekishikaido.php.co.jp,the21.php.co.jp,voice.php.co.jp##.bnr_wrap
+rekishikaido.php.co.jp,the21.php.co.jp,voice.php.co.jp##div[style="height:250px;"]
+rekishikaido.php.co.jp,the21.php.co.jp,voice.php.co.jp##div[style="height: 250px"]
 renote.net##.ad__big-banner
 renote.net##.ad__bit
 renote.net##[class$="__ad__container"]
@@ -3149,6 +3163,9 @@ tegaki.pipa.jp##.AdX300x250
 teller.jp#?#div[class^="css-"]:-abp-has(> div:not([id]):not([class]) > .adsbygoogle)
 telnavi.jp##.google_adsense_placeholder
 tenki.jp##[class^="tenki-ad"]
+tennisclassic.jp##.addHead
+tennisclassic.jp##.addSide
+tennisclassic.jp##.articleDetailAdd
 teratail.com##div[class^="googlePublisherTags_ads"]
 teratail.com##div[class*="_questionBottomAdArea_"]
 tetsudo-ch.com##.ad-dummy
@@ -3194,6 +3211,7 @@ traicy.com##.pc-ad-wide
 travelbook.co.jp##.adsense
 trend-at-tv.com##div[style="min-height: 120px; padding-top: 10px"]
 tripadvisor.jp##.ad
+tsuhon.jp##.add
 tsuiran.jp##article:not([id]):not([class])
 tsumanne.net###amazon
 tsumanne.net###cm
@@ -3412,6 +3430,7 @@ xn--1-td6bm19b.com###space3
 ||5ch.net/css/ad.css
 ||5ch.net/js/ad_on_mango.js?
 ||5ch.net/js/top_ad.js?
+||find.5ch.net/js/ads.js
 ||jump.5ch.net/js/ad.js
 5ch.net###banner
 5ch.net###js-square_ads
@@ -3462,6 +3481,8 @@ itest.5ch.net##.res_ad
 itest.5ch.net##[id^="js-bottom-ad-"]
 itest.5ch.net##[class^="sproutad_frame"]
 itest.5ch.net##[class^="js-ad_iframe"]
+itest.bbspink.com###floatingBottomAdsMain
+itest.bbspink.com##[class^="ad_"]
 
 ! --- akibablog.net --- !
 ||akibablog.net/ad-
@@ -3872,12 +3893,10 @@ exblog.jp##[class*="list" i] > .ss
 
 ! --- exploader.net --- !
 ||dmm.co.jp^$domain=exploader.net
-exploader.net##[class^="d_"]
 exploader.net##aside > .word + .tag + div
-exploader.net##div[data-pr]
-exploader.net##div[style^="height: 305px;display: flex;align-items: center;"]
-exploader.net##div[style="width: 1120px;margin-left: -63px;margin-bottom: 5px;height: 450px;display: flex;align-items: center;"]
-exploader.net##li[style="clear: left;width: calc(100% + 3px) !important;margin-right: -1px;height: 120px;margin-left: -2px;float: none;display: block !important;"]
+exploader.net##[data-style="1"]
+exploader.net##div[style*=";height: "]:not([class]):not([id]):not([loaded])
+exploader.net##.list > li[style="clear: left;width: calc(100% + 4px) !important;margin-right: -1px;height: 120px;margin-left: -2px;float: none;display: block !important;"]
 
 ! --- famitsu.com --- !
 famitsu.com##aside[class^="SponsorLink_sponsorLinkContainer__"]
@@ -3888,6 +3907,8 @@ famitsu.com#?#div[class^="ArticleDetail_column__"]:-abp-has(div[class^="AmazonCa
 famitsu.com#?#section[class^="SecondRightColumn_section__"]:-abp-has(div[class^="AmazonCard_card_"])
 famitsu.com##[class^="ArticleDetailBody_articleBody__"] .article_detail_button_ec_amazon
 famitsu.com##[class^="ListLayout_headerBanner__"]
+famitsu.com##div[class^="Header_superJack__"]
+famitsu.com##div[class^="TopHeaderBanner_wrapper__"]
 ! 古いページ用
 ||famitsu.com^*/amazon_ranking.js
 famitsu.com##.banner-pc
@@ -4407,9 +4428,9 @@ kakaku.com##.prTitle
 news.kakaku.com##.pr-bnr
 
 ! --- kemono --- !
-kemono.*,coomer.*##+js(acs, String.fromCharCode, \x)
-kemono.*,coomer.*##+js(aeld, , popMagic)
-kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
+coomer.su,kemono.su,kemono.*,coomer.*##+js(acs, String.fromCharCode, \x)
+coomer.su,kemono.su,kemono.*,coomer.*##+js(aeld, , popMagic)
+coomer.su,kemono.su,kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
 ||jiclzori.com^
 
 !g --- kissanime --- !
@@ -7060,7 +7081,7 @@ pks.raenonx.cc##.w-full.info-section-opaque.fixed.bottom-0.z-nav
 
 ! puzzle-ch.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/152033
-puzzle-ch.com##+js(nostif, getComputedStyle)
+puzzle-ch.com##+js(no-setTimeout-if, block)
 
 ! pvpoke-re.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167723
