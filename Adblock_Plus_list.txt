@@ -83,24 +83,11 @@ shindanmaker.com##.ads_rect
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=shindanmaker.com
 shindanmaker.com##+js(nano-sib, reward_countdown)
 
-! Skeb
-! 維持 https://twitter.com/skeb_jp/status/1621384206223048706
-
-! ツイキャス
-! 維持？ https://twitter.com/twitcasting_jp/status/1621375366140149760
-
-! あたるってぃー
-! 維持？ https://irucabot.com/news/future_services.html
-
 ! ツイプロ
 ! https://twpro.jp/
 !      https://twpf.jp/
 ! 維持 https://twitter.com/twprofile
 twpro.jp##.ads-banner-box
-
-! プロフカード
-! https://twitter.com/profcard_info
-! 維持 https://twitter.com/profcard_info/status/1645713931107987456
 
 ! Twoucan
 ! 維持 更新停止 https://twitter.com/twoucan/status/1645664297241178112
@@ -120,10 +107,6 @@ twiman.net##div.my-5.md\:h-\[300px\].h-\[300px\]
 @@||cloudfront.net/adsense.js$domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 egotter.com##[id^="async-adsense-"]
-
-! あたれら https://atarela.herokuapp.com/
-! サ終？ https://twitter.com/twirela/status/1641226076138663936
-! あたれら2号 https://twitter.com/twirela/status/1662307637038555136
 
 ! アニメレーダー https://ckworks.jp/animeradar/about/
 ! 一部サ終 https://ckworks.jp/animeradar/about/
@@ -150,9 +133,6 @@ twicomi.com#?#.interrupt:-abp-has(> .ad-group):style(height: 0 !important;min-he
 twicomi.com##.ads-reserve-area
 ||twicomi.com/api/v2/amazon/
 twicomi.com#?#.interrupt:-abp-has(> .free-space)
-
-! 質問箱
-! 不明 https://twitter.com/peing_net
 
 ! ポイピク
 ! 不明 https://poipiku.com/2/
@@ -198,12 +178,12 @@ skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-
 skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
 skebetter.com##a[href*="dmm.co"]
 
-! meyou
-! 不明 https://meyou.jp/
-
 ! 裏垢女子まとめ
-! 不明
 ||uraaka-joshi.com/ad-
+||uraaka-joshi.com/json/ad-
+uraaka-joshi.com#?##pickup-block > .grid:-abp-has(iframe[src*="/ad-d/"])
+uraaka-joshi.com#?##main-block > .grid > div[class^="grid-cell"]:-abp-has(iframe[src*="/ad-d/"])
+uraaka-joshi.com##+js(window.open-defuser)
 
 ! #リツイート直後のツイートを表示するやつ
 ! https://retweets.pronama.jp/
@@ -212,12 +192,6 @@ skebetter.com##a[href*="dmm.co"]
 ! #生活習慣の乱れを可視化するやつ
 ! https://midare.p1ass.com/
 ! サ終 https://twitter.com/p1ass/status/1641417687678189568
-
-!2023/02/17 記事非公開
-! helpsupport.blog.fc2.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/81515
-helpsupport.blog.fc2.com#@#.AdContainer
-helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 
 !2022/11/17
 ||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
@@ -6957,6 +6931,13 @@ gato.intaa.net##.adwidget
 hadakanonude.com##+js(noeval-if, fairAdblock)
 hadakanonude.com##.main-inner > center:first-child
 hadakanonude.com##[id^="execphp-"]:not(#execphp-13, #execphp-5, #execphp-14)
+
+! helpsupport.blog.fc2.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/131648
+helpsupport.blog.fc2.com#@#.AdContainer
+helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+helpsupport.blog.fc2.com###load:empty
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=helpsupport.blog.fc2.com
 
 ! investing.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10098
