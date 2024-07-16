@@ -7052,6 +7052,10 @@ puzzle-ch.com##+js(no-setTimeout-if, block)
 pvpoke-re.com##[id^="nitro-"]
 pvpoke-re.com##+js(no-setTimeout-if, checkMyBlock)
 
+! rekidai-info.github.io
+! https://github.com/AdguardTeam/AdguardFilters/issues/153796
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,domain=rekidai-info.github.io
+
 ! rocketnews24.com
 ! youpouch.com
 @@||fundingchoicesmessages.google.com^$script,domain=youpouch.com|rocketnews24.com
