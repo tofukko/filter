@@ -7129,16 +7129,16 @@ realtime-chart.info##.amazonsearch
 realtime-chart.info##.瓷估0吼价覿歐笂l亠II
 
 ! ssbsblg.blogspot.com
-! https://github.com/uBlockOrigin/uAssets/issues/15455
-! https://github.com/AdguardTeam/AdguardFilters/issues/142790
-! FirefoxはuBOを無効にしても真っ白になる
-ssbsblg.blogspot.com##+js(ra, hidden, html[hidden])
-ssbsblg.blogspot.com##+js(acs, atob, /documentEl[\s\S]*?_0x/)
-@@||ssbsblg.blogspot.com^$generichide
-@@||ssbsblg.glitch.me/*.js$domain=ssbsblg.blogspot.com
-ssbsblg.blogspot.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
-ssbsblg.blogspot.com#@#.btmads
-ssbsblg.blogspot.com#@#.sponserd
+	! https://github.com/uBlockOrigin/uAssets/issues/15455
+	! https://github.com/AdguardTeam/AdguardFilters/issues/142790
+	! FirefoxはuBOを無効にしても真っ白になる
+	! ssbsblg.blogspot.com##+js(ra, hidden, html[hidden])
+	! ssbsblg.blogspot.com##+js(acs, atob, /documentEl[\s\S]*?_0x/)
+	! @@||ssbsblg.blogspot.com^$generichide
+	! @@||ssbsblg.glitch.me/*.js$domain=ssbsblg.blogspot.com
+	! ssbsblg.blogspot.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+	! ssbsblg.blogspot.com#@#.btmads
+	! ssbsblg.blogspot.com#@#.sponserd
 
 !g totv.org
 ! https://github.com/uBlockOrigin/uAssets/issues/8461
