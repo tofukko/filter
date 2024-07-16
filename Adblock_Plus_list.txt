@@ -6973,10 +6973,8 @@ investing.com##.desktop\:bg-background-default > .h-\[333px\]
 investing.com##div[data-test="ad-slot-visible"]
 
 ! iwb.jp
-! https://github.com/AdguardTeam/AdguardFilters/issues/179875
-! https://github.com/AdguardTeam/AdguardFilters/issues/159931
-iwb.jp##+js(abort-on-property-read, alert)
-iwb.jp##+js(abort-on-property-read, onload)
+! https://github.com/AdguardTeam/AdguardFilters/issues/181591
+iwb.jp##+js(aeld, DOMContentLoaded, getComputedStyle(a).height)
 
 ! kledgeb.blogspot.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/137131
