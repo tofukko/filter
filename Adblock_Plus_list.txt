@@ -2329,8 +2329,12 @@ jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;
 jp.wazap.com##.pr-ranking
 jpnumber.com###sponsor-link
 jpnumber.com##.adsline
+jprime.jp##.ad-gallery
 jprime.jp##.ad-overlay
 jprime.jp##div[style="min-height:250px;"]
+jprime.jp##.js-reward-gallery-modal
+! https://github.com/AdguardTeam/AdguardFilters/issues/171258
+jprime.jp##.image-area:style(opacity: 1 !important; pointer-events: auto !important; filter: none !important;)
 jpshowbiz.us##.video-plugin-div
 jpshowbiz.us##+js(nostif, alert)
 jukenbbs.com##.substitute-display-area-on
@@ -4111,7 +4115,8 @@ www.ocn.ne.jp##.banner
 ||doubleclick.net^
 ||fundingchoicesmessages.google.com$third-party
 
-#@#ins.adsbygoogle
+#@#ins.adsbygoogle[data-ad-client]
+#@#ins.adsbygoogle[data-ad-slot]
 *##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 *##ins.adsbygoogle:first-child + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 *##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
