@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/14 20:48
+! 最終更新 2024/07/16 21:01
 !
 
 ! 2024/05/13 
@@ -6982,7 +6982,7 @@ kledgeb.blogspot.com##body > div[style="visibility: hidden;"]:style(visibility: 
 
 ! kotobank.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/179614
-kotobank.jp##+js(nostif, return, 7400)
+kotobank.jp##+js(no-setTimeout-if, return)
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 kotobank.jp##div[class$="word-ad"]
 
