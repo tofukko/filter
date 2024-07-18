@@ -2,15 +2,18 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/17 23:05
+! 最終更新 2024/07/18 23:13
 !
 
-! 2024/07/17
-! etude000.com
-! https://github.com/tofukko/filter/issues/87
-etude000.com#@#.thk_ps_widget
-etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_widget-60, #thk_ps_widget-15)
-etude000.com##.top-ad
+! 2024/07/18 閉鎖？
+! --- avgle.com --- !
+*$3p,popup,domain=avgle.com
+*$frame,script,3p,denyallow=cloudflare.com|cloudflare.net|google.com|gstatic.com|hcaptcha.com|jsdelivr.net|recaptcha.net|webflow.com,domain=avgle.com
+avgle.com###player_3x2_close:style(font-size: 250% !important;)
+avgle.com###ps32-container
+avgle.com##a[href*="/redirect"]
+avgle.com##img[src*=".php"]
+avgle.com##+js(nowebrtc)
 
 ! 2024/05/13 
 mmm.me###imadv
@@ -47,12 +50,6 @@ privatter.net##[data-target="#adModal"]
 privatter.net##.“hidden-print”
 privatter.net##[href="/adcookie.php"]
 
-! twittbot
-! 維持 https://twitter.com/twittbotinfo/status/1626488452849242112
-
-! ふせったー
-! 維持？ https://twitter.com/fusetter
-
 ! togetter
 ! 維持 https://twitter.com/togetter_jp/status/1641290544780550144
 togetter.com###ad_overlay
@@ -72,9 +69,6 @@ twilog.togetter.com###ad-overlay-box
 twilog.togetter.com###ad-right-top
 twilog.togetter.com###ad-right-bottom
 favolog.org###side > div:first-child
-
-! マシュマロ
-! 維持？ https://twitter.com/marshmallow_qa/status/1641372497882005504
 
 ! お題箱
 ! 維持？ https://twitter.com/nerikeshi_k/status/1641786680389795840
@@ -98,9 +92,6 @@ twpro.jp##.ads-banner-box
 ! 維持 更新停止 https://twitter.com/twoucan/status/1645664297241178112
 ||twoucan.com/ad?name=
 
-! TwiPla
-! 維持 https://twitter.com/twipla/status/1621406951916851200
-
 ! ツイマンガ
 twiman.net##p[class="text-center caption"]
 twiman.net##div.my-5.md\:h-\[300px\].h-\[300px\]
@@ -112,9 +103,6 @@ twiman.net##div.my-5.md\:h-\[300px\].h-\[300px\]
 @@||cloudfront.net/adsense.js$domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 egotter.com##[id^="async-adsense-"]
-
-! アニメレーダー https://ckworks.jp/animeradar/about/
-! 一部サ終 https://ckworks.jp/animeradar/about/
 
 ! buhitter
 ! 維持 https://twitter.com/ekaki3_net/status/1641231725912293378
@@ -130,6 +118,18 @@ buhitter.com##.col.clearfix[style="margin-top: 8px;"]
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=buhitter.com
 @@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
+
+! Skebetter
+! 不明
+||skebetter.com/api/ad/
+skebetter.com##.md\:h-24
+skebetter.com##.md\:h-48
+skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
+skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-w-2xl
+skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
+skebetter.com##a[href*="dmm.co"]
+skebetter.com##div[class="flex items-center justify-center min-w-full	"]
+skebetter.com##+js(no-setTimeout-if, return n(!0), 10000)
 
 ! ツイコミ
 ! 維持 https://twitter.com/twicomi_kari
@@ -149,20 +149,11 @@ poipiku.com##.PcSideBarAd
 
 ! Twitter動画保存ランキング(24時間)| TWIIGLE
 ! Twitter動画保存ランキング&Twitter動画ダウンロード｜Twihozon
-! 裏垢まとめドットコム
-! Twitter動画保存ランキング - TwiHub/ツイハブ
-! ツイッター動画保存ランキング！ - ついどう, ツイドウ
 ! Twitter動画保存ランキング（24時間） | TWIVIDEO
+! Twitter動画保存ランキング - TwiHub/ツイハブ
 ||bance.jp^
-! Twitter Video Tools
-! 不明
-twidou.link##.mb-3.mt-4.c-min-height
-twidou.link##.py-4.my-5.container
-twicoco.com,twidou.link##.c-max-width-320
-twihub.net###overlay_area
-twihub.net##.c-max-width-height-350
-twihub.net##.c-min-height-300x100-banner
-twihub.net##.c-min-height-300x100-banner + div.c-min-height
+
+! 裏垢まとめドットコム
 uraaka.com##.ad-overlay
 uraaka.com##.gallery__interstitial
 uraaka.com##body:style(overflow-y: auto !important;)
@@ -172,16 +163,6 @@ uraaka.com##div[class^="overlay-ad_"]
 
 ! 裏ハメ
 urahame.com#?#h2.MuiStack-root > div.MuiStack-root:-abp-has(> div.MuiBox-root > script[src^="https://adtest.pages.dev"])
-
-! Skebetter
-! 不明
-||skebetter.com/api/ad/
-skebetter.com##.md\:h-24
-skebetter.com##.md\:h-48
-skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-1.mx-auto.max-w-2xl
-skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.max-w-2xl
-skebetter.com##.lg\:px-8.lg\:max-w-7xl.sm\:px-6.sm\:py-12.px-4.py-2.mx-auto.w-96.max-w-xl
-skebetter.com##a[href*="dmm.co"]
 
 ! 裏垢女子まとめ
 ||uraaka-joshi.com/ad-
@@ -197,6 +178,21 @@ uraaka-joshi.com##+js(window.open-defuser)
 ! #生活習慣の乱れを可視化するやつ
 ! https://midare.p1ass.com/
 ! サ終 https://twitter.com/p1ass/status/1641417687678189568
+
+! twittbot
+! 維持 https://twitter.com/twittbotinfo/status/1626488452849242112
+
+! ふせったー
+! 維持？ https://twitter.com/fusetter
+
+! マシュマロ
+! 維持？ https://twitter.com/marshmallow_qa/status/1641372497882005504
+
+! アニメレーダー https://ckworks.jp/animeradar/about/
+! 一部サ終 https://ckworks.jp/animeradar/about/
+
+! TwiPla
+! 維持 https://twitter.com/twipla/status/1621406951916851200
 
 !2022/11/17
 ||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
@@ -293,13 +289,6 @@ _ads.js.
 /prebid6.
 /popunder.
 /www/delivery/*
-	!/afr.php?
-	!/ajs.php?
-	!/apu.php?
-	!.php?zoneid=
-	!||genieesspv.jp^$third-party
-	!||clipconverter.cc/www/d/
-	!||phncdn.com/iframe
 ?zoneid=
 ?zone_id=
 
@@ -495,7 +484,6 @@ _ads.js.
 ||linkshare.ne.jp^$third-party
 ||liveads.jp^$third-party
 ||livepartners.com^$third-party
-||ltassrv.com^$third-party
 ||m-n-j.com^$third-party
 ||ma-jin.jp^$third-party
 ||macromill.com^$third-party
@@ -664,7 +652,6 @@ _ads.js.
 ||ero-advertising.com^$third-party
 ||ethicalads.io^$third-party
 ||exoclick.com^$third-party
-||exosrv.com^$third-party
 ||freewebfonts.org^$third-party
 ||globaltraffico.com^$third-party
 ||gwallet.com^$third-party
@@ -675,7 +662,6 @@ _ads.js.
 ||madadsmedia.com^$third-party
 ||o333o.com^$third-party
 ||oclaserver.com^$third-party
-||oclasrv.com^$third-party
 ||onclickads.net^$third-party
 ||popads.net^$third-party
 ||popadscdn.net^$third-party
@@ -749,7 +735,6 @@ _ads.js.
 ||pikkur.com/bn/
 ||pos.baidu.com^
 ||queen-casino.info/affi/
-||realsrv.com^
 ||runative-syndicate.com^
 ||type-bee.co.jp/assets/*/shared/tapnovel-banner-
 ||theta360.com/intl/common/inc/ad_banner.html?
@@ -1255,7 +1240,6 @@ _analytics.js?
 ||mxpnl.com^$third-party
 ||newrelic.com^$third-party
 ||remarketingpixel.com^$third-party
-||toplist.cz^$third-party
 ||users.51.la^$third-party
 ||web-rom.ru^$third-party
 ||yadro.ru^$third-party
@@ -1264,7 +1248,6 @@ _analytics.js?
 ||2bee.jp*/count.php
 ||analytics.agoda.com^
 ||analyze.unfinished.jp^
-||analyzer1.digidigi.jp^
 ||aol.com/ping?
 ||aqtracker.com^
 ||bento.agoda.com^
@@ -2711,22 +2694,19 @@ news.ntv.co.jp##div[id^="div-gpt-"]
 news.sukupara.jp##.adv
 news.sukupara.jp##.adv2
 news.shitaraba.net##.sidebar_ad
-news.tbs.co.jp##.cp-pcAd
-news.tbs.co.jp##.cp-spAd
 news-postseven.com##.su-modal
 news-postseven.com##body[style^="overflow:"]:style(overflow: auto!important)
 news-postseven.com##div[style*="min-height: 250px"]
 news-postseven.com##div[style="min-height: 395px; margin-bottom:10px;"]
 news-us.org##.sponsored
-news24.jp###adText01
 news4wide.net##.wipe-ad-div-class
+newsdig.tbs.co.jp##.ad_pc_article_undertitle
 newsee-media.com##.s-side[style^="position: fixed;"]
 newsweekjapan.jp##.ad-teads-nw-box
 newser.cc##.ad
 newser.cc##.amazon
 newswitch.jp##.banner
 next2ch.net##.ad728
-nicofinder.net###video-ichiba
 nicozon.net###ichiba
 niigata-nippo.co.jp##.m-ad
 niigata-nippo.co.jp##.m-ad-bg
@@ -2751,14 +2731,14 @@ novel.prcm.jp##app-remote-ad-frame
 novelup.plus##[class^="ad-"]
 novelba.com##.exception_flag
 npn.co.jp##.bnr
-numan.tokyo##.sw-Ad
 numero.jp###ad-below-content
 numero.jp##.new_ad_area
 numero.jp##div[style="min-height: 300px;"]
 nuwton.com##[class*="banner-"]
 o-dan.net###spgLoadAd
-	clone.o-dan.net##.apiRsltAd
-	clone.o-dan.net##.apiRsltFigAd
+o-dan.net###oCntrAd
+o-dan.net##otrThmAd
+o-dan.net##[id^="spgViewAd"]
 o-uccino.jp##[class^="float_banner_"]
 oceans-nadia.com###pc_tag_banner_area_1
 oceans-nadia.com##[class^="AdSlot_"]
@@ -3335,6 +3315,7 @@ yama.minato-yamaguchi.co.jp##.texmongon
 yamakei-online.com###text_ad
 yamareco.com###sidebar_right > .mb20[style="clear:both;"] + .box:style(clear: both !important;)
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
+yogajournal.jp##.admarking_label
 yorozoonews.jp###yzpc-native1
 yorozoonews.jp###yzpc-nativeRelation
 yorozoonews.jp##.module-ad
@@ -3854,17 +3835,21 @@ gifubo-shine.com##.advertising
 ddd-smart.net##+js(set, univresalP, noopFunc)
 
 ! --- denfaminicogamer.jp --- !
-||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/js/ranking.js
+||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/
 news.denfaminicogamer.jp##.amazon-ranking
 news.denfaminicogamer.jp###pc_article_billboard
 news.denfaminicogamer.jp##.rectangle-bn
 news.denfaminicogamer.jp##.steam.inner-widget
 news.denfaminicogamer.jp##div[style$="min-height:250px;"]
 news.denfaminicogamer.jp##a[onclick^="dataLayer.push"]
-
 ! jack
 ||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
 news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
+
+numan.tokyo##.rectangle-bn
+numan.tokyo##.sw-Ad
+numan.tokyo##.sw-Amazon
+numan.tokyo##[id^="dfng"][id*="jack"]
 
 ! --- diet2channel --- !
 ! http://blog.livedoor.jp/diet2channel/
@@ -3874,7 +3859,6 @@ blog.livedoor.jp###YDNA
 blog.livedoor.jp###YDNB
 
 ! --- dl-x.com --- !
-||orbsrv.com^
 ||dl-x.com/iframe/ad/
 dl-x.com##._ad
 dl-x.com##.vip-center
@@ -4831,7 +4815,6 @@ m4ex.com##.kadomaru.move
 ||dramaco.xyz^
 ||dvypar.com^
 ||dyecowwhy.com^
-||exdynsrv.com^
 ||exmarketplace.com^$third-party
 ||eyefuneve.com^
 ||goomaphy.com^
@@ -4844,7 +4827,6 @@ m4ex.com##.kadomaru.move
 ||jads.co^
 ||jiltlargosirk.com^
 ||lzrikate.com^
-||magsrv.com^
 ||mehebborc.com^
 ||mgid.com^$third-party
 ||mhuvmleot.com^
@@ -5019,7 +5001,7 @@ mozakin.com##.tabpain[style="left: -260px; top: 280px;"]:style(top:0!important;)
 mozakin.com##.tabpain[style="top: 550px; left: 0px;"]:style(top:-1120px!important;)
 mozakin.com##body > div > div[style="height: 300px;"]
 mozakin.com##body > div > div[style="height: 840px; padding: 6px; margin: 0px 0px 16px;"]
- bbs4.mozakin.com##.hey_video
+bbs4.mozakin.com##.hey_video
 bbs4.mozakin.com##.hey_douga
 mozakin.com##.dti3free
 mozakin.com##.dx_performer
@@ -5124,6 +5106,7 @@ eromanga-show.com,hentai-one.com,hentaipaw.com##.external
 eromanga-show.com,hentai-one.com,hentaipaw.com##.header-ad
 eromanga-show.com,hentai-one.com,hentaipaw.com##.middle-ad
 eromanga-show.com,hentai-one.com,hentaipaw.com##+js(nostif, /[a-z]\(!0\)/, 800)
+
 ! --- nicovideo ニコニコ動画 --- !
 ||ads.nicovideo.jp^
 ||nimg.jp/web/scripts/common/tracking/google_analytics.js?
@@ -5972,7 +5955,6 @@ yomiuri.co.jp##[class^="home-ad-"]
 yomiuri.co.jp##[id^="ad_dfp_news-txt"]
 yomiuri.co.jp##div[class^="p-ad-dfp"]
 yomiuri.co.jp##div[class$="__ads"]
-
 !発言小町
 komachi.yomiuri.co.jp##.ads
 komachi.yomiuri.co.jp##.p-ads-center
@@ -6013,13 +5995,15 @@ youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, playerResponse.adPlac
 
 
 
-
-
 !ニコニコ風ヘッダー
 	!||nicoblomaga.jp^$third-party,script
 ###matomeSiteHeaderArea
 
-!bipブログ
+! アルファルファモザイク https://alfalfalfa.com/
+||blogmaterial.nicoblomaga.jp/material/279/SP300x250-$script,domain=alfalfalfa.com
+alfalfalfa.com##[href^="https://www.amazon.co.jp"]
+
+! BIPブログ http://bipblog.com
 ||bipblog.com/js/amatop.js
 ||bipblog.com/aa/ABtest/
 bipblog.com###TopAmazon
@@ -6028,13 +6012,11 @@ bipblog.com##.amachazl-box
 bipblog.com##a[href^="https://ad.adpon-affi.net/ad/p/r?"]
 bipblog.com##a[href^="https://ratel-ad.com/link.php?"]
 
-!fig速
+! fig速 https://figsoku.net/
 ||figsoku.net/rank/load.php?
-||ota-goods.info/checkerjson/widget2.php
-||ota-goods.info/dmmjson/widget3.php?
-||ota-goods.info/json/widget.php?
-||ota-goods.info/json/widget_calendar.php?
 ||figsoku.net/wp/wp-content/themes/figsoku/js/sidefix.min.js
+||widget2.ota-goods.info^$xmlhttprequest,domain=figsoku.net
+figsoku.net##main + aside > a[href^="http://px.a8.net"]
 figsoku.net##.gad
 figsoku.net##.sum
 figsoku.net##.shop
@@ -6042,52 +6024,42 @@ figsoku.net##.spadd2
 figsoku.net##.textwidget:only-child
 figsoku.net##.tokka
 figsoku.net##.wama
-figsoku.net##.textwidget [href^="http://px.a8.net/svt/ejp"]
+figsoku.net##.textwidget [href^="http://px.a8.net"]
 figsoku.net##.textwidget [href^="http://click.linksynergy.com/"]
 figsoku.net##.textwidget [href^="https://www.amazon.co"]
 
-!α波
-||blogmaterial.nicoblomaga.jp/material/279/SP300x250-$script,domain=alfalfalfa.com
-alfalfalfa.com##[href^="https://www.amazon.co.jp"]
-
-!妹 http://vipsister23.com/
-||vipsister23.com/randamad
-
-!俺ゲ報
+! オレ的ゲーム速報 http://jin115.com/
 ||jin115.com/js/amazon_
 jin115.com##a[href*="amazon.co"]
 jin115.com###sponsered
 jin115.com##[style="width:728px; height:90px;"]
+jin115.com##.article_bodymore > table[style="text-align:left;margin-left:0;margin-right:0;"]
 
-!カ速
-kanasoku.info##.adset-Cover
-kanasoku.info##.cent_top
-
-!金時 http://blog.livedoor.jp/goldennews/
-blog.livedoor.jp##:matches-path(/goldennews/)#random-product-container
-blog.livedoor.jp##:matches-path(/goldennews/)#side-column[style^="position: fixed"]:style(position: static !important;)
-
-
-!ハター報
-||blog.livedoor.jp/hamusoku*/amazon
-
-!働くモノ http://workingnews.blog117.fc2.com/
-||fc2.com/w/o/r/workingnews/meerkat_side_double_js2.js
-workingnews.blog117.fc2.com##.amatable_wrap
-workingnews.blog117.fc2.com##.logbox > .boxright
-workingnews.blog117.fc2.com##tr[align="left"] > td[align="left"]
-
-!キニ速
-||blog.livedoor.jp/kinisoku/$subdocument
-
-!マジキチ
+! マジキチ速報 http://majikichi.com/
 ||majikichi.com/js/dlsite_widget.js
 ||majikichi.com/js/rad_head_
 majikichi.com###left_menu
 majikichi.com##^#left_menu
-
 /js/cm_anpop.js
 /js/cm_rank_widget.js
+
+! 働くモノニュース http://workingnews117.com/
+||fc2.com/w/o/r/workingnews/meerkat_side_double_js2.js
+workingnews117.com##.amatable_wrap
+workingnews117.com##.logbox > .boxright
+workingnews117.com##tr[align="left"] > td[align="left"]
+
+! 妹はVIPPER http://vipsister23.com/
+||vipsister23.com/randamad
+vipsister23.com#?#blockquote:-abp-has([href*="dmm.co.jp"])
+
+! キニ速 http://blog.livedoor.jp/kinisoku/
+||blog.livedoor.jp/kinisoku/$subdocument
+
+! ゴールデンタイムズ http://blog.livedoor.jp/goldennews/
+blog.livedoor.jp##:matches-path(/goldennews/)div[id^="random-product-"]
+blog.livedoor.jp##:matches-path(/goldennews/)#side-column[style^="position: fixed"]:style(position: static !important;)
+
 
 
 
@@ -6185,28 +6157,25 @@ tube8.*###flvplayer > [style]:has(.js-remove-ads-premium-link)
 tube8.*###result_container_wrapper > [style]:has(.js-remove-ads-premium-link)
 tube8.*###result_container > [class]:not(.video_box)
 
-! --- xhamster --- !
-||faphouse.com^$subdocument,third-party
+!g --- xhamster --- !
 ||tsyndicate.com^
 ||hpyrdr.com^
 ||collector.xhamster.com^
-||xhcdn.com/js/track.
-xhamster.com##.player-container > div[class*="-"]:not([class*="player"])
-xhamster.com##.thumb-list--promoted-video-banner:style(width: auto !important;)
-xhamster.com##.thumb-list--sidebar .thumb-list__look-like-item
-xhamster.com##.thumb-list > .video-thumb:style(margin-right: 0px !important;)
-xhamster.com##.wio-y
-xhamster.com##.wio-ypremium-overlay
-||xliirdr.com^
-||xxxviijmp.com^
-/related_1.html?language=$subdocument,third-party
-||xhamster.*/api/models/vast*preroll$xmlhttprequest,~third-party
+||xhamster.com*/vast?
+&spotpagetype=*&statsuid=$frame
+/mlxhl/v*/for-page?$xhr
+||xhcdn.com/js/*.track.min.js
+||xhcdn.com/promo/$image,from=xhamster.*
+xhamster.com##div[data-role="promo-messages-wrapper"]
+xhamster.*##div[class^="yld-"]
 xhamster.*##div[class*="sp-b"]
-xhamster.*##div[class*="cams-widget"]
-xhamster.*##.video-thumb[class*="__look-like-item"]
+xhamster.*##div[data-testid="right-banner-section"]
+xhamster.*##div[class*="widget-section"]
+xhamster.*##div[class*="cams-wgt"]
 
-
-! --- xvideos.com --- !
+!g --- xvideos.com --- !
+||opoxv.com^
+||xvideos.com/lvcsm/abck-banners/
 xvideos.*###ad-footer
 xvideos.com###video-sponsor-links
 xvideos.com###video-ad
@@ -6217,216 +6186,16 @@ xvideos.com##.videoad-title
 xvideos.com##+js(nowoif)
 /js/static/header/sda/ppsuma*.js$script
 
-! --- avgle.com --- !
-*$3p,popup,domain=avgle.com
-*$frame,script,3p,denyallow=cloudflare.com|cloudflare.net|google.com|gstatic.com|hcaptcha.com|jsdelivr.net|recaptcha.net|webflow.com,domain=avgle.com
-avgle.com###player_3x2_close:style(font-size: 250% !important;)
-avgle.com###ps32-container
-avgle.com##a[href*="/redirect"]
-avgle.com##img[src*=".php"]
-avgle.com##+js(nowebrtc)
-
 ! --- jav系 --- !
+||adxadserv.com^
 ||pemsrv.com^
-
-! --- ashemaletube.com --- !
-||ashemaletube.com/ast/b/
-ashemaletube.com##.ads-block-rightside
-ashemaletube.com##.video-end-overlay
-ashemaletube.com##+js(aopr, open)
-
-! Common rules for TXXX network
-/\/[a-z]{4,}\/(?!holly7)[0-9a-z]{3,}\d\.\d{1,2}\.\d{1,2}\.[0-9a-f]{32}\.js$/$script,domain=555.porn|bigdick.tube|hclips.com|hdzog.*|hotmovs.*|imzog.com|inporn.com|javdaddy.com|porn555.com|pornforrelax.com|porngo.tube|pornj.com|pornl.com|pornq.com|porntop.com|privatehomeclips.com|puporn.com|see.xxx|shemalez.com|sss.xxx|thegay.*|tubepornclassic.com|tuberel.com|txxx.*|txxxporn.tube|upornia.*|vjav.*|voyeurhit.*|vxxx.com
-/\.[a-z]{3,5}\/[a-z]{8,12}\/[a-z]{8,12}\.js$/$script,domain=555.porn|asiantv.fun|blackporn.tube|bdsmx.tube|bigdick.tube|hclips.com|hdzog.*|hotmovs.*|imzog.com|inporn.com|javdaddy.com|mrgay.tube|porn555.com|pornclassic.tube|pornforrelax.com|porngo.tube|pornhits.com|pornj.com|pornl.com|pornq.com|porntop.com|pornzog.com|privatehomeclips.com|puporn.com|see.xxx|senzuri.tube|shemalez.com|sss.xxx|teenorgy.video|thegay.*|tubepornclassic.com|tuberel.com|txxx.*|txxxporn.tube|upornia.*|vjav.*|voyeurhit.*|vxxx.com|xmilf.com
-/afon7.$script,1p
-/barbar7.$script,1p
-! https://github.com/uBlockOrigin/uAssets/issues/10064
-/huyass7.$script,1p
-/lemon7.$script,1p
-/rass7.$script,1p
-/teo7.$script,1p
-/nofa7.$script,1p
-/ytrek7.$script,1p
-/kzdh7.$script,1p
-/klesd7.$script,1p
-/assets/jwplayer-*/vast.js$script,1p
-! https://github.com/uBlockOrigin/uAssets/issues/953
-txxx.*##+js(acs, setTimeout, hommy.mutation.mutation)
-txxx.*##+js(aeld, click, pop.beforeOpen)
-txxx.*##+js(aopr, jwplayer.utils.Timer)
-txxx.*##.content.page.page-video .video-content > div[class] > div > div[class] > div[class][style^="background-image:"]:style(background-image: none !important;)
-txxx.*##div[style="display:flex !important"] > div
-txxx.*##.page-video > div.video-videos-slider ~ div[class]:matches-css(justify-content: center)
-txxx.*##.video-videos-slider
-txxx.*##.video-content > div + div:last-child
-txxx.*##.video-content > div:first-child > div[class]:has(> div > a[href="#"])
-txxx.*##.videos-tube-friends
-txxx.*##span:has-text(AD):upward(2)
-*$frame,3p,denyallow=google.com|gstatic.com,domain=txxx.*
-*$popunder,3p,domain=txxx.*
-! https://github.com/uBlockOrigin/uAssets/issues/956
-voyeurhit.*##+js(acs, adver)
-voyeurhit.com##+js(aeld, , window.open)
-voyeurhit.com##+js(nosiif, document.readyState)
-voyeurhit.*##.content > div > .container + div
-voyeurhit.*##.video-page__content > div.left + div[class]:last-child
-voyeurhit.*##.video-page__underplayer > div[class]:first-child > div[class]
-voyeurhit.*##.video-related + div[class] > div[class]:only-child
-voyeurhit.*##div[style="display:flex !important"] > div
-##.__nat_link
-||mysmokingmistress.com^$3p
-! https://github.com/uBlockOrigin/uAssets/issues/957
-upornia.*##+js(acs, adver)
-upornia.com##+js(nosiif, undefined)
-upornia.com##+js(nowoif)
-upornia.*##div[style="display:flex !important"] > div
-upornia.*##.video-content > div[class] > div.text > a[href="#"]:upward(2)
-upornia.*##.videoplayer-wrapper + div > div[class]:only-child
-upornia.*##.video-ad-videos + div.aa_label
-upornia.*##div[class$="related"] + div.aa_label
-upornia.*##.video-videos-slider
-upornia.*##.aa_label + div:not([class])
-upornia.*##.video-videos-slider + .aa_label
-pornzog.com###ntv_a
-pornzog.com##.video-ntv-list
-! https://github.com/uBlockOrigin/uAssets/issues/2074
-hotmovs.com##+js(acs, adver)
-hotmovs.com##+js(aopr, ExoLoader)
-hotmovs.com##+js(aopw, ads_priv)
-hotmovs.com##+js(aeld, , pop)
-hotmovs.com##.partners-wrap
-hotmovs.*##.block_label--last + div[class]
-hotmovs.*##.pagination + div.block_label--last
-hotmovs.*##.underplayer__info > div[class]:first-child
-hotmovs.*##.video-page__content > div.left + div[class]:last-child
-hotmovs.*##div[style="display:flex !important"] > div
-hotmovs.*##.video-page > div.block_label.mt-15 + div[class]
-hotmovs.*##.videos-tube-friends
-||hotmovs.com/sw.js$script,1p
-! https://github.com/uBlockOrigin/uAssets/issues/959
-vjav.com##+js(acs, document.getElementById, pop)
-vjav.com##+js(aeld, , window.open)
-vjav.com##+js(nosiif, document.readyState)
-*$script,3p,denyallow=gstatic.com,domain=vjav.*
-||vjav.com/sw.js$script,1p
-vjav.*##.hv-block
-vjav.*##.suggestions
-vjav.*##div[style="display:flex !important"] > div
-vjav.*##.album-page > div.video-page__wrapper + div[class]
-vjav.*##.content > div:not([class]) > div.video-page + div[class]
-vjav.*##.video-page__content > div.left + div[class]:last-child
-vjav.*##.video-page__player + div[class] > div[class]
-! pornq .com popups
-pornq.com##+js(aeld, , window.open)
-||pornq.com/sw.js$script,1p
-||bitupsss.com^$all
-! pornj .com popups
-pornj.com##+js(aopr, open)
-pornj.com##.vda-item
-! pornl.com
-pornl.com##+js(aeld, , pop)
-pornl.com##+js(aopr, open)
-pornl.com##.adv-list--footer
-pornl.com##div.vda-item.thumbnail-next.thumbnail-x2
-! porn555 .com popups
-porn555.com##+js(aeld, , window.open)
-porn555.com##.vda-x2
-! see .xxx
-||see.xxx/sw.js$script,1p
-||see.xxx/nr.js
-see.xxx##+js(aeld, , pop)
-see.xxx##div.vda-x2.vda-item
-! https://github.com/easylist/easylist/pull/6720
-||porntop.com/magic/$script,1p
-porntop.com###inv_pause
-porntop.com##.ip > .btn-close
-||sss.xxx/sw.js$script,1p
-tuberel.com##+js(aeld, , open)
-||tuberel.com/*.php
-||puporn.com/sw.js$script,1p
-! https://github.com/easylist/easylist/issues/7918
-! https://github.com/AdguardTeam/AdguardFilters/issues/131194
-thegay.*##+js(acs, adver)
-thegay.*##.content > div:not([class]) > .wrapper ~ div[class]:not(.wrapper)
-thegay.*##.underplayer__info > div[class]:first-child
-thegay.*##.video-page__content > div.left + div[class]:last-child
-thegay.*##div[style="display:flex !important"] > div
-
-||thegay.com^$csp=default-src 'self' *.ahcdn.com fonts.gstatic.com fonts.googleapis.com https://thegay.com https://tn.thegay.com 'unsafe-inline' 'unsafe-eval' data: blob:,badfilter
-! privatehomeclips.com
-privatehomeclips.com##.footer-banners
-privatehomeclips.com##div[style="display:flex !important"] > div
-privatehomeclips.com##.partners-wrap
-privatehomeclips.com##.video-page__content > .right
-privatehomeclips.com##.video-page__item
-privatehomeclips.com##.content > div > .wrapper + div[class]:not(.wrapper)
-privatehomeclips.com##.underplayer > div[class]:not([class*="_"]) > div[class]
-privatehomeclips.com##.partners-wrap + div[class]
-! vxxx.com
-vxxx.com##+js(acs, ACtMan)
-vxxx.com###player-1 > div[style="display:flex !important"]
-vxxx.com##.video-page-content + div[class]
-vxxx.com##.video-page-content-left + div[class]:last-child
-vxxx.com##.videoplayer + div > div[class]
-vxxx.com##.wrapper-margin + div[class]:last-child
-! pornhits.com popup/under
-pornhits.com##+js(acs, ACtMan)
-pornhits.com###s-suggesters
-pornhits.com##.ft
-pornhits.com##.index-ntv
-pornhits.com##.jwplayer > span
-pornhits.com##.sponsor
-||pornhits.com/magic/
-||red12flyw2.site^$3p
-! inporn.com ads/PH
-inporn.com##.video-page__content > div.right
-inporn.com##.video-info > section
-inporn.com##.video__wrapper > div.wrapper.headline
-inporn.com##.wrapper > article
-inporn.com##section[is-footer-banners]
-inporn.com###in_v
-inporn.com##.btn-close
-inporn.com##[style="display:flex !important"] > div > div:not(:last-child)
-mrgay.*,pornhits.com##.right
-! senzuri.tube redirect, ad
-senzuri.tube##+js(acs, adver)
-senzuri.tube##.right
-senzuri.tube##.video-tube-friends-wrapper
-! https://github.com/AdguardTeam/AdguardFilters/issues/130607
-txxxporn.tube##div[style="display:flex !important"] > div
-txxxporn.tube##.video-videos-slider + div[class] + div[class]
-txxxporn.tube##div.text:upward(1)
-txxxporn.tube##img[src^="https://tn.txxx.tube/contents/cst/"]:upward(.video-content > div > div)
-txxxporn.tube##.video-content > div:not(:has(.pplayer))
-txxxporn.tube##.video-content > div[class]:first-child > div[class]:has(> div > a[href="#"])
-! https://github.com/uBlockOrigin/uAssets/issues/4234
-hclips.com##+js(acs, adver)
-hclips.com##+js(acs, document.getElementById, popunder)
-hclips.com##+js(aopr, ExoLoader)
-hclips.com##.adv-box-holder
-hclips.com##[class^="pl_"]
-hclips.com##iframe[src="javascript:false"]
-hclips.com##div[style="display:flex !important"] > div
-hclips.com##.video-page__content > .right
-hclips.com##.video-page__item
-hclips.com##.content > div > .wrapper + div[class]:not(.wrapper)
-hclips.com##.underplayer > div[class]:not([class*="_"]) > div[class]
-hclips.com##.wrapper + .partners-wrap + div[class]
-*$frame,3p,denyallow=google.com|gstatic.com,domain=hclips.com
-! https://github.com/uBlockOrigin/uAssets/issues/8391
-! https://github.com/uBlockOrigin/uAssets/issues/1114
-hdzog.*##+js(acs, adver)
-hdzog.com###under-pl-ad
-hdzog.com##+js(aeld, , pop)
-hdzog.*##.content > div:not([class]) > div.content-block ~ div[class]:not(.content-block)
-hdzog.*##.suggestions
-hdzog.*##.partners-wrap
-hdzog.*##.pagination +  div[class]:last-of-type
-hdzog.*##.video-page__left > div[class]:last-of-type
-hdzog.*##div[style="display:flex !important"] > div
-! https://www.reddit.com/r/uBlockOrigin/comments/10abahw/
-hdzog.*##.video-page__content > div:not([class*="video"])
-hdzog.*##.video-page__row > div:not([class*="video"])
+||ltassrv.com^
+||exosrv.com^
+||oclasrv.com^
+||realsrv.com^
+||exdynsrv.com^
+||magsrv.com^
+||orbsrv.com^
 
 ! regex
 /^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party,redirect=noop.js,to=com
@@ -6547,6 +6316,12 @@ hdzog.*##.video-page__row > div:not([class*="video"])
 deagostini.jp#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;)
 deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 
+! etude000.com
+! https://github.com/tofukko/filter/issues/87
+etude000.com#@#.thk_ps_widget
+etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_widget-60, #thk_ps_widget-15)
+etude000.com##.top-ad
+
 ! nakanohito
 ||nakanohito.jp^$third-party
 ! https://github.com/easylist/easylist/issues/7760
@@ -6582,7 +6357,6 @@ deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!importan
 @@||b90.yahoo.co.jp/conv.js$script,domain=www3.nissan.co.jp
 @@||b92.yahoo.co.jp/js/s_retargeting.js$script,domain=www3.nissan.co.jp
 @@||adsrvr.org/up_loader.$script,domain=www3.nissan.co.jp
-
 	!動画未練
 	!@@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
 	!記事崩れ ×ボタン
@@ -6611,7 +6385,7 @@ deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!importan
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 	!sideランキング12345
 @@||ascii.jp/img/ad/$image,domain=ascii.jp
-        ! https://github.com/tofukko/filter/issues/83
+	! https://github.com/tofukko/filter/issues/83
 @@||cdn.taboola.com/magazine/
 	!できない
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
@@ -6629,7 +6403,7 @@ deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!importan
 @@||eisys-bcs.jp/data.json$domain=dlsite.com
 	!
 @@||files.mycloud.com/js/analytics/google_analytics.js
-        ! https://github.com/tofukko/filter/issues/74
+	! https://github.com/tofukko/filter/issues/74
 @@||gaming-city.com/images/ads/$image,domain=gaming-city.com
 	! https://github.com/tofukko/filter/issues/18
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html$xmlhttprequest,domain=ganma.jp
@@ -6765,7 +6539,6 @@ deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!importan
 @@||tblg.k-img.com/javascripts/modules/rst/analytics.js$script,domain=tabelog.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/104430
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
-
 	! https://github.com/uBlockOrigin/uAssets/issues/15959
 @@||tm.r-ad.ne.jp^$script,domain=hpdsp.net
 	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment892
@@ -6786,7 +6559,6 @@ deagostini.jp#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!importan
 	! https://github.com/hirorpt/filters/commit/5382bdeaf36476e17f5d8ab8f101c8ba26a3a7c9
 	! https://www.epson.jp/products/dreamio/ehtw8400/ 製品画像
 @@||yjtag.jp/tag.js$script,domain=www.epson.jp
-
 	! https://github.com/tofukko/filter/issues/62
 70okugame.com#@#.dfad
 	!header
@@ -6823,7 +6595,7 @@ yuik.net#@#.advads-widget
 
 !------------------- anti adblock -------------------------!
 ! CHP
-###container > #footer ~ #go-to-top + div[id][class*=" "]
+###go-to-top + div[id][class*=" "]
 ###st-ami + div[id][class*=" "]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8528#issuecomment-1294606224 
@@ -6906,14 +6678,6 @@ ff14angler.com##.side_banner:style(position: fixed !important;)
 !g-pc.info##+js(set, adsbygoogle.loaded, true)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=g-pc.info
 
-! gamemod.blog.fc2.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/153183
-gamemod.blog.fc2.com#@#.AdContainer
-gamemod.blog.fc2.com##+js(no-setTimeout-if, AdContainer)
-||fc2.com/g/a/m/gamemod/jQuery-1x-ie8.js
-||fc2.com/g/a/m/gamemod/jQuery-2x-ie9.js
-||fc2.com/g/a/m/gamemod/min-user-comment.js
-
 ! gametter.com
 !gametter.com##+js(acis, addEventListener, google_ad_client)
 
@@ -6933,16 +6697,24 @@ gato.intaa.net##.adwidget
 	!gigaho.com##ins.adsbygoogle
 
 ! hadakanonude.com
-hadakanonude.com##+js(noeval-if, fairAdblock)
+hadakanonude.com##+js(noeval-if, /chp_?ad/)
 hadakanonude.com##.main-inner > center:first-child
 hadakanonude.com##[id^="execphp-"]:not(#execphp-13, #execphp-5, #execphp-14)
 
 ! helpsupport.blog.fc2.com
+! gamemod.blog.fc2.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/131648
+! https://github.com/AdguardTeam/AdguardFilters/issues/153183
 helpsupport.blog.fc2.com#@#.AdContainer
 helpsupport.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 helpsupport.blog.fc2.com###load:empty
+helpsupport.blog.fc2.com###sparea-1:style(width: 0 !important;)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=helpsupport.blog.fc2.com
+gamemod.blog.fc2.com#@#.AdContainer
+gamemod.blog.fc2.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
+gamemod.blog.fc2.com###load:empty
+gamemod.blog.fc2.com###sparea-1:style(width: 0 !important;)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=gamemod.blog.fc2.com
 
 ! investing.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10098
