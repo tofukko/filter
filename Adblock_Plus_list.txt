@@ -5384,6 +5384,7 @@ tok2.com###tok2_footer
 ! --- skebetter.com --- !
 ||skebetter.com/api/ad/
 ||skebetter.com/api/v2/ItemList?site=FANZA&
+||api.twieromanga.com/api/headerancherad
 skebetter.com##a[href*="dmm.co"]
 skebetter.com##div[class="flex items-center justify-center min-w-full	"]
 skebetter.com##+js(no-setTimeout-if, return n(!0))
