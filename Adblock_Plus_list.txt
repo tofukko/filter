@@ -2,8 +2,11 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/20 23:46
+! 最終更新 2024/07/22 22:29
 !
+
+!2024/07/21
+||kadokawagakugei.com/js/ga2.js
 
 ! 2023/04/02 twitter API
 ! 2024/07/20
@@ -32,33 +35,6 @@ buhitter.com##.col.clearfix[style="margin-top: 8px;"]
 @@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
 
-! #リツイート直後のツイートを表示するやつ
-! https://retweets.pronama.jp/
-! サ終？ https://togetter.com/li/2113907
-
-! #生活習慣の乱れを可視化するやつ
-! https://midare.p1ass.com/
-! サ終 https://twitter.com/p1ass/status/1641417687678189568
-
-! twittbot
-! 維持 https://twitter.com/twittbotinfo/status/1626488452849242112
-
-! ふせったー
-! 維持？ https://twitter.com/fusetter
-
-! ぶろるっく
-! 不明 https://blolook.osa-p.net/index.html
-
-! マシュマロ
-! 維持？ https://twitter.com/marshmallow_qa/status/1641372497882005504
-
-! TwiPla
-! 維持 https://twitter.com/twipla/status/1621406951916851200
-
-! アニメレーダー https://ckworks.jp/animeradar/about/
-! 一部サ終 https://ckworks.jp/animeradar/about/
-
-
 ! 2024/07/19
 ! --- osdn --- !
 mag.osdn.jp###head-ad-text
@@ -85,7 +61,7 @@ avgle.com##a[href*="/redirect"]
 avgle.com##img[src*=".php"]
 avgle.com##+js(nowebrtc)
 
-! 2024/05/13 
+! 2024/05/13
 mmm.me###imadv
 
 ! 2024/05/12 サ終
@@ -313,6 +289,7 @@ _ads.js.
 ||alimama.cn^$third-party
 ||alistcloud.com^$third-party
 ||amoad.com^$third-party
+||anymind360.com^
 ||appollo.jp^$third-party
 ||appollo-plus.com^$third-party
 ||apvdr.com^$third-party
@@ -922,6 +899,7 @@ _analytics.js?
 ||chango.com^$third-party
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
+||clarity.ms^
 ||clickaider.com^$third-party
 ||clickanalyzer.jp^$third-party
 ||clicktale.net^$third-party
@@ -986,6 +964,7 @@ _analytics.js?
 ||mobylog.jp^$third-party
 ||mybloglog.com^$third-party
 ||n-analytics.io^$third-party
+||newrelic.com^$third-party
 ||ninki.net^$third-party
 ||noface.jp^$third-party
 ||nowvisitors.com^$third-party
@@ -1056,24 +1035,6 @@ _analytics.js?
 ||zero-tools.com^$third-party
 ||ziyu.net^$third-party
 
-!---gaico
-||alcmpn.com^$third-party
-||anymind360.com^$third-party
-||bidswitch.net^$third-party
-||clarity.ms^$third-party
-||dc-tag.jp^$third-party
-||f-tra.com^$third-party
-||hanaprop.com^$third-party
-||indexww.com^$third-party
-||mathtag.com^$third-party
-||mixpanel.com^$third-party
-||mxpnl.com^$third-party
-||newrelic.com^$third-party
-||remarketingpixel.com^$third-party
-||users.51.la^$third-party
-||web-rom.ru^$third-party
-||yadro.ru^$third-party
-
 !----third-party
 ||2bee.jp*/count.php
 ||analytics.agoda.com^
@@ -1112,7 +1073,6 @@ _analytics.js?
 ||tracer.jp^
 ||veritrans.co.jp/bcon/
 
-
 ||access*.utamap.com^$script,~third-party
 ||analytics.edgekey.net^
 ||analyzer.wox.cc^
@@ -1128,7 +1088,6 @@ _analytics.js?
 ||facebook.com/xti.php?
 ||github.com/_private/browser/stats
 ||gnavi.co.jp/analysis/
-||kadokawagakugei.com/js/ga2.js
 ||kooss.com/cgi-usr/accl/lkz.cgi?
 ||milmil.cc/sys/asiato.cgi?
 ||milmil.cc/sys/kaiseki.cgi?
@@ -1163,9 +1122,6 @@ _analytics.js?
 ##.ggbox
 ! https://twitter.com/KRRKS_B
 ##.ad_splify
-
-! gacraft.jp
-##.sherpa-component[data-ad_type]
 
 ! microad
 ##.c-ad
@@ -1832,6 +1788,7 @@ fukui-tv.co.jp##.advertCont
 fukuishimbun.co.jp##.admeasure
 full-count.jp##.l-sidebar-ads
 full-count.jp##.s-entry-ads
+fumufumunews.jp##.ad-block
 funny-ai.com##.main-frp-ads
 funny-ai.com##.main-header-ads
 gaccom.jp##.ads
@@ -3666,7 +3623,7 @@ gifubo-shine.com###text-5
 gifubo-shine.com##.advertising
 ! https://rinjin-shine.com/
 
-! --- ddd-smart.net --- ! 
+! --- ddd-smart.net --- !
 ||ddd-smart.net/ad/
 ||mnaspm.com^
 ddd-smart.net##+js(set, univresalP, noopFunc)
@@ -3778,14 +3735,6 @@ exblog.jp##[class*="list" i] > .ss
 
 ! https://github.com/tofukko/filter/issues/36
 @@||www.google-analytics.com/analytics.js$script,domain=woman.excite.co.jp
-
-! --- exploader.net --- !
-||dmm.co.jp^$domain=exploader.net
-exploader.net##aside > .word + .tag + div
-exploader.net##[data-style="1"]
-exploader.net##[id^="fanza_"]
-exploader.net##div[style*=";height: "]:not([class]):not([id]):not([loaded])
-exploader.net##.list > li[style="clear: left;width: calc(100% + 4px) !important;margin-right: -1px;height: 120px;margin-left: -2px;float: none;display: block !important;"]
 
 ! --- famitsu.com --- !
 famitsu.com##aside[class^="SponsorLink_sponsorLinkContainer__"]
@@ -4347,13 +4296,20 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
 ! toppage
+itmedia.co.jp###BelowArtLink
+itmedia.co.jp###BelowArtRectangle
+itmedia.co.jp###GeneralAD
 itmedia.co.jp###OwnedAd
+itmedia.co.jp###PC_rcol-3rdRectangle
+itmedia.co.jp###Rcol2ndRectangle
 itmedia.co.jp###SideLink
 itmedia.co.jp###SuperBanner
 itmedia.co.jp###TopBox
-itmedia.co.jp##div[id^="RcolRectangle"]
+itmedia.co.jp###TopLink
+itmedia.co.jp###TopText
 itmedia.co.jp##div[id$="BrandText"]
 itmedia.co.jp##div[id$="InFeedNative"]
+itmedia.co.jp##div[id^="RcolRectangle"]
 ! https://www.itmedia.co.jp/fav/
 itmedia.co.jp###AmazonRankingParts
 itmedia.co.jp##.gad
@@ -4479,24 +4435,28 @@ embed.streamx.me##+js(noeval-if, debugger)
 ! https://github.com/uBlockOrigin/uAssets/issues/12570
 /api/popv2.php$xmlhttprequest,~third-party
 
-! https://github.com/uBlockOrigin/uAssets/issues/7308
-! https://github.com/uBlockOrigin/uAssets/issues/12468
-adblockeronstape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,noblocktape.*,shavetape.*,stapadblockuser.*,stape.*,stapewithadblock.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtapewithadblock.*,strtpe.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(aopw, _pop)
-adblockeronstape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,adblocktape.*,antiadtape.*,noblocktape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtpe.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(nosiif, adblock)
-adblockeronstape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,noblocktape.*,shavetape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblock.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtapewithadblock.*,strtpe.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(nowoif)
-strcloud.*,streamtape.*,streamta.*,strtape.*,strtapeadblock.*##+js(ra, target, #downloadvideo)
-adblockeronstape.*,adblockplustape.com,adblocktape.*,antiadtape.*,noblocktape.*,shavetape.*,stapadblockuser.*,strcloud.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,tapeblocker.com,tapenoads.com,tapewithadblock.org##+js(nano-stb, counter)
-adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,stape.*,strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*#@#.google-ad
-adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,antiadtape.*,shavetape.*,stape.*,strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*##[class*="bn-container"], div[style*="z-index: 300000;"]
-@@*$generichide,domain=adblockstreamtape.*|adblockstrtape.*|adblockstrtech.*|antiadtape.*|shavetape.cash|stape.*|strcloud.*|streamta.*|streamtape.*|streamtapeadblock.*|strtape.*|strtpe.*
-strcloud.*,streamtape.*,streamta.*,strtape.*,strtpe.*,strtapeadblock.*##iframe[src^="data:"]
-/sw.js$script,~third-party,domain=strcloud.*|streamtape.*|streamta.*|strtape.*|strtpe.*|strtapeadblock.*
-streamadblocker.*##+js(acs, setTimeout, admc)
-*$popup,third-party,domain=tapewithadblock.org,badfilter
-streamnoads.com##+js(rmnt, script, FingerprintJS)
-||dzhzp0zlnyoe8.cloudfront.net^
-! https://github.com/uBlockOrigin/uAssets/issues/20336
-tapenoads.com#@#.skyscraper.ad
+! vidmoly . me | .to popups
+vidmoly.*##+js(nowoif)
+||apptospace.com^
+||disproveknob.com^
+vidmoly.*###mg_vd
+vidmoly.*###voc_block
+vidmoly.*###dos_vlock
+||cdn.staticmoly.me/*.php$domain=vidmoly.*
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/66996
+! https://github.com/uBlockOrigin/uAssets/issues/17289
+*$script,redirect-rule=noopjs,domain=vidmoly.me|vidmoly.net|vidmoly.to
+||vidmoly.to/static/vastAD.js$script
+||vastz.b-cdn.net/*.mp4$media,domain=vidmoly.to,redirect=noopmp3-0.1s
+vidmoly.*###adsblock
+
+mp4upload.com##+js(aopw, adcashMacros)
+mp4upload.com##+js(aopr, Adcash)
+mp4upload.com##+js(acs, document.documentElement, break;case $.)
+mp4upload.com###lay.lay
+*$script,redirect-rule=noopjs,domain=mp4upload.com
+*$script,3p,denyallow=cloudflare.com|cloudflare.net|fontawesome.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net,domain=mp4upload.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6738
 ! https://github.com/uBlockOrigin/uAssets/issues/17145
@@ -4512,40 +4472,26 @@ fmovies.*###gift-top
 ! https://fmovies.to ads
 fmovies.*##+js(acs, document.write, innerWidth)
 ! https://github.com/NanoMeow/QuickReports/issues/3311
+! https://github.com/uBlockOrigin/uAssets/issues/23678
 ||iamcdn.net/players/player*.*mins.js$script,domain=freeplayervideo.com|nazarickol.com|player-cdn.com
 ! abysscdn.com,freeplayervideo.com,nazarickol.com,player-cdn.com##+js(set, detectAdBlockAll, noopFunc)
 *$image,redirect-rule=32x32.png,domain=freeplayervideo.com|nazarickol.com|player-cdn.com
-freeplayervideo.com,nazarickol.com,player-cdn.com##+js(set, console.clear, undefined)
-freeplayervideo.com,nazarickol.com,player-cdn.com##+js(ra, style, #over)
-abysscdn.com,freeplayervideo.com,nazarickol.com,player-cdn.com##+js(nowoif, /^/, 1)
+freeplayervideo.com,nazarickol.com,player-cdn.com,playhydrax.com##+js(set, console.clear, undefined)
+freeplayervideo.com,nazarickol.com,player-cdn.com,playhydrax.com##+js(ra, style, #over)
+freeplayervideo.com,nazarickol.com,player-cdn.com,playhydrax.com##+js(nowoif, /^/, 1)
 jav.guru##.inside-right-sidebar > aside.widget_custom_html
 jav.guru###text-76
 jav.guru###text-92
 jav.guru###text-93
-||abysscdn.com/cdn-cgi/trace$xmlhttprequest,~third-party
-
-! https://forums.lanik.us/viewtopic.php?f=62&t=32450
-! https://github.com/uBlockOrigin/uAssets/issues/2973
-mp4upload.com##+js(aopw, _pop)
-mp4upload.com##+js(aopw, adcashMacros)
-mp4upload.com###lay.lay
-*$script,redirect-rule=noopjs,domain=mp4upload.com
-*$script,third-party,denyallow=cloudflare.com|cloudflare.net|fontawesome.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net,domain=mp4upload.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/66996
-! https://github.com/uBlockOrigin/uAssets/issues/17289
-*$script,redirect-rule=noopjs,domain=vidmoly.me|vidmoly.net|vidmoly.to
-||vidmoly.to/static/vastAD.js$script
-||vastz.b-cdn.net/*.mp4$media,domain=vidmoly.to,redirect=noopmp3-0.1s
-
-! https://github.com/uBlockOrigin/uAssets/issues/13833
-! vidmoly . me | .to popups
-vidmoly.*##+js(nowoif)
-||apptospace.com^
-||disproveknob.com^
-vidmoly.*###mg_vd
-vidmoly.*###voc_block
-vidmoly.*###dos_vlock
-||cdn.staticmoly.me/*.php$domain=vidmoly.*
+||feedyourtralala.com^
+/cdn-cgi/trace$xhr,1p,domain=abysscdn.com|playhydrax.com
+! https://github.com/uBlockOrigin/uAssets/issues/23424
+abysscdn.com##div[style*="z-index:100000"]
+##div[style="width:100%;height:auto;position:absolute;z-index:100000;justify-content:center;align-items:center;display:flex;top:0px;bottom:0px;background:rgba(0, 0, 0, .6);user-select: none;"]
+! https://www.reddit.com/r/uBlockOrigin/comments/1e5ndpo/video_player_quality_720p1080p_locked_unless_i/
+abysscdn.com##+js(aopr, document.onclick)
+abysscdn.com##+js(aopr, document.ontouchend)
+abysscdn.com##.playover
 
 ! --- kyokugen.info --- !
 ##.ad_desc
@@ -4690,11 +4636,7 @@ welovemanga.one##+js(aopw, document.ready)
 ||visariomedia.com^
 rawkuma.com##+js(aeld, readystatechange, document.removeEventListener)
 rawkuma.com##+js(acs, parseInt, break;case $.)
-lovemangaraw.net,mangaraw.asia###jp-smart-banner
 ||adsbetnet.com^
-||profitabledisplaynetwork.com^
-mangarawjp.asia###jp-smart-banner
-||gloaphoo.net^
 /btag.min.js$third-party
 
 ! --- mangaz.com --- !
@@ -4801,15 +4743,15 @@ nyahentai.re##div[style$="width: 92%; height: 400px; margin: 0 auto 80px auto; b
 ! --- mozakin.com --- !
 !||mozakin.com/auto_updater/dti_get.php?
 !||mozakin.com/v4/js/bbs/dynamic/popup_pc.js
-||10musume.com^$domain=mozakin.com
 ||aff.jskyservices.com^
+||10musume.com^$domain=mozakin.com
+||1pondo.tv^$domain=mozakin.com
 ||heyzo.com^$image,domain=mozakin.com
+||pacopacomama.com$domain=mozakin.com
 ||mozakin.com/ad/
 ||mozakin.com/auto_updater/nls/ranking_list.js
 ||mozakin.com/v4/ad/
 ||mozakin.com/v4/js/imgx/imgd.js
-||pacopacomama.com$domain=mozakin.com
-||1pondo.tv^$domain=mozakin.com
 bbs4.mozakin.com###ad_bottom
 bbs4.mozakin.com###ad_right
 bbs4.mozakin.com###dtiovervideo
@@ -4899,19 +4841,24 @@ comic.nan-net.com##.sidebar-widget.widget_text
 comic.nan-net.com##.side_bj
 
 ! --- new-akiba.com --- !
+! new-akiba.com
 ||new-akiba.com/images/banner/
 ||new-akiba.com/images/dlsite/
 ||new-akiba.com/special/
-||ura-akiba.jp^$subdocument
-||urasma.com^$domain=ura-akiba.jp
-||urasma.com/dmm_
 new-akiba.com###bannerJ
 new-akiba.com##.amazon-sidelist
 new-akiba.com##.amazon-sidelist-right2
 new-akiba.com##.top-column-onsale
 new-akiba.com##.top-column-product
 new-akiba.com##.top-column-sidelist2
+! ota-suke.jp
+ota-suke.jp##.side_ads
+! ura-akiba.jp
+||ura-akiba.jp^$subdocument
+||urasma.com^$domain=ura-akiba.jp
+||urasma.com/dmm_
 ura-akiba.jp###rank_goods
+ura-akiba.jp##.sidebar > [id^="hot_"]
 ura-akiba.jp##.side_ads
 
 ! --- newmatosoku.com --- !
@@ -5215,6 +5162,9 @@ rancolle.com##.ri_box.undisplay_s600
 !||popin.cc/searchbox/
 ##._popIn_recommend_article_ad
 ##._popIn_recommend_article_ad_reserved
+! craft
+##.sherpa-component[data-ad_type]
+
 ||rtoaster.jp^$third-party
 ||outbrain.com^$third-party
 ||speee-ad.akamaized.net^
@@ -5261,6 +5211,10 @@ romhustler.org##+js(nano-sib, timer.remove)
 roote.ekispert.net##.banner_area
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a61e5b8483323573d22fbae6921b7c1c163e5437
 roote.ekispert.net###bottom_area:style(height: 1px!important)
+
+!g --- saucenao.com --- !
+||cloudflareinsights.com^$third-party
+||pub.network^
 
 ! --- save-editor.com --- !
 ||web.save-editor.com/b/in/ad/
@@ -5479,6 +5433,9 @@ twicomi.com#?#.interrupt:-abp-has(> .free-space)
 ||twitter.com^*/videoads/
 ||twitter.com/i/jot
 ||twitter.com/oct.js
+||x.com/*/videoads/
+||x.com/i/api/1.1/jot
+||x.com^*/log.json
 ! プロモーション
 ! uBlock filters
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com##[data-testid="trend"]:has-text(/Promoted|Gesponsert|Promocionado|Patrocinat|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/):upward(1)
@@ -6345,7 +6302,7 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 	! https://github.com/easylist/easylist/pull/6920
 	! https://hicbc.com/movie/
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=locipo.jp
-	! 
+	!
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=t-mall.kantangame.com
 	! https://github.com/uBlockOrigin/uAssets/issues/8447#issuecomment-1077703228
 	! TOP 株式
@@ -6400,7 +6357,7 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js$domain=www.sankei.com
 	!サムネイルが表示されない
 @@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
-	! 地図が無反応 
+	! 地図が無反応
 @@||stats.g.doubleclick.net/dc.js$domain=chintaistyle.jp
 	! https://github.com/tofukko/filter/issues/37
 @@||strpf.net/ad/$xmlhttprequest,domain=big-up.style
@@ -6469,7 +6426,7 @@ yuik.net#@#.advads-widget
 ###go-to-top + div[id][class*=" "]
 ###st-ami + div[id][class*=" "]
 
-! https://github.com/uBlockOrigin/uAssets/issues/8528#issuecomment-1294606224 
+! https://github.com/uBlockOrigin/uAssets/issues/8528#issuecomment-1294606224
 ||npttech.com/advertising.js$script,redirect-rule=noop.js
 
 ! https://twitter.com/280blocker/status/1289903534385721344
@@ -6535,6 +6492,15 @@ connect.coron.tech###sub div[style$="text-align:center;"]
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=crefan.jp
 crefan.jp##+js(no-setTimeout-if, objDef.resolve)
 crefan.jp#?#div[align="center"]:-abp-has(> .badge-success:-abp-contains(スポンサード リンク))
+
+! exploader.net
+! https://github.com/AdguardTeam/AdguardFilters/issues/183252
+||dmm.co.jp^$domain=exploader.net
+exploader.net##aside > .word + .tag + div
+exploader.net##[id^="fanza_"]
+exploader.net##.list > li[style="clear: left;width: calc(100% + 4px) !important;margin-right: -1px;height: 120px;margin-left: -2px;float: none;display: block !important;"]
+exploader.net##[data-style="1"]:style(position: absolute !important; width: 1px !important; z-index: -100000 !important; opacity: 0 !important; overflow: hidden !important;)
+exploader.net##div[style*=";height: "]:not([class]):not([id]):not([loaded]):style(position: absolute !important; width: 1px !important; z-index: -100000 !important; opacity: 0 !important; overflow: hidden !important;)
 
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
@@ -6676,7 +6642,7 @@ musenboya.com#@#.ad-rectangle
 musenboya.com##.ad-area:style(height: 1px !important;margin: 0 !important;opacity: 0 !important;)
 musenboya.com##.entry-footer > a[href^="https://hb.afl.rakuten.co.jp"]
 musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク))
- 
+
 ! my0nio.seesaa.net
 	!my0nio.seesaa.net#@#.adsbygoogle
 
@@ -6733,11 +6699,6 @@ youpouch.com###custom_html-2 > .custom-html-widget > .ad300x250
 googlesyndication.com##.GoogleActiveViewElement
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/1388
 @@||googletagmanager.com/gtm.js$script,redirect-rule,domain=rocketnews24.com
-
-!g saucenao.com
-saucenao.com##+js(acs, document.createElement, admiral)
-||cloudflareinsights.com^
-||pub.network^
 
 !g savevideo.me
 ! https://github.com/uBlockOrigin/uAssets/issues/3874
