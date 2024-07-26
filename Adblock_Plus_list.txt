@@ -2763,6 +2763,7 @@ saga-s.co.jp##.m-ad
 sai-zen-sen.jp##.ad
 saitama-np.co.jp###ad_middle
 sakigake.jp###sakigake_pc_all_header:upward(1)
+sanabo.com##.add
 sanspo.com##.article__inline-gptAd
 sanspo.com##.billboard_250
 sanspo.com##.gptAd
@@ -4300,9 +4301,6 @@ animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gameb
 @@||googletagmanager.com/gtm.js$script,domain=response.jp
 @@||googletagmanager.com/gtm.js$script,domain=scan.netsecurity.ne.jp
 @@||googletagmanager.com/gtm.js$script,domain=spyder7.com
-! https://github.com/easylist/easylist/pull/7882
-@@||api.cxense.com/public/widget/data?$xmlhttprequest,domain=cyclestyle.net
-@@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net
 
 ! --- impress.co.jp --- !
 ||yamakei-online.com/new_images/adv/banner/
@@ -6176,7 +6174,7 @@ xvideos.com##+js(nowoif)
 ||cxense.com^$third-party
 @@||cxense.com/cx.cce.js$script
 @@||cxense.com/cx.js$script
-@@||cxense.com/public/widget/data?
+@@||api.cxense.com/public/widget/data?
 ! https://www.ntv.co.jp/search/
 ! https://www.tv-tokyo.co.jp/search/?channel=tvtokyo
 ! https://www.itmedia.co.jp/news/
