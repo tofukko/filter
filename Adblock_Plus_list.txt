@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/29 15:46
+! 最終更新 2024/07/29 20:58
 !
 
 ! 2024/07/29
@@ -1856,6 +1856,7 @@ gendai.media##.articleBottomAd
 genroq.jp##.ad-management
 gensun.org##[style^="width:728px;height:90px"]
 gentosha-go.com###headbar
+gentosha-go.com###ggo_250_wrapper
 gentosha-go.com###sgo_250_wrapper
 gentosha-go.com##.side-banner
 gentosha-go.com##._popIn_recommend_article_ad:upward(1):remove()
@@ -4290,6 +4291,8 @@ i-bbs.sijex.net##span[style="display:block;margin:5px 0 0 0;padding:0;text-align
 ! --- IID --- !
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
+rbbtoday.com##.main-amazon-ranking
+rbbtoday.com##.free-custom > .af
 ! https://github.com/tofukko/filter/issues/66
 ! IID 検索バー
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp
@@ -6117,6 +6120,7 @@ xvideos.com##+js(nowoif)
 ||exdynsrv.com^
 ||magsrv.com^
 ||orbsrv.com^
+||exoclick.com^
 
 ! regex
 /^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-f]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party,redirect=noop.js,to=com
