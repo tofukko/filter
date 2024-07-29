@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/29 15:22
+! 最終更新 2024/07/29 15:46
 !
 
 ! 2024/07/29
@@ -3998,10 +3998,9 @@ gamebox.gesoten.com###gamecolorbox-overlay
 kantan.game##.ad_half
 kantan.game##.ad_rectangle
 kantan.game##.ad_super
-! t-mall.kantangame.com
-t-mall.kantangame.com##.ad_half
-t-mall.kantangame.com##.ad_rectangle
-t-mall.kantangame.com##.ad_super
+kantangame.com##.ad_half
+kantangame.com##.ad_rectangle
+kantangame.com##.ad_super
 ! game.hiroba.dpoint.docomo.ne.jp
 game.hiroba.dpoint.docomo.ne.jp##.ad_half
 game.hiroba.dpoint.docomo.ne.jp##.ad_rectangle
