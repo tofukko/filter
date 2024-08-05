@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/07/29 20:58
+! 最終更新 2024/08/05 18:05
 !
 
 ! 2024/07/29
@@ -566,6 +566,7 @@ _ads.js.
 ||pcolle.*/parts/js/parts.js
 ||queen-casino.info/affi/
 ||runative-syndicate.com^
+||spox.com/daznpic/
 ||type-bee.co.jp/assets/*/shared/tapnovel-banner-
 ||theta360.com/intl/common/inc/ad_banner.html?
 
@@ -1501,6 +1502,11 @@ chekibbs.com##.bottombanner
 chekibbs.com##.resbanner
 chekibbs.com##.ressidebanner
 chekibbs.com##.sidebanner
+chichi-pui.com##.p-advertisement
+chichi-pui.com##.p-image-cards__item
+chichi-pui.com##.p-sidebar__advertisement
+chichi-pui.com#?#.c-section-title:-abp-contains(Amazon)
+chichi-pui.com#?#.l-section-container > section:has(> .c-section-title:-abp-contains(Amazon))
 chikuwachan.com##.right_advs
 chisou-media.jp##.p-article div[style="min-height: 280px!important;min-width: 500px;"]
 chixi.jp##.homeRightTable3
@@ -1683,7 +1689,6 @@ ekitan.com##.sidebar-ad-item
 ekitan.com##[class^="ek-forward-display-l_middle_"][style="margin:0 auto; width:728px;"]
 ekitan.com##[class*="ek-route-advertising-no-"]
 elog-ch.net##.relatedad
-encount.press##+js(acs, document.referrer, gmo_bb)
 entamega.com###ad_right-column01
 entnavi.com##.doublerec_css
 eow.alc.co.jp##.box-ad
@@ -1796,8 +1801,6 @@ fuelle.jp##.bn_gpt_box
 fujossy.jp##.story__header-adbox
 fukui-tv.co.jp##.advertCont
 fukuishimbun.co.jp##.admeasure
-full-count.jp##.l-sidebar-ads
-full-count.jp##.s-entry-ads
 fumufumunews.jp##.ad-block
 funny-ai.com##.main-frp-ads
 funny-ai.com##.main-header-ads
@@ -2205,6 +2208,7 @@ kimootoko.net###custom_html-62
 kimootoko.net###custom_html-63
 kimootoko.net##[class^="fanzakiji"]
 kinmaweb.jp##.book-tiles
+kishojin.weathermap.jp###under-horizontal-ad
 kkbox.com##.google-ad-manager
 knb.ne.jp##.s-banner-top
 knb.ne.jp##.s-flux-bottom
@@ -2930,8 +2934,6 @@ teratail.com##div[class*="_questionBottomAdArea_"]
 tetsudo-ch.com##.ad-dummy
 tetsudo-ch.com##.fixed-ad
 tg-uchi.jp##.topicBanner
-thedigestweb.com##.c-ad-banner:not(.-continual)
-thedigestweb.com##.c-ad-banner--col2
 thetv.jp##.ad
 timeout.jp##.ad-mpu
 timeout.jp##[id^="ad-promo-"]
@@ -3250,6 +3252,7 @@ akiba-souken.com##.middleBnr
 ||akibablog.net/ad-
 ||akibablog.net/ads-
 ||akibablog.net/banner-
+||beigeturtle97.sakura.ne.jp/t3.html
 ||blog.livedoor.jp/geek/ad-
 ||blog.livedoor.jp/geek/button-ab.html
 akibablog.blog.jp##div[style^="top:0px;position:fixed;z-index:0;left:50%;"]
@@ -3611,6 +3614,12 @@ coolrom.com.au##td[style="margin:0px;padding:0px;"][width="336"]
 coolrom.com.au##td[colspan="2"][width="100%"][bgcolor="#000000"][align="center"]
 coolrom.com.au##div[style="min-height:250px;"]
 coolrom.com.au##+js(set-constant, time, 0)
+
+! --- creative2.co.jp --- !
+encount.press##+js(acs, document.referrer, gmo_bb)
+full-count.jp##.l-sidebar-ads
+full-count.jp##.s-entry-ads
+the-ans.jp##[id^="c2_click_ABEMA_pr_"]
 
 !g --- danbooru系 --- !
 gelbooru.com##div[style^="min-height: 250px;"]
@@ -4112,6 +4121,7 @@ www.ocn.ne.jp##.banner
 ###im_panel
 ##[class^="google-2ad"]
 ##[class^="google-user-ad"]
+##a[href^="https://ad.doubleclick.net/"]
 
 google.*###atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top
 google.*###atvcap > .cu-container > div > div[data-pla="1"]
@@ -4337,6 +4347,7 @@ itmedia.co.jp###BelowArtRectangle
 itmedia.co.jp###GeneralAD
 itmedia.co.jp###OwnedAd
 itmedia.co.jp###PC_rcol-3rdRectangle
+itmedia.co.jp###RcolBanner
 itmedia.co.jp###Rcol2ndRectangle
 itmedia.co.jp###SideLink
 itmedia.co.jp###SuperBanner
@@ -4893,8 +4904,7 @@ woman.mynavi.jp##.is-sponsored
 news.mynavi.jp##.photo_table--hold:style(clear:both)
 news.mynavi.jp##.articleRelated_postList:style(width: 100% !important;)
 news.mynavi.jp##.articleRelated_postList_node:style(width: calc(50% - 18px) !important;)
-! recommend
-news.mynavi.jp##.OUTBRAIN
+! recommendx
 news.mynavi.jp##.articleList-attention
 news.mynavi.jp##.contents:style(min-height: auto !important;)
 
@@ -4902,17 +4912,17 @@ news.mynavi.jp##.contents:style(min-height: auto !important;)
 ||mbadw.nan.co.jp^
 ||mbadv.nan.co.jp^
 ||adacomi.com/banner_in/
+||eroita.net/banner_in/
 ||nan-net.com/banner_in/
+||nan-net.jp^*/banner_in/
+adacomi.com,eroita.net,nan-net.com###banner
+adacomi.com,eroita.net,nan-net.com##div[style$="border-radius: 4px;border:1px dashed #ff00ae;"]
+nan-net.com,nan-net.jp##+js(set, movie_ad_flag, 1)
 ||nan-net.com/*/bbs/inc/$subdocument
 ||nan-net.com/doujin/depression1.jpg
-nan-net.com###banner
-nan-net.com##div[style="background-color:#FFF;padding:20px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px dashed #ff00ae;"]
 nan-net.com##div[style="height:250px;width:610px;background-color:#000;"]
-
-adacomi.com###banner
 koe-koe.com##.rss_c
 koe-koe.com##div[style="min-height:80"]
-
 ||congrab.com/banner.
 comic.nan-net.com###tuibi > ul > .sidebar-widget:first-child
 comic.nan-net.com##.sticky-left
@@ -4989,13 +4999,14 @@ www.nicovideo.jp##.TagRelatedBannerContainer
 !静画
 seiga.nicovideo.jp###ad_728_90
 seiga.nicovideo.jp###ad_728_90_footer_fixed
-seiga.nicovideo.jp###ads_pc_seiga_follow_middle
-seiga.nicovideo.jp###ads_pc_seiga_footer
 seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
-seiga.nicovideo.jp###float-bnr-container
 seiga.nicovideo.jp###top_ads_box
 seiga.nicovideo.jp##.ads_prtext
 seiga.nicovideo.jp##.side_ad
+!漫画
+manga.nicovideo.jp###ads_pc_seiga_follow_middle
+manga.nicovideo.jp###ads_pc_seiga_footer
+manga.nicovideo.jp###float-bnr-container
 !ニコ生
 ||nimg.jp/relive/playerbanner/
 ||nicovideo.jp/api/v1/watch/*/playerbanner|
@@ -5030,8 +5041,6 @@ blog.nicovideo.jp###web_pc_prime
 blog.nicovideo.jp#?#.is-pc.l-aside-item > .l-aside-item-inner:-abp-has(> .l-aside-prlist-title)
 !ニュース
 news.nicovideo.jp###billboard_container
-
-@@/log.gif?$xmlhttprequest,domain=nicovideo.jp
 
 ! --- nifty --- !
 ||analytics.cocolog-nifty.com^
@@ -5108,6 +5117,14 @@ xtrend.nikkei.com##.js-sticky-box
 nikkei-cnbc.co.jp###headerbanner
 ! nikkeibp
 project.nikkeibp.co.jp##.prBox
+
+! --- nsks.com --- !
+thedigestweb.com##.c-ad-banner:not(.-continual)
+thedigestweb.com##.c-ad-banner--col2
+soccerdigestweb.com###pc_all_right_1st
+soccerdigestweb.com##.ad
+soccerdigestweb.com##.right_ad_c
+soccerdigestweb.com##.towcolumnBan_area
 
 ! --- ntv.co.jp --- !
 news.ntv.co.jp##.header-publicity
@@ -6474,8 +6491,6 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 @@||yjtag.jp/tag.js$script,domain=www.epson.jp
 	! https://github.com/tofukko/filter/issues/62
 70okugame.com#@#.dfad
-	!header
-number.bunshun.jp##.global-container:style(margin-top: 64px !important;)
 	! https://github.com/tofukko/filter/issues/90
 catchapp.net#@#[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 	! https://github.com/tofukko/filter/issues/63
