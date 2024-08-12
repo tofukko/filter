@@ -2,8 +2,18 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/08/07 21:54
+! 最終更新 2024/08/12 19:19
 !
+
+! 2024/08/12
+! 2024/09/31 サ終
+! https://akiba-souken.com/article/66874/
+! --- akiba-souken.com --- !
+||akiba-souken.com/js/ad_
+||akiba-souken.com/js/ad/
+akiba-souken.com###adGameRanking
+akiba-souken.com##.articleGoodsBox
+akiba-souken.com##.middleBnr
 
 ! 2024/07/29
 ! https://x.com/48idol_tv/status/1792523932630716916
@@ -19,9 +29,6 @@
 ! https://dic.pixiv.net/news/2h758duYptFHiPOwyoLeZY
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
-
-!2024/07/21
-||kadokawagakugei.com/js/ga2.js
 
 ! 2024/07/20
 ! えごったー
@@ -65,26 +72,8 @@ srad.jp###tophat
 srad.jp##.srad-contentad-banner
 tenshoku.srad.jp###top-hat
 
-! 2024/07/18 閉鎖？
-! --- avgle.com --- !
-*$3p,popup,domain=avgle.com
-*$frame,script,3p,denyallow=cloudflare.com|cloudflare.net|google.com|gstatic.com|hcaptcha.com|jsdelivr.net|recaptcha.net|webflow.com,domain=avgle.com
-avgle.com###player_3x2_close:style(font-size: 250% !important;)
-avgle.com###ps32-container
-avgle.com##a[href*="/redirect"]
-avgle.com##img[src*=".php"]
-avgle.com##+js(nowebrtc)
-
 ! 2024/05/13
 mmm.me###imadv
-
-! 2024/05/12 サ終
-! 2024年7月下旬
-! https://www.famitsu.com/article/202405/4738
-wiki.famitsu.com###ad-wiki-content-lower
-wiki.famitsu.com###ad-wiki-content-upper
-wiki.denfaminicogamer.jp###ad-wiki-content-lower
-wiki.denfaminicogamer.jp###ad-wiki-footer-upper
 
 ! 2023/06/30 サ終
 ! --- garanger.net --- !
@@ -3244,13 +3233,6 @@ itest.5ch.net##[class^="sproutad_frame"]
 itest.5ch.net##[class^="js-ad_iframe"]
 itest.bbspink.com###floatingBottomAdsMain
 itest.bbspink.com##[class^="ad_"]
-
-! --- akiba-souken.com --- !
-||akiba-souken.com/js/ad_
-||akiba-souken.com/js/ad/
-akiba-souken.com###adGameRanking
-akiba-souken.com##.articleGoodsBox
-akiba-souken.com##.middleBnr
 
 ! --- akibablog.net --- !
 ||akibablog.net/ad-
