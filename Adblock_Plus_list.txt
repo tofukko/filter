@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/08/12 19:19
+! 最終更新 2024/08/21 23:06
 !
 
 ! 2024/08/12
@@ -597,7 +597,6 @@ _ads.js.
 ||chosunonline.com/common/ifr01/
 ||cinematoday.jp/widgets/
 ||clipstudio.net^*/banner_
-||cookpad.com/iframe/
 ||cosp.jp/images/spacer.gif
 ||cosp.jp/inc/ad.js
 ||crooz.jp^*/popup.js$domain=blog.crooz.jp
@@ -1554,8 +1553,6 @@ comic-walker.com##div[class^="AdSection_"]
 comic-walker.com#?#section[class^="ContentsDetailPage_noBackground__"]:-abp-has(div[class^="AdSection_list__"])
 comici.jp##.a-banner-box
 cookien.com##.pr_content
-cookpad.com##.ad_wrapper
-cookpad.com###sticky_reference_element
 cocktaillog.com##app-adsense-display-ads
 cocktaillog.com##app-adsense-list-in-feed-ads
 cocktaillog.com##app-the-moneytizer-ads
@@ -1658,6 +1655,7 @@ e-typing.ne.jp##.ad
 e-typing.ne.jp##.adbox_468
 e-typing.ne.jp##[class^="ad"][class*="00"]
 e-words.jp###ad-bottom
+e-words.jp###ad-content
 e-words.jp###relbooks
 e-words.jp###Related_Books
 e-words.jp##.ad
@@ -1679,6 +1677,9 @@ ekitan.com##.sidebar-ad-item
 ekitan.com##[class^="ek-forward-display-l_middle_"][style="margin:0 auto; width:728px;"]
 ekitan.com##[class*="ek-route-advertising-no-"]
 elog-ch.net##.relatedad
+engineweb.jp##.addHead
+engineweb.jp##.addSide
+engineweb.jp##.articleDetailAdd
 entamega.com###ad_right-column01
 entnavi.com##.doublerec_css
 eow.alc.co.jp##.box-ad
@@ -1721,6 +1722,8 @@ eromazofu.com##.c_c_t_w
 erommd-street.com##.content [style*="z-index:"]
 erommd-street.com##.content [style^="position: absolute;"]
 eropuru.com##.plugin_ad_box
+erozine.jp##.ad
+erozine.jp##.temu
 ertk.net###banner1
 ertk.net##.dmm-ranking
 estar.jp##div[style$="min-width: 250px; min-height: 300px;"]
@@ -1788,6 +1791,7 @@ friday.kodansha.co.jp##div[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fuelle.jp###js-overlay
 fuelle.jp##.bn_gpt_box
+fuelle.jp##.billboard-ad-slot
 fujossy.jp##.story__header-adbox
 fukui-tv.co.jp##.advertCont
 fukuishimbun.co.jp##.admeasure
@@ -1796,6 +1800,8 @@ funny-ai.com##.main-frp-ads
 funny-ai.com##.main-header-ads
 gaccom.jp##.ads
 gahalog.2chblog.jp###sidebar:style(position: static !important;)
+gakufu.gakki.me###gakufu_head2 center > a[href^="https://www.amazon.co.jp"]
+gakufu.gakki.me##.amazonmusic
 gakuryou.net##[id^="ADw"]
 game-log.com###amazon
 game8.jp##.l-billboard_container
@@ -1877,6 +1883,8 @@ gizmodo.jp##.ad-banner
 gizmodo.jp##.bnL
 gizmodo.jp##.s-body-ad
 gizmodo.jp##.p-post-ad
+gizmodo.jp#?#.s-Ranking_TabItem:last-child:-abp-contains(Amazon):remove()
+gizmodo.jp#?#.s-Ranking_ListContainerWrapper:-abp-has(> .-amazon):remove()
 goal.com##.aside_ad-rail__cawG6
 goal.com##.commercial
 goal.com##.component-ad
@@ -2398,6 +2406,7 @@ mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
 moguravr.com##.mg-ads-placement
 momi3.net##td[width="635"][valign="top"] > table > tbody > tr:first-child
+moneypost.jp##div[style="min-height: 400px;"]
 moneytimes.jp###overlay-box-all
 moneytimes.jp##.banner-pr
 moneytimes.jp##.billboard-ad-slot
@@ -2469,6 +2478,7 @@ nc-net.or.jp##.box-pr-image-01
 nengaya.net###HTML1
 nengaya.net##[class^=entryadwrapper]
 net-rabo.work##.ad
+new.atarasii.com##.ad
 newero1.blog.fc2.com###sub-ad
 newero1.blog.fc2.com##.pompass
 news.2chblog.jp###side-r:style(position: static!important;)
@@ -2489,6 +2499,7 @@ news-postseven.com##div[style*="min-height: 250px"]
 news-postseven.com##div[style="min-height: 395px; margin-bottom:10px;"]
 news-us.org##.sponsored
 news4wide.net##.wipe-ad-div-class
+newsdig.tbs.co.jp##.ad_article_gallery_wrap
 newsdig.tbs.co.jp##.ad_pc_article_undertitle
 newsee-media.com##.s-side[style^="position: fixed;"]
 newsweekjapan.jp##.ad-teads-nw-box
@@ -2550,10 +2561,13 @@ okwave.jp##.adfunnel_list_under
 okwave.jp##.adfunnel_main_special_box
 okwave.jp##.adfunnel_osusume_box_pc:style(height: auto !important;)
 okwave.jp##.adfunnel_right_inhouse
-okwave.jp##.adfunnel_special_box_pc
 okwave.jp##.adfunnel_special_box_pc_bottom
 okwave.jp##.adfunnel_special_large_under
 okwave.jp##.following_buttons:style(bottom: 0 !important;)
+okwave.jp##.ad_over_header
+okwave.jp##.ad_right_top
+okwave.jp##.ad_under_answer
+okwave.jp##.ad_under_question
 ! https://okbizcs.okwave.jp/mori.nc-net/
 okbizcs.okwave.jp##.c-ad-box
 olive-hitomawashi.com##[style^="display: inline-block; min-width: 300px; min-height: 250px;"]
@@ -2635,6 +2649,8 @@ peko-step.com###cgrig_left:style(padding-top: 10px !important;grid-row-start: 3 
 peko-step.com###cgrig_contsec:style(grid-column-end: 4 !important;)
 peko-step.com###cgrig_commid:style(grid-column-end: 4 !important;)
 peko-step.com###rescentinner:style(padding-right: 0 !important;)
+pet-home.jp##.ads_wrap
+pet-home.jp##.header_ads_wrap
 photosku.com##.ap-block-ar
 photosku.com#?#.hdg-c:-abp-contains(売れ筋ランキング)
 photozou.jp##[class^="ad_side_"]
@@ -3231,6 +3247,8 @@ itest.5ch.net##[id^="js-bottom-ad-"]
 itest.5ch.net##[id$="AdsMain"]
 itest.5ch.net##[class^="sproutad_frame"]
 itest.5ch.net##[class^="js-ad_iframe"]
+itest.5ch.net##div[style="margin-top: 100px;"]:style(margin-top: 0 !important;)
+itest.5ch.net##.ad_300x250
 itest.bbspink.com###floatingBottomAdsMain
 itest.bbspink.com##[class^="ad_"]
 
@@ -6296,8 +6314,6 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 @@||cdnst.net/javascript/amazon.js$domain=speedtest.net
 	!トップページ他
 @@||cinema.pia.co.jp/img/ad/$image,domain=cinema.pia.co.jp
-	!右サイド
-@@||cookpad-ads.com^$domain=cookpad.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/84989
 @@||coremetrics.com*/eluminate.js
 	!商品タブの切替が出来ない
