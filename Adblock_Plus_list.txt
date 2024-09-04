@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/08/25 20:55
+! 最終更新 2024/09/04 21:59
 !
 
 ! 2024/08/12
@@ -1267,9 +1267,6 @@ afpbb.com##.bnr
 afsgames.com##.ad970x250:style(height: 0 !important;margin-top: 45px !important;)
 aikatu.jp###custom_html-2
 aikatu.jp##.main_ad
-alba.co.jp###header_lower
-alba.co.jp##.result_table > tbody > tr:nth-child(16n):not([class]):remove()
-	sokuho.alba.co.jp##.table-w650-live tr:nth-child(16n):not([class]):remove()
 allcinema.net###area-site-header-ad
 ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
 androck.jp##.adv
@@ -1415,6 +1412,7 @@ blog.esuteru.com##.azrank_quote
 blog.esuteru.com,otakomu.jp#?##more > blockquote:nth-of-type(n+2):-abp-has([href*="amazon.co"])
 blog.esuteru.com,otakomu.jp#?##more > center:-abp-has([href*="mcgm.sakura.ne.jp"])
 blog.esuteru.com,otakomu.jp##.amazlet-box
+blog.esuteru.com,otakomu.jp##.ad-siteRanking
 blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
 ! jack
 blog.esuteru.com,otakomu.jp##.jackFix
@@ -2024,6 +2022,7 @@ imashun-navi.com##.ads
 ime2.jp##div[style="margin-top:7px; height: 260px;"]
 img.favsite.jp##[class$="-lg"]
 img.favsite.jp#?#div:-abp-has(> .content-rank-img)
+imgbbs.dtn.jp##.panel-default
 imgur.com##.ad-slot
 imgur.com##.BottomAd-container
 inazumanews2.com##.adv
@@ -2252,6 +2251,9 @@ kyoushinomikata.com#?#.entry-content > p:-abp-has(> .adsbygoogle)
 last.fm##.full-bleed-ad-container
 last.fm##.sidebar-ad-container
 leon.jp##.st-BottomBanner-top
+les-koko.com###interstitialAd
+les-koko.com##.item_area
+les-koko.com##div[id^="bnc_ad_"]
 lettuceclub.net##.p-ad
 lettuceclub.net##.p-adlcn
 library.mitaka.tokyo.jp##.banner
@@ -2404,6 +2406,7 @@ mofmo.jp##[id^="ad_pos_"]
 mogera.jp##.panel-ad
 mogera.jp##[id^="gadUnit"]
 moguna.com##[data-category="広告"]
+moguravr.com##.mg-ads-inarticle
 moguravr.com##.mg-ads-placement
 momi3.net##td[width="635"][valign="top"] > table > tbody > tr:first-child
 moneypost.jp##div[style="min-height: 400px;"]
@@ -4808,6 +4811,9 @@ moeclo.ldblog.jp###main_head_ad
 ||bance.jp^
 ||creative.*/widgets/spot/
 ||creative.*/widgets/v4/Universal?
+
+##.home-h:has(+ div[style^="max-width: 1"][style$="background-color: #fff;"])
+##div[style^="max-width: 1"][style*="00px; width: 92%; height: 400px; margin: 0 auto "][style$="0px auto; background-color: #fff;"]
 momon-ga.com###menu-pr
 momon-ga.com##.asmr18
 momon-ga.com##.tablink
@@ -6678,6 +6684,7 @@ kledgeb.blogspot.com##body > div[style="visibility: hidden;"]:style(visibility: 
 kotobank.jp##+js(no-setTimeout-if, return)
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 kotobank.jp##div[class$="word-ad"]
+kotobank.jp##.header-ad
 
 ! modalina.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/85641
@@ -6701,11 +6708,10 @@ motorsport.com##.ms-hapb
 ! https://github.com/tofukko/filter/issues/86
 	!nakiny.com##+js(nostif, ai_adb)
 
-! nazology.net
-||nazology.net/wp-content/themes/nazology/js/adb/
-nazology.net##.ads-wide
-nazology.net##.amazon__category-af
-nazology.net##.side-adblock
+! nazology.kusuguru.co.jp
+||nazology.kusuguru.co.jp/wp-content/themes/nazology/js/adb/
+nazology.kusuguru.co.jp##.ads-wide
+nazology.kusuguru.co.jp##.amazon__category-af
 
 ! nordot.app
 nordot.app##.listPage__ad
