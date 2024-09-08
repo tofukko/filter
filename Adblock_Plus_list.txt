@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/09/04 21:59
+! 最終更新 2024/09/08 14:29
 !
 
 ! 2024/08/12
@@ -705,6 +705,7 @@ _ads.js.
 ||tmp.sakura.tv/5chATR/ad/
 ||tsumanne.net/*/dmm.js
 ||tsumanne.net/ad.html
+||tsumanne.net/ad2.html
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
@@ -2510,6 +2511,9 @@ newser.cc##.ad
 newser.cc##.amazon
 newswitch.jp##.banner
 next2ch.net##.ad728
+nichinichi-magazine.com##.addHead
+nichinichi-magazine.com##.addSide
+nichinichi-magazine.com##.detailBottomAdWrap
 nicozon.net###ichiba
 niigata-nippo.co.jp##.m-ad
 niigata-nippo.co.jp##.m-ad-bg
@@ -2530,6 +2534,7 @@ nosweb.jp##.articleDetailAdd
 novel.prcm.jp##.app-scroll-lock:style(position: relative !important;)
 novel.prcm.jp##.footer__ad
 novel.prcm.jp##.header-ad
+novel.prcm.jp##.side-ad-wrapper
 novel.prcm.jp##app-refresher
 novel.prcm.jp##app-remote-ad-frame
 novelup.plus##[class^="ad-"]
@@ -3715,6 +3720,11 @@ p-town.dmm.com##.adnetwork-footer
 
 ! --- docomo.ne.jp --- !
 mama.smt.docomo.ne.jp###ad-container
+money.smt.docomo.ne.jp##.banner
+money.smt.docomo.ne.jp###overlayAdvertisement
+money.smt.docomo.ne.jp###billboardAdvertisement
+money.smt.docomo.ne.jp##div[id^="companies-detail-banner-ad-"]
+money.smt.docomo.ne.jp##div[id^="rectangleAdvertisement"]
 
 ! https://github.com/tofukko/filter/issues/104
 dbook.docomo.ne.jp#@#.ad-label
@@ -5624,6 +5634,7 @@ www.weblio.jp###adPcBnrWrp
 www.weblio.jp###adPcFootBnrWrp
 www.weblio.jp##.ads-loader
 www.weblio.jp##.firstDictBnr
+www.weblio.jp##.firstDictVideoAd
 www.weblio.jp##.rectangle-ads-frame-www
 eikaiwa.weblio.jp##.sideButton
 ejje.weblio.jp###footFixAdBar
