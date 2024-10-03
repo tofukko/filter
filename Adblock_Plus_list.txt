@@ -4343,6 +4343,7 @@ rbbtoday.com##.free-custom > .af
 ! --- impress.co.jp --- !
 ||yamakei-online.com/new_images/adv/banner/
 forest.watch.impress.co.jp##.ad_download
+forest.watch.impress.co.jp##div[style="min-height: 250px;"]
 ganref.jp##.p-banner-wrap
 game.watch.impress.co.jp###game-rakuten-ranking
 it.impress.co.jp##.ad-pr-text
