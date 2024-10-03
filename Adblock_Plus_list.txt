@@ -6455,6 +6455,8 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 @@||opgg-static.akamaized.net/js3/tracker.js?$domain=op.gg
 	! https://github.com/AdguardTeam/AdguardFilters/issues/96901
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=followcheck.itby.net
+	! https://github.com/AdguardTeam/AdguardFilters/issues/190069
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=gunauc.net
 	! https://github.com/tofukko/filter/issues/49
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=heim.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/178020
