@@ -4042,6 +4042,7 @@ getnews.jp###rightColumn > .widget_text:first-child
 getnews.jp###resp_article_undertitle
 getnews.jp###resp_article_underarticle
 getnews.jp##.bal_insert_ad
+getnews.jp##div[style="min-height:215px;margin:20px;"]
 conveni.getnews.jp##.ad-pc-article-ander
 conveni.getnews.jp##.ad-pc-top
 conveni.getnews.jp###jp_cgn_pc_all_right_1st
