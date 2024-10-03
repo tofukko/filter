@@ -1255,6 +1255,8 @@ adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp##.relatedlabel
 adultblogranking.com##.ads-a
 adultblogranking.com##.rank > li[id]
 adultcomic.dbsearch.net##.pc-h90
+aeoncinema.com##.ad_area__box
+aeoncinema.com##.side > .prime
 afpbb.com##.bnr
 afsgames.com##.ad970x250:style(height: 0 !important;margin-top: 45px !important;)
 aikatu.jp###custom_html-2
