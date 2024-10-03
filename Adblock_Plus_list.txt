@@ -4974,6 +4974,7 @@ comic.nan-net.com###tuibi > ul > .sidebar-widget:first-child
 comic.nan-net.com##.sticky-left
 comic.nan-net.com##.sidebar-widget.widget_text
 comic.nan-net.com##.side_bj
+nanbbs.jp###banner
 
 ! --- new-akiba.com --- !
 ! new-akiba.com
