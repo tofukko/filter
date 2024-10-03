@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/10/03 23:54
+! 最終更新 2024/10/04 8:18
 !
 
 ! 2024/07/29
@@ -5566,6 +5566,7 @@ douga.tv-asahi.co.jp##[class|="common-box-ad"]
 ||ssai.api.streaks.jp/*/ad_info?
 ||link.tv-asahi.co.jp/tver/cookiesync?
 ||reproio.com^$third-party
+
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184080
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=tver.jp,important
 ||cdn-ads.api.tv-tokyo.co.jp^$media,redirect=noopmp4-1s
@@ -5578,9 +5579,15 @@ tver.jp##[class^="floating-companion-ad-slot_host__"]
 tver.jp##[class^="two-column_companionAd__"]
 tver.jp##[class^="episode-page-main_companionAd__"]
 plus.tver.jp##.ad
-@@||doubleclick.net/gampad/ads?$xmlhttprequest,domain=tver.jp|video.tv-tokyo.co.jp
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
-	!@@||video.tv-tokyo.co.jp/common/js/pc/ads.js$script,domain=video.tv-tokyo.co.jp
+!#if env_chromium
+||doubleclick.net/gampad/ads?*&output=xml_vmap$xhr,redirect=noopvmap-1.0,important,domain=tver.jp
+!#endif
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/22654
+@@||video.tv-tokyo.co.jp/common/js/pc/ads.js
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.tv-tokyo.co.jp
+@@||pubads.g.doubleclick.net/gampad/ads?*/video.tv-tokyo.co.jp$domain=video.tv-tokyo.co.jp
 
 ! --- twicomi.com --- !
 ||twicomi.com/ads/
