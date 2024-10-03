@@ -5575,10 +5575,7 @@ tver.jp##+js(json-prune, data.adData)
 tver.jp##+js(nano-stb, /nrWrapper\(\)|n\.setTimeoutIds_\.has\(i\)/, 10000)
 
 ||tver.jp/web/TEAD_banner_ui/
-tver.jp##[class^="floating-companion-ad-slot_host__"]
-tver.jp##[class^="two-column_companionAd__"]
 tver.jp##[class^="episode-page-main_companionAd__"]
-plus.tver.jp##.ad
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tver.jp|tbs.co.jp
 !#if env_chromium
 ||doubleclick.net/gampad/ads?*&output=xml_vmap$xhr,redirect=noopvmap-1.0,important,domain=tver.jp
