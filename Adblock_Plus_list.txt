@@ -4940,6 +4940,8 @@ msn.com##msft-article-card:not(.contentCard)
 agri.mynavi.jp##.upper_ad
 news.mynavi.jp##.c-sidePickup
 osusume.mynavi.jp##.ad-widget
+osusume.mynavi.jp##.OSN_container
+osusume.mynavi.jp##.content_widget
 woman.mynavi.jp##.is-side-sponsored
 woman.mynavi.jp##.is-sponsored
 ! https://github.com/tofukko/filter/issues/11
