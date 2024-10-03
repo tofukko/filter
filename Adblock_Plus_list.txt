@@ -2012,6 +2012,7 @@ ichi-up.net##.banner
 iconbox.fun##.ad01
 ibarakinews.jp##.l-ad32
 ibarakinews.jp##.textad_box
+ibarakinews.jp##div[id^="ibaraki_pc_article_underarticle_"]
 idol-blog.com###leftcol div[style]
 idol-blog.com##.col-inner
 idol-blog.com##[id^="post-"] + .box ~ div
