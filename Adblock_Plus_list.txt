@@ -2070,6 +2070,7 @@ jbbs.shitaraba.net##.thread-list + hr + table
 jbbs.shitaraba.net##dd + table[cellspacing="0"][cellpadding="0"][border="0"]:not([width]):not([align])
 jbbs.shitaraba.net##div[style="width:300px; height:250px; margin:20px 0;"]
 jbbs.shitaraba.net##table[cellpadding="7"] + hr + ul + hr + table
+rentalbbs.shitaraba.com##.banner-728_90
 jbpress.ismedia.jp##.ad-billboard
 jbpress.ismedia.jp##.ad-block
 jbpress.ismedia.jp##.ad-gate
