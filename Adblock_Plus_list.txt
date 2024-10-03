@@ -2269,6 +2269,8 @@ lmaga.jp##.contents_ad
 lmaga.jp##.header_ad
 lnews.jp##.advertisement-link
 logw.jp##.ad_sidenavi
+loosedrawing.com##.w-100[style="height: 283px; margin-bottom: 40px;"]
+loosedrawing.com##.text-center[style="height: 280px; margin-bottom: 40px;"]
 loveh.org#?##newvideos:-abp-has(> .menubar > .entrytitlein:-abp-contains(ラブエッチのおすすめ無料アダルトサイト))
 loveh.org##.bottompr
 loveh.org##.toppr
