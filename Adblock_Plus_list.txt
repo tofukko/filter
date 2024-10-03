@@ -3195,6 +3195,8 @@ zyuken.net##.MenuBox[style="padding: 5px; min-height: 280px;"]
 zyuken.net#?##AdminPage > .MenuBox + .SimpleBox.PaddingRight10Left10:-abp-has(> div:first-child)
 zyuken.net#?##CenterBox > .SimpleBox.PaddingRight10Left10:-abp-has(> div:first-child)
 zyuken.net##.SimpleBox.PaddingRight10Left10[style*="margin-bottom:5px;"]
+! https://ウマ娘.攻略.tools/
+xn--gck1f423k.xn--1bvt37a.tools##[class^="adContainer_"]
 ! https://グラビア画像.com/
 xn--cck1a7gsd645rnx7b.com##.container > .navbar-header:style(float: none !important;)
 xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//adframe.kohsoku.info/"])
