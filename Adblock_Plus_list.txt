@@ -1602,6 +1602,7 @@ dclog.jp##.advertisement-entry-list
 ddnavi.com##.ad-twoside
 ddnavi.com##.side-er
 ddnavi.com##[style="font-family:Gill Sans;font-size:12px;line-height:12px;color:#CCC;text-align:center;margin:0 0 5px;clear:both;"]
+deai.twitterid.net,idkeijiban.com,kakaoid.com##.container > .container[style="margin-bottom:5px;"]
 dekiru.net##.article-header-ad-space
 dekiru.net##.block-ads
 dekiru.net##.module-article-list-ad
