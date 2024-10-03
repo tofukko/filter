@@ -3140,6 +3140,7 @@ yorozoonews.jp##.module-ad
 yorozoonews.jp##.module-ad-header
 yorozoonews.jp##.module-list-articles__ad
 yorozoonews.jp##.module-list-articles__item--ad
+youravhost.net##div[id^="im-"]
 yourei.jp##.side-component:not([id])
 yourei.jp#?##sentence-6:-abp-has(> .side-component)
 ytv.co.jp###bnr-block
