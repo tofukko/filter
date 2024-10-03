@@ -2124,6 +2124,7 @@ jprime.jp##.image-area:style(opacity: 1 !important; pointer-events: auto !import
 jpshowbiz.us##.video-plugin-div
 jpshowbiz.us##+js(nostif, alert)
 jukenbbs.com##.substitute-display-area-on
+jukenbbs.com##.thread-list > li[style$="overflow:hidden;"]
 jumpmatome2ch.biz##[class^="ad-box"]
 juuuke.com##.adArea
 juuuke.com##.product
