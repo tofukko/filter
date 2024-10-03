@@ -3137,6 +3137,12 @@ yama.minato-yamaguchi.co.jp##.footad
 yama.minato-yamaguchi.co.jp##.headad
 yama.minato-yamaguchi.co.jp##.texad
 yama.minato-yamaguchi.co.jp##.texmongon
+yamagata-np.jp##.ad_superbanner_topborder
+yamagata-np.jp##.ad_pc_rectangle
+yamagata-np.jp##.ad_rectangle
+yamagata-np.jp##.ad_superbanner_border:style(min-height: 0 !important; margin: 0 !important; padding: 0 !important; border: 0 !important;)
+yamagata-np.jp##.ad_superbanner_border > div
+yamagata-np.jp##.ad_superbanner_border > span
 yamakei-online.com###text_ad
 yamareco.com###sidebar_right > .mb20[style="clear:both;"] + .box:style(clear: both !important;)
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
