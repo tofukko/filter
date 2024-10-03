@@ -2979,6 +2979,8 @@ toyokeizai.net###trend-library
 tozanchannel.blog.jp##div[style^="text-align: center; margin-bottom:"]
 traicy.com##.pc-ad
 traicy.com##.pc-ad-wide
+travel.co.jp##.billboard_wrap
+travel.co.jp##.fourm_video
 travelbook.co.jp##.adsense
 trend-at-tv.com##div[style="min-height: 120px; padding-top: 10px"]
 tripadvisor.jp##.ad
