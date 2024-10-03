@@ -1563,6 +1563,7 @@ crank-in.net##[class^="ad-area_"]
 ! trend
 crank-in.net##.ad_CIT_top
 crank-in.net##.right_ad_top
+croissant-online.jp###cr_pc_article_billbord
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
 ! 漫画
