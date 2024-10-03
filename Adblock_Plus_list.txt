@@ -3816,6 +3816,8 @@ famitsu.com##.article-body__contents-pr-primary
 app.famitsu.com###gam_pc_large_rectangle
 app.famitsu.com##.amazon-under-post
 app.famitsu.com##[style="width: 1000px;height: 150px"]
+app.famitsu.com##[id^="CommonSideColumn_amazon-ranking__"]
+app.famitsu.com##[id^="CommonSideColumn_special-site__"]
 
 ! --- fc2.com --- !
 ||affiliate.fc2.com/afftag
