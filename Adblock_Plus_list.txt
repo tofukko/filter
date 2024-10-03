@@ -5558,6 +5558,7 @@ douga.tv-asahi.co.jp##[class|="common-box-ad"]
 @@||googletagmanager.com/gtm.js$script,domain=tv-asahi.co.jp
 
 ! --- tver.jp --- !
+||ad-generation.jp^$third-party
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184080
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=tver.jp,important
 ||cdn-ads.api.tv-tokyo.co.jp^$media,redirect=noopmp4-1s
