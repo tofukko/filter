@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/10/03 23:21
+! 最終更新 2024/10/03 23:54
 !
 
 ! 2024/07/29
@@ -436,7 +436,6 @@ _ads.js.
 ||smaf.jp^$third-party
 ||smartadserver.com^$third-party
 ||smartclick.net^$third-party
-||socdm.com^$third-party
 ||sppp.jp^$third-party
 ||store-mix.com^$third-party
 ||sublimestore.jp^$third-party
@@ -5559,6 +5558,14 @@ douga.tv-asahi.co.jp##[class|="common-box-ad"]
 
 ! --- tver.jp --- !
 ||ad-generation.jp^$third-party
+||socdm.com^
+||metrics.streaks.jp^
+||analytics.tver.jp^
+||stats.streamhub.io^
+||tremorhub.com^
+||ssai.api.streaks.jp/*/ad_info?
+||link.tv-asahi.co.jp/tver/cookiesync?
+||reproio.com^$third-party
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184080
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=tver.jp,important
 ||cdn-ads.api.tv-tokyo.co.jp^$media,redirect=noopmp4-1s
