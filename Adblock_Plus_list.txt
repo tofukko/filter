@@ -2564,6 +2564,10 @@ okazurand.net##.ado-widgets
 okazurand.net##.affiliateapi
 okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
 okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
+okurin.bitpark.co.jp##.cap
+okurin.bitpark.co.jp##.contents_banner_area
+okurin.bitpark.co.jp##.h_cap
+okurin.bitpark.co.jp##[class^="ad-"]
 okwave.jp###fluct-pc-sticky-ad
 okwave.jp##.adfunnel_header_block
 okwave.jp##.adfunnel_list_under
