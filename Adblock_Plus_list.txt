@@ -6659,11 +6659,12 @@ crefan.jp#?#div[align="center"]:-abp-has(> .badge-success:-abp-contains(スポ�
 ! exploader.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/183252
 ||dmm.co.jp^$domain=exploader.net
-exploader.net##aside > .word + .tag + div
-exploader.net##[id^="fanza_"]
+||daotag.com^$script
+@@||daotag.com/tag/$script,domain=exploader.net
 exploader.net##.list > li[style="clear: left;width: calc(100% + 4px) !important;margin-right: -1px;height: 120px;margin-left: -2px;float: none;display: block !important;"]
 exploader.net##div[style*=";height: "]:not([class]):not([id]):not([loaded]):style(position: absolute !important; left: -5000px !important;)
-exploader.net##:not(:matches-path(/download))[data-style="1"]
+exploader.net###preview_images > [class^="tracking_"]
+exploader.net##.h_items
 
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
