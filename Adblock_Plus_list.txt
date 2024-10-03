@@ -613,6 +613,7 @@ _ads.js.
 ||fc2.com/b/i/k/bikyakudaimaou/ad-$domain=bikyakudaimaou.com
 ||gakuryou.net/fb/
 ||gakuryou.net/right-banner/
+||game8.jp/api/ad/advertisement_placements?
 ||game8.jp/assets/pc/ads/
 ||game8.jp/assets/pc/jack_ad/
 ||gamegift.jp/js/ads.js
@@ -1793,6 +1794,7 @@ gakufu.gakki.me###gakufu_head2 center > a[href^="https://www.amazon.co.jp"]
 gakufu.gakki.me##.amazonmusic
 gakuryou.net##[id^="ADw"]
 game-log.com###amazon
+game8.jp##.ad-wrapper
 game8.jp##.l-billboard_container
 game8.jp##.l-jack__top_container
 game8.jp##div[id^="g8-ad-placement"]
