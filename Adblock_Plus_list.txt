@@ -6349,6 +6349,9 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 @@||b90.yahoo.co.jp/conv.js$script,domain=www3.nissan.co.jp
 @@||b92.yahoo.co.jp/js/s_retargeting.js$script,domain=www3.nissan.co.jp
 @@||adsrvr.org/up_loader.$script,domain=www3.nissan.co.jp
+
+	! https://github.com/AdguardTeam/AdguardFilters/issues/189208
+@@||0115765.com/assets/ads/main.js
 	!動画未練
 	!@@||ad.afreecatv.com/crossdomain.xml$domain=play.afreeca.com
 	!記事崩れ ×ボタン
