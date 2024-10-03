@@ -5,16 +5,6 @@
 ! 最終更新 2024/10/03 16:08
 !
 
-! 2024/08/12
-! 2024/09/31 サ終
-! https://akiba-souken.com/article/66874/
-! --- akiba-souken.com --- !
-||akiba-souken.com/js/ad_
-||akiba-souken.com/js/ad/
-akiba-souken.com###adGameRanking
-akiba-souken.com##.articleGoodsBox
-akiba-souken.com##.middleBnr
-
 ! 2024/07/29
 ! https://x.com/48idol_tv/status/1792523932630716916
 ! https://x.com/48idol_tv/status/1792612268414480513
