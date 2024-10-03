@@ -2713,6 +2713,7 @@ privatter.net##.col-md-4 .hidden-print.clearfix + :is(table,div,p)
 privatter.net##[data-target="#adModal"]
 privatter.net##[href="/adcookie.php"]
 projectdesign.jp###base-register
+psychologicaltest.jp##.ads--wide:style(min-height: 0 !important; padding: 0 !important;)
 punyu.com###copyright > p
 punyu.com##.addl
 punyu.com##.dvd_ad_right
