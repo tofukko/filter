@@ -2989,7 +2989,6 @@ tozanchannel.blog.jp##div[style^="text-align: center; margin-bottom:"]
 traicy.com##.pc-ad
 traicy.com##.pc-ad-wide
 travel.co.jp##.billboard_wrap
-travel.co.jp##.fourm_video
 travelbook.co.jp##.adsense
 trend-at-tv.com##div[style="min-height: 120px; padding-top: 10px"]
 tripadvisor.jp##.ad
@@ -4418,6 +4417,9 @@ j-town.net##.ad-unit
 www.j-cast.com##.ad-rectangle-bnr
 www.j-cast.com##.ad_entry_toptext
 www.j-cast.com##.adunit
+www.j-cast.com##.entry-header__ad-bottom
+www.j-cast.com##.entry_under_adunit
+www.j-cast.com##.under_featured_info_job_box
 
 ! --- jalan.net --- !
 ||jalan.net/jalan/doc/ad/
