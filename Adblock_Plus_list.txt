@@ -2460,6 +2460,7 @@ musmus.main.jp##div[id^="sub_ad"]
 mutyun.com##.amazon-auto-links-widget
 muvc.net##body > div[align="right"]:last-of-type
 my-best.com##.p-press__ad
+my.kabumap.com##div[class^="Ad_"]
 myjitsu.jp##.ad-box
 myjitsu.jp##[id^=related-post-ad]
 mylifenews.net##.side_squer
@@ -6466,6 +6467,8 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$script,domain=football-tribe.com
 	! https://game.yomipo.yomiuri.co.jp/quiz/ クイズできない
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.yomipo.yomiuri.co.jp
+	! https://github.com/tofukko/filter/issues/110
+@@||jp.kabumap.com/servlets/kabumap/html/common/img/ad/rank_$image,domain=jp.kabumap.com
 	!
 @@||jsc.adskeeper.co.uk/*/megaup.net$script,domain=megaup.net
 @@||servicer.adskeeper.co.uk^$script,domain=megaup.net
