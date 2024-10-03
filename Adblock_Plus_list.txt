@@ -5689,13 +5689,6 @@ ejje.weblio.jp#?#.sideBlock:-abp-has(> script:-abp-contains(/adScS|_ADOBE_/))
 translate.weblio.jp##.sideAd
 translate.weblio.jp##.flex-rectangle-ads-frame
 
-! --- wiki.yjsnpi.nu --- !
-wiki.yjsnpi.nu##.ad
-wiki.yjsnpi.nu##div[id^="im-"][style]
-wiki.yjsnpi.nu##div[style="display: flex; flex-wrap: wrap; min-height: 250px; justify-content: center;"]
-||gallerieshub.com^$domain=wiki.yjsnpi.nu
-||pixel-vault.com^$domain=wiki.yjsnpi.nu
-
 ! --- wix.com --- !
 ###WIX_ADS
 wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height: 0px !important;)
@@ -6906,6 +6899,15 @@ totv.org###ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/137055
 ||uma.pure-db.com/ad_
 @@||yads.c.yimg.jp/uadf/yads_vimps.js$xhr,domain=uma.pure-db.com
+
+! wiki.yjsnpi.nu
+! https://github.com/tofukko/filter/issues/108
+wiki.yjsnpi.nu##.ad
+wiki.yjsnpi.nu##div[id^="im-"][style]
+wiki.yjsnpi.nu##div[style="display: flex; flex-wrap: wrap; min-height: 250px; justify-content: center;"]
+||gallerieshub.com^$domain=wiki.yjsnpi.nu
+||pixel-vault.com^$domain=wiki.yjsnpi.nu
+@@wiki.yjsnpi.nu^$generichide
 
 ! wowgame.jp
 wowgame.jp##.rm-footer
