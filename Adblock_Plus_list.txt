@@ -1891,6 +1891,7 @@ goal.com##[data-name="ad-leaderboard"]
 goal.com##:matches-path(/jp/)div[class^="fc-player_fc"]
 gogo.gs##.ad
 gogo.gs##.ad3
+goguynet.jp##.jboxbottom
 golfdigest.co.jp###adsYahoo
 golfdigest.co.jp###before-container
 golfdigest.co.jp##.allyanceAd
