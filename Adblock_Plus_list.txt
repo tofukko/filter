@@ -4366,7 +4366,6 @@ rbbtoday.com##.free-custom > .af
 ! --- impress.co.jp --- !
 ||yamakei-online.com/new_images/adv/banner/
 forest.watch.impress.co.jp##.ad_download
-forest.watch.impress.co.jp##div[style="min-height: 250px;"]
 ganref.jp##.p-banner-wrap
 game.watch.impress.co.jp###game-rakuten-ranking
 it.impress.co.jp##.ad-pr-text
@@ -4374,6 +4373,7 @@ netshop.impress.co.jp###bancho_adsense_nodefooter
 thinkit.co.jp##.region-top-ad
 watch.impress.co.jp##.billboard
 watch.impress.co.jp##div[class^="affiliate_tag_"]
+watch.impress.co.jp##div[style="min-height: 250px;"]
 watch.impress.co.jp##[id$="-amazon-ranking"]
 watch.impress.co.jp##[id$="-rakuten-ranking"]
 webtan.impress.co.jp###webtan_adsense_nodefooter
