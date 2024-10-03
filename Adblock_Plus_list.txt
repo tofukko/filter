@@ -1376,6 +1376,8 @@ bakusai.com##.thrWholeRight
 bang-dream-news.com##.ads
 bangumi.org###ad_area
 bangumi.org##.ad_footer_wrap
+baseballchannel.jp##.pc_adv
+baseballchannel.jp##.post-adv-text
 basketball-zine.com##.ad_overlay
 basketball-zine.com##.top-ad
 basketballking.jp##div[style="text-align: center; margin:30px 0 30px 0;"]
