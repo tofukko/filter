@@ -418,7 +418,6 @@ _ads.js.
 ||reemo-ad.jp$third-party
 ||rentracks.jp^$third-party
 ||rightsnetwork.net^$third-party
-||rossoad.com^$third-party
 ||roy-union.com^$third-party
 ||roy-union.org^$third-party
 ||rssad.jp^$third-party
@@ -438,7 +437,6 @@ _ads.js.
 ||smartadserver.com^$third-party
 ||smartclick.net^$third-party
 ||socdm.com^$third-party
-||speead.jp^$third-party
 ||sppp.jp^$third-party
 ||store-mix.com^$third-party
 ||sublimestore.jp^$third-party
@@ -1020,7 +1018,6 @@ _analytics.js?
 ||web-stats.jp^$third-party
 ||webdeki-analyze.com^$third-party
 ||webscouter.net^$third-party
-||webtracker.jp^$third-party
 ||webtrends.com^$third-party
 ||webtrendslive.com^$third-party
 ||woopra.com^$third-party
@@ -4083,7 +4080,6 @@ gigafile.nu###area-images > .image-area:nth-child(12)
 
 ! --- goo --- !
 ||adcdn.goo.ne.jp^
-||ams900.goo.ne.jp^
 goo.ne.jp##.NR-pr
 goo.ne.jp##[id^="gooad-"]
 blog.goo.ne.jp###mod-advertising
@@ -6687,6 +6683,11 @@ gato.intaa.net##.adwidget
 	!gigaho.com##+js(aopr, onload)
 	!gigaho.com#@#.adsbygoogle
 	!gigaho.com##ins.adsbygoogle
+
+! h178.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/189562
+@@||h178.com^$generichide
+h178.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 
 ! hadakanonude.com
 hadakanonude.com##+js(noeval-if, /chp_?ad/)
