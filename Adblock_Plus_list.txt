@@ -2139,6 +2139,7 @@ kabutan.jp##.acrank_top_news1 > .visited1 > tbody > tr:nth-of-type(6)
 !c-
 kachimai.jp###ads
 kachimai.jp###js-footer-banner
+kahoku.news##.footer-container
 kahoku.news##div[style^="display:flex; overflow-y:visible; position:fixed"]
 kahoku.news##div[style^="min-width: 300px; min-height: 250px"]
 kai-you.net##.l-ad-article-under
