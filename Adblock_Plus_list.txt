@@ -6920,7 +6920,6 @@ totv.org###ad
 
 ! wiki.yjsnpi.nu
 ! https://github.com/tofukko/filter/issues/108
-wiki.yjsnpi.nu##.ad
 wiki.yjsnpi.nu##div[id^="im-"][style]
 wiki.yjsnpi.nu##div[style="display: flex; flex-wrap: wrap; min-height: 250px; justify-content: center;"]
 ||gallerieshub.com^$domain=wiki.yjsnpi.nu
