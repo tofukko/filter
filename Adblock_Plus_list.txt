@@ -6755,7 +6755,7 @@ investing.com##div.text-\[\#5b616e\]
 
 ! iwb.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/181591
-iwb.jp##+js(aeld, DOMContentLoaded, getComputedStyle(a).height)
+iwb.jp##+js(no-setTimeout-if, getComputedStyle(a).height)
 
 ! kledgeb.blogspot.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/137131
