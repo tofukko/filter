@@ -2,8 +2,12 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/10/13 20:29
+! 最終更新 2024/10/17 11:50
 !
+
+! 2024/10/17
+! http://making.pipa.jp/
+making.pipa.jp##.NoFrame.RelatedWorkRight
 
 ! 2024/07/29
 ! https://x.com/48idol_tv/status/1792523932630716916
@@ -5215,7 +5219,6 @@ picb2.com#?#div[class$="mb-3 d-none d-md-block"]:-abp-has([href^="https://al.dmm
 ! --- pipa.jp --- !
 poipiku.com##.DetailIllustItemAd
 poipiku.com##.PcSideBarAd
-making.pipa.jp##.NoFrame.RelatedWorkRight
 tegaki.pipa.jp##.AdX300x250
 galleria.emotionflow.com##.Ad3Tile
 galleria.emotionflow.com##div[style="width: 1200px; height: 259px; margin: 20px auto 0 auto;"]
