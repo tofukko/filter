@@ -713,12 +713,10 @@ _ads.js.
 ||wanchan.jp/js/text_ad.js
 ! 例のアレ
 ||webnewtype.com/img/pc/common/spacer1.gif
-||wiki3.jp/assets/image/yomoyama_advertisement.png
 ||woopie.jp^*/banner/
 ||xn--tckxa5c423yemxd.shop/dt/$subdocument,domain=2chnewsblog.blog.jp
 ||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
-||yomoyama-bbs.jp/image/ad_images/
 ||zerosumonline.com/adstir_
 ||zozo.jp/common/js/ads-inner-tracking.js?
 ||zyuken.net/ads/
@@ -1226,8 +1224,6 @@ _analytics.js?
 4shared.com##.sideRekl
 55sedori.com##.ad
 5chan.jp###bbs_advertise_header
-8mato.jp###page_bottom_fixed
-8mato.jp##.ads
 9db.jp#?##container > div#footer:-abp-has(> div > ins.adsbygoogle):style(display: none !important;)
 9db.jp###contents:style(margin-bottom: 0 !important;)
 9ketsuki.info##.manual_ads
@@ -2048,9 +2044,6 @@ iqossan.com##.elAds
 iqossan.com##.underHeaderAdPC
 irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
-iromame-beans.jp###page_bottom_fixed
-iromame-beans.jp##.ads3
-iromame-beans.jp##.ads4
 ita-do.com,ore-nijigazo.com,kichikuou.com,doujinhibiki.net##.deleteBox
 ita-do.com##.pcAd01
 itaishinja.com##.ADW
@@ -2351,8 +2344,6 @@ mathlog.info##.sticky-main-top > .mb-3.card
 matome.eternalcollegest.com##.sponsored
 matome.f-book.net##.ad_waku
 matome.f-book.net#?#div.section_ad:-abp-has(a[href^="https://preaf.jp/"])
-matomame.jp###page_bottom_fixed
-matomame.jp##.ads
 matomedane.jp###footeradv
 matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
@@ -3228,6 +3219,11 @@ xn--1-td6bm19b.com###space3
 00m.in###bar_out
 00m.in###h4title
 00m.in###url:style(display: block !important;)
+
+! --- 3rd-in.co.jp --- !
+! https://3rd-in.co.jp/
+8mato.jp,exile-fam.jp,iromame-beans.jp,jocee.jp,ladytopi.jp,matomame.jp###page_bottom_fixed
+8mato.jp,exile-fam.jp,iromame-beans.jp,jocee.jp,ladytopi.jp,matomame.jp##.ads
 
 ! --- 5ch pink --- !
 ||i2ad.jp^$third-party
