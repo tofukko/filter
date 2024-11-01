@@ -1635,7 +1635,6 @@ douga100ka.jp##.title_ad01
 douga100ka.jp##div[style="margin-bottom:10px;"] > [href^="https://al.dmm.co.jp/"]
 douga100ka.jp##table[bgcolor="#ff8000"]
 downdetector.com##.ad
-downtownreport.net##.ad_overlay
 dqw-game.com##.wrap-ad-common
 dtmstation.com##.bn
 duckduckgo.com###ads
