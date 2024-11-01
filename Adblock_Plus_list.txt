@@ -2043,6 +2043,7 @@ inter-edu.com##.res-banner-area
 inter-edu.com##.thread-box > [id^="msg-"]
 ipentec.com##.AdsContainerDocumentTop
 iphone-mania.jp##.single_pr_ad_all
+iphoroid.jp##.spmode
 iqossan.com##.elAds
 iqossan.com##.underHeaderAdPC
 irasuton.com###HTML9
