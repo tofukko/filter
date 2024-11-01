@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/10/17 11:50
+! 最終更新 2024/11/01 19:28
 !
 
 ! 2024/10/17
@@ -2732,6 +2732,9 @@ qiita.com#?#.p-items_main > div[class^="css-"]:-abp-has(div[id^="dfp-slot-"])
 qiita.com#?#div[id^="New2HomeTrendPage-"] > div[class] > div[class] > div[class]:-abp-has(> div#trend-side-ad:only-child)
 qiita.com##[id^="dfp-slot-"]
 qiita.com#?#[class^="css-"]:-abp-has(> [id$="-side-ad"])
+qiita.com##.style-uaiz0z
+! サイドバー広告分広げる
+qiita.com##.style-12jq9a5:style(max-height: calc(100vh - 16px - 16px) !important;)
 ! logly
 qiita.com##[id^=logly-lif]
 qiita.com##[id^=logly-lif]:upward(2)
