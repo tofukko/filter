@@ -2,8 +2,17 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/11/01 19:28
+! 最終更新 2024/11/05 21:29
 !
+
+! 2024/11/05 2024年11月26日サイト停止
+! https://www.mangaz.com/information/detail/2114
+! --- mangaz.com --- !
+||mangaz.com/js/ad_fix.js?
+||mangaz.com/virgo/adv/
+mangaz.com###scroll-adv
+vw.mangaz.com##.ad-page
+vw.mangaz.com##.adv
 
 ! 2024/10/17
 ! http://making.pipa.jp/
@@ -4735,13 +4744,6 @@ rawkuma.com##+js(aeld, readystatechange, document.removeEventListener)
 rawkuma.com##+js(acs, parseInt, break;case $.)
 ||adsbetnet.com^
 /btag.min.js$third-party
-
-! --- mangaz.com --- !
-||mangaz.com/js/ad_fix.js?
-||mangaz.com/virgo/adv/
-mangaz.com###scroll-adv
-vw.mangaz.com##.ad-page
-vw.mangaz.com##.adv
 
 ! --- mediaexceed.co.jp --- !
 shisha-press.com,conveni-now.com,discka.com,smopia.com###kakidashi-box-field
