@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/11/05 21:29
+! 最終更新 2024/11/12 12:31
 !
 
 ! 2024/11/05 2024年11月26日サイト停止
@@ -5235,6 +5235,7 @@ www.pixiv.net##[style="margin-left: 0px; --columns: 10;"] > div:only-child > div
 www.pixiv.net###__next > div:only-child > div:nth-child(2) > div:nth-child(4):nth-last-child(4):not([style])
 www.pixiv.net##div[style="height: 540px; opacity: 1;"]
 www.pixiv.net##main > section > div > div > figure + div:empty + div[style]
+www.pixiv.net##div[id^="adsdk--"]
 www.pixiv.net##iframe[name][width="500"][height="520"]
 www.pixiv.net##iframe[name][width="184"][height="232"]:upward(1)
 ! プレミアムバナー
