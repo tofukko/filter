@@ -2,8 +2,16 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/11/12 12:31
+! 最終更新 2024/11/16 21:07
 !
+
+! 2024/11/16 2024/12/17 移転
+! https://pash-up.jp/information/neo_open
+pashplus.jp##.google_ads
+pashplus.jp##.single_bnr_wrap
+pashplus.jp##.specialBanners-cover
+	! https://github.com/tofukko/filter/issues/73
+@@||images.pash-up.jp/contents/img/ad/$image,domain=pash-up.jp
 
 ! 2024/11/05 2024年11月26日サイト停止
 ! https://www.mangaz.com/information/detail/2114
@@ -2659,9 +2667,6 @@ pakutaso.com#?#.is-12 > div.block__content:-abp-has(> div ins.adsbygoogle)
 panchiragazoumania.com###center > .plugin3_outline
 parlourfullslotl.com###scrollad
 parupunte.net#?#div[style="background-color: #F0E0D6; width: 700; text-align: left;  margin: 0 auto 20; padding: 16px;"]:-abp-has(> a[href^="https://www.amazon.co"])
-pashplus.jp##.google_ads
-pashplus.jp##.single_bnr_wrap
-pashplus.jp##.specialBanners-cover
 paso-kake.com##.st-eyecatch
 pastebin.com##.adsbyvli
 pastebin.com##.content > [style^="padding-bottom:"]
@@ -6472,8 +6477,6 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_w
 @@||guinnessworldrecords.jp/ezais/analytics?$xmlhttprequest,domain=guinnessworldrecords.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/140718
 @@||hbb.afl.rakuten.co.jp/hgb/*%3A%2F%2Fthumbnail.$image,domain=angelfish.jp
-	! https://github.com/tofukko/filter/issues/73
-@@||images.pash-up.jp/contents/img/ad/$image,domain=pash-up.jp
 	! https://github.com/easylist/easylist/pull/6920
 	! https://hicbc.com/movie/
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=locipo.jp
