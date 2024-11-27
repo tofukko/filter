@@ -636,10 +636,6 @@ _ads.js.
 ||game8.jp/assets/pc/jack_ad/
 ||gamegift.jp/js/ads.js
 ||gameranbu.jp/js/scrole_ad_
-||gamespark.jp/feature/advertising/
-	! https://github.com/AdguardTeam/AdguardFilters/issues/175115
-	! ||gamewith.*/ad/index.js?
-	! ||gamewith.jp/js/dist/jp/search/cta.js
 ||gdm.or.jp/bimg/b
 ||gehasoku.com/JS/newama.js
 ||getchu.com/mbanner/$~image
@@ -4363,6 +4359,12 @@ i-bbs.sijex.net##span[style="display:block;margin:5px 0 0 0;padding:0;text-align
 ! --- IID --- !
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
+
+||gamespark.jp/feature/advertising/
+gamespark.jp##.recruitmentBox
+	! https://github.com/AdguardTeam/AdguardFilters/issues/175115
+	! ||gamewith.*/ad/index.js?
+	! ||gamewith.jp/js/dist/jp/search/cta.js
 rbbtoday.com##.main-amazon-ranking
 rbbtoday.com##.free-custom > .af
 ! https://github.com/tofukko/filter/issues/66
