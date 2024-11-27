@@ -2840,6 +2840,8 @@ seikeidenron.jp##.advertising
 seikeidenron.jp##.articleAdd
 seikeidenron.jp##.rightAdd
 seikyouiku-illust.com##.c-sponsorbanner
+sejuku.net##.post_content .p-blogParts
+sejuku.net###footer-banner
 sekkaku.net##.sekkaku-bbs-ad-point
 sekkaku.net##[summary="AD"]
 sekkaku.net##[summary="広告欄"]
