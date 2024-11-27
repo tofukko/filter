@@ -13,6 +13,9 @@ pashplus.jp##.specialBanners-cover
 	! https://github.com/tofukko/filter/issues/73
 @@||images.pash-up.jp/contents/img/ad/$image,domain=pash-up.jp
 
+! 2024/11/27 復活予定あり？
+! https://x.com/Manga_Z_
+! https://mangaz.com/
 ! 2024/11/05 2024年11月26日サイト停止
 ! https://www.mangaz.com/information/detail/2114
 ! --- mangaz.com --- !
@@ -21,10 +24,6 @@ pashplus.jp##.specialBanners-cover
 mangaz.com###scroll-adv
 vw.mangaz.com##.ad-page
 vw.mangaz.com##.adv
-
-! 2024/10/17
-! http://making.pipa.jp/
-making.pipa.jp##.NoFrame.RelatedWorkRight
 
 ! 2024/07/29
 ! https://x.com/48idol_tv/status/1792523932630716916
