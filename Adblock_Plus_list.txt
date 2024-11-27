@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/11/16 21:07
+! 最終更新 2024/11/27 20:46
 !
 
 ! 2024/11/16 2024/12/17 移転
@@ -6835,6 +6835,13 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 
 ! nazolog.com
 	!nazolog.com#@#.adsbygoogle
+
+! pixnest.pipio.site
+! https://github.com/AdguardTeam/AdguardFilters/issues/193343
+||pixnest.pipio.site/adblock.js
+pixnest.pipio.site##+js(aopw, checkAdIframe)
+pixnest.pipio.site###videoDiv:has(> #addiv)
+pixnest.pipio.site###video-container[style*="display: none;"]:style(display: block !important;)
 
 ! pks.raenonx.cc
 pks.raenonx.cc##.bg-red-500\/50
