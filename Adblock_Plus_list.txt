@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/11/27 20:46
+! 最終更新 2024/12/12 20:30
 !
 
 ! 2024/11/16 2024/12/17 移転
@@ -698,7 +698,6 @@ _ads.js.
 ||style.potepan.com/wp-content/themes/potepan-style/js/article-detail/popUpBanner.js
 ||style.potepan.com/wp-content/themes/potepan-style/js/common/fixedFooter.js
 ||surfsnow.jp/page/stc/common/2018/js/bnrsys.js
-||syosetu.com/sub/yomouview/js/ad_scroll.js?
 ||tatituteto.net/images/banner/
 ||tenhou.net/ad1.js
 ||tenhou.net/ad2.js
@@ -2937,7 +2936,6 @@ swiki.jp##.rklink
 swiki.jp##.rkmark
 swiki.jp##[id^="ads_menubar_"]
 syokuraku-web.com###text-64
-syosetu.com##[class^="koukoku_"]
 syosetu.org##div[data-cptid]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style*="margin:0 auto;height:"][style$="px;"]
@@ -6636,6 +6634,12 @@ dl.520cc.cc###inplayer
 dl.520cc.cc###infile:style(visibility: visible !important;)
 dl.520cc.cc##+js(nowoif)
 jav380.com###playertopads
+
+! syosetu.com なろう
+||html-load.com/loader.min.js$domain=syosetu.com
+syosetu.com##+js(remove-node-text, script, html-load.com)
+||syosetu.com/sub/yomouview/js/ad_scroll.js?
+syosetu.com##[class^="koukoku_"]
 
 ! syosetu.top
 ! https://github.com/tofukko/filter/issues/71
