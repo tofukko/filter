@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2024/12/12 20:30
+! 最終更新 2024/12/18 19:11
 !
 
 ! 2024/11/16 2024/12/17 移転
@@ -3247,6 +3247,7 @@ xn--1-td6bm19b.com###space3
 5ch.net##.sticky_side_point > .card.my-4:first-child
 5ch.net##.container.container_body.mascot:style(margin-right: 0 !important;)
 ! 過去
+kako.5ch.net##.advertisement
 5ch.net###js--banners--thread
 5ch.net##[style="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;margin-right: 215px;"]
 ! 新
