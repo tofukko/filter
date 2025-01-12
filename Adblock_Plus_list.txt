@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/01/11 20:59
+! 最終更新 2025/01/12 14:04
 !
 
 ! 2024/11/16 2024/12/17 移転
@@ -2372,6 +2372,7 @@ medibang.com##.contents-footer-bnr
 medibang.com#?#.mdModal:-abp-has(.mdbnViewer__ad)
 medibangpaint.com##[style*="min-height:250px;"]
 medibangpaint.com##.sideAvs__item
+medicalook.jp##[class^="p-advertisement-"]
 meitou.info###aside
 meitou.info##[href^="https://amzn.to/"], [href^="https://www.amazon.co.jp/"]
 meitou.info##[href^="https://amzn.to/"] + small
