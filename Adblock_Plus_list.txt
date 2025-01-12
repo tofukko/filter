@@ -1798,11 +1798,20 @@ freesoft-100.com###side-ads
 freesoft-100.com##.banner_block
 freesoft-100.com##.related-article
 french-wine-jiten.com##.ad_footer
+friday.kodansha.co.jp##div[class^="styles_ad"]
+friday.kodansha.co.jp##div[class^="detail_adBillboard"]
+friday.kodansha.co.jp##div[class^="detail_adLeaderBoard"]
+friday.kodansha.co.jp##div[class^="detail_doubleAdRow"]
+friday.kodansha.co.jp##div[class^="styles_leaderBoardAd_"]
+! sidebar
+friday.kodansha.co.jp##div[class^="detail_adContainerMB"]
+friday.kodansha.co.jp##div[class^="styles_sticky"][style="top:20px"]:style(position: static !important;)
+friday.kodansha.co.jp##div[class^="detail_sideColumnItem"]:style(min-height: auto !important;)
+! 
 friday.kodansha.co.jp##div[class^="detail_adArea"]
 friday.kodansha.co.jp##div[class^="detail_photo_"]:style(height: 100% !important;max-height: 100% !important;)
 friday.kodansha.co.jp##div[class*=" detail_normal__"] img[class^="detail_mainImage"]:style(max-height: calc(100vh - 70px - 20px) !important;)
 friday.kodansha.co.jp##div[class*=" detail_comic__"] img[class^="detail_mainImage"]:style(max-height: calc(100vh - 20px) !important;)
-friday.kodansha.co.jp##div[class^="styles_ad"]
 front-row.jp##.after-btn-fb-nice-ad-pc
 fuelle.jp###js-overlay
 fuelle.jp##.bn_gpt_box
