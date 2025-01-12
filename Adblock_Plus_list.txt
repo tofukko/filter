@@ -1708,9 +1708,9 @@ eroangle.club##.excerpt_pick
 eroanime-movie.com#?#.main-section:-abp-has(a[href^="https://2ji-planet.com/"])
 eroanime-movie.com##.top-sponsored
 eroanime-movie.com##.top-section:style(grid-template-columns: minmax(180px, 1fr) !important;)
-erogamescape.org,erogamescape.dyndns.org###ad_right
-erogamescape.org,erogamescape.dyndns.org###ad_rudel_1
-erogamescape.org,erogamescape.dyndns.org###ad_rudel_2
+erogamescape.org,erogamescape.dyndns.org##div[id^="ad_"]
+erogamescape.org,erogamescape.dyndns.org#?##nav_1 h2:-abp-contains(広告)
+erogamescape.org,erogamescape.dyndns.org#?##nav_1 h2:-abp-contains(広告) + div
 erogamescape.org,erogamescape.dyndns.org###adv_dmm
 erogamescape.org,erogamescape.dyndns.org###recent_recommendations
 erogazo-ngo.com###article_box > p:first-child > a
