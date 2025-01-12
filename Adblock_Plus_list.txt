@@ -3831,6 +3831,7 @@ exblog.jp##[class*="list" i] > .ss
 @@||www.google-analytics.com/analytics.js$script,domain=woman.excite.co.jp
 
 ! --- famitsu.com --- !
+famitsu.com##.histora-header-banner
 famitsu.com##aside[class^="SponsorLink_sponsorLinkContainer__"]
 famitsu.com##div[class^="HalfPageBottomOrLargeRectangle_container__"]
 famitsu.com##div[class^="ArticleDetailBanner_container___"]
