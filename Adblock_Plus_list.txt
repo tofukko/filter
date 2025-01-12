@@ -1807,7 +1807,8 @@ friday.kodansha.co.jp##div[class^="styles_leaderBoardAd_"]
 friday.kodansha.co.jp##div[class^="detail_adContainerMB"]
 friday.kodansha.co.jp##div[class^="styles_sticky"][style="top:20px"]:style(position: static !important;)
 friday.kodansha.co.jp##div[class^="detail_sideColumnItem"]:style(min-height: auto !important;)
-! 
+!
+friday.kodansha.co.jp##div[class^="detail_adContainer"]
 friday.kodansha.co.jp##div[class^="detail_adArea"]
 friday.kodansha.co.jp##div[class^="detail_photo_"]:style(height: 100% !important;max-height: 100% !important;)
 friday.kodansha.co.jp##div[class*=" detail_normal__"] img[class^="detail_mainImage"]:style(max-height: calc(100vh - 70px - 20px) !important;)
