@@ -3968,13 +3968,13 @@ firestorage.jp###ad_foot_rec
 firestorage.jp###ad1
 ||ad.firestorage.jp/adimage/
 ! オクル
-xfs.jp###xfs_pc_header
-xfs.jp###center_ad
-xfs.jp###xfs_pc_footer
+firestorage.jp,xfs.jp###xfs_pc_header
+firestorage.jp,xfs.jp###center_ad
+firestorage.jp,xfs.jp###xfs_pc_footer
 ! ウケトル
-firestorage.jp###mini_upload_header
-firestorage.jp###card_left_box_ad
-firestorage.jp###mini_pc_download_header
+firestorage.jp,xfs.jp###mini_upload_header
+firestorage.jp,xfs.jp###card_left_box_ad
+firestorage.jp,xfs.jp###mini_pc_download_header
 
 ! --- fmworld.net --- !
 azby.fmworld.net###leftAffi
