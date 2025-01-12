@@ -3963,6 +3963,19 @@ fig-memo.com##.gallery
 fig-memo-r18.site##.foogallery
 fig-memo-r18.site##.post_content > table[style="border-collapse: collapse; width: 100%;"]
 
+! --- firestorage.jp --- !
+firestorage.jp###ad_foot_rec
+firestorage.jp###ad1
+||ad.firestorage.jp/adimage/
+! オクル
+xfs.jp###xfs_pc_header
+xfs.jp###center_ad
+xfs.jp###xfs_pc_footer
+! ウケトル
+firestorage.jp###mini_upload_header
+firestorage.jp###card_left_box_ad
+firestorage.jp###mini_pc_download_header
+
 ! --- fmworld.net --- !
 azby.fmworld.net###leftAffi
 azby.fmworld.net###subContents > .mrgB10:last-of-type
