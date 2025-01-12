@@ -2906,6 +2906,9 @@ studio-radish.com##.netspeedRightAd
 studio-radish.com##div[style*="background:#FFE4E1;"]
 studyhacker.net##.popup_area
 style.potepan.com##.FixedFooterSection
+suki-kira.com###comment-top-ad
+suki-kira.com###fullscreen-ad-container
+suki-kira.com###vote-bottom-ad
 suki-kira.com##table[style="margin:0 auto;min-height:250px;"]
 sukima.me##.popupad-box
 sukima.me#?#div:-abp-has(> iframe[src^="/advertise/"]:only-child)
