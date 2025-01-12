@@ -1804,6 +1804,7 @@ friday.kodansha.co.jp##div[class^="detail_adLeaderBoard"]
 friday.kodansha.co.jp##div[class^="detail_doubleAdRow"]
 friday.kodansha.co.jp##div[class^="styles_leaderBoardAd_"]
 ! sidebar
+friday.kodansha.co.jp##div[class*="styles_sideColumnAd"]
 friday.kodansha.co.jp##div[class^="detail_adContainerMB"]
 friday.kodansha.co.jp##div[class^="styles_sticky"][style="top:20px"]:style(position: static !important;)
 friday.kodansha.co.jp##div[class^="detail_sideColumnItem"]:style(min-height: auto !important;)
