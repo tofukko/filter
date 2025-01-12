@@ -1808,6 +1808,8 @@ friday.kodansha.co.jp##div[class*="styles_sideColumnAd"]
 friday.kodansha.co.jp##div[class^="detail_adContainerMB"]
 friday.kodansha.co.jp##div[class^="styles_sticky"][style="top:20px"]:style(position: static !important;)
 friday.kodansha.co.jp##div[class^="detail_sideColumnItem"]:style(min-height: auto !important;)
+! kensaku
+friday.kodansha.co.jp##div[style$="min-height:250px"]
 !
 friday.kodansha.co.jp##div[class^="detail_adContainer"]
 friday.kodansha.co.jp##div[class^="detail_adArea"]
