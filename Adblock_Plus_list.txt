@@ -4164,12 +4164,18 @@ www.ocn.ne.jp##.banner
 ||doubleclick.net^
 ||fundingchoicesmessages.google.com$third-party
 
+! EasyList
 #@#ins.adsbygoogle[data-ad-client]
 #@#ins.adsbygoogle[data-ad-slot]
+#@#[id^="div-gpt-ad"]
+! uBlock filters
+#@#div[id^="div-gpt-"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"]):not([style="pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; position: fixed; bottom: 0px;"])
+#@#[id^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"]):not([style="pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; position: fixed; bottom: 0px;"])
+#@#[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"])
+
 *##ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
 *##ins.adsbygoogle:first-child + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 *##script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
-#@#[id^="div-gpt-ad"]
 *##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 *##[id^="div-gpt-ad"]:only-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 
@@ -5747,7 +5753,8 @@ wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height:
 ##.ad-label
 ##.ad-single
 ##.ad-single-h2
-##.ad-space
+#@#.ad-space
+##.ad-space:not(.textads):not(.adbox)
 ##.adarea-box
 ##.advads-widget
 ##.afc_popup
@@ -6733,8 +6740,8 @@ gato.intaa.net##.adwidget
 
 ! h178.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/189562
-@@||h178.com^$generichide
-h178.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+! https://github.com/AdguardTeam/AdguardFilters/issues/195303
+best-hit.tv,h178.com,j-baseball.club,j-basketball.club,j-rugby.club,j-volleyball.club,jukenbbs.com,sportsbbs.club#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 
 ! hadakanonude.com
 hadakanonude.com##+js(noeval-if, /chp_?ad/)
