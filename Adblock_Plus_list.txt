@@ -2383,6 +2383,7 @@ mens-modern.jp##[style="height:90px; width:728px;"]
 mens-modern.jp##[style="min-height: 320px;"]
 meow.fan##p[style="text-align: center;"]
 mercari.com#?#div[style^="padding-top"] > div[class^="_container_"]:-abp-has(> div[class^="_wrapped-about-ads-link"])
+mi-mollet.com###MM_PC_Billboard
 mi-mollet.com###MM_PC_rectangle_1st
 mi-mollet.com##.ad-bnr
 mi-mollet.com##div[style="min-height: 250px; margin-bottom: 48px;"]
