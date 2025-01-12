@@ -5,6 +5,10 @@
 ! 最終更新 2025/01/12 14:04
 !
 
+! 2025/01/12
+okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
+okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
+
 ! 2024/11/16 2024/12/17 移転
 ! https://pash-up.jp/information/neo_open
 pashplus.jp##.google_ads
@@ -2576,8 +2580,6 @@ ohen.tv##[id^="top-sidebar-ad"]
 okazurand.net##.ado-area
 okazurand.net##.ado-widgets
 okazurand.net##.affiliateapi
-okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
-okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
 okurin.bitpark.co.jp##.cap
 okurin.bitpark.co.jp##.contents_banner_area
 okurin.bitpark.co.jp##.h_cap
@@ -2912,10 +2914,11 @@ suki-kira.com###comment-top-ad
 suki-kira.com###fullscreen-ad-container
 suki-kira.com###vote-bottom-ad
 suki-kira.com##table[style="margin:0 auto;min-height:250px;"]
-sukima.me##.popupad-box
 sukima.me#?#div:-abp-has(> iframe[src^="/advertise/"]:only-child)
-sukima.me###viewer-menu:style(overflow-y: scroll !important;height: 100% !important;)
-sukima.me##+js(set, adPopupStatus, undefined)
+sukima.me##+js(set-constant, adPopupStatus, false)
+sukima.me##+js(set-constant, endInterstitialShow, true)
+sukima.me##+js(set-constant, geparams.custom.enableYdn, '')
+sukima.me##+js(set-constant, PREMIUM, true)
 sukusuku.com##.ad
 sukusuku.com##.aside_ad_pr
 supercoloring.com#?#div[id^="block-block-"]:-abp-has(div[id^="adngin-"])
