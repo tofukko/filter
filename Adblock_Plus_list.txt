@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/01/12 14:04
+! 最終更新 2025/01/14 18:14
 !
 
 ! 2025/01/12
@@ -1618,7 +1618,6 @@ dailynewsonline.jp##.adArea
 dailyshincho.jp##[class^="c-box-ad"]
 dan-ball.jp##[class^="ad_div_"]
 dazn.com##div[class^="AdBanner_container__"]
-db.msin.jp##.pr
 dclog.jp##.advertisement-entry-list
 ddnavi.com##.ad-twoside
 ddnavi.com##.side-er
