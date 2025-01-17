@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/01/14 18:14
+! 最終更新 2025/01/17 16:58
 !
 
 ! 2025/01/12
@@ -5072,7 +5072,9 @@ nhentai.com##+js(acs, document.createElement, /l\.parentNode\.insertBefore\(s/)
 nhentai.io##+js(aopr, Script_Manager)
 nhentai.io##+js(aopr, Script_Manager_Time)
 ! hentaipaw.com
-||gagaxbasvw.com^
+||ero-vtuber.com^
+||humatecortin.com^
+##[data-asg-ins]
 eromanga-show.com,hentai-one.com,hentaipaw.com##.max-w-\[720px\]
 eromanga-show.com,hentai-one.com,hentaipaw.com##.min-h-\[250px\]
 eromanga-show.com,hentai-one.com,hentaipaw.com##main.my-5:style(margin-top: 5rem !important;)
