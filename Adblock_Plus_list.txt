@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/01/17 16:58
+! 最終更新 2025/01/17 22:05
 !
 
 ! 2025/01/12
@@ -3365,6 +3365,7 @@ news.allabout.co.jp##[class^="ad-banner__"]
 thebest-1.com##.ads_fix_height_pc
 
 ! --- alphapolis --- !
+||alphapolis.co.jp/ad/
 ||alphapolis.co.jp/html/ad_
 alphapolis.co.jp##.ad
 alphapolis.co.jp##.ads
