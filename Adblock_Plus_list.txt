@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/01/17 22:05
+! 最終更新 2025/01/25 23:18
 !
 
 ! 2025/01/12
@@ -2954,9 +2954,6 @@ swiki.jp##.rklink
 swiki.jp##.rkmark
 swiki.jp##[id^="ads_menubar_"]
 syokuraku-web.com###text-64
-syosetu.org##div[data-cptid]
-syosetu.org##div[id^="1"][style*="height"][style*="width"]
-syosetu.org##div[style*="margin:0 auto;height:"][style$="px;"]
 tabanavi.com##.widget_st_custom_html_ad_widget
 tabelog.com##.rstdtl-cmad
 tabelog.com##.side-adbanner-wrap
@@ -5557,6 +5554,13 @@ spankbang.com##.video-list-with-ads > .video-item[data-id="0"]
 spankbang.com##.ptgncdn_holder
 ##a[href^="https://deliver.ptgncdn.com/"]
 ##a[href^="https://go.xlviiirdr.com"]
+
+! --- syosetu.org --- !
+||syosetu.org/js/ad_dliste.min.js
+syosetu.org##div[id^="ad_"]
+syosetu.org##div[data-cptid]
+syosetu.org##div[id^="1"][style*="height"][style*="width"]
+syosetu.org##div[style*="margin:0 auto;height:"][style$="px;"]
 
 ! --- takeshobo.co.jp --- !
 ! mangalifewin
