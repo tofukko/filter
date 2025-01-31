@@ -2561,6 +2561,7 @@ nijifeti.com##.\33 00250box
 nijifeti.com##.osu2
 nijifeti.com##.topdmm
 nishinippon.co.jp##.c-ad-side
+nishispo.nishinippon.co.jp##.pc_article_billboard
 northwood.blog.fc2.com#?#.menuBlockBase:-abp-has(> .menuBlockHead > .menuTitle:-abp-contains(PCパーツショップ))
 nosweb.jp##.addHead
 nosweb.jp##.addSide
