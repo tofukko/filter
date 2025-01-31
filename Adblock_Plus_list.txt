@@ -3312,6 +3312,9 @@ itest.5ch.net##.ad_300x250
 itest.bbspink.com###floatingBottomAdsMain
 itest.bbspink.com##[class^="ad_"]
 
+||enhance.co.jp^
+||akamaized.net/interstitial/ad/$domain=itest.5ch.net
+
 ! --- akibablog.net --- !
 ||akibablog.net/ad-
 ||akibablog.net/ads-
