@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/01/25 23:18
+! 最終更新 2025/01/31 20:46
 !
 
 ! 2025/01/12
@@ -5686,6 +5686,11 @@ twilog.togetter.com###ad-overlay-box
 twilog.togetter.com###ad-right-top
 twilog.togetter.com###ad-right-bottom
 favolog.org###side > div:first-child
+! https://posfie.com
+posfie.com##.ad_custom
+posfie.com##.ad_list_top
+posfie.com###ad_overlay
+posfie.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 
 ! --- uraaka.com --- !
 ||uraaka.com/ad/
