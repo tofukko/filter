@@ -2482,6 +2482,7 @@ musmus.main.jp##div[id^="sub_ad"]
 mutyun.com##.amazon-auto-links-widget
 muvc.net##body > div[align="right"]:last-of-type
 my-best.com##.p-press__ad
+my-best.com##div[data-testid="advertisement-pc"]
 my.kabumap.com##div[class^="Ad_"]
 myjitsu.jp##.ad-box
 myjitsu.jp##[id^=related-post-ad]
