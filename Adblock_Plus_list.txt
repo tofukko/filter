@@ -2075,6 +2075,8 @@ iqossan.com##.elAds
 iqossan.com##.underHeaderAdPC
 irasuton.com###HTML9
 irasutoya.com##[class^="entryadwrapper"]
+irohakamon.com##div[style="height:305px;"]
+irohakamon.com##div[style^="height:260px;"]
 ita-do.com,ore-nijigazo.com,kichikuou.com,doujinhibiki.net##.deleteBox
 ita-do.com##.pcAd01
 itaishinja.com##.ADW
