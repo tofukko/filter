@@ -4425,6 +4425,10 @@ rbbtoday.com##.free-custom > .af
 @@||googletagmanager.com/gtm.js$script,domain=scan.netsecurity.ne.jp
 @@||googletagmanager.com/gtm.js$script,domain=spyder7.com
 
+! --- imasaragame.com --- !
+imasaragame.com##.adspace
+||imasaragame.com/api/rcmd_items.php?
+
 ! --- impress.co.jp --- !
 ||yamakei-online.com/new_images/adv/banner/
 forest.watch.impress.co.jp##.ad_download
