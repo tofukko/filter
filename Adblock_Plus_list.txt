@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/01/31 20:46
+! 最終更新 2025/02/02 11:37
 !
 
 ! 2025/01/12
@@ -4428,7 +4428,7 @@ rbbtoday.com##.free-custom > .af
 
 ! --- imasaragame.com --- !
 imasaragame.com##.adspace
-||imasaragame.com/api/rcmd_items.php?
+||imasaragame.com/api/rcmd_items
 
 ! --- impress.co.jp --- !
 ||yamakei-online.com/new_images/adv/banner/
