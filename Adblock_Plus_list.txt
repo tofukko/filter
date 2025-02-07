@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/02/02 11:37
+! 最終更新 2025/02/07 20:04
 !
 
 ! 2025/01/12
@@ -3944,6 +3944,7 @@ admin.blog.fc2.com##.adimn_pr_txt
 admin.blog.fc2.com##.column-left_ad
 admin.blog.fc2.com##.editor_header_ad
 admin.blog.fc2.com##.notify_ad
+admin.blog.fc2.com##.re_editing_link:style(vertical-align: initial !important; line-height: 1em !important; padding: 0 !important;)
 
 error.fc2.com###ad_middle
 
