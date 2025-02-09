@@ -2806,7 +2806,6 @@ retty.me##.small-ad-content
 reuters.com##div[class^="AdSlot__container"]
 reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
 rikujyokyogi.co.jp##.code-block
-rkb.jp##[id^="JP_RKBO_"]
 rollingstonejapan.com##.addHead
 rollingstonejapan.com##.addSide
 rollingstonejapan.com##.articleDetailAdd
