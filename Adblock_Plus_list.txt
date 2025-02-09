@@ -5,17 +5,19 @@
 ! 最終更新 2025/02/07 20:04
 !
 
-! 2025/01/12
-okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
-okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
+! 2025/02/09 多分閉鎖する
+himado.in##.l-cnt-100_box10
+himado.in##.l-cnt-100_box30
+himado.in##.l-cnt-100:style(width: 100% !important;)
+!2022/11/17
+||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
+||drive.google.com/uc?id=1uD4_-rED0rNzxuEcm_yaWclpjN9LmDyK$domain=himado.in
 
-! 2024/11/16 2024/12/17 移転
-! https://pash-up.jp/information/neo_open
-pashplus.jp##.google_ads
-pashplus.jp##.single_bnr_wrap
-pashplus.jp##.specialBanners-cover
-	! https://github.com/tofukko/filter/issues/73
-@@||images.pash-up.jp/contents/img/ad/$image,domain=pash-up.jp
+! 2025/02/09 milky
+! えろぞう
+! https://erodouga-s.com
+erodouga-s.com##.pc-overlay
+erodouga-s.com##.rectangle
 
 ! 2024/11/27 復活予定あり？
 ! https://x.com/Manga_Z_
@@ -106,10 +108,6 @@ garanger.net##[href="https://liberty-net.jp/toukou/"]
 ! 2024/07/24
 ||player.gliacloud.com^$third-party
 ||go.trvdp.com^$third-party
-
-!2022/11/17
-||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
-||drive.google.com/uc?id=1uD4_-rED0rNzxuEcm_yaWclpjN9LmDyK$domain=himado.in
 
 !2021/07/02
 !2024/05/18 読み込み
@@ -1987,9 +1985,6 @@ heim.jp##.p-article__adTop
 hentai-covers.site##.ad-banner
 hentai-foundry.com##main > p[style="text-align: center"]
 hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not(:nth-of-type(n+11))
-himado.in##.l-cnt-100_box10
-himado.in##.l-cnt-100_box30
-himado.in##.l-cnt-100:style(width: 100% !important;)
 hinokoto.com##.colblockblank
 hominis.media##.ad
 hoyme.jp##^script[onload*="error-report.com"]
@@ -2596,6 +2591,8 @@ ohen.tv##[id^="top-sidebar-ad"]
 okazurand.net##.ado-area
 okazurand.net##.ado-widgets
 okazurand.net##.affiliateapi
+okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
+okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
 okurin.bitpark.co.jp##.cap
 okurin.bitpark.co.jp##.contents_banner_area
 okurin.bitpark.co.jp##.h_cap
@@ -4833,10 +4830,6 @@ bike-news.jp,kuruma-news.jp,trafficnews.jp#@#[id^="div-gpt-ad"]:only-child:upwar
 caramel-sp.com##.rectangle
 caramel-sp.com###native_1
 caramel-sp.com###native_2
-! えろぞう
-! https://erodouga-s.com
-erodouga-s.com##.pc-overlay
-erodouga-s.com##.rectangle
 ! エロムビ
 ! https://eromovie-s.com
 ||eromovie-s.com/feed/
@@ -5257,6 +5250,17 @@ oppai-doga.info##.pickup-box1 > p
 oppai-doga.info##.pickup-box1 > .product-list
 ||oppai-doga.info/wp-content/themes/opid/html/
 ||oppai-doga.info/wp-content/themes/opid/js/pcad.
+
+! --- pashplus.jp --- !
+! 2025/02/09 サイトは継続するみたい
+! https://pash-up.jp/information/comicservicechange
+! 2024/11/16 2024/12/17 移転
+! https://pash-up.jp/information/neo_open
+pashplus.jp##.google_ads
+pashplus.jp##.single_bnr_wrap
+pashplus.jp##.specialBanners-cover
+	! https://github.com/tofukko/filter/issues/73
+@@||images.pash-up.jp/contents/img/ad/$image,domain=pash-up.jp
 
 ! --- phileweb.com --- !
 www.phileweb.com###topBanner
