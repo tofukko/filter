@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/02/09 23:34
+! 最終更新 2025/02/16 14:46
 !
 
 ! 2025/02/09 多分閉鎖する
@@ -1640,8 +1640,6 @@ digiday.jp##.advertisement
 discogs.com##.ads-ad
 diskgarage.com##.ads
 diskgarage.com##.cm_ads
-dokuha.jp###ad-wall-first-view
-dokuha.jp##.owl-item > div.ad-wrapper:upward(1)
 dotpict.net##[id^="ads"]:upward(1)
 douga100ka.jp##.ad_index_main_base
 douga100ka.jp##.ad_item_head
