@@ -6853,6 +6853,8 @@ kotobank.jp##+js(no-setTimeout-if, return)
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 kotobank.jp##div[class$="word-ad"]
 kotobank.jp##.header-ad
+! 求人ボックス
+kotobank.jp##.kyujinbox-ad
 
 ! modalina.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/85641
