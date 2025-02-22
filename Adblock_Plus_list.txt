@@ -2581,6 +2581,7 @@ o-uccino.jp##[class^="float_banner_"]
 oceans-nadia.com###pc_tag_banner_area_1
 oceans-nadia.com##[class^="AdSlot_"]
 odaibako.net##div[style="min-height:250px"]
+oggi.jp##.banner
 oekaki1.basso.to,oekaki2.basso.to##form[action="./oekaki.cgi"] + div[align="center"]
 ohen.tv###top-ad1-wrapper
 ohen.tv##.ad-wrapper
