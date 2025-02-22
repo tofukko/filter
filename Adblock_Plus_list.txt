@@ -3692,6 +3692,9 @@ the-ans.jp##[id^="c2_click_ABEMA_pr_"]
 !g --- danbooru系 --- !
 gelbooru.com##div[style^="min-height: 250px;"]
 ||gelbooru.com/extras/
+gelbooru.com##.headerAd
+gelbooru.com##.footerAd
+gelbooru.com##div[style="height: 250px !important; overflow: hidden; width: 100%; text-align:center;"]
 ! xbooru.com
 ||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^
