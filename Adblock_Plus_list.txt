@@ -1864,6 +1864,7 @@ gendai.media###GB_pc_inArticle
 gendai.media##.dontprint.blockContainer[style="margin: 40px auto -60px auto;"]
 gendai.media##.reduce-CLS
 gendai.media##div[style="min-height: 250px;"]
+gendai.media##div[data-testid="firework-storyblock-ad"]
 ! ブルーバックス
 gendai.media##.ad-slider
 gendai.media##.blockContainer_block
