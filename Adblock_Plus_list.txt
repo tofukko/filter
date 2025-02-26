@@ -12,12 +12,8 @@ himado.in##.l-cnt-100:style(width: 100% !important;)
 !2022/11/17
 ||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
 ||drive.google.com/uc?id=1uD4_-rED0rNzxuEcm_yaWclpjN9LmDyK$domain=himado.in
-
-! 2025/02/09 milky
-! えろぞう
-! https://erodouga-s.com
-erodouga-s.com##.pc-overlay
-erodouga-s.com##.rectangle
+say-move.org###my_navigation:style(padding-top: 10px !important)
+say-move.org##.wrap_player:style(padding-top: 0 !important)
 
 ! 2024/11/27 復活予定あり？
 ! https://x.com/Manga_Z_
@@ -2834,8 +2830,6 @@ sanspo.com##.article__inline-gptAd
 sanspo.com##.billboard_250
 sanspo.com##.gptAd
 sanyonews.jp##.ad_space
-say-move.org###my_navigation:style(padding-top: 10px !important)
-say-move.org##.wrap_player:style(padding-top: 0 !important)
 scawaiiweb.com##.add
 scawaiiweb.com##.addHead
 scawaiiweb.com##.addSide
