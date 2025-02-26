@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/02/22 22:44
+! 最終更新 2025/02/26 11:34
 !
 
 ! 2025/02/09 多分閉鎖する
@@ -5184,6 +5184,13 @@ nijie.info,horne.red###tieup_rand
 nijie.info,horne.red###view_center_ad
 nijie.info,horne.red##.left_column
 nijie.info,horne.red##.view_top_banner
+
+! 2025/02/26
+nijie.info###header_bar_wrapper
+nijie.info###side_right_bar
+nijie.info###ti_bar
+nijie.info##.view_top_bar
+nijie.info###main-right2[style="margin:0 0 10px 0;"]
 
 ! --- nijigen-daiaru.com --- !
 ! https://nijigen-daiaru.com/
