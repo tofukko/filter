@@ -2392,6 +2392,7 @@ mi-mollet.com###MM_PC_rectangle_1st
 mi-mollet.com##.ad-bnr
 mi-mollet.com##div[style="min-height: 250px; margin-bottom: 48px;"]
 middle-edge.jp###detad
+mimemo.io##.sidebar-ad
 mimizun.com###adleft
 mimizun.com###thread:style(margin-left: 0 !important;)
 mimizun.com##.ad300x250
