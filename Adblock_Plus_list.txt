@@ -3992,6 +3992,8 @@ azby.fmworld.net###subContents > .mrgB10:last-of-type
 community2.fmworld.net##.articleDeleteButtonWrap
 fmv-mypage.fmworld.net##.home-recommend__item[class$="hidden"]
 ||fmworld.net/*/adv-html/$subdocument
+azby.fmworld.net##+js(set, SU_Api.AdsTimer, -1)
+azby.fmworld.net###display_ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/128061
 azby.fmworld.net##+js(no-xhr-if, /recommendations.)
 @@||images.taboola.com/taboola/image/fetch/$image,domain=azby.fmworld.net
