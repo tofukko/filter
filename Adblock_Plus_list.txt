@@ -1681,6 +1681,7 @@ elog-ch.net##.relatedad
 engineweb.jp##.addHead
 engineweb.jp##.addSide
 engineweb.jp##.articleDetailAdd
+enjoytokyo.jp##.adblock
 entamega.com###ad_right-column01
 entnavi.com##.doublerec_css
 eow.alc.co.jp##.box-ad
