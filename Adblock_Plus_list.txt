@@ -3185,6 +3185,8 @@ yukkuri-futaba.sakura.ne.jp###mainLeft > .amzItemWrap
 yukkuri-futaba.sakura.ne.jp###mainLeft > a[href*="amazon.co.jp"]
 yukkuri-futaba.sakura.ne.jp###mainLeft > br
 yukkuri-futaba.sakura.ne.jp##.t_sidebar_amazon
+yutorize.2-d.jp##.amazon
+yutorize.2-d.jp##.main-yakiniku-area
 zaikai.jp##.addSide
 zaikai.jp##.adSide
 zaikai.jp##.adSide + .mostViewed,.adSide + .sideArticles:style(margin-top: 0 !important;)
