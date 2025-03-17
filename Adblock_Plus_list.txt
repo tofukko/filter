@@ -2542,8 +2542,6 @@ niigata-nippo.co.jp##.m-ad-inarticle
 nikkan-gendai.com##[id^="sm_box_"]
 nikkan-spa.jp##.ad-widget
 nikkan-spa.jp##.mainColumnBannerArea
-nikkansports.com###headerAdBnr2022
-nikkansports.com##[id^="sideAd"]
 nijifeti.com##.\33 00250box
 nijifeti.com##.osu2
 nijifeti.com##.topdmm
@@ -5202,6 +5200,18 @@ nikkan.co.jp##.adLeft
 nikkan.co.jp##.pr_txt
 estate.nikkan.co.jp##.ad_bottom
 estate.nikkan.co.jp##.rect_b
+
+! --- nikkansports.com --- !
+nikkansports.com###headerAdBnr2022
+nikkansports.com##[id^="sideAd"]
+||smilewanted.com^
+/advertising/ad-shield.js$script
+/js/dfp.js$script
+||e-planning.net^$third-party
+||stickyadstv.com^
+||ingage.tech^$third-party
+||richaudience.com^$third-party
+||andbeyond.media^$third-party
 
 ! --- nikkei --- !
 ||nikkei.com/.resources/k-components/rtoaster/
