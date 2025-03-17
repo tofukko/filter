@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/03/09 22:59
+! 最終更新 2025/03/17 21:49
 !
 
 ! 2025/02/09 多分閉鎖する
@@ -5630,6 +5630,7 @@ townnews.co.jp##.sideBnr
 ||tsumanne.net/ad.html
 ||tsumanne.net/ad2.html
 ||tsumanne.net/maniax.js
+||tsumanne.net/maniax2.js
 ||tsumanne.net/sa/src/sa.js
 ||tsumanne.net/inoue.html
 ||getallmedia.com^
