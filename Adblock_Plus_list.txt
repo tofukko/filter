@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/03/28 8:09
+! 最終更新 2025/03/28 22:05
 !
 
 ! 2025/02/09 多分閉鎖する
@@ -4331,11 +4331,13 @@ hayamimi-gunpla.com##.sticky-ad
 !g --- hitomi.la --- !
 ! https://github.com/uBlockOrigin/uAssets/issues/11515
 hitomi.la##+js(noeval)
-*$script,third-party,domain=hitomi.la
 hitomi.la##+js(aopr, open)
 hitomi.la##.container > div[class$="content"] > div[class]:has(> script)
 ||ltn.hitomi.la^*?yuo1=$script,~third-party
 hitomi.la##+js(aeld, , popMagic)
+
+||162.252.214.4^
+hitomi.la##+js(abort-current-script, WebAssembly, atob)
 
 ! https://github.com/tofukko/filter/issues/64
 hitomi.la##[class="navbar"]:style(display: flex !important;flex-flow: wrap !important;height: auto !important;)
