@@ -41,6 +41,12 @@ vw.mangaz.com##.adv
 ! https://dic.pixiv.net/news/2h758duYptFHiPOwyoLeZY
 dic.pixiv.net###footer_ad
 dic.pixiv.net##.d_header
+! 2025/04/02 新デザイン
+dic.pixiv.net##.my-\[36px\].flex.justify-center
+dic.pixiv.net##.h-\[90px\].flex.justify-center
+dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen4\:h-\[154px\]
+dic.pixiv.net##.mt-\[36px\].h-\[200px\]
+||dic.pixiv.net/_api/get_news_banner?
 
 ! 2024/07/20
 ! えごったー
