@@ -1746,7 +1746,17 @@ fgamers.saikyou.biz###ad-area-3
 fgamers.saikyou.biz##a[href*="amazon.co.jp"][target]
 fgamers.saikyou.biz##a[href*="amzn.to"][target]
 fgamers.saikyou.biz##a[href*="valuecommerce.com"]
-figure-times.com###sticky-ads
+figure-times.com###metaslider_widget-2
+figure-times.com###metaslider_widget-3
+figure-times.com###metaslider_widget-6
+figure-times.com###metaslider_widget-7
+figure-times.com###metaslider_widget-9
+figure-times.com###metaslider_widget-10
+figure-times.com###text-5
+figure-times.com###text-4
+figure-times.com##.adbox
+figure-times.com##.mainbox > .adbox ~ .post-widgets-bottom
+figure-times.com##.post > [id^="media_image-"]
 financial-field.com##.ad
 financial-field.com##div[style^="min-width: 300px; min-height: 250px"]
 financial-field.com##div[style^="width: 100%; height: 280px"]
