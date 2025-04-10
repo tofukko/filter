@@ -37,17 +37,6 @@ vw.mangaz.com##.adv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83410
 	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
 
-! 2024/07/25
-! https://dic.pixiv.net/news/2h758duYptFHiPOwyoLeZY
-dic.pixiv.net###footer_ad
-dic.pixiv.net##.d_header
-! 2025/04/02 新デザイン
-dic.pixiv.net##.my-\[36px\].flex.justify-center
-dic.pixiv.net##.h-\[90px\].flex.justify-center
-dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen4\:h-\[154px\]
-dic.pixiv.net##.mt-\[36px\].h-\[200px\]
-||dic.pixiv.net/_api/get_news_banner?
-
 ! 2024/07/20
 ! えごったー
 ! 閲覧専用として維持 https://twitter.com/ego_tter/status/1641392829682548736
@@ -5322,6 +5311,12 @@ www.pixiv.net##iframe[name][width="184"][height="232"]:upward(1)
 www.pixiv.net##._premium-lead-function-banner
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
 comic.pixiv.net##.screen4\:hidden.bg-surface4.w-screen.h-\[100px\]
+! 百科事典
+dic.pixiv.net##.my-\[36px\].flex.justify-center
+dic.pixiv.net##.h-\[90px\].flex.justify-center
+dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen4\:h-\[154px\]
+dic.pixiv.net##.mt-\[36px\].h-\[200px\]
+||dic.pixiv.net/_api/get_news_banner?
 
 ! --- rakuten 楽天 --- !
 ||adroll.com^$third-party
