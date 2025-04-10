@@ -3951,6 +3951,7 @@ h.fc2.com##body > strong:nth-last-of-type(1)
 h.fc2.com##body > strong:nth-last-of-type(2)
 h.fc2.com##body > strong:nth-last-of-type(3)
 web.fc2.com##.ad-inactive
+2nt.com##.ad-inactive
 ||analyzer*.fc2.com/analyzercook.js?
 ||analyzer*.fc2.com^*/ana/
 ||cnt.fc2web.com^
