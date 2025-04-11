@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/04/10 11:45
+! 最終更新 2025/04/11 10:18
 !
 
 ! 2025/02/09 多分閉鎖する
@@ -5069,7 +5069,6 @@ bazutore.com##.kouwaku5
 nhentai.net##.advertisement
 nhentai.net##+js(nowoif)
 nhentai.net##+js(set, _n_app.popunder, null)
-nhentai.net##+js(rpnt, script, popunder, p)
 nhentai.*##+js(acs, document.querySelectorAll, popMagic)
 nhentai.com##+js(acs, document.createElement, /l\.parentNode\.insertBefore\(s/)
 nhentai.io##+js(aopr, Script_Manager)
