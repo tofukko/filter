@@ -5,6 +5,12 @@
 ! 最終更新 2025/04/13 10:31
 !
 
+! 2025/04/13 2025/06/30 サ終
+! https://www.recipe-blog.jp/news/20250228.html
+recipe-blog.jp###pc_right_top
+recipe-blog.jp##[id^="reb_pc_"]
+foodistnote.recipe-blog.jp##.ad-area-pc
+
 ! 2025/02/09 多分閉鎖する
 himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
@@ -2760,8 +2766,6 @@ realsound.jp###adEntry2rec
 realsound.jp##.ad
 realsound.jp##+js(acs, document.referrer, gmo_bb)
 receive.shamimomo.net##.convert-ads
-recipe-blog.jp###pc_right_top
-recipe-blog.jp##[id^="reb_pc_"]
 recipekensaku.com##.adsense-card
 reddit.com##.promotedlink
 reference.hyper-text.org##.block-ad
