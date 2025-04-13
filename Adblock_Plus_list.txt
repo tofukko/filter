@@ -1256,6 +1256,7 @@ accuweather.com##.glacier-ad
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adbottom_box
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adcenter_box
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adtoplabel
+adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp###adfooter
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp##.adbox
 adminweb.jp,dbonline.jp,howtonote.jp,javadrive.jp,officepro.jp##.relatedlabel
 adultblogranking.com##.ads-a
