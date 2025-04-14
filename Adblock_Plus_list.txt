@@ -5,6 +5,26 @@
 ! 最終更新 2025/04/13 10:31
 !
 
+! 2025/04/14 サ終
+! 2025年06月02日 https://fc2information.blog.fc2.com/blog-entry-2307.html
+! 2025年06月30日 http://www.fc2web.com/
+||assys01.fc2.com^
+
+||fc2.com/exchange.
+||fc2.com/fc2web.html
+fc2.com##table[width="140"][cellspacing="1"][cellpadding="1"][border="0"]
+fc2web.com##table[width="100%"] td[colspan="4"][height="1"]
+fc2web.com##table[width="100%"] td[valign="bottom"]
+fc2web.com##table[width="100%"] td[valign="baseline"]
+h.fc2.com##body > strong:nth-last-of-type(1)
+h.fc2.com##body > strong:nth-last-of-type(2)
+h.fc2.com##body > strong:nth-last-of-type(3)
+||cnt.fc2web.com^
+
+||analyzer*.fc2.com/analyzercook.js?
+||analyzer*.fc2.com^*/ana/
+||fc2.com/ana/
+
 ! 2025/04/13 2025/06/30 サ終
 ! https://www.recipe-blog.jp/news/20250228.html
 recipe-blog.jp###pc_right_top
@@ -3875,19 +3895,14 @@ app.famitsu.com##[id^="CommonSideColumn_special-site__"]
 ||affiliate.fc2.com/cgi-bin/banner.cgi?
 ||affiliate.fc2.com/php/vc_
 ||aimg.fc2.com^
-||assys01.fc2.com^
 ||fc2.com^*/fc2cart/banner_
 ||fc2.com/*/ad_
 ||fc2.com/css/blog/entry_adult.css
-||fc2.com/exchange.
-||fc2.com/fc2web.html
 ||fc2.com/footer/footer.php?
 ||fc2.com/footer/footer2.php?
 ||fc2.com/header.php?
 ||fc2.com/i/image/janre.js
-||fc2.com/image/banner/
 ||fc2.com/js/blog/headbar_ad_load.js
-||fc2.com/share/image/banner_
 ||2nt.com/js/blog/headbar_ad_load.js
 ||2nt.com/js/blog/ad_ref.js
 
@@ -3938,19 +3953,9 @@ error.fc2.com###ad_middle
 fc2.com###fc2_text_ad
 fc2.com,fc2.xxx,fc2blog.net##.AdContainer
 ###fc2_bottom_bnr
-fc2.com##table[width="140"][cellspacing="1"][cellpadding="1"][border="0"]
-fc2web.com##table[width="100%"] td[colspan="4"][height="1"]
-fc2web.com##table[width="100%"] td[valign="bottom"]
-fc2web.com##table[width="100%"] td[valign="baseline"]
-h.fc2.com##body > strong:nth-last-of-type(1)
-h.fc2.com##body > strong:nth-last-of-type(2)
-h.fc2.com##body > strong:nth-last-of-type(3)
 web.fc2.com##.ad-inactive
 2nt.com##.ad-inactive
-||analyzer*.fc2.com/analyzercook.js?
-||analyzer*.fc2.com^*/ana/
-||cnt.fc2web.com^
-||fc2.com/ana/
+
 ||media.fc2.com^
 ||media5.fc2.com^
 ||search.fc2.com/fc2se.js
