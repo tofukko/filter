@@ -4,6 +4,14 @@
 !
 ! 最終更新 2025/04/13 10:31
 !
+! 2025/04/17 2025年11月18日サ終
+! https://blog.goo.ne.jp/info/close.html
+blog.goo.ne.jp###mod-advertising
+blog.goo.ne.jp#?##mod-freearea-main:-abp-has([id^="gooad-"])
+blog.goo.ne.jp###mod-goo-recommends
+blog.goo.ne.jp##.mod-entry-set-goo-ad
+blog.goo.ne.jp##.navbar__link--left
+blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
 
 ! 2025/04/14 サ終
 ! 2025年06月02日 https://fc2information.blog.fc2.com/blog-entry-2307.html
@@ -4138,12 +4146,6 @@ gigafile.nu###area-images > .image-area:nth-child(12)
 ||adcdn.goo.ne.jp^
 goo.ne.jp##.NR-pr
 goo.ne.jp##[id^="gooad-"]
-blog.goo.ne.jp###mod-advertising
-blog.goo.ne.jp#?##mod-freearea-main:-abp-has([id^="gooad-"])
-blog.goo.ne.jp###mod-goo-recommends
-blog.goo.ne.jp##.mod-entry-set-goo-ad
-blog.goo.ne.jp##.navbar__link--left
-blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
 dictionary.goo.ne.jp##.NR-ad
 news.goo.ne.jp##[class^="gooad_"]
 oshiete.goo.ne.jp##.addArea
