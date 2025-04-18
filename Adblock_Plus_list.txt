@@ -5,6 +5,20 @@
 ! 最終更新 2025/04/18 14:05
 !
 
+! 2025/04/18 2025年5月17日 サ終
+! https://web.ultra-soccer.jp/close_web_2025.html
+web.ultra-soccer.jp##div[id^="JP_TWS_"]
+web.ultra-soccer.jp##div[style*="height:280px;"]
+
+! 2025/04/18 2025年6月18日 サ終
+! https://help.goo.ne.jp/help/article/2867/
+news.goo.ne.jp##[class^="gooad_"]
+
+! 2025/04/18 2025年9月17日 サ終
+! https://blog.goo.ne.jp/oshietegoo/e/40d490c48e92fdd8dc2a18b8e904aeb0
+oshiete.goo.ne.jp##.addArea
+oshiete.goo.ne.jp##.gheader
+
 ! 2025/04/17 2025年11月18日サ終
 ! https://blog.goo.ne.jp/info/close.html
 blog.goo.ne.jp###mod-advertising
@@ -3098,8 +3112,6 @@ weathernews.jp###sticky_pc
 web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
-web.ultra-soccer.jp##div[id^="JP_TWS_"]
-web.ultra-soccer.jp##div[style*="height:280px;"]
 web-ace.jp##[class^="ad_rect"]
 webcartop.jp###jp_wct_pc_article_undernextpage
 webcartop.jp###main > div[style="min-height: 250px;"]:first-child
@@ -3860,10 +3872,6 @@ woman.excite.co.jp##.header-ad
 woman.excite.co.jp##div[style="text-align:center; overflow:hidden; margin: 0 auto 10px; width:610px;"]
 www.excite.co.jp##.extra
 www.excite.co.jp##.ec-ranking
-!ほにゃく
-www.excite.co.jp###rakutenMW
-www.excite.co.jp##.ad728
-www.excite.co.jp##[class^="ex-ad-rectangle"]
 exblog.jp#?#div:-abp-has(> #gpt_pc_blog_header)
 exblog.jp##[class*="list" i] > .ss
 
@@ -4146,16 +4154,8 @@ gigafile.nu###area-images > .image-area:nth-child(12)
 goo.ne.jp##.NR-pr
 goo.ne.jp##[id^="gooad-"]
 dictionary.goo.ne.jp##.NR-ad
-news.goo.ne.jp##[class^="gooad_"]
-oshiete.goo.ne.jp##.addArea
-oshiete.goo.ne.jp##.gheader
 ranking.goo.ne.jp##.l-browsi
 ranking.goo.ne.jp#?#.main-ranking > dd > ul > li:-abp-has(> div.NR-ad)
-sports.goo.ne.jp##.clearfix[style="margin-top:20px;min-height:250px;"]
-sports.goo.ne.jp##div[style="margin: 1em 0 0; min-height: 90px; display: flex; justify-content: center; align-items: center;"]
-wpedia.goo.ne.jp##.inner-ad
-wpedia.goo.ne.jp##.NR-ad
-wpedia.goo.ne.jp##.NR-pr
 ||log000.goo.ne.jp^
 ! https://www.ocn.ne.jp/
 www.ocn.ne.jp##[id^="gooad-"]
