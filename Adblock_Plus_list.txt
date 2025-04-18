@@ -5,6 +5,23 @@
 ! 最終更新 2025/04/18 14:05
 !
 
+! 2025/04/18 2025年6月下旬にリニューアル予定
+! https://www.biglobe.ne.jp/info202504/
+! BIGLOBEニュース （2025年6月下旬サービス終了）
+! BIGLOBEサーチ （2025年6月下旬サービス終了）
+! BIGLOBE天気予報 （2025年6月下旬サービス終了）
+! --- biglobe --- !
+biglobe.ne.jp###h_bar
+biglobe.ne.jp##.bl-top-square
+news.biglobe.ne.jp##.adsense
+news.biglobe.ne.jp##[class^="news-ad-square-"]
+news.biglobe.ne.jp###SPbanner
+news.biglobe.ne.jp###gadsOverlayUnit
+weather.biglobe.ne.jp###header:style(height: 60px !important;)
+! https://github.com/tofukko/filter/issues/70
+@@||yads.c.yimg.jp/js/yads.js$script,domain=news.biglobe.ne.jp
+
+
 ! 2025/04/18 2025年5月17日 サ終
 ! https://web.ultra-soccer.jp/close_web_2025.html
 web.ultra-soccer.jp##div[id^="JP_TWS_"]
@@ -3612,17 +3629,6 @@ benesse.ne.jp##[style="min-height: 300px;"]
 ||39.benesse.ne.jp/resource/ad/
 39.benesse.ne.jp##.newPostWrap_item:not(#item_pickuppc_1)
 39.benesse.ne.jp##.blogbody > .underArticle
-
-! --- biglobe --- !
-biglobe.ne.jp###h_bar
-biglobe.ne.jp##.bl-top-square
-news.biglobe.ne.jp##.adsense
-news.biglobe.ne.jp##[class^="news-ad-square-"]
-news.biglobe.ne.jp###SPbanner
-news.biglobe.ne.jp###gadsOverlayUnit
-weather.biglobe.ne.jp###header:style(height: 60px !important;)
-! https://github.com/tofukko/filter/issues/70
-@@||yads.c.yimg.jp/js/yads.js$script,domain=news.biglobe.ne.jp
 
 ! --- bing.com --- !
 ||bing.com/fd/ls/l?IG=
