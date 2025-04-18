@@ -1477,9 +1477,11 @@ bs-asahi.co.jp##.footer-rec-add
 bs-asahi.co.jp##.srb-text
 buhidoh.net###center-left:style(height: auto !important)
 bunshun.jp##.ad-banner
-businessinsider.jp##.f-ad
-businessinsider.jp##.f-content-secondary > style + div
-businessinsider.jp##.p-cardTile-card.adMg
+businessinsider.jp##div[class^="articlesHome_item"]:has(> figure)
+businessinsider.jp##div[class^="bodyAd_"]
+businessinsider.jp##div[class^="cxenseAd_"]
+businessinsider.jp##div[class^="articlesitemAd_"]
+businessinsider.jp##.gtm-recommendArticles
 buzzap.jp##.grid-crectangleitem
 buzzap.jp##.krb-amzlt-box
 buzzfeed.com##.Ad
