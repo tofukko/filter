@@ -3054,6 +3054,7 @@ tvlife.jp##.ad
 tvlife.jp##[id^="tvl_pc_all_"]
 twiman.net##p[class="text-center caption"]
 twiman.net##div.my-5.md\:h-\[300px\].h-\[300px\]
+twihub.net##div[id^="banner-"]
 twpro.jp##.ads-banner-box
 tyoieronews.blog.jp##a[href^="https://www.dlsite.com/"]
 tyoieronews.blog.jp##table[summary="DMM"]
