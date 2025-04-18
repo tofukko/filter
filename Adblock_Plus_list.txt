@@ -2,8 +2,9 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/04/18 10:47
+! 最終更新 2025/04/18 14:05
 !
+
 ! 2025/04/17 2025年11月18日サ終
 ! https://blog.goo.ne.jp/info/close.html
 blog.goo.ne.jp###mod-advertising
@@ -65,16 +66,6 @@ mangaz.com###scroll-adv
 vw.mangaz.com##.ad-page
 vw.mangaz.com##.adv
 
-! 2024/07/29
-! https://x.com/48idol_tv/status/1792523932630716916
-! https://x.com/48idol_tv/status/1792612268414480513
-! https://x.com/48idol_tv/status/1792910292399050976
-48idol.tv###custom_html-2
-48idol.tv###custom_html-8
-! 48idol.tv
-! https://github.com/AdguardTeam/AdguardFilters/issues/83410
-	!@@||48idol.tv/wp-includes/js/ad_pub_300x250.js
-
 ! 2024/07/20
 ! えごったー
 ! 閲覧専用として維持 https://twitter.com/ego_tter/status/1641392829682548736
@@ -89,7 +80,7 @@ egotter.com##[id^="async-adsense-"]
 ! 維持 https://twitter.com/ekaki3_net/status/1641231725912293378
 buhitter.com###header_ads
 buhitter.com###slide_wrap_pc
-buhitter.com##.col.clearfix[style="margin-top: 8px;"]
+buhitter.com##nav[aria-label="Page navigation"] ~ aside.row
 ! buhitter.com
 ! https://github.com/tofukko/filter/issues/79
 @@||js.gsspcln.jp/w/ad_format/reward/gnsrwdmod.js$script,domain=buhitter.com
@@ -1241,6 +1232,8 @@ _analytics.js?
 373news.com##.mns_bn
 4545.to##.ad-banner
 47news.jp###following_ad
+48idol.tv###custom_html-2
+48idol.tv###custom_html-8
 4gamer.net##.ad_top
 4gamer.net##.affiliate
 4gamer.net##.banner_left_4g
@@ -1382,9 +1375,6 @@ atwiki.jp##.atwiki_ads
 atwiki.jp##.atwiki-ads-pc-overlay
 atwiki.jp##[id^="advp"]
 atwiki.jp##div[style="width: 160px;height:600px"]
-aucfree.com###adOvl
-aucfree.com###md_similar_box
-aucfree.com##[class="results_bid"]
 !article
 auone.jp##.rectangle-ad
 auone.jp##.side__ad-box
@@ -3586,6 +3576,12 @@ aucfan.com###btmInfoWrap
 aucfan.com###kanrenItems
 aucfan.com###skyscraperAds
 aucfan.com##[class^="showcaseNativeAd"]
+
+! --- aucfree.com --- !
+||html-load.com^$domain=aucfree.com
+aucfree.com##div[id^="img_"][style]
+aucfree.com##tr[id^="img_"]
+aucfree.com##iframe[height="252"]:style(height:1px !important;)
 
 ! --- avtokutei.com --- !
 ||avtokutei.com/wp-content/uploads/fanza-
@@ -6961,6 +6957,14 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 
 ! nazolog.com
 	!nazolog.com#@#.adsbygoogle
+
+! oninet.ne.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/203239
+! https://github.com/AdguardTeam/AdguardFilters/issues/190534
+in-jpn.com,oninet.ne.jp,xth.jp##+js(set-constant, myFunc, noopFunc)
+/ad-check.js$domain=in-jpn.com|xth.jp
+/sakigake-ad-$domain=www2.oninet.ne.jp
+in-jpn.com##.sk-popup-window
 
 ! pixnest.pipio.site
 ! https://github.com/AdguardTeam/AdguardFilters/issues/193343
