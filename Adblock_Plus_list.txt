@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/04/13 10:31
+! 最終更新 2025/04/18 10:47
 !
 ! 2025/04/17 2025年11月18日サ終
 ! https://blog.goo.ne.jp/info/close.html
@@ -5312,13 +5312,12 @@ www.pixiv.net###root > .charcoal-token > div:only-child > div > div[style="posit
 www.pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > div:only-child > div[class^="sc-"] > ul[class^="sc-"] > li[class^="sc-"][size="2"][offset="1"]
 www.pixiv.net##aside > section + div > div[style="font-size: 0px;"]
 www.pixiv.net##div[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
-www.pixiv.net##[style="margin-left: 0px; --columns: 10;"] > div:only-child > div:only-child > div:nth-last-child(4):last-of-type
-www.pixiv.net###__next > div:only-child > div:nth-child(2) > div:nth-child(4):nth-last-child(4):not([style]):not(.h-64)
+www.pixiv.net##div[style*="--columns: 10;"] > div:first-child > div:only-child > div:last-of-type
+www.pixiv.net###__next > div:only-child > div:nth-child(2) > div:nth-of-type(4):nth-last-child(4):not([style]):not(.h-64)
 www.pixiv.net##div[style="height: 540px; opacity: 1;"]
 www.pixiv.net##main > section > div > div > figure + div:empty + div[style]
 www.pixiv.net##div[id^="adsdk--"]
-www.pixiv.net##iframe[name][width="500"][height="520"]
-www.pixiv.net##iframe[name][width="184"][height="232"]:upward(1)
+www.pixiv.net##div[style="display: block; width: 184px; height: 232px;"]:upward(1)
 ! プレミアムバナー
 www.pixiv.net##._premium-lead-function-banner
 comic.pixiv.net###__next > [class^="jsx-"] > div:style(height: 100vh !important;)
