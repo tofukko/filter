@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/04/18 14:05
+! 最終更新 2025/04/20 10:08
 !
 
 ! 2025/04/18 2025年6月下旬にリニューアル予定
@@ -5317,7 +5317,10 @@ www.pixiv.net###root > .charcoal-token > div:only-child > div > div[style="posit
 www.pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > div:only-child > div[class^="sc-"] > ul[class^="sc-"] > li[class^="sc-"][size="2"][offset="1"]
 www.pixiv.net##aside > section + div > div[style="font-size: 0px;"]
 www.pixiv.net##div[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
-www.pixiv.net##div[style*="--columns: 10;"] > div:first-child > div:only-child > div:last-of-type
+! 非ログイン時
+www.pixiv.net##[style="margin-left: 0px; --columns: 10;"] > div:only-child > div:only-child > div:nth-last-child(4):last-of-type
+! ログイン時
+www.pixiv.net##div.__top_side_menu_body[style*="--columns:"] > div:first-child > div:only-child > div:nth-of-type(2):nth-last-child(4)
 www.pixiv.net###__next > div:only-child > div:nth-child(2) > div:nth-of-type(4):nth-last-child(4):not([style]):not(.h-64)
 www.pixiv.net##div[style="height: 540px; opacity: 1;"]
 www.pixiv.net##main > section > div > div > figure + div:empty + div[style]
