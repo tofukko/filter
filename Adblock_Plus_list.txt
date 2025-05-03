@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/04/25 23:24
+! 最終更新 2025/05/03 10:20
 !
 
 ! 2025/04/18 2025年6月下旬にリニューアル予定
@@ -44,6 +44,11 @@ blog.goo.ne.jp###mod-goo-recommends
 blog.goo.ne.jp##.mod-entry-set-goo-ad
 blog.goo.ne.jp##.navbar__link--left
 blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
+
+! 2025/05/03 サ終
+! https://fc2information.blog.fc2.com/blog-entry-2312.html
+easter.ne.jp##div[align="center"] > br:first-child
+easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 
 ! 2025/04/14 サ終
 ! 2025年06月02日 https://fc2information.blog.fc2.com/blog-entry-2307.html
@@ -1453,12 +1458,13 @@ bioweather.net##.ad
 bizspa.jp###innerAdsense
 bizspa.jp##.ad-wrap
 bizspa.jp##.page-ad-wrap
-blog.esuteru.com##.azrank_quote
 blog.esuteru.com,otakomu.jp#?##more > blockquote:nth-of-type(n+2):-abp-has([href*="amazon.co"])
 blog.esuteru.com,otakomu.jp#?##more > center:-abp-has([href*="mcgm.sakura.ne.jp"])
 blog.esuteru.com,otakomu.jp##.amazlet-box
+blog.esuteru.com,otakomu.jp##.azrank_quote
 blog.esuteru.com,otakomu.jp##.ad-siteRanking
 blog.esuteru.com,otakomu.jp##.siteRanking-main:style(margin-left: 0 !important;)
+blog.esuteru.com,otakomu.jp##.siteContent:style(margin-top: 0 !important;)
 ! jack
 blog.esuteru.com,otakomu.jp##.jackFix
 blog.ss-blog.jp###ad-days-area
@@ -1706,8 +1712,6 @@ e-words.jp###relbooks
 e-words.jp###Related_Books
 e-words.jp##.ad
 e0166nt.com###module
-easter.ne.jp##div[align="center"] > br:first-child
-easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
 ecclab.empowershop.co.jp##.wrap-advert
 ecnavi.jp##.c_adnw
 efight.jp##.ads
@@ -5769,6 +5773,11 @@ uraaka-joshi.com#?##pickup-block > .grid:-abp-has(iframe[src*="/ad-d/"])
 uraaka-joshi.com#?##main-block > .grid > div[class^="grid-cell"]:-abp-has(iframe[src*="/ad-d/"])
 uraaka-joshi.com##+js(window.open-defuser)
 
+! --- uranai.nosv.org --- !
+u.nosv.org###sidebar > div[style^="margin:0 auto;"]
+iralog.nosv.org###navigation > div[style^="margin-bottom:15px;"]
+uranai.nosv.org###navigation:style(margin-top: 7px !important;)
+
 !g --- userscript.zone --- !
 ||tampermonkey.net/s.js?$domain=userscript.zone
 ||userscript.zone/s.js?$domain=userscript.zone
@@ -6152,6 +6161,7 @@ bipblog.com##a[href^="https://ratel-ad.com/link.php?"]
 ||figsoku.net/rank/load.php?
 ||figsoku.net/wp/wp-content/themes/figsoku/js/sidefix.min.js
 ||widget2.ota-goods.info^$xmlhttprequest,domain=figsoku.net
+figsoku.net###randomad2
 figsoku.net##main + aside > a[href^="http://px.a8.net"]
 figsoku.net##.gad
 figsoku.net##.sum
