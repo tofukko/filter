@@ -2033,8 +2033,6 @@ hochi.news##div[style="width:600px; height:200px; background-color:#a0a0a0; colo
 ! recommend
 hochi.news##div[style="min-width: 640px; min-height: 557.34px;"]
 hoiclue.jp##[class^="adPC"]
-hokkaido-np.co.jp##.detailAdsense
-hokkaido-np.co.jp##.pr
 hokkaidofan.com##.vce-ad-container
 home.kingsoft.jp##div[style$="height:250px"]
 horiemon.com##.ad
