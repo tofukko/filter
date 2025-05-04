@@ -6457,7 +6457,8 @@ etude000.com###mainEntity > .clearfix > .top-ad
 etude000.com###thk_ps_widget-60 > .ps-wrap
 etude000.com###thk_ps_widget-75 > .ps-wrap
 etude000.com##.textwidget > .top-ad
-etude000.com##.thk_ps_widget:not(#thk_ps_widget-75, #thk_ps_widget-62, #thk_ps_widget-60, #thk_ps_widget-15, #thk_ps_widget-25, #thk_ps_widget-87)
+etude000.com##.top-ad > div[style="text-align: center;"]
+etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .top-ad
 
 ! nakanohito
 ||nakanohito.jp^$third-party
