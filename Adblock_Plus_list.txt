@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/05/03 10:20
+! 最終更新 2025/05/04 14:37
 !
 
 ! 2025/04/18 2025年6月下旬にリニューアル予定
@@ -1968,7 +1968,7 @@ goonews.jp##[href^="/bannerCount.php"]
 gori.me##.ads
 gori.me##.sidebar-single-ad
 gorillawiki.jp##.new_koukokuwaku_wrapper
-gqjapan.jp##.ad-stickyhero
+gqjapan.jp##.ad-stickyhero:style(height: 0 !important;)
 gqjapan.jp##.full-bleed-ad
 greasyfork.org##.ad
 greasyfork.org##.ad-entry
