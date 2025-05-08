@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/05/04 14:37
+! 最終更新 2025/05/08 22:21
 !
 
 ! 2025/04/18 2025年6月下旬にリニューアル予定
@@ -669,8 +669,6 @@ _ads.js.
 ||egone.org/js/amazon_
 ||enoge.org/js/amazon_
 ||eromanga-life.com/life.$subdocument
-||estar.jp/assets/js/ad/
-||estar.jp/page/ad/
 ||equity.jiji.com/storage/banner/
 ||fategrandorder.info/html/js/ad_
 ||fc2.com/b/i/k/bikyakudaimaou/ad-$domain=bikyakudaimaou.com
@@ -1778,7 +1776,6 @@ erozine.jp##.ad
 erozine.jp##.temu
 ertk.net###banner1
 ertk.net##.dmm-ranking
-estar.jp##div[style$="min-width: 250px; min-height: 300px;"]
 exhentai.org,e-hentai.org###spa
 fandom.com##.ad-slot-placeholder
 fandom.com##.aff-unit__disclaimer-message
@@ -3854,6 +3851,13 @@ eromangajukujo.com##[name^="osusume"] + br + br + br
 ||kok.eroterest.net^
 eroterest.net##.adAreaNative
 eroterest.net##.adAreaNativeDmm
+
+! --- estar.jp --- !
+||estar.jp/assets/js/ad/
+||estar.jp/page/ad/
+estar.jp##.ads-container
+estar.jp##.viewer > div[style="background: #FFF; padding: 15px 0 5px; display: flex; justify-content: center; height: 140px;"]
+estar.jp##div[style$="min-width: 250px; min-height: 300px;"]
 
 ! --- excite --- !
 ||excite.co.jp/jp/ad/
