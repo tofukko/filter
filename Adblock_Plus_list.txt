@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/05/08 22:21
+! 最終更新 2025/05/26 17:55
 !
 
 ! 2025/04/18 2025年6月下旬にリニューアル予定
@@ -1956,6 +1956,11 @@ golfdigest.co.jp###adsYahoo
 golfdigest.co.jp###before-container
 golfdigest.co.jp##.allyanceAd
 	lesson.golfdigest.co.jp,score.golfdigest.co.jp###wholeHeaderPane:style(height: auto !important;)
+golfdigest.co.jp##.article_banner
+golfdigest.co.jp##.side_banner
+golfdigest.co.jp##li[id^="ad_"]
+golfdigest.co.jp##div[id^="ad_"]
+golfdigest.co.jp##div[class^="top_banner--"]
 golfsapuri.com##.sideBanner2:first-child
 golfsapuri.com##div[style="width: 100%; text-align: center;margin-top:5px;height:250px;"]
 
@@ -3143,6 +3148,7 @@ wikiwand.com##[class^="article_footerStickyAd__"]
 wikiwand.com##[class^="article_sectionAd__"]
 wikiwand.com##[class^="content_headerAd__"]
 wikiwiki.jp##[id$="-ad-container"]
+wikiwiki.jp###pc-bottom-grandparent-ad-wrapper
 wiper.xii.jp##[class^="ads_"]
 wired.jp##.ad
 wired.jp##.ad-stickyhero
@@ -5489,6 +5495,7 @@ emu.web-g-p.com##.set_wrapper
 ##.ads-box
 wiki.seesaa.jp##.banner
 wiki.seesaa.jp##.banner-footer
+seesaawiki.jp##[id^="ad"][id$="-div-id"]
 
 ! --- sheepplus.com --- !
 ! https://www.sheepplus.com
