@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/05/26 17:55
+! 最終更新 2025/06/14 17:45
 !
 
 ! 2025/04/18 2025年6月下旬にリニューアル予定
@@ -1910,7 +1910,8 @@ geartics.com#?#.text-center:first-child + .ads-double:last-child:upward(1)
 geartics.com#?#.white:-abp-has(+ .my-8 > div.ads-double) > hr:last-child
 gendai.media##div[style="min-width:300px;min-height:250px"]
 gendai.media##div[style="min-width:468px;min-height:60px"]
-gendai.media##div[data-testid="firework-storyblock-ad"]
+gendai.media##.in-article-ad-slot
+gendai.media##div[data-testid$="-ad"]
 genroq.jp##.ad-management
 gensun.org##[style^="width:728px;height:90px"]
 gentosha-go.com###headbar
