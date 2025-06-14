@@ -4574,6 +4574,8 @@ coomer.su,kemono.su,kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
 ||demand.supply^$script
 ||bebi.com^$third-party
 ||ad.kissanime.*^
+||dolphincdn.xyz^
+||disquz.app^
 !digital
 ||kissanime.digital/addons/*.gif|$image
 kissanime.digital##main + script + div[class]
