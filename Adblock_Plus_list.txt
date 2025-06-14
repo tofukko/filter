@@ -3769,6 +3769,7 @@ news.denfaminicogamer.jp##a[onclick^="dataLayer.push"]
 ! jack
 ||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
 news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
+news.denfaminicogamer.jp###dfng_jack_fullscreen
 
 numan.tokyo##.rectangle-bn
 numan.tokyo##.sw-Ad
