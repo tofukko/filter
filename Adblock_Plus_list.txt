@@ -1392,6 +1392,7 @@ atwiki.jp###ads
 atwiki.jp###body_footer .lazy
 atwiki.jp###recommend
 atwiki.jp##.ads
+atwiki.jp##.atwiki-ads
 atwiki.jp##.atwiki-ads-margin
 atwiki.jp##.atwiki_ads
 atwiki.jp##.atwiki-ads-pc-overlay
