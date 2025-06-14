@@ -5620,6 +5620,7 @@ syosetu.org##div[id^="ad_"]
 syosetu.org##div[data-cptid]
 syosetu.org##div[id^="1"][style*="height"][style*="width"]
 syosetu.org##div[style*="margin:0 auto;height:"][style$="px;"]
+syosetu.org##div[style$="height:250px; width:720px;"]
 
 ! --- takeshobo.co.jp --- !
 ! mangalifewin
