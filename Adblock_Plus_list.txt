@@ -45,7 +45,7 @@ oshiete.goo.ne.jp##.gheader
 ! 2025/04/17 2025年11月18日サ終
 ! https://blog.goo.ne.jp/info/close.html
 blog.goo.ne.jp###mod-advertising
-blog.#?##mod-freearea-main:-abp-has([id^="gooad-"])
+blog.goo.ne.jp#?##mod-freearea-main:-abp-has([id^="gooad-"])
 blog.goo.ne.jp###mod-goo-recommends
 blog.goo.ne.jp##.mod-entry-set-goo-ad
 blog.goo.ne.jp##.navbar__link--left
