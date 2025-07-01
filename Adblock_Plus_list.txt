@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/06/24 10:44
+! 最終更新 2025/07/01 16:27
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -1481,6 +1481,8 @@ blogmura.com##.ad-list
 blogmura.com##.ad-overlay
 blogmura.com##.ad-side
 blogring.info##.footer_ad
+bokete.jp##div[style="min-height:250px;width:100%"]
+bokete.jp##div:has(> div[style="width: auto; height: 100%;"] > div[id^="div-gpt-ad"])
 booklist.id##[class^="ad-wrap-"]
 bookmeter.com##[style="width: 300px; height: 250px"]
 bookmeter.com###sticky_sidebar_advertising-sticky-wrapper
@@ -2259,6 +2261,10 @@ kanjitisiki.com##.category-ue:first-child
 kanjitisiki.com#?#p:-abp-has(> span:-abp-contains(スポンサードリンク))
 kantsuri.com##.featured.section-inverse
 karakoto.com##.ad
+karapaia.com##.ad-in-content
+karapaia.com##.ad-sticky-top
+karapaia.com##[aria-label="広告"]
+karapaia.com##div[style="height: 90px; margin-top: 10px;"]
 kateigaho.com##.add
 kateigaho.com##.addHead
 kateigaho.com##.addSide
@@ -5353,6 +5359,7 @@ comic.pixiv.net##.screen4\:hidden.bg-surface4.w-screen.h-\[100px\]
 ! 百科事典
 dic.pixiv.net##.my-\[36px\].flex.justify-center
 dic.pixiv.net##.h-\[90px\].flex.justify-center
+dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen3\:h-\[154px\]
 dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen4\:h-\[154px\]
 dic.pixiv.net##.mt-\[36px\].h-\[200px\]
 ||dic.pixiv.net/_api/get_news_banner?
