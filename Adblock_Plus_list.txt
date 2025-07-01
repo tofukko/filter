@@ -13,7 +13,6 @@
 biglobe.ne.jp###h_bar
 biglobe.ne.jp##.bl-top-square
 
-
 ! 2025/04/18 2025年5月17日 サ終
 ! https://web.ultra-soccer.jp/close_web_2025.html
 ! 2025/07/01 継続するらしい？
@@ -37,31 +36,6 @@ blog.goo.ne.jp###mod-goo-recommends
 blog.goo.ne.jp##.mod-entry-set-goo-ad
 blog.goo.ne.jp##.navbar__link--left
 blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
-
-! 2025/05/03 2025年6月30日 サ終
-! https://fc2information.blog.fc2.com/blog-entry-2312.html
-easter.ne.jp##div[align="center"] > br:first-child
-easter.ne.jp##div[align="center"] > table[width="700"][cellspacing="0"][cellpadding="1"][border="0"]
-
-! 2025/04/14 サ終
-! 2025年06月02日 https://fc2information.blog.fc2.com/blog-entry-2307.html
-! 2025年06月30日 http://www.fc2web.com/
-||assys01.fc2.com^
-
-||fc2.com/exchange.
-||fc2.com/fc2web.html
-fc2.com##table[width="140"][cellspacing="1"][cellpadding="1"][border="0"]
-fc2web.com##table[width="100%"] td[colspan="4"][height="1"]
-fc2web.com##table[width="100%"] td[valign="bottom"]
-fc2web.com##table[width="100%"] td[valign="baseline"]
-h.fc2.com##body > strong:nth-last-of-type(1)
-h.fc2.com##body > strong:nth-last-of-type(2)
-h.fc2.com##body > strong:nth-last-of-type(3)
-||cnt.fc2web.com^
-
-||analyzer*.fc2.com/analyzercook.js?
-||analyzer*.fc2.com^*/ana/
-||fc2.com/ana/
 
 ! 2025/04/13 2025/06/30 サ終
 ! https://www.recipe-blog.jp/news/20250228.html
@@ -711,8 +685,6 @@ _ads.js.
 ||mona-news.com/ad-*.js
 ||muragon.com/js/ad-fixed.js?
 ||muragon.com/js/replace-afp-ad.js?
-||muvc.com/winopen.js$domain=muvc.net
-||muvc.com/winlayer.jse$domain=muvc.net
 ||newsweekjapan.jp/images/bnr/newsweek_ad_
 ||nissen.co.jp/BtoB/$subdocument
 ||open2ch.net/test/dd.cgi/
