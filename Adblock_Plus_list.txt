@@ -37,12 +37,6 @@ blog.goo.ne.jp##.mod-entry-set-goo-ad
 blog.goo.ne.jp##.navbar__link--left
 blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
 
-! 2025/04/13 2025/06/30 サ終
-! https://www.recipe-blog.jp/news/20250228.html
-recipe-blog.jp###pc_right_top
-recipe-blog.jp##[id^="reb_pc_"]
-foodistnote.recipe-blog.jp##.ad-area-pc
-
 ! 2025/02/09 多分閉鎖する
 himado.in##.l-cnt-100_box10
 himado.in##.l-cnt-100_box30
@@ -1786,6 +1780,7 @@ firecross.jp###reader_ad_overlay
 firecross.jp###stage:style(max-height: 100% !important;)
 flashfabrica.com#?#div:-abp-has(> script[src="http://pagead2.googlesyndication.com/pagead/show_ads.js"])
 flashfabrica.com##.footer:style(clear:both;)
+foodistnote.recipe-blog.jp##.ad-area-pc
 football-tribe.com##div[id^="da-article-"]
 footballchannel.jp##.sidead
 forbesjapan.com##.ad-pc
