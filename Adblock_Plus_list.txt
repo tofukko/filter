@@ -8,36 +8,23 @@
 ! 2025/06/24 2025年7月16日にリニューアル
 ! 2025/04/18 2025年6月下旬にリニューアル予定
 ! https://www.biglobe.ne.jp/info202504/
-! BIGLOBEニュース （2025年6月下旬サービス終了）
-! BIGLOBEサーチ （2025年6月下旬サービス終了）
-! BIGLOBE天気予報 （2025年6月下旬サービス終了）
+! BIGLOBEサーチ 2025年7月16日サービス終了
 ! --- biglobe --- !
 biglobe.ne.jp###h_bar
 biglobe.ne.jp##.bl-top-square
-news.biglobe.ne.jp##.adsense
-news.biglobe.ne.jp##[class^="news-ad-square-"]
-news.biglobe.ne.jp###SPbanner
-news.biglobe.ne.jp###gadsOverlayUnit
-weather.biglobe.ne.jp###header:style(height: 60px !important;)
-! https://github.com/tofukko/filter/issues/70
-@@||yads.c.yimg.jp/js/yads.js$script,domain=news.biglobe.ne.jp
 
 
 ! 2025/04/18 2025年5月17日 サ終
 ! https://web.ultra-soccer.jp/close_web_2025.html
+! 2025/07/01 継続するらしい？
+! https://web.ultra-soccer.jp/news/view?news_no=484303
 web.ultra-soccer.jp##div[id^="JP_TWS_"]
 web.ultra-soccer.jp##div[style*="height:280px;"]
 
-! 2025/06/24 2025年6月25日 サ終
-! https://help.goo.ne.jp/help/article/2889/
-dictionary.goo.ne.jp##.NR-ad
 ! 2025/06/24 2025年9月30日 サ終
 ! https://help.goo.ne.jp/help/article/2891/
 ranking.goo.ne.jp##.l-browsi
 ranking.goo.ne.jp#?#.main-ranking > dd > ul > li:-abp-has(> div.NR-ad)
-! 2025/04/18 2025年6月18日 サ終
-! https://help.goo.ne.jp/help/article/2867/
-news.goo.ne.jp##[class^="gooad_"]
 ! 2025/04/18 2025年9月17日 サ終
 ! https://blog.goo.ne.jp/oshietegoo/e/40d490c48e92fdd8dc2a18b8e904aeb0
 oshiete.goo.ne.jp##.addArea
