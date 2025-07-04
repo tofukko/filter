@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/07/01 16:27
+! 最終更新 2025/07/04 14:04
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -6926,9 +6926,10 @@ nazology.kusuguru.co.jp##.ads-wide
 nazology.kusuguru.co.jp##.amazon__category-af
 
 ! nordot.app
-nordot.app##.listPage__ad
-nordot.app##.main__ad
-nordot.app##+js(acs, document.createElement, admiral)
+nordot.app,news.jp##.listPage__ad
+nordot.app,news.jp##.main__ad
+nordot.app,news.jp##+js(acs, document.createElement, admiral)
+
 ! knshow.com
 knshow.com##.listInfoR[style]:style(height: auto !important;)
 	!knshow.com##+js(acis, onload, .ads)
