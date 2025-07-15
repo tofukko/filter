@@ -6843,7 +6843,7 @@ gato.intaa.net##.adwidget
 ! h178.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/189562
 ! https://github.com/AdguardTeam/AdguardFilters/issues/195303
-best-hit.tv,h178.com,j-baseball.club,j-basketball.club,j-rugby.club,j-volleyball.club,jukenbbs.com,sportsbbs.club#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+best-hit.tv,h178.com,j-baseball.club,j-basketball.club,j-rugby.club,j-volleyball.club,jukenbbs.com,localch.net,sportsbbs.club#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/209363
 shukatsubbs.com#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 best-hit.tv##div[style$="background-color:#F0F0F0; text-align: center;"]
