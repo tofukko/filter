@@ -1975,6 +1975,8 @@ happycampus.co.jp##div[style="width: 250px; height: 250px; margin-bottom: 10px; 
 happycampus.co.jp##div[style="width: 300px; height: 250px; margin-bottom: 10px;  margin-top: 10px;"]
 happycampus.co.jp##div[style="width: 728px; height: 80px; margin-bottom: 10px;  margin-top: 20px; float:left; clear:both;"]
 hattatu-matome.ldblog.jp##.salebox
+hb-nippon.com###headerAds
+hb-nippon.com###videoAds
 hdouga.com##[id^="mhub-hdou"]
 hdouga.com##[class^="d_"]
 headline.mtfj.net###header_adv
