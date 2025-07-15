@@ -5649,6 +5649,8 @@ townnews.co.jp##.sideBnr
 ||tsumanne.net/maniax2.js
 ||tsumanne.net/sa/src/sa.js
 ||tsumanne.net/inoue.html
+||tsumanne.net/inoue2.html
+||tsumanne.net/inoue3.html
 ||getallmedia.com^
 tsumanne.net###amazon
 tsumanne.net###cm
