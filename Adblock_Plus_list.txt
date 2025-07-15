@@ -2136,6 +2136,7 @@ jmty.jp##.p-custom-search-ad
 jmty.jp##.u-margin-m-b[style="height: 300px; overflow-y: hidden;"]
 jocr.jp##.side_adsbygoogle
 joker004.blog.fc2.com##[style^="width:728px;height:90px"]
+joshi-spa.jp##.ad-widget
 jp.wazap.com##.bodyFootBanner
 jp.wazap.com##.fullBanner
 jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
