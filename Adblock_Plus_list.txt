@@ -2917,6 +2917,11 @@ sportingnews.com##.header-advertising
 sportingnews.com##.top-mpu-container
 sportiva.shueisha.co.jp##.group-column:style(padding-top: 20px !important;)
 sportiva.shueisha.co.jp##.u--height-min-250
+spread-sports.jp##div[style]:has(> div[data-as-slot-id^="p_spread"])
+spread-sports.jp##div[style$="min-height:250px"]
+spread-sports.jp##div[style="min-height: 250px; "]
+spread-sports.jp##div[style="min-height: 850px"]
+spread-sports.jp##div[style="margin:auto;text-align:center; min-height:180px"]
 squallchannel.com##[class^="ad_space"]
 startpage.com###spon_links
 storie.jp##[class^="banner"]
