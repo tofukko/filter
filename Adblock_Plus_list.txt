@@ -13,13 +13,6 @@
 !biglobe.ne.jp###h_bar
 !biglobe.ne.jp##.bl-top-square
 
-! 2025/04/18 2025年5月17日 サ終
-! https://web.ultra-soccer.jp/close_web_2025.html
-! 2025/07/01 継続するらしい？
-! https://web.ultra-soccer.jp/news/view?news_no=484303
-web.ultra-soccer.jp##div[id^="JP_TWS_"]
-web.ultra-soccer.jp##div[style*="height:280px;"]
-
 ! 2025/06/24 2025年9月30日 サ終
 ! https://help.goo.ne.jp/help/article/2891/
 ranking.goo.ne.jp##.l-browsi
@@ -3095,6 +3088,8 @@ weathernews.jp###sticky_pc
 web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
 web.gekisaka.jp##div[style*="min-height:250px;"]
+web.ultra-soccer.jp##div[id^="JP_TWS_"]
+web.ultra-soccer.jp##div[style*="height:280px;"]
 web-ace.jp##[class^="ad_rect"]
 webcartop.jp###jp_wct_pc_article_undernextpage
 webcartop.jp###main > div[style="min-height: 250px;"]:first-child
