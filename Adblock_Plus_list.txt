@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/07/15 20:46
+! 最終更新 2025/07/16 19:03
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -1739,11 +1739,6 @@ erozine.jp##.temu
 ertk.net###banner1
 ertk.net##.dmm-ranking
 exhentai.org,e-hentai.org###spa
-fandom.com##.ad-slot-placeholder
-fandom.com##.aff-unit__disclaimer-message
-fandom.com##.aff-unit__wrapper
-fandom.com##.wikia-ad
-fandom.com##div[data-campaign]
 fashionsnap.com###mainArticleBottom_leftUnit
 fashionsnap.com###mainArticleBottom_rightUnit
 fashionsnap.com###mainFooterUnit
@@ -6819,6 +6814,16 @@ exploader.net##article > div[style="margin-left: -63px;width: 1120px;height: 450
 
 exploader.net###preview_images > span[class^="tracking_"] > div[style="position: fixed;"] > div[data-pr]
 exploader.net##.h_items
+
+! fandom.com
+||btloader.com^
+fandom.com##.top_leaderboard-odyssey-wrapper
+fandom.com##.top-ads-container
+fandom.com##.bottom-ads-container
+fandom.com##.ad-slot-placeholder
+fandom.com##.aff-unit__disclaimer-message
+fandom.com##.aff-unit__wrapper
+fandom.com##.wikia-ad
 
 ! ff14angler.com
 ff14angler.com#@#ins.adsbygoogle:style(width: 1px !important;height: 1px !important;min-height: 1px !important;overflow: hidden !important;)
