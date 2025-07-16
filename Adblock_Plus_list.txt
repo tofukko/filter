@@ -10,8 +10,8 @@
 ! https://www.biglobe.ne.jp/info202504/
 ! BIGLOBEサーチ 2025年7月16日サービス終了
 ! --- biglobe --- !
-biglobe.ne.jp###h_bar
-biglobe.ne.jp##.bl-top-square
+!biglobe.ne.jp###h_bar
+!biglobe.ne.jp##.bl-top-square
 
 ! 2025/04/18 2025年5月17日 サ終
 ! https://web.ultra-soccer.jp/close_web_2025.html
