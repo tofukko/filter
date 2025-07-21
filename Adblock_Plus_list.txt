@@ -265,6 +265,7 @@ _ads.js.
 ||adnxs.com^$third-party
 ||adplan7.com^$third-party
 ||adprost.com^$third-party
+||adpushup.com^$third-party
 ||adrecover.com^$third-party
 ||adresult.jp^$third-party
 ||ads-connect.com^$third-party
