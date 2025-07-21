@@ -5354,6 +5354,7 @@ recipe.rakuten.co.jp##.recommend_official_recipe
 recipe.rakuten.co.jp##.section_common_banner
 recipe.rakuten.co.jp##.under_header_contents
 websearch.rakuten.co.jp###ads-billboard
+news.infoseek.co.jp###headerAd1TopicsCommon
 news.infoseek.co.jp##.ad-box
 
 	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment875
