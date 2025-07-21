@@ -2184,6 +2184,7 @@ kakomonn.com#?#li:-abp-has(> .centerbody01_04)
 kaku-navi.com##[class^="google_ad_kanji_"]
 kakuge.com##.ad
 kakuyomu.jp#?#div[class^=" Gap_size"] > div[class^="Layout_"]:-abp-has(> div[class^="Ad_ad_"])
+kakuyomu.jp##div[id^="work-ad-"]
 kakuyomu.jp##[class*="widget-ad-"]
 kamigame.jp###ad_overlay
 kamigame.jp###ad_footer
