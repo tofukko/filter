@@ -3249,6 +3249,7 @@ xn--1-td6bm19b.com###space3
 ! --- 5ch pink --- !
 ||i2ad.jp^$third-party
 ||thench.net^
+||find.5ch.net/js/ads.js?
 ||itest.5ch.net/assets/js/ad-manager-5ch.js
 ||itest.bbspink.com/assets/js/ad-manager-bbs.js
 5ch.net###longone
