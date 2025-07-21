@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/07/16 19:03
+! 最終更新 2025/07/21 18:36
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -660,8 +660,6 @@ _ads.js.
 ||kuchi.info/image/bana/
 ||labaq.com/user/json/lq_amarray.js?
 ||luvul.net/ad/
-||mapion.co.jp*/adOverture/
-||mapion.co.jp*/js/vl1.
 ||manga-gai.net/manga/microad/
 ||manga-yomeru.com/jp/template/sidebar-banner
 ||matomedane.jp/js/adv/
@@ -2350,7 +2348,6 @@ maonline.jp##.ad_box
 maonline.jp##.mgnT60.mgnB60
 mapfan.com##.header-ad
 mapfan.com##.footer-ad
-mapion.co.jp##.ad-728x90
 marshmallow-qa.com##.ad
 massigra.net##.adlabel
 massigra.net##[class^="kkvxmargin"]
@@ -4781,6 +4778,15 @@ rawkuma.com##+js(acs, parseInt, break;case $.)
 mangaz.com###scroll-adv
 vw.mangaz.com##.ad-page
 vw.mangaz.com##.adv
+
+! --- mapion.co.jp --- !
+||mapion.co.jp*/adOverture/
+mapion.co.jp##.ad-728x250
+
+||mapion.co.jp/partials/ad.html
+mapion.co.jp##.k-map-ad-wrap
+mapion.co.jp##.map-body:style(height: 100% !important;)
+mapion.co.jp##.menu-body:style(height: calc( 100% - 37px - 23px - 96px - 50px + 85px) !important;)
 
 ! --- mediaexceed.co.jp --- !
 shisha-press.com,conveni-now.com,discka.com,smopia.com###kakidashi-box-field
