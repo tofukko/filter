@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/07/21 18:36
+! 最終更新 2025/07/24 21:02
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -3501,6 +3501,8 @@ www.asahi.com##.p-rectangleAd
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
 ! 動画プレイヤー操作できない
 www.asahi.com###ytplayer1-ad
+! https://tofukko.blog.fc2.com/blog-entry-405.html#comment982
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=digital.asahi.com
 ! 好書好日
 book.asahi.com##.module-side-ad
 book.asahi.com##.module-top-ad
