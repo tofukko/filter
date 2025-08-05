@@ -2258,6 +2258,7 @@ kurashiru.com##.banner-wrapper
 kurashiru.com##.DlyFixedBanner
 kurashiru.com##.FooterAppPc-adsWrapper
 kurashiru.com##.PcAside-ads
+kurashiru.com##[class$="-adContainer"]
 ! サイドバー
 kurashiru.com##.pc-aside-root:not([style*="top: -"]):style(top: auto !important;)
 	hikaku.kurashiru.com##a[class^="side-banner_side_fixed_banner_"]
