@@ -2342,8 +2342,6 @@ mangalove.me#?#li:-abp-has(> .native-ad-wrap)
 mangalove.me##.viewerBody,.viewer,.viewer .slick-list,.viewer .slick-track,.viewer .imgWrap,.viewer .lastPage.slick-slide:style(height: 100% !important;)
 mangalove.me##.viewer,.lastWrap:style(padding-bottom: 0 !important;)
 mangalove.me##.pr_00 .title:style(width: 135px !important;)
-mangapedia.com##.contents-bottom-ads
-mangapedia.com##.description-bottom-ads
 mangaseek.net##.sidebar_ad
 mantan-web.jp##.ad-links
 mantan-web.jp##.ad-rec
@@ -4785,6 +4783,13 @@ rawkuma.com##+js(aeld, readystatechange, document.removeEventListener)
 rawkuma.com##+js(acs, parseInt, break;case $.)
 ||adsbetnet.com^
 /btag.min.js$third-party
+
+! --- mangapedia.com --- !
+mangapedia.com##.contents-bottom-ads
+mangapedia.com##.description-bottom-ads
+! 求人ボックス
+||mangapedia.com/js/kyujinbox.js?
+mangapedia.com##.kyujinbox-ad
 
 ! --- mangaz.com --- !
 ||mangaz.com/js/ad_fix.js?
