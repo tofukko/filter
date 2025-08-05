@@ -2141,6 +2141,8 @@ jpshowbiz.us##+js(nostif, alert)
 jukenbbs.com##.substitute-display-area-on
 jukenbbs.com##.thread-list > li[style$="overflow:hidden;"]
 jumpmatome2ch.biz##[class^="ad-box"]
+jumpmatome2ch.biz##.side_ama
+jumpmatome2ch.biz###category-posts-15
 juuuke.com##.adArea
 juuuke.com##.product
 k05.biz,z0i.net##[id^=gogo-ads-widgets], [id^=gogo-iad-widgets]
