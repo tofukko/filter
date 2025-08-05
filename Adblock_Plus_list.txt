@@ -1620,6 +1620,7 @@ dengekionline.com##div[class^="MediaScrum_"]
 dengekionline.com##div[class^="RightColumn_rectangleBanner__"]
 dengekionline.com##div[class^="SecondRectangle_"]
 dengekionline.com##div[class^="TopHeaderBanner_wrapper__"]
+dev-dev.net,nanigoto.net##.header-widgets
 diamond.jp###piano-cframe
 diamond.jp##.ad-related
 diamond.jp##.gpt-ad
@@ -2485,7 +2486,6 @@ nagasaki-np.co.jp##.article_ad:remove()
 naming-dic.com###original_ad1
 naming-dic.com##.ad-posi1
 naming-dic.com##.sidebar-box3
-nanigoto.net##.header-widgets
 natsukimemo.com##.adsense
 navitime.co.jp###under-advertisement
 navitime.co.jp##.ad-frame
