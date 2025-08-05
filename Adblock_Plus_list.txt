@@ -1283,6 +1283,7 @@ anicobin.ldblog.jp##[style="border:1px solid #1c7db3;margin:50px 0 10px;"] ~ br
 animageplus.jp##.addHead
 animageplus.jp##.addSide
 animageplus.jp##.articleDetailAdd
+animanch.com###entryarea > .abox
 animate-onlineshop.jp##.side_banner
 animatetimes.com##[class^="c-banner-"][class*="--w3"]
 animatetimes.com##.l-content-aside > .c-banner-aside:first-child
