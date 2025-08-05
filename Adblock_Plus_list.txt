@@ -623,6 +623,8 @@ _ads.js.
 ||eegg.*/js/delay_ad.js?
 ||egone.org/js/amazon_
 ||enoge.org/js/amazon_
+||egone.org/parts/amazon_
+||egone.org/js/kindle_
 ||eromanga-life.com/life.$subdocument
 ||equity.jiji.com/storage/banner/
 ||fategrandorder.info/html/js/ad_
