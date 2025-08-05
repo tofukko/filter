@@ -5760,12 +5760,11 @@ togetter.com##.ad_topics_custom
 togetter.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 ! ログアウト時
 togetter.com##.ad_glia
-! Twilog favolog
+! Twilog
 twilog.togetter.com###ad-main-top
 twilog.togetter.com###ad-overlay-box
 twilog.togetter.com###ad-right-top
 twilog.togetter.com###ad-right-bottom
-favolog.org###side > div:first-child
 ! https://posfie.com
 posfie.com###ad_overlay
 posfie.com##.ad_custom
