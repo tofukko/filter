@@ -5265,7 +5265,7 @@ soccerdigestweb.com##.towcolumnBan_area
 news.ntv.co.jp##.header-publicity
 news.ntv.co.jp##.overlay-publicity
 news.ntv.co.jp##.publicity-contents
-news.ntv.co.jp##div[id^="div-gpt-"]
+news.ntv.co.jp##[id^="div-gpt-"]
 www.ntv.co.jp###ad
 www.ntv.co.jp###topad
 www.ntv.co.jp##.ntv-box-adBanner
