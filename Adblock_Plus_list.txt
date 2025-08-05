@@ -603,7 +603,6 @@ _ads.js.
 ||chil-chil.net/restGetAdBanner/
 ||chixi.jp/img.php?filename=b
 ||chosunonline.com/common/ifr01/
-||cinematoday.jp/widgets/
 ||clipstudio.net^*/banner_
 ||cosp.jp/images/spacer.gif
 ||cosp.jp/inc/ad.js
@@ -1512,14 +1511,6 @@ chugoku-np.co.jp##.ads
 ciatr.jp##.ad-frame
 cinema.ne.jp##.ad-pc
 cinemarche.net##.adBoxWrap
-cinematoday.jp###ct-affiliate-box
-cinematoday.jp##.ct-ad
-! news
-cinematoday.jp##[style="width:66%;height:70%;clear:left;float:right;"]
-cinematoday.jp##[style="width:66%;height:70%;clear:left;float:right;"] ~ .feed-item:nth-child(3n+1):style(clear: none !important;)
-! movie
-cinematoday.jp##.ct-ad-prime-display
-cinematoday.jp##li[style="margin: 16px 0; background:#fff;"]
 city.eniwa.hokkaido.jp##.fixed-ad-wrap
 ckworks.jp##.listItemGoodsAd
 ckworks.jp##.listItemGoodsAdContentsBottomBox
@@ -3679,6 +3670,19 @@ minkara.carview.co.jp###AdPrimeDisplay
 minkara.carview.co.jp##.formcolor > .contents > div[style="text-align: center; margin-bottom: 10px;"]
 minkara.carview.co.jp##.formcolor > .contents > div[style="clear: both; text-align: center; margin-top: 10px;"]
 minkara.carview.co.jp##.formcolor > .contents div[style="clear:both;text-align:center;margin-top:10px;"]
+
+! --- cinematoday.jp --- !
+||cinematoday.jp/widgets/
+! 求人ボックス
+||cinematoday.jp/api/v1.0/cache/kyujin-box/
+cinematoday.jp###ct-affiliate-box
+cinematoday.jp##.ct-ad
+! news
+cinematoday.jp##[style="width:66%;height:70%;clear:left;float:right;"]
+cinematoday.jp##[style="width:66%;height:70%;clear:left;float:right;"] ~ .feed-item:nth-child(3n+1):style(clear: none !important;)
+! movie
+cinematoday.jp##.ct-ad-prime-display
+cinematoday.jp##li[style="margin: 16px 0; background:#fff;"]
 
 !g --- coolrom.com --- !
 ||aaxads.com^
