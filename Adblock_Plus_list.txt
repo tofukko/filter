@@ -6710,8 +6710,6 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .t
 70okugame.com#@#.dfad
 	! header
 number.bunshun.jp##.global-container:style(margin-top: 64px !important;)
-	! https://github.com/tofukko/filter/issues/63
-catmiimi.com#@#.dfad
 	! https://github.com/tofukko/filter/issues/61
 fategrandorder.info#@#.dfad
 	! コメント欄
