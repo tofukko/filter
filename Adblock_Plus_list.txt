@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/07/24 21:02
+! 最終更新 2025/08/05 18:49
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -2673,6 +2673,10 @@ pastebin.com##.content > [style^="padding-bottom:"]
 pastebin.com##div[style^="color: #999; font-size: 12px; text-align: center;"]
 pc-karuma.net##.ads-widget
 pctrouble.net##.ads
+peing.net##.ad-wrapper
+peing.net##[id^="ad-overlay-"]
+peing.net##[id^="ad-instream-"]
+peing.net##[id^="ad-interstitial-"]
 peko-step.com###cgrig_base_pic:style(grid-auto-rows: auto !important;)
 peko-step.com###cgrig_cont:style(padding-top: 10px !important;grid-row-start: 3 !important;grid-row-end: auto !important;grid-column-end: 4 !important;)
 peko-step.com###cgrig_left:style(padding-top: 10px !important;grid-row-start: 3 !important;grid-row-end: 7 !important;)
