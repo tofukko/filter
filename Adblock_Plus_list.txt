@@ -2630,6 +2630,8 @@ oricon.co.jp##.block-sub-news tbody:nth-of-type(6n)
 oricon.co.jp##.block-sub.block-sub-ad + .block-sub:style(margin-top: 0px !important;)
 oricon.co.jp##.infeed
 	beauty.oricon.co.jp##.Billboard-ad
+! 求人ボックス
+oricon.co.jp###kyujinboxArea
 orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
