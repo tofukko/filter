@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/08/08 10:19
+! 最終更新 2025/08/08 19:21
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -702,7 +702,6 @@ _ads.js.
 ||timeout.*/static/js/ads-
 ||tinami.com/ad/
 ||tmp.sakura.tv/5chATR/ad/
-||tv-tokyo.co.jp/tbcms/javascripts/ad.js
 ||twoucan.com/ad?name=
 ||uta-net.com/user/phplib/js/view_jquery.js
 ||utamap.com/banner/
@@ -3022,9 +3021,6 @@ tsuhon.jp##.add
 tsuiran.jp##article:not([id]):not([class])
 tumadouga.jp##.index_banner_space:not(.index_banner_space_02):not(.index_banner_space_06)
 tumadouga.jp##div[id^="index_banner_space"] > div[class^="text-center"]
-tv-tokyo.co.jp##.rectangle
-tv-tokyo.co.jp##.tbcms_ad-block
-tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
 tvkingdom.jp##.billboardBannerBox
 tvkingdom.jp##.contBannerList
 tvlife.jp###tvl_pc_article_footer
@@ -5699,6 +5695,18 @@ douga.tv-asahi.co.jp##[class|="common-box-ad"]
 	! https://github.com/tofukko/filter/issues/40
 @@||googletagmanager.com/gtm.js$script,domain=tv-asahi.co.jp
 
+! --- tv-tokyo.co.jp --- !
+||tv-tokyo.co.jp/tbcms/javascripts/ad.js
+tv-tokyo.co.jp##.rectangle
+tv-tokyo.co.jp##.tbcms_ad-block
+tv-tokyo.co.jp##[id^="txcms_cms_sideBanner_"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/22654
+@@||video.tv-tokyo.co.jp/common/js/pc/ads.js
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.tv-tokyo.co.jp
+@@||pubads.g.doubleclick.net/gampad/ads?*/video.tv-tokyo.co.jp$domain=video.tv-tokyo.co.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/201598
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=video.tv-tokyo.co.jp
+
 ! --- tver.jp --- !
 ||ad-generation.jp^$third-party
 ||socdm.com^
@@ -5723,11 +5731,6 @@ tver.jp##[class^="episode-page-main_companionAd__"]
 !#if env_chromium
 ||doubleclick.net/gampad/ads?*&output=xml_vmap$xhr,redirect=noopvmap-1.0,important,domain=tver.jp
 !#endif
-
-! https://github.com/AdguardTeam/AdguardFilters/issues/22654
-@@||video.tv-tokyo.co.jp/common/js/pc/ads.js
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.tv-tokyo.co.jp
-@@||pubads.g.doubleclick.net/gampad/ads?*/video.tv-tokyo.co.jp$domain=video.tv-tokyo.co.jp
 
 ! --- twicomi.com --- !
 ||twicomi.com/ads/
