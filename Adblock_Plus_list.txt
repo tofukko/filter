@@ -4385,6 +4385,9 @@ i-bbs.sijex.net##span[style="display:block;margin:5px 0 0 0;padding:0;text-align
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
 
+! 求人ボックス
+/base/scripts/recruitmentBoxUpdater.js
+
 ||gamespark.jp/feature/advertising/
 gamespark.jp##.recruitmentBox
 	! https://github.com/AdguardTeam/AdguardFilters/issues/175115
