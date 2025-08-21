@@ -4546,10 +4546,11 @@ kakaku.com##.prTitle
 news.kakaku.com##.pr-bnr
 
 ! --- kemono --- !
-coomer.su,kemono.su,kemono.*,coomer.*##+js(acs, String.fromCharCode, \x)
-coomer.su,kemono.su,kemono.*,coomer.*##+js(aeld, , popMagic)
-coomer.su,kemono.su,kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
+kemono.*,coomer.*##+js(acs, String.fromCharCode, \x)
+kemono.*,coomer.*##+js(aeld, , popMagic)
+kemono.*,coomer.*##a[href^="//a.adtng.com/get/"]
 ||jiclzori.com^
+||soonpubplatform.online^
 
 !g --- kissanime --- !
 !si
