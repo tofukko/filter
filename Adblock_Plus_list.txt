@@ -2558,6 +2558,8 @@ npn.co.jp##.bnr
 numero.jp###ad-below-content
 numero.jp##.new_ad_area
 numero.jp##div[style="min-height: 300px;"]
+numpre7.com###eg-clear-ad1
+numpre7.com##.escape_ad
 nuwton.com##[class*="banner-"]
 o-dan.net###spgLoadAd
 o-dan.net###oCntrAd
