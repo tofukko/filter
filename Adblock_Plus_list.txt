@@ -5847,6 +5847,7 @@ wav.tv##+js(ra, data-popup-url)
 
 ! --- weblio.jp --- !
 ||llnwd.net^*/ejje_ads_$script,domain=ejje.weblio.jp
+weblio.jp##.flex-rectangle-ads-frame
 www.weblio.jp###adPcBnrWrp
 www.weblio.jp###adPcFootBnrWrp
 www.weblio.jp##.ads-loader
