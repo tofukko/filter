@@ -5947,6 +5947,7 @@ art.blog,business.blog,car.blog,code.blog,data.blog,design.blog,family.blog,fash
 ||stats.wordpress.com^
 
 !g --- wowroms.com --- !
+||wowroms.com/images/Banner
 wowroms.com##.ulromlist > li.element:not([data-alpha])
 wowroms.com##+js(nano-sib, second)
 
