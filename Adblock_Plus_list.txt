@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/08/21 10:35
+! 最終更新 2025/09/12 6:37
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -1263,7 +1263,8 @@ afsgames.com##.ad970x250:style(height: 0 !important;margin-top: 45px !important;
 aikatu.jp###custom_html-2
 aikatu.jp##.main_ad
 allcinema.net###area-site-header-ad
-ananweb.jp##.ad-banner:not([data-name="single-2-soken"])
+ananweb.jp##.gamAdBanner
+ananweb.jp##[class^="styles_sideAd__"]
 androck.jp##.adv
 ani-chat.net###execphp-63
 ani-chat.net###execphp-66 .txt
@@ -1367,6 +1368,7 @@ automaton-media.com###pc_all_header
 automaton-media.com##.ct-widget:has(> div.wp-block-greenshift-blocks-container > div > div.code-block > div[id^="pc_all_right_"])
 automaton-media.com##.td-ss-main-sidebar > aside.widget:has(> div.block-title > span)
 av-photograph.com##.wakupr
+avdb-app.com##div:not([class]) > div[class^="bg-[#f8f8f8] p-4 mb-4"]
 b.ibbs.info###carousel-banner
 baby-calendar.jp##.bnr
 baby-calendar.jp##[id^="JP_BABY_"]
@@ -1926,8 +1928,10 @@ gyazo.com##.lower-ad
 gyo.tc,megalodon.jp##form[action="https://www.google.co.jp/search"] + .row
 h-pon.doorblog.jp##.right-container[style^="position: fixed"]:style(position: static !important;)
 h-pon.doorblog.jp##div[id^="imobile_ad_"]
-h1g.jp##.mainbody-ad-top
-h1g.jp##[style^="width: 300px; height: 250px;"]
+h1g.jp##div[style="height: 90px!important;"]
+h1g.jp##div[style*="width:300px;"][style*="height:250px;"]
+h1g.jp##.upper-menu:style(height: auto !important;)
+h1g.jp###right-ad-bottom
 h1g.jp##+js(acs, document.referrer, gmo_bb)
 h2ch.com###ad
 h2ch.com##[onclick^="ad_click"]
@@ -3573,9 +3577,8 @@ aucfan.com##[class^="showcaseNativeAd"]
 
 ! --- aucfree.com --- !
 ||html-load.com^$domain=aucfree.com
-aucfree.com##div[id^="img_"][style]
-aucfree.com##tr[id^="img_"]
-aucfree.com##iframe[height="252"]:style(height:1px !important;)
+aucfree.com##div[style*="min-height:250px;"]
+aucfree.com##div[id^="FourM_"]
 
 ! --- avtokutei.com --- !
 ||avtokutei.com/wp-content/uploads/fanza-
@@ -5170,6 +5173,7 @@ news.nicovideo.jp###billboard_container
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=blog.nicovideo.jp
 @@||securepubads.g.doubleclick.net/gampad/ads?$xhr,domain=blog.nicovideo.jp
 @@||safeframe.googlesyndication.com/safeframe/$subdocument,domain=blog.nicovideo.jp
+@@||tpc.googlesyndication.com/pagead/js/*/elements/html/interstitial_ad_frame_fy2021.js$script,domain=safeframe.googlesyndication.com
 
 ! --- nifty --- !
 ||analytics.cocolog-nifty.com^
@@ -5690,6 +5694,11 @@ townnews.co.jp##.sideBnr
 ||tsumanne.net/inoue.html
 ||tsumanne.net/inoue2.html
 ||tsumanne.net/inoue3.html
+||tsumanne.net/bance.html
+||tsumanne.net/mfro.php
+||tsumanne.net/inoue.php
+||tsumanne.net/dmm.html
+||tsumanne.net/dlsite.html
 ||getallmedia.com^
 tsumanne.net###amazon
 tsumanne.net###cm
@@ -5700,6 +5709,7 @@ tv-asahi.co.jp###rectangle-desktop
 tv-asahi.co.jp##.common-header-pc-v2__commonHeader--koWP-:style(padding-top: 0 !important)
 tv-asahi.co.jp##.init-ad
 douga.tv-asahi.co.jp##[class|="common-box-ad"]
+news.tv-asahi.co.jp##.ad-item
 	! https://github.com/tofukko/filter/issues/40
 @@||googletagmanager.com/gtm.js$script,domain=tv-asahi.co.jp
 
