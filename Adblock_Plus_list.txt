@@ -5,6 +5,17 @@
 ! 最終更新 2025/09/12 6:37
 !
 
+! 2025/09/21 2025年10月31日 Xfolioと統合？
+! https://blog.mangahack.com/?p=3176
+mangahack.com##[class^="ad_"]
+! --- xfolio.jp --- !
+||xfolio.jp/lu_assets/ad.
+xfolio.jp###ranking_ul > .cardList__list_item:nth-child(4)
+xfolio.jp###ranking_ul > .cardList__list_item:nth-child(20)
+xfolio.jp##.card--recommend6__list:not([show-index])
+xfolio.jp##div.swiper-slide[style="margin-right: 20px;"]
+
+
 ! 2025/09/20 2025年10月17日 竹コミ！へ移行
 ! https://gammaplus.takeshobo.co.jp/news/2025/09/19/takecomi.html
 ! https://takecomic.jp/
@@ -2348,7 +2359,6 @@ manga-5.com##.sticky_banners
 manga-comisol.jp##.ad-list
 manga-gai.net##.menu_bottom + hr:style(clear: both !important;)
 manga-yomeru.com##.adbox
-mangahack.com##[class^="ad_"]
 mangalove.me##.ad
 mangalove.me##.lastInterstitial
 mangalove.me##.interstitial
@@ -5967,13 +5977,6 @@ art.blog,business.blog,car.blog,code.blog,data.blog,design.blog,family.blog,fash
 ||wowroms.com/images/Banner
 wowroms.com##.ulromlist > li.element:not([data-alpha])
 wowroms.com##+js(nano-sib, second)
-
-! --- xfolio.jp --- !
-||xfolio.jp/lu_assets/ad.
-xfolio.jp###ranking_ul > .cardList__list_item:nth-child(4)
-xfolio.jp###ranking_ul > .cardList__list_item:nth-child(20)
-xfolio.jp##.card--recommend6__list:not([show-index])
-xfolio.jp##div.swiper-slide[style="margin-right: 20px;"]
 
 ! --- xrea.com --- !
 ||ad.xrea.com^
