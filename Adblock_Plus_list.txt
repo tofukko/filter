@@ -3585,6 +3585,7 @@ atwiki.jp##.ads
 atwiki.jp##.atwiki-ads
 atwiki.jp##.atwiki-ads-margin
 atwiki.jp##.atwiki_ads
+! https://github.com/uBlockOrigin/uAssets/issues/19285
 atwiki.jp###atwiki-ads-overlay:remove()
 
 ! --- aucfan.com --- !
