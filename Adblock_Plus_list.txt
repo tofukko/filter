@@ -2368,6 +2368,7 @@ maonline.jp##.ad_box
 maonline.jp##.mgnT60.mgnB60
 mapfan.com##.header-ad
 mapfan.com##.footer-ad
+mapfan.com##mf-genres-af-links
 marshmallow-qa.com##.ad
 massigra.net##.adlabel
 massigra.net##[class^="kkvxmargin"]
