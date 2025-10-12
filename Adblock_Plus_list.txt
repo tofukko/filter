@@ -5376,6 +5376,7 @@ dic.pixiv.net##.h-\[90px\].flex.justify-center
 dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen3\:h-\[154px\]
 dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen4\:h-\[154px\]
 dic.pixiv.net##.mt-\[36px\].h-\[200px\]
+dic.pixiv.net##div[id^="adsdk--"]
 ||dic.pixiv.net/_api/get_news_banner?
 
 ! --- rakuten 楽天 --- !
