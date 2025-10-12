@@ -4915,8 +4915,14 @@ minkabu.jp##.ad_hide
 fx.minkabu.jp##.admodal
 fx.minkabu.jp##.gpt-ad
 cc.minkabu.jp#?#div[id^="cc_"] > div[id^="div-gpt-"]:upward(1)
-cc.minkabu.jp##.l-side_section:first-child
 itf.minkabu.jp##.pageCon_ad
+! 2025/10/12
+itf.minkabu.jp##.max-w-itf-pc-main > div.justify-around.min-w-182.min-h-12\.5.mt-14
+itf.minkabu.jp##.min-h-\[5\.625rem\].min-w-\[45\.5rem\][data-footer-ad-target]
+itf.minkabu.jp##[x-on\:click="showAdModal = true"]
+itf.minkabu.jp##[class="min-w-75 min-h-62.5"]
+fx.minkabu.jp##.footer-overlay
+cc.minkabu.jp##[data-footer-overlay-target="footerOverlayDiv"]
 
 ! --- minnano-av.com --- !
 ! https://www.minnano-av.com/
