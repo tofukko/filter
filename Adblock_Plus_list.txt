@@ -1607,6 +1607,8 @@ cyclowired.jp##div[id^="block-banner"]
 cyzo.com###ad_rB
 cyzo.com###ad_rC
 cyzo.com###ad_rD
+cyzo.jp##.module_ad_frame
+cyzo.jp##.module_ad
 cyzo.com###header-name:style(min-height: 60px !important;)
 cyzowoman.com##.ad
 dacelo.space##.adsense
@@ -2437,7 +2439,7 @@ misskey.io##div[class][style*=" "] div[class]:not([style]) ~ div[class] a[href^=
 misskey.io##+js(json-prune, ads.[].imageUrl)
 mitok.info##.mybox-right-narrow
 mitok.info##div[style="min-height: 325px;"]
-mixch.tv##.footer-ad
+mixch.tv##.inner > div[class^="css-"]:has(> div.sponsored-link + ins.adsbygoogle)
 mixi.jp##.adsenseBannerArea
 mmd-list.com##.movie__main > .movie__tag + div[style*="display: block; position: absolute; top:"]
 moae.jp##[class^="mod-ad-"]
