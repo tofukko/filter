@@ -2939,6 +2939,10 @@ spaia.jp##.ad-wrapper
 sponichi.co.jp##[data-component="ad-basic"]
 sponichi.co.jp##[id^=space_shopping_]
 sponichi.co.jp##[style="width:298px;height:230px;border:1px #CCCCCC solid;margin-top:7px;"]
+! 求人ボックス
+sponichi.co.jp##.recruitment-list-header
+sponichi.co.jp##.recruitment-list-header + ul
+sponichi.co.jp##.sponsored-area
 sportingnews.com##.header-advertising
 sportingnews.com##.top-mpu-container
 sportiva.shueisha.co.jp##.group-column:style(padding-top: 20px !important;)
