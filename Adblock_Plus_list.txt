@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/10/08 9:57
+! 最終更新 2025/10/12 11:36
 !
 
 ! 2025/09/21 2025年10月31日 Xfolioと統合？
@@ -666,7 +666,6 @@ _ads.js.
 ||gigazine.net/pw/p.js
 ||gnst.jp/c/atb/segment.js$domain=gnavi.co.jp
 ||myoji-yurai.net/images/banner/
-||news.merumo.ne.jp/ad/
 ||gressive.jp/themes/custom/gressive_theme/js/ad/
 	!2017/10/16 不具合あるかも
 ||grupo.jp/ad_loader/$domain=pitamo.jp
