@@ -2531,6 +2531,11 @@ news.2chblog.jp##.kjs
 news.audee.jp###_popIn_recommend_right:style(min-height: 0 !important;)
 news.audee.jp###asideBnr01
 news.audee.jp##.min-h-01
+news.careerconnection.jp##[id^="resp_"]
+news.careerconnection.jp###pc_article_underarticleright
+news.careerconnection.jp##.ccn-article-attention
+news.careerconnection.jp###動画枠
+news.careerconnection.jp##[id^="JP_"]
 news.j-wave.co.jp##.adSet
 news.mixi.jp##.adsenseBannerArea
 news.mixi.jp##.NEWS_recentTopicsList__itemAd
