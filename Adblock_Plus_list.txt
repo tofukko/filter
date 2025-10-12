@@ -1856,6 +1856,9 @@ gamerch.com##div[style="display:inline-block;width:300px;height:250px;"]
 gamesindustry.biz##.main_contents > div.middle_section
 gamesindustry.biz##.banner_rectangle
 gamesink.net##.footer_ov_ad
+gamesink.net##div[class="panel panel-default panel-orig"]:has(h2:has-text(【PR】注目のおすすめゲーム))
+gamesink.net##div[class="panel panel-default panel-orig"][style="height: 300px;"]
+gamesink.net##div[style="height: 250px;"]
 gamewiki.jp###pc_overlay
 gamewiki.jp##.right_ad
 gamewith.jp###ad-jack
