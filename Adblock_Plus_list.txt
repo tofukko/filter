@@ -1642,6 +1642,8 @@ diamond.jp##.gpt-ad
 diamond.jp##.sub-ad
 diamond-fudosan.jp##.ad-header
 digiday.jp##.advertisement
+digimart.net##.adBnrBtmBlock
+digimart.net##div[class^="adBlock"]
 discogs.com##.ads-ad
 diskgarage.com##.ads
 diskgarage.com##.cm_ads
