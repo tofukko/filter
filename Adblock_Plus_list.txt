@@ -5817,14 +5817,6 @@ posfie.com##.ad_rectangle
 posfie.com##.ad_topics_custom
 posfie.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 
-! --- uraaka.com --- !
-||uraaka.com/ad/
-uraaka.com##.ad-overlay
-uraaka.com##.gallery__interstitial
-uraaka.com##body:style(overflow-y: auto !important;)
-uraaka.com##div[class^="back-ad_"]
-uraaka.com##div[class^="overlay-ad_"]
-
 ! --- uraaka-joshi.com --- !
 ||uraaka-joshi.com/ad-
 ||uraaka-joshi.com/json/ad-
