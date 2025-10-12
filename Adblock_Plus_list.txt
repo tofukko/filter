@@ -1607,9 +1607,9 @@ cyclowired.jp##div[id^="block-banner"]
 cyzo.com###ad_rB
 cyzo.com###ad_rC
 cyzo.com###ad_rD
+cyzo.com###header-name:style(min-height: 60px !important;)
 cyzo.jp##.module_ad_frame
 cyzo.jp##.module_ad
-cyzo.com###header-name:style(min-height: 60px !important;)
 cyzowoman.com##.ad
 dacelo.space##.adsense
 daily.co.jp##.pageAd
@@ -2031,10 +2031,9 @@ hosyusokuhou.jp##.abanner
 hosyusokuhou.jp##.abox
 hosyusokuhou.jp#?#.sidewrapper:-abp-has(> .sidetitle:-abp-contains(★))
 hotokami.jp##.full_screen_ad:remove()
-hotokami.jp##.shitennoji-banner-js
-hotokami.jp##.shitennoji-big-banner
-hotokami.jp##.top_recent_article[style="display:block;"]
 hotokami.jp##div[class*="adsense"]
+hotokami.jp##.gam-wrapper
+hotokami.jp##div[style="min-height: 288px;"]
 houjin.info##.ads1
 houjin.info##.ads2
 housingsnap.com##.ad-box
