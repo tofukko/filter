@@ -3222,6 +3222,10 @@ young-machine.com##.ad-dammy
 youravhost.net##div[id^="im-"]
 yourei.jp##.side-component:not([id])
 yourei.jp#?##sentence-6:-abp-has(> .side-component)
+youskbe.com##.nls_product_set_wrap
+youskbe.com##[data-affiliate]
+youskbe.com##[data-affiliatecount]
+youskbe.com##[class="x-scroll-wrap no-scroll-bar"]
 ytv.co.jp###bnr-block
 ytv.co.jp###news-middle-banner
 ytv.co.jp###rectangle-banner-top-pc
