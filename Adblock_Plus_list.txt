@@ -5957,6 +5957,7 @@ wixsite.com##:root:style(--wix-ads-height: 0px !important; --wix-ads-top-height:
 ##.widget_tsnc_ad_custom_html
 ##.widget_tsnc_ads_custom_html
 ##.wipe-ad-div-class
+##.wordads-ad-wrapper
 ##[id^="adswidget"][id*="-quick-adsense-"]
 !あれなやつ
 ###side > aside > div.ad:first-child
