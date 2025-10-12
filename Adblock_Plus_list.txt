@@ -3201,6 +3201,7 @@ yamakei-online.com###text_ad
 yamareco.com###sidebar_right > .mb20[style="clear:both;"] + .box:style(clear: both !important;)
 yaraon-blog.com##[id^="mytextwidget-2"]:not(#mytextwidget-2),[id^="mytextwidget-3"],#mytextwidget-5,#mytextwidget-41
 yogajournal.jp##.admarking_label
+yomotto.jp##.main-ads-wrap
 yorozoonews.jp###yzpc-native1
 yorozoonews.jp###yzpc-nativeRelation
 yorozoonews.jp##.module-ad
