@@ -1422,6 +1422,11 @@ bikyakudaimaou.com###first > .plugin1_outline:nth-of-type(-n+2)
 bikyakudaimaou.com#?##main > .plugin3_outline:-abp-has(> .plugin3_title)
 bikyakudaimaou.com###second > .plugin2_outline:nth-of-type(1)
 bioweather.net##.ad
+biz-journal.jp###adEntryMainBottom
+biz-journal.jp##.entryBody > div[style$="min-height:200px;"]
+biz-journal.jp##.entryBody > div[style$="min-height:250px;"]
+biz-journal.jp##.entryBody > div[style$="min-height:280px;"]
+biz-journal.jp##.module[style="min-height: 600px;"]
 bizspa.jp###innerAdsense
 bizspa.jp##.ad-wrap
 bizspa.jp##.page-ad-wrap
