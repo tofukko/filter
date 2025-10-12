@@ -2941,6 +2941,7 @@ suki-kira.com###comment-top-ad
 suki-kira.com###fullscreen-ad-container
 suki-kira.com###vote-bottom-ad
 suki-kira.com##table[style="margin:0 auto;min-height:250px;"]
+suki-kira.com###comment-top[style="min-height:250px;"]
 sukima.me#?#div:-abp-has(> iframe[src^="/advertise/"]:only-child)
 sukima.me##+js(set-constant, adPopupStatus, false)
 sukima.me##+js(set-constant, endInterstitialShow, true)
