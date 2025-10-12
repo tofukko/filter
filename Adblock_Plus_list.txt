@@ -1986,6 +1986,7 @@ headline.mtfj.net##.sub_adv
 healthpress.jp###adFooter
 healthpress.jp###entryBottomAd
 heim.jp##.p-article__adTop
+hello-work.info##.search-top-mobile-ads
 hentai-covers.site##.ad-banner
 hentai-foundry.com##main > p[style="text-align: center"]
 hibiki-radio.jp##.programs > .ng-isolate-scope > .ng-scope:nth-of-type(3n+2):not(:nth-of-type(n+11))
