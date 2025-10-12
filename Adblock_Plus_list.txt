@@ -3885,12 +3885,9 @@ estar.jp##div[style$="min-width: 250px; min-height: 300px;"]
 ||excite.co.jp/jp/ox/
 excite.co.jp##div[class^="ad-aside"]
 excite.co.jp##div[id^="gpt_pc_"]
-laurier.excite.co.jp##.ad-header-banner
 newssearch.excite.co.jp,websearch.excite.co.jp##.searchResults > aside
 woman.excite.co.jp###ad300x250
-woman.excite.co.jp###header_bnr
-woman.excite.co.jp##.header-ad
-woman.excite.co.jp##div[style="text-align:center; overflow:hidden; margin: 0 auto 10px; width:610px;"]
+woman.excite.co.jp##.py-16.justify-center.items-center.min-h-122.flex
 www.excite.co.jp##.extra
 www.excite.co.jp##.ec-ranking
 exblog.jp#?#div:-abp-has(> #gpt_pc_blog_header)
