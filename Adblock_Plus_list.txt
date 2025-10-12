@@ -7010,6 +7010,7 @@ nazology.kusuguru.co.jp##.amazon__category-af
 ! nordot.app
 nordot.app,news.jp##.listPage__ad
 nordot.app,news.jp##.main__ad
+nordot.app,news.jp##.right-bar-
 nordot.app,news.jp##+js(acs, document.createElement, admiral)
 
 ! knshow.com
