@@ -4059,19 +4059,6 @@ free.foto.ne.jp##.ad_full
 ||banner.worldranking.jp^
 freeup.jp##table[width="98%"][cellspacing="0"][bordercolor="#0000FF"][border="1"][bgcolor="#FFFFFF"]
 
-! --- fresheye.com --- !
-||relart.fresheye.com^
-||fresheye.com/parts/koma/parts_ad2_i.html
-fresheye.com###ad-ov1box
-fresheye.com##.ad-selfbox
-news.fresheye.com###ad_box_double
-news.fresheye.com##.ad_box_double
-news.fresheye.com##.ad-pbox.banner
-news.fresheye.com##.listing-ad
-news.fresheye.com##.nw-ad
-||fresheye.com^*/js/v
-||fresheye.com/s.gif
-
 ! --- fujitv.co.jp --- !
 ||fod.fujitv.co.jp/mz/
 ||fujitv.co.jp^*/rtx/
