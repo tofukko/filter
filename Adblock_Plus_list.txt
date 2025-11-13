@@ -5,14 +5,6 @@
 ! 最終更新 2025/11/13 22:14
 !
 
-! 2025/06/24 2025年9月30日 サ終
-! https://help.goo.ne.jp/help/article/2891/
-ranking.goo.ne.jp##.l-browsi
-ranking.goo.ne.jp#?#.main-ranking > dd > ul > li:-abp-has(> div.NR-ad)
-! 2025/04/18 2025年9月17日 サ終
-! https://blog.goo.ne.jp/oshietegoo/e/40d490c48e92fdd8dc2a18b8e904aeb0
-oshiete.goo.ne.jp##.addArea
-oshiete.goo.ne.jp##.gheader
 ! 2025/04/17 2025年11月18日サ終
 ! https://blog.goo.ne.jp/info/close.html
 blog.goo.ne.jp###mod-advertising
@@ -21,6 +13,17 @@ blog.goo.ne.jp###mod-goo-recommends
 blog.goo.ne.jp##.mod-entry-set-goo-ad
 blog.goo.ne.jp##.navbar__link--left
 blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
+!2025年11月25日13:00 サ終
+!「gooポータル」サービス終了のお知らせ – gooヘルプ
+!https://help.goo.ne.jp/help/article/2904/
+! --- goo --- !
+||adcdn.goo.ne.jp^
+goo.ne.jp##.NR-pr
+goo.ne.jp##[id^="gooad-"]
+||log000.goo.ne.jp^
+! https://www.ocn.ne.jp/
+www.ocn.ne.jp##[id^="gooad-"]
+www.ocn.ne.jp##.banner
 
 ! 2025/02/09 多分閉鎖する
 himado.in##.l-cnt-100_box10
@@ -61,25 +64,6 @@ buhitter.com##nav[aria-label="Page navigation"] ~ aside.row
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=buhitter.com
 @@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
-
-! 2024/07/19
-! --- osdn --- !
-mag.osdn.jp###head-ad-text
-mag.osdn.jp##[id^="div-gpt-osdn_mag_"]
-osdn.co.jp###gpt-cojp_rec-header
-osdn.co.jp###gpt-cojp_rec-footer
-osdn.net###head-ad-text-wrap
-! スラド
-srad.jp###ads-article-left
-srad.jp###ads-index-text
-srad.jp###gpt-sd_index_rec
-srad.jp###gpt-sd_other_rec
-srad.jp###tophat
-srad.jp##.srad-contentad-banner
-tenshoku.srad.jp###top-hat
-
-! 2024/05/13
-mmm.me###imadv
 
 ! 2023/06/30 サ終
 ! --- garanger.net --- !
@@ -4053,12 +4037,12 @@ otn.fujitv.co.jp##.pcMenuBannerZone:style(padding-top: 87px !important;)
 ! --- futaba --- !
 ||2chan.net/bin/*.htm
 ||free2.jp^$domain=2chan.net
-2chan.net,nijiura-doll.info###rightad
-2chan.net,nijiura-doll.info##.tue
-2chan.net,nijiura-doll.info##.tue2
-2chan.net,nijiura-doll.info##div[style*="margin:2px"]
-2chan.net,nijiura-doll.info##[style="width:728px;height:90px;margin:4px;"]
-2chan.net,nijiura-doll.info##[style="height:68px;"]
+2chan.net###rightad
+2chan.net##.tue
+2chan.net##.tue2
+2chan.net##div[style*="margin:2px"]
+2chan.net##[style="width:728px;height:90px;margin:4px;"]
+2chan.net##[style="height:68px;"]
 ||2chan.net/bin/count.swf
 ||2chan.net/bin/uuacount.php?*
 ||2chan.net/bin/uucount.php
@@ -4135,15 +4119,6 @@ gigafile.nu###area-ad_lb
 gigafile.nu###area-tree-wrap:style(height: calc(100% - 60px) !important;max-height: calc(100% - 60px) !important;)
 gigafile.nu###area-images > .image-area:first-child
 gigafile.nu###area-images > .image-area:nth-child(12)
-
-! --- goo --- !
-||adcdn.goo.ne.jp^
-goo.ne.jp##.NR-pr
-goo.ne.jp##[id^="gooad-"]
-||log000.goo.ne.jp^
-! https://www.ocn.ne.jp/
-www.ocn.ne.jp##[id^="gooad-"]
-www.ocn.ne.jp##.banner
 
 ! --- google --- !
 /googleads.$~script,domain=~github.com|~github.io
