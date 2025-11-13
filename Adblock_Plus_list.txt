@@ -5,14 +5,6 @@
 ! 最終更新 2025/11/13 16:58
 !
 
-! 2025/06/24 2025年7月16日にリニューアル
-! 2025/04/18 2025年6月下旬にリニューアル予定
-! https://www.biglobe.ne.jp/info202504/
-! BIGLOBEサーチ 2025年7月16日サービス終了
-! --- biglobe --- !
-!biglobe.ne.jp###h_bar
-!biglobe.ne.jp##.bl-top-square
-
 ! 2025/06/24 2025年9月30日 サ終
 ! https://help.goo.ne.jp/help/article/2891/
 ranking.goo.ne.jp##.l-browsi
