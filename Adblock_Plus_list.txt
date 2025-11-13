@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/10/12 11:36
+! 最終更新 2025/11/13 16:58
 !
 
 ! 2025/06/24 2025年7月16日にリニューアル
@@ -2430,9 +2430,6 @@ moguravr.com##.mg-ads-inarticle
 moguravr.com##.mg-ads-placement
 momi3.net##td[width="635"][valign="top"] > table > tbody > tr:first-child
 moneypost.jp##div[style="min-height: 400px;"]
-moneytimes.jp###overlay-box-all
-moneytimes.jp##.banner-pr
-moneytimes.jp##.billboard-ad-slot
 monokakitools.net###adview
 monokakitools.net##div[style="background-color:#fafafa;padding: 5px;"]
 monokakitools.net##div[style="font-size:90%;color:#999;text-align:center;margin-bottom:1rem;	"]
