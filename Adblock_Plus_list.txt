@@ -1796,9 +1796,6 @@ friday.kodansha.co.jp##div[class^="detail_photo_"]:style(height: 100% !important
 friday.kodansha.co.jp##div[class*=" detail_normal__"] img[class^="detail_mainImage"]:style(max-height: calc(100vh - 70px - 20px) !important;)
 friday.kodansha.co.jp##div[class*=" detail_comic__"] img[class^="detail_mainImage"]:style(max-height: calc(100vh - 20px) !important;)
 front-row.jp##.after-btn-fb-nice-ad-pc
-fuelle.jp###js-overlay
-fuelle.jp##.bn_gpt_box
-fuelle.jp##.billboard-ad-slot
 fujossy.jp##.story__header-adbox
 fukui-tv.co.jp##.advertCont
 fukuishimbun.co.jp##.admeasure
