@@ -15,24 +15,6 @@ xfolio.jp###ranking_ul > .cardList__list_item:nth-child(20)
 xfolio.jp##.card--recommend6__list:not([show-index])
 xfolio.jp##div.swiper-slide[style="margin-right: 20px;"]
 
-
-! 2025/09/20 2025年10月17日 竹コミ！へ移行
-! https://gammaplus.takeshobo.co.jp/news/2025/09/19/takecomi.html
-! https://takecomic.jp/
-! --- takeshobo.co.jp --- !
-! mangalifewin
-||mangalifewin.takeshobo.co.jp/usr-data/units/bJava/disp.php?
-mangalifewin.takeshobo.co.jp#?#[id^="unit-"]:-abp-has(> .bJava)
-! gammaplus
-@@||gammaplus.takeshobo.co.jp/img/ad/$image,domain=gammaplus.takeshobo.co.jp
-! storia
-@@||storia.takeshobo.co.jp/img/ad/$image,domain=storia.takeshobo.co.jp
-storia.takeshobo.co.jp###r-googleads
-storia.takeshobo.co.jp#?#.bnr__section:-abp-has([src^="https://js.ad-stir.com/js/adstir.js?"])
-! webcomicgamma
-@@||webcomicgamma.takeshobo.co.jp/img/ad/$image,domain=webcomicgamma.takeshobo.co.jp
-webcomicgamma.takeshobo.co.jp#?#.bnr__section:-abp-has([src^="https://js.ad-stir.com/js/adstir.js?"])
-
 ! 2025/06/24 2025年7月16日にリニューアル
 ! 2025/04/18 2025年6月下旬にリニューアル予定
 ! https://www.biglobe.ne.jp/info202504/
