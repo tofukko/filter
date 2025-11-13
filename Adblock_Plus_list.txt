@@ -2788,8 +2788,8 @@ repsoku.net###ad
 resize-video.com###desktop-ad-top
 retro-gamer.jp##[id^="text-"] > .textwidget a[href*="amazon.co.jp"],[id^="text-"] > .textwidget a[href*="amzn.to"]
 retty.me##.small-ad-content
-reuters.com##div[class^="AdSlot__container"]
-reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
+reuters.com##div[data-testid="Leaderboard"]
+reuters.com##div[data-testid="ResponsiveAdSlot"]
 rikujyokyogi.co.jp##.code-block
 roboin.io##._169wog0
 roboin.io##main > article > div[class]:has(> div > ins.adsbygoogle)
