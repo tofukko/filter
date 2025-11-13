@@ -5,16 +5,6 @@
 ! 最終更新 2025/10/12 11:36
 !
 
-! 2025/09/21 2025年10月31日 Xfolioと統合？
-! https://blog.mangahack.com/?p=3176
-mangahack.com##[class^="ad_"]
-! --- xfolio.jp --- !
-||xfolio.jp/lu_assets/ad.
-xfolio.jp###ranking_ul > .cardList__list_item:nth-child(4)
-xfolio.jp###ranking_ul > .cardList__list_item:nth-child(20)
-xfolio.jp##.card--recommend6__list:not([show-index])
-xfolio.jp##div.swiper-slide[style="margin-right: 20px;"]
-
 ! 2025/06/24 2025年7月16日にリニューアル
 ! 2025/04/18 2025年6月下旬にリニューアル予定
 ! https://www.biglobe.ne.jp/info202504/
@@ -719,6 +709,7 @@ _ads.js.
 ! 例のアレ
 ||webnewtype.com/img/pc/common/spacer1.gif
 ||woopie.jp^*/banner/
+||xfolio.jp/lu_assets/ad.
 ||xn--tckxa5c423yemxd.shop/dt/$subdocument,domain=2chnewsblog.blog.jp
 ||yamap.com/ads|
 ||yamareco.com/modules/yamainfo/include/aj_get_adinfo.php
