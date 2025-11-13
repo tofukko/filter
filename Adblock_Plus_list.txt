@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/11/13 16:58
+! 最終更新 2025/11/13 22:14
 !
 
 ! 2025/06/24 2025年9月30日 サ終
@@ -5111,7 +5111,7 @@ eromanga-show.com,hentai-one.com,hentaipaw.com##+js(nostif, /[a-z]\(!0\)/, 800)
 www.nicovideo.jp###head_ads
 www.nicovideo.jp###web_pc_footer
 www.nicovideo.jp##.Ads728x90WebPcFooter
-www.nicovideo.jp##.AuroraVisionContainer-ad
+www.nicovideo.jp##.PcUniTop300x250EastAdContainer
 www.nicovideo.jp##.banner
 www.nicovideo.jp##.column.sub .ads
 www.nicovideo.jp##.HeaderContainer-ad
