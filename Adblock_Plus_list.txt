@@ -2924,11 +2924,6 @@ suki-kira.com###fullscreen-ad-container
 suki-kira.com###vote-bottom-ad
 suki-kira.com##table[style="margin:0 auto;min-height:250px;"]
 suki-kira.com###comment-top[style="min-height:250px;"]
-sukima.me#?#div:-abp-has(> iframe[src^="/advertise/"]:only-child)
-sukima.me##+js(set-constant, adPopupStatus, false)
-sukima.me##+js(set-constant, endInterstitialShow, true)
-sukima.me##+js(set-constant, geparams.custom.enableYdn, '')
-sukima.me##+js(set-constant, PREMIUM, true)
 sukusuku.com##.ad
 sukusuku.com##.aside_ad_pr
 supercoloring.com#?#div[id^="block-block-"]:-abp-has(div[id^="adngin-"])
