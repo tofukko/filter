@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/11/13 22:14
+! 最終更新 2025/11/21 13:15
 !
 
 ! 2025/04/17 2025年11月18日サ終
@@ -6420,6 +6420,8 @@ xvideos.com##+js(nowoif)
 /script/awesome.js
 /ssp/req/*/?pb=$third-party
 /t/9/heis/svewg/*$third-party
+
+/\/[0-9a-f]{32}\/invoke\.js/$script,third-party
 
 !------------------------ホワイトリスト------------------------!
 ! cxense.com
