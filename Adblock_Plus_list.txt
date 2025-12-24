@@ -2,38 +2,8 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/11/21 13:15
+! 最終更新 2025/12/24 20:27
 !
-
-! 2025/04/17 2025年11月18日サ終
-! https://blog.goo.ne.jp/info/close.html
-blog.goo.ne.jp###mod-advertising
-blog.goo.ne.jp#?##mod-freearea-main:-abp-has([id^="gooad-"])
-blog.goo.ne.jp###mod-goo-recommends
-blog.goo.ne.jp##.mod-entry-set-goo-ad
-blog.goo.ne.jp##.navbar__link--left
-blog.goo.ne.jp##body > div[style="height: 70px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
-!2025年11月25日13:00 サ終
-!「gooポータル」サービス終了のお知らせ – gooヘルプ
-!https://help.goo.ne.jp/help/article/2904/
-! --- goo --- !
-||adcdn.goo.ne.jp^
-goo.ne.jp##.NR-pr
-goo.ne.jp##[id^="gooad-"]
-||log000.goo.ne.jp^
-! https://www.ocn.ne.jp/
-www.ocn.ne.jp##[id^="gooad-"]
-www.ocn.ne.jp##.banner
-
-! 2025/02/09 多分閉鎖する
-himado.in##.l-cnt-100_box10
-himado.in##.l-cnt-100_box30
-himado.in##.l-cnt-100:style(width: 100% !important;)
-!2022/11/17
-||drive.google.com/uc?id=1JevHstNGonA9eqzsFgpnZHpQH6cT5EUK$domain=himado.in
-||drive.google.com/uc?id=1uD4_-rED0rNzxuEcm_yaWclpjN9LmDyK$domain=himado.in
-say-move.org###my_navigation:style(padding-top: 10px !important)
-say-move.org##.wrap_player:style(padding-top: 0 !important)
 
 kyuzerogo.sakura.ne.jp##.pe_1
 patriot-e.com##.thread_1
@@ -5332,6 +5302,8 @@ dic.pixiv.net##.h-\[90px\].flex.justify-center
 dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen3\:h-\[154px\]
 dic.pixiv.net##.mt-\[32px\].h-\[240px\].screen4\:h-\[154px\]
 dic.pixiv.net##.mt-\[36px\].h-\[200px\]
+dic.pixiv.net##.w-\[calc\(100\%\+48px\)\].h-\[150px\]
+dic.pixiv.net##.screen3\:h-\[154px\].h-\[240px\]
 dic.pixiv.net##div[id^="adsdk--"]
 ||dic.pixiv.net/_api/get_news_banner?
 
