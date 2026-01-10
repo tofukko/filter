@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2025/12/24 20:27
+! 最終更新 2026/01/10 17:35
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -6093,13 +6093,6 @@ youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
 youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-search-pyv-renderer
 youtube.com#?#ytd-rich-item-renderer:-abp-has(> #content > ytd-ad-slot-renderer)
-
-! https://www.reddit.com/r/uBlockOrigin/comments/154vtwy/getting_ads_on_youtube/jsu299l/
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.playerAds, undefined)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adSlots, undefined)
-youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
-
 
 
 !ニコニコ風ヘッダー
