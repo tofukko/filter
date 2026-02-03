@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/01/19 12:43
+! 最終更新 2026/02/03 23:43
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -2989,7 +2989,6 @@ uma-x.jp##.adsense
 umamusume.net##.ad-inner-pc
 umamusume.net##.ad-inner-pc-top
 umamusume.net##.ad8
-unityroom.com##.bl_adunit
 uptodown.com##.ad
 urbanlife.tokyo##[class^="fluct-unit-"]
 ure.pia.co.jp###wrapper #button_id
@@ -5732,6 +5731,10 @@ posfie.com##.ad_list_top
 posfie.com##.ad_rectangle
 posfie.com##.ad_topics_custom
 posfie.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
+
+! --- unityroom.com --- !
+unityroom.com##.bl_adunit
+||ad-virtua.net^
 
 ! --- uraaka-joshi.com --- !
 ||uraaka-joshi.com/ad-
