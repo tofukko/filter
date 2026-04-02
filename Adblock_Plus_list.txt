@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/02/03 23:43
+! 最終更新 2026/04/02 14:52
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -5087,6 +5087,7 @@ live.nicovideo.jp##.kokoku
 live.nicovideo.jp##[class^="___ad-banner___"]
 live.nicovideo.jp##[class^="___ad-billboard___"]
 live.nicovideo.jp##[class^="___ad-footer___"]
+live.nicovideo.jp##[class^="___ad-sticky-video___"]
 live.nicovideo.jp##[class^="___billboard-ad___"]
 live.nicovideo.jp##[class^="___banner-ad___"]
 live.nicovideo.jp##[class^="___player-ad-panel___"]
