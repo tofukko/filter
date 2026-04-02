@@ -5098,6 +5098,7 @@ dic.nicovideo.jp###right-column > div[style="text-align:center; height:250px; wi
 dic.nicovideo.jp##.ad-bannar-maincolumn-top
 dic.nicovideo.jp##.ad-bannar-maincolumn-top + div:style(margin-top: 0 !important;)
 dic.nicovideo.jp##.adsense-728
+dic.nicovideo.jp##.kyujin-box-pc-container
 	!サイドバー
 dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
 !コモンズ
