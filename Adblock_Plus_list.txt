@@ -5085,6 +5085,7 @@ live.nicovideo.jp###side-banner-north
 live.nicovideo.jp##.ad-banner
 live.nicovideo.jp##.kokoku
 live.nicovideo.jp##[class^="___ad-banner___"]
+live.nicovideo.jp##[class^="___ad-banner-bottom___"]
 live.nicovideo.jp##[class^="___ad-billboard___"]
 live.nicovideo.jp##[class^="___ad-footer___"]
 live.nicovideo.jp##[class^="___ad-sticky-video___"]
