@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/04/02 14:52
+! 最終更新 2026/04/30 23:29
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -5309,6 +5309,8 @@ dic.pixiv.net##.w-\[calc\(100\%\+48px\)\].h-\[150px\]
 dic.pixiv.net##.screen3\:h-\[154px\].h-\[240px\]
 dic.pixiv.net##div[id^="adsdk--"]
 ||dic.pixiv.net/_api/get_news_banner?
+!jack
+dic.pixiv.net##div[class="sticky top-0"]
 
 ! --- rakuten 楽天 --- !
 ||adroll.com^$third-party
