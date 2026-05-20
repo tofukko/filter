@@ -1296,7 +1296,8 @@ automaton-media.com##.post .code-block
 automaton-media.com##.ct-widget:has(> div.wp-block-greenshift-blocks-container > div > div.code-block > div[id^="pc_all_right_"])
 automaton-media.com##.ct-widget:has(> div[id][class]:empty)
 av-photograph.com##.wakupr
-avdb-app.com##div:not([class]) > div[class^="bg-[#f8f8f8] p-4 mb-4"]
+avdb-app.com##.max-w-\[320px\]
+avdb-app.com##.md\:mb-4.mb-0.text-center.text-blue-800.sm\:text-sm.text-xs.bg-blue-50.px-4.py-2
 b.ibbs.info###carousel-banner
 baby-calendar.jp##.bnr
 baby-calendar.jp##[id^="JP_BABY_"]
