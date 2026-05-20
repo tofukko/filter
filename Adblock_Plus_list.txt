@@ -2826,7 +2826,8 @@ sirabee.com##[class^="cxAdArticleBody_"]
 sirogohan.com##.ad-full
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
-smhn.info###topAD
+smhn.info###wallpaper_in_ads
+smhn.info##.box.ads
 smhn.info#?#aside:-abp-has(.adsbygoogle)
 smashop.jp###r1_advertisement
 smashop.jp##.ad_double_300_300
