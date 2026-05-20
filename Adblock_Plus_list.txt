@@ -1291,14 +1291,12 @@ autoc-one.jp##.ad_bigbanner
 autoc-one.jp##.ad-rectangle__row
 autoc-one.jp##[id^="jp_mota_pc_"][id$="_right_1st"]
 automation-news.jp###single_banner2
-automaton-media.com##.ai_widget
-automaton-media.com##.td-a-rec
 ! jack
-automaton-media.com###custom-background-css:remove()
 automaton-media.com###main,#header > div:nth-child(1) > div.ct-sticky-container > div > div,#header > div:nth-child(1) > div:nth-child(1),#main-container:style(background-color: #e6e6e6 !important;)
 automaton-media.com###pc_all_header
+automaton-media.com##.post .code-block
 automaton-media.com##.ct-widget:has(> div.wp-block-greenshift-blocks-container > div > div.code-block > div[id^="pc_all_right_"])
-automaton-media.com##.td-ss-main-sidebar > aside.widget:has(> div.block-title > span)
+automaton-media.com##.ct-widget:has(> div[id][class]:empty)
 av-photograph.com##.wakupr
 avdb-app.com##div:not([class]) > div[class^="bg-[#f8f8f8] p-4 mb-4"]
 b.ibbs.info###carousel-banner
