@@ -1947,6 +1947,7 @@ houjin.info##.ads1
 houjin.info##.ads2
 housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
+htb.co.jp##[style^="width:300px;height:250px;"]
 htmq.com###footerpr
 hub.vroid.com###Model-adView-2lWBn
 hub.vroid.com##[class^="EventBanner-"]
