@@ -2188,11 +2188,8 @@ kumanichi.com##[id^="block-"][id*="-banner"]
 kumanichi.com##[id^="block-"][id*="-ad"]
 kumiko-jp.com##div[class*="fourm"]
 kurashi-no.jp##.p-article__nro
-kurashiru.com##.banner-wrapper
-kurashiru.com##.DlyFixedBanner
-kurashiru.com##.FooterAppPc-adsWrapper
+kurashiru.com###footer_banner_app
 kurashiru.com##.PcAside-ads
-kurashiru.com##[class$="-adContainer"]
 ! サイドバー
 kurashiru.com##.pc-aside-root:not([style*="top: -"]):style(top: auto !important;)
 	hikaku.kurashiru.com##a[class^="side-banner_side_fixed_banner_"]
