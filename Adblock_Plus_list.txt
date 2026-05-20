@@ -1420,8 +1420,8 @@ cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
 cgworld.jp##.banner
 cgworld.jp##.banner_special_content
-chanto.jp.net###cha_pc_all_header
 chanto.jp.net##div[style*="height: 250px"]
+chanto.jp.net##div[style="margin:0 auto;width: auto; min-height: 302px;text-align: center;"]
 frequ.jp,miima.jp,trip-partner.jp##.my-1
 chat.shalove.net##.ad
 chat.shalove.net,skypemeet.net##.right_cont
