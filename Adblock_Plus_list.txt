@@ -2962,7 +2962,8 @@ touhouyaruosure.com##[href*="dmm.co.jp"]
 touhouyaruosure.com##[href*="suruga-ya.jp"]
 touhouyaruosure.com##[style="margin:0;padding:5px;font-size:12px;word-break: break-all;"]
 touken-world.jp##.pr_bnr_contents_block
-toyokeizai.net###trend-library
+toyokeizai.net##div[class^="c-g-a"]
+toyokeizai.net###sticky-ads
 tozanchannel.blog.jp##div[style^="text-align: center; margin-bottom:"]
 traicy.com##.pc-ad
 traicy.com##.pc-ad-wide
