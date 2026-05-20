@@ -4337,6 +4337,7 @@ animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gameb
 
 ||gamespark.jp/feature/advertising/
 gamespark.jp##.recruitmentBox
+gamespark.jp###ad_above_comment_html
 	! https://github.com/AdguardTeam/AdguardFilters/issues/175115
 	! ||gamewith.*/ad/index.js?
 	! ||gamewith.jp/js/dist/jp/search/cta.js
