@@ -1147,7 +1147,7 @@ _analytics.js?
 373news.com###ad_prinfo
 373news.com##.mns_bn
 4545.to##.ad-banner
-47news.jp###following_ad
+47news.jp##.kyujin_box
 48idol.tv###custom_html-2
 48idol.tv###custom_html-8
 4gamer.net##.ad_top
