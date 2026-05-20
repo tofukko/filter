@@ -2429,6 +2429,10 @@ nagasaki-np.co.jp##.article_ad:remove()
 naming-dic.com###original_ad1
 naming-dic.com##.ad-posi1
 naming-dic.com##.sidebar-box3
+natalie.mu##.NA_ad
+natalie.mu##body > style + div[class]:not([id])
+natalie.mu##div[class][align="center"]:not([class^="NA_"])
+natalie.mu##div[id][spottype][typeindex][style="display: block;"]:not([class])
 natsukimemo.com##.adsense
 navitime.co.jp###under-advertisement
 navitime.co.jp##.ad-frame
