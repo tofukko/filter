@@ -3030,6 +3030,7 @@ newsoku.blog##.recome_goods
 newsoku.blog##.primevideobox
 newsoku.blog##.content_fixed_addsspot_300_600_pc
 weathernews.jp###sticky_pc
+weathernews.jp##.topics_btf_pc_box_container
 weathernews.jp##div[class^="ads-"]
 web.gekisaka.jp###PC_SP_NEWS_D_GROUP
 web.gekisaka.jp##.PC_NEWS_D_PC_ONLY
