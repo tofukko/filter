@@ -3228,6 +3228,11 @@ jump.5ch.net##[id$="-ads"]
 5ch.net##div[style="background-color:white;width: 728px; height: 90px; z-index: 2; position: fixed; bottom: 0; left: 50%; transform: translate(-50%, 0);"]
 5ch.net##div[style="width: 728px;width: 93%; margin: 0.5em auto 0.75em auto; padding: 0.75em; min-height: 272px; border: 1px solid black; background-color: #ccffcc; border-radius: 0.75em / 0.75em;"]
 
+! 2026/05/20
+||5ch.fun/widgets/Player?userId=
+||5ch.io/test/read.cgi/widget?id=
+
+
 ! pink
 ||bbspink.com/js/ad.js?
 ||bbspink.com/css/ad.css
