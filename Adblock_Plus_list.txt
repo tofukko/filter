@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/04/30 23:29
+! 最終更新 2026/05/21 0:05
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -3098,6 +3098,8 @@ www-creators.com##.adsense
 x-feeder.info##div[style^="width: 300px; height: 250px"]
 x-feeder.info##div[style*="width: 728px; height: 90px"]
 x-feeder.info##div[style="height: 600px;"]
+xenospectrum.com##.xs-ad-slot
+xenospectrum.com##.xs-amazon-products
 xvideos-dl.com##div[style^="margin-top:120px; margin-bottom:"]
 xvideos-dl.com##a[href^="https://go.bbrdbr.com?"]
 yakkun.com##.ad
