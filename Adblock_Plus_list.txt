@@ -3704,12 +3704,11 @@ ddd-smart.net##+js(set, univresalP, noopFunc)
 
 ! --- denfaminicogamer.jp --- !
 ||news.denfaminicogamer.jp/wp-content/plugins/dfng-amazon-widgets/
-news.denfaminicogamer.jp##.amazon-ranking
-news.denfaminicogamer.jp###pc_article_billboard
-news.denfaminicogamer.jp##.rectangle-bn
-news.denfaminicogamer.jp##.steam.inner-widget
 news.denfaminicogamer.jp##div[style$="min-height:250px;"]
 news.denfaminicogamer.jp##a[onclick^="dataLayer.push"]
+news.denfaminicogamer.jp###tj2
+news.denfaminicogamer.jp##.drc
+news.denfaminicogamer.jp##.steam.diw
 ! jack
 ||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
 news.denfaminicogamer.jp##[id^="dfng"][id$="jack"]
