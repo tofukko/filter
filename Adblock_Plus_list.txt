@@ -2823,7 +2823,7 @@ shueisha.online##div[class|="g-a-rectangle"]
 simplegame.jp##+js(nano-stb, simplegameAdCountDown)
 sin-space.com##.ad-side
 sin-space.com##div[class^="insentence-adsense-"]
-sirabee.com##[data-newsy-ad-device]
+sirabee.com##[class^="cxAdArticleBody_"]
 sirogohan.com##.ad-full
 sirogohan.com##.ad-halfwrap
 sirogohan.com##.ad-sponsor
