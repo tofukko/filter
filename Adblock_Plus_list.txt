@@ -2068,6 +2068,7 @@ jp.wazap.com##.bodyFootBanner
 jp.wazap.com##.fullBanner
 jp.wazap.com##.ghtml + .platformCount > .heading:style(margin-top: 0 !important;)
 jp.wazap.com##.pr-ranking
+jp.wsj.com##.uds-ad-container
 jpnumber.com###sponsor-link
 jpnumber.com##.adsline
 jprime.jp##.ad-gallery
