@@ -5166,6 +5166,7 @@ nijie.info,horne.red###tieup_rand
 nijie.info,horne.red###view_center_ad
 nijie.info,horne.red##.left_column
 nijie.info,horne.red##.view_top_banner
+nijie.info##.m-top15.center > p > ._banner_view
 
 ! 2025/02/26
 nijie.info###header_bar_wrapper
