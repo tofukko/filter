@@ -2346,6 +2346,7 @@ mirrorz.jp##[id^=ad-]
 misskey.io##.xF6dY
 misskey.io##div[class][style*=" "] div[class]:not([style]) ~ div[class] a[href^="https://go.misskey.io/"] > img[class]:not([src]) ~ button
 misskey.io##+js(json-prune, ads.[].imageUrl)
+misskey.io##div[class=""][data-scroll-anchor] > div[class]:nth-child(2):not([tabindex])
 mitok.info##.mybox-right-narrow
 mitok.info##div[style="min-height: 325px;"]
 mixch.tv##.inner > div[class^="css-"]:has(> div.sponsored-link + ins.adsbygoogle)
@@ -5322,6 +5323,7 @@ dic.pixiv.net##.mt-\[36px\].h-\[200px\]
 dic.pixiv.net##.w-\[calc\(100\%\+48px\)\].h-\[150px\]
 dic.pixiv.net##.screen3\:h-\[154px\].h-\[240px\]
 dic.pixiv.net##div[id^="adsdk--"]
+dic.pixiv.net##.d_header_not_spa
 ||dic.pixiv.net/_api/get_news_banner?
 !jack
 dic.pixiv.net##div[class="sticky top-0"]
