@@ -1401,6 +1401,7 @@ car-me.jp##.p-article_kaitori_cta
 car-me.jp##.p-mh250
 car-mo.jp##.ad-carview
 car-mo.jp##.pr-modal
+car.motor-fan.jp##.top_ad
 career.joi.media###post-advertisement
 career.joi.media##.banner
 careergarden.jp##.base-inner-slim[style$=";padding:15px 0"]
