@@ -2460,10 +2460,8 @@ news.mixi.jp##.NEWS_recentTopicsList__itemAd
 news.sukupara.jp##.adv
 news.sukupara.jp##.adv2
 news.shitaraba.net##.sidebar_ad
-news-postseven.com##.su-modal
-news-postseven.com##body[style^="overflow:"]:style(overflow: auto!important)
 news-postseven.com##div[style*="min-height: 250px"]
-news-postseven.com##div[style="min-height: 395px; margin-bottom:10px;"]
+news-postseven.com##div[style="min-height: 230px; margin-bottom:10px;"]
 news-us.org##.sponsored
 news4wide.net##.wipe-ad-div-class
 newsdig.tbs.co.jp##.ad_article_gallery_wrap
