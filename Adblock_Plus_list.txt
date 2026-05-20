@@ -4730,6 +4730,8 @@ rawkuma.com##+js(aeld, readystatechange, document.removeEventListener)
 rawkuma.com##+js(acs, parseInt, break;case $.)
 ||adsbetnet.com^
 /btag.min.js$third-party
+nihonkuni.com##+js(nowoif)
+||detoxifylagoonsnugness.com^
 
 ! --- mangapedia.com --- !
 mangapedia.com##.contents-bottom-ads
