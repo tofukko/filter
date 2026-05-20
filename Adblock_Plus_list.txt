@@ -2583,6 +2583,8 @@ oricon.co.jp##.infeed
 	beauty.oricon.co.jp##.Billboard-ad
 ! 求人ボックス
 oricon.co.jp###kyujinboxArea
+oricon.co.jp##.ttl-news-kjbox
+oricon.co.jp###news-kjbox
 orteil.dashnet.org###smallSupport
 orteil.dashnet.org###support
 osayama.com##[id^="osaya-"]
