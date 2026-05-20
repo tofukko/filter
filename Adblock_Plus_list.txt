@@ -1990,6 +1990,8 @@ iwate-np.co.jp##.ad
 iwate-np.co.jp#?#.article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
 iza.ne.jp,sanspo.com,sankei.com,zakzak.co.jp##.gptAd
+! 求人ボックス
+iza.ne.jp##.kyujinbox
 izzetmtgnews.com###text-2
 izzetmtgnews.com###text-4
 izzetmtgnews.com###text-14
