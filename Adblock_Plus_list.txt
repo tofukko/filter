@@ -1706,6 +1706,7 @@ flashfabrica.com##.footer:style(clear:both;)
 foodistnote.recipe-blog.jp##.ad-area-pc
 football-tribe.com##div[id^="da-article-"]
 footballchannel.jp##.sidead
+footballchannel.jp##div[style="width:100%; min-height:300px;"]
 forbesjapan.com##.ad-pc
 formula1-data.com##div[class*="adContent--"]
 forzastyle.com##.CLS_reduced
