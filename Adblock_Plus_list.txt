@@ -35,20 +35,6 @@ buhitter.com##nav[aria-label="Page navigation"] ~ aside.row
 @@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=buhitter.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$xmlhttprequest,domain=buhitter.com
 
-! 2023/06/30 サ終
-! --- garanger.net --- !
-||gamushara.jp/pr/
-||liberty-net.jp/bana/
-||palpis.net/js/blogparts/parts.js
-||ajfnee.com^
-||andhub.jp^
-||banner1.site^
-garanger.net###my_navigation
-garanger.net##.box:first-child
-garanger.net##.board
-garanger.net##.pr
-garanger.net##[href="https://liberty-net.jp/toukou/"]
-
 ! 2024/07/24
 ||player.gliacloud.com^$third-party
 ||go.trvdp.com^$third-party
