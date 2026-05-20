@@ -5641,8 +5641,10 @@ townnews.co.jp##.sideBnr
 ||tsumanne.net/bance.html
 ||tsumanne.net/mfro.php
 ||tsumanne.net/inoue.php
+||tsumanne.net/inoue2.php
 ||tsumanne.net/dmm.html
 ||tsumanne.net/dlsite.html
+||tsumanne.net/goodlife.php
 ||getallmedia.com^
 tsumanne.net###amazon
 tsumanne.net###cm
