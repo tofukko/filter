@@ -3708,6 +3708,7 @@ news.denfaminicogamer.jp##div[style$="min-height:250px;"]
 news.denfaminicogamer.jp##a[onclick^="dataLayer.push"]
 news.denfaminicogamer.jp###tj2
 news.denfaminicogamer.jp##.drc
+news.denfaminicogamer.jp##.fade
 news.denfaminicogamer.jp##.steam.diw
 ! jack
 ||news.denfaminicogamer.jp/wp-content/themes/dfng_news_org/js/dfng-jack.js
