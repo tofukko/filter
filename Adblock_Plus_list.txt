@@ -4413,9 +4413,8 @@ nlab.itmedia.co.jp##.gad
 nlab.itmedia.co.jp###masterSub > div[id^="logly-lift-"]
 
 !g --- iwara.tv --- !
-||ero-labs.com^$domain=iwara.tv
-||illustrious-halva-eb1986.netlify.app^$domain=iwara.tv
-||for-iwara-tools.tyamahori.com/ninjaFillter/
+||service.iwara.shop/wp-admin/admin-ajax.php$subdocument
+||for-iwara-tools.tyamahori.com/size/300x250/
 
 ! --- ixll.co.jp --- !
 figgy.jp##.wrapper:style(margin-top: 90px !important;)
