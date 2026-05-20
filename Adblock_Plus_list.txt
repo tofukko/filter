@@ -2254,6 +2254,8 @@ mag2.com##div[class*="ad-h"]
 maidonanews.jp##[class^="module-ad"]
 maidonanews.jp##.module-list-articles__ad
 maidonanews.jp##.module-list-articles__item--ad
+! 求人ボックス
+maidonanews.jp##.jobs-section
 mainichi.jp##.ad-side-1
 mainichi.jp##.ad-article-text
 mainichi.jp###pianoj_ribbon
