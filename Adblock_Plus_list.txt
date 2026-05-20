@@ -1557,6 +1557,7 @@ dekiru.net##.module-article-list-ad
 dekiru.net##.module-individual-article-footer-ads
 dekiru.net##.module-individual-article-sub-top-ads
 deli-fuzoku.jp#?#.mod-bnrWrap:-abp-has(> a[href^="https://www.dlsite.com/"])
+dengekionline.com##div[class^="InLead_wrapper__"]
 dengekionline.com##div[class^="MediaScrum_"]
 dengekionline.com##div[class^="RightColumn_rectangleBanner__"]
 dengekionline.com##div[class^="SecondRectangle_"]
