@@ -7012,6 +7012,10 @@ pvpoke-re.com##+js(no-setTimeout-if, checkMyBlock)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/153796
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,domain=rekidai-info.github.io
 
+! rkd3.dev
+! https://github.com/AdguardTeam/AdguardFilters/issues/231144
+||rkd3.dev/dab.js
+
 ! rocketnews24.com
 ! youpouch.com
 @@||fundingchoicesmessages.google.com^$script,domain=youpouch.com|rocketnews24.com
