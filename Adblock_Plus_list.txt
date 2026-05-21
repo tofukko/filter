@@ -1651,8 +1651,9 @@ erommd-street.com##.content [style^="position: absolute;"]
 eropuru.com##.plugin_ad_box
 erozine.jp##.ad
 erozine.jp##.temu
-ertk.net###banner1
+ertk.net###block-14
 ertk.net##.dmm-ranking
+ertk.net##div[style="width: 300px; height: 250px"]
 exhentai.org,e-hentai.org###spa
 fashionsnap.com###mainArticleBottom_leftUnit
 fashionsnap.com###mainArticleBottom_rightUnit
