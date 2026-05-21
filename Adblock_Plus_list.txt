@@ -1402,7 +1402,6 @@ cartune.me##div[style^="display:flex;"][style*="align-items:center;"][style*="mi
 casabrutus.com##.adunitContainer
 casabrutus.com##.md\:max-h-\[418px\]
 cat.sc##.adsense
-cavolump.com##.pick_news
 cazual.tv##.bnr_wd_wrap
 cazual.tv##[id^="search-"] + [id^="text-"]
 cgworld.jp##.banner
