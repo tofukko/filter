@@ -2194,9 +2194,8 @@ kyoushinomikata.com#?#.entry-content > p:-abp-has(> .adsbygoogle)
 last.fm##.full-bleed-ad-container
 last.fm##.sidebar-ad-container
 leon.jp##.st-BottomBanner-top
-les-koko.com###interstitialAd
 les-koko.com##.item_area
-les-koko.com##div[id^="bnc_ad_"]
+les-koko.com##.rect-ads-row
 lettuceclub.net##.p-ad
 lettuceclub.net##.p-adlcn
 library.mitaka.tokyo.jp##.banner
