@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/05/21 0:05
+! 最終更新 2026/05/21 17:31
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -1937,8 +1937,6 @@ housingsnap.com##.ad-box
 housingsnap.com##.ad-contents
 htb.co.jp##[style^="width:300px;height:250px;"]
 htmq.com###footerpr
-hub.vroid.com###Model-adView-2lWBn
-hub.vroid.com##[class^="EventBanner-"]
 huffingtonpost.jp##.ad-leaderboard-flex
 huffingtonpost.jp##.ad-right-rail-native-ad
 huffingtonpost.jp##.advertisement-holder
@@ -5318,6 +5316,8 @@ dic.pixiv.net##.d_header_not_spa
 ||dic.pixiv.net/_api/get_news_banner?
 !jack
 dic.pixiv.net##div[class="sticky top-0"]
+! VRoid Hub
+hub.vroid.com##div:has(> iframe[width="300px"][height="250px"])
 
 ! --- rakuten 楽天 --- !
 ||adroll.com^$third-party
