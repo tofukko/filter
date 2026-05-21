@@ -2740,13 +2740,6 @@ rollingstonejapan.com##.articleDetailAdd
 roomclip.jp###pc_billboard
 rookie.shonenjump.com##[class^="media-"][class$="-banner"]
 rrpg.jp##[id^="adsense_"]
-russianbeauties.jp###dmm-bottomad-column
-russianbeauties.jp###extra-column > [class$="corner"]
-russianbeauties.jp###primary-column > .section:not([id])
-russianbeauties.jp###secondary-column > [class$="corner"]
-russianbeauties.jp##.article-ad-image
-russianbeauties.jp##.banner
-russianbeauties.jp##a[href^="https://lkstrck2.com/"]
 ryukyushimpo.jp##div[id^="gpt-"][style^="min-width:"]
 ryusoku.com###primary > .bubble
 ryusoku.com##.ads
