@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/05/23 12:41
+! 最終更新 2026/05/23 23:55
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -4022,6 +4022,14 @@ taishu.jp##body:style(min-width: 1100px !important;)
 taishurx.jp##.bnr > .ad
 taishurx.jp##.catchup
 
+! --- gamewith.jp --- !
+gamewith.jp###ad-jack
+gamewith.jp##.browsi-atf
+gamewith.jp##.walkthrough-ad-ranking-game
+	! https://github.com/AdguardTeam/AdguardFilters/issues/175115
+	! ||gamewith.*/ad/index.js?
+	! ||gamewith.jp/js/dist/jp/search/cta.js
+
 ! --- gesoten.com --- !
 !jack
 gesoten.com##.r-l-pagejack-link
@@ -4324,9 +4332,6 @@ animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gameb
 ||gamespark.jp/feature/advertising/
 gamespark.jp##.recruitmentBox
 gamespark.jp###ad_above_comment_html
-	! https://github.com/AdguardTeam/AdguardFilters/issues/175115
-	! ||gamewith.*/ad/index.js?
-	! ||gamewith.jp/js/dist/jp/search/cta.js
 rbbtoday.com##.main-amazon-ranking
 rbbtoday.com##.free-custom > .af
 ! https://github.com/tofukko/filter/issues/66
