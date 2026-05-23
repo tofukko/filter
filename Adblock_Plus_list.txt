@@ -3801,6 +3801,7 @@ eroterest.net##.adAreaNativeDmm
 ||estar.jp/assets/js/ad/
 ||estar.jp/page/ad/
 estar.jp##.ads-container
+estar.jp##.main[style$="height: 140px;"]
 estar.jp##.viewer > div[style="background: #FFF; padding: 15px 0 5px; display: flex; justify-content: center; height: 140px;"]
 estar.jp##div[style$="min-width: 250px; min-height: 300px;"]
 
