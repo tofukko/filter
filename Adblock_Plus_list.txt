@@ -555,7 +555,6 @@ _ads.js.
 ||egone.org/js/kindle_
 ||eromanga-life.com/life.$subdocument
 ||equity.jiji.com/storage/banner/
-||fategrandorder.info/html/js/ad_
 ||fc2.com/b/i/k/bikyakudaimaou/ad-$domain=bikyakudaimaou.com
 ||gakuryou.net/fb/
 ||gakuryou.net/right-banner/
@@ -2750,6 +2749,8 @@ ryutsuu.biz##.space-90
 sabuibo.net###entry-list > .entry-block:first-child
 saga-s.co.jp##.m-ad
 sai-zen-sen.jp##.ad
+saiganak.com##.entry-adsense
+saiganak.com##.sidebar-ad
 saitama-np.co.jp###ad_middle
 sakigake.jp###sakigake_pc_all_header:upward(1)
 sanabo.com##.add
@@ -6675,8 +6676,6 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .t
 70okugame.com#@#.dfad
 	! header
 number.bunshun.jp##.global-container:style(margin-top: 64px !important;)
-	! https://github.com/tofukko/filter/issues/61
-fategrandorder.info#@#.dfad
 	! コメント欄
 iroyaku.livedoor.biz#@#.main-container-ads
 	! https://github.com/tofukko/filter/issues/102
