@@ -6955,7 +6955,8 @@ musenboya.com#?#.text-center:-abp-has(> p:-abp-contains(スポンサーリンク
 	!my0nio.seesaa.net#@#.adsbygoogle
 
 ! nazolog.com
-	!nazolog.com#@#.adsbygoogle
+! uBlock filters
+@@||nazolog.com^$generichide
 
 ! oninet.ne.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/203239
