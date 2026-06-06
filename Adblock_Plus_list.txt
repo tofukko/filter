@@ -1558,8 +1558,6 @@ digiday.jp##.advertisement
 digimart.net##.adBnrBtmBlock
 digimart.net##div[class^="adBlock"]
 discogs.com##.ads-ad
-diskgarage.com##.ads
-diskgarage.com##.cm_ads
 dotpict.net##[id^="ads"]:upward(1)
 douga100ka.jp##.ad_index_main_base
 douga100ka.jp##.ad_item_head
