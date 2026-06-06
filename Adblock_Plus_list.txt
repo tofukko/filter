@@ -1885,8 +1885,8 @@ happycampus.co.jp##div[style="width: 728px; height: 80px; margin-bottom: 10px;  
 hattatu-matome.ldblog.jp##.salebox
 hb-nippon.com###headerAds
 hb-nippon.com###videoAds
-hdouga.com##[id^="mhub-hdou"]
-hdouga.com##[class^="d_"]
+hdouga.com##[id^="mhub-hdo"]
+hdouga.com##.w-singleTop
 headline.mtfj.net###header_adv
 headline.mtfj.net###middle_adv
 headline.mtfj.net##.sub_adv
