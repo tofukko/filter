@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/06/02 22:23
+! 最終更新 2026/06/06 21:52
 !
 
 kyuzerogo.sakura.ne.jp##.pe_1
@@ -2178,6 +2178,7 @@ kumiko-jp.com##div[class*="fourm"]
 kurashi-no.jp##.p-article__nro
 kurashiru.com###footer_banner_app
 kurashiru.com##.PcAside-ads
+kurashiru.com##[class$="_component_ads"]
 ! サイドバー
 kurashiru.com##.pc-aside-root:not([style*="top: -"]):style(top: auto !important;)
 	hikaku.kurashiru.com##a[class^="side-banner_side_fixed_banner_"]
