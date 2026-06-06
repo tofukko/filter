@@ -1495,13 +1495,6 @@ crank-in.net##[class^="ad-area_"]
 crank-in.net##.ad_CIT_top
 crank-in.net##.right_ad_top
 croissant-online.jp###cr_pc_article_billbord
-curazy.com##.sponsor-link-text
-curazy.com##[class^=cu_pc_all_]
-! 漫画
-curazy.com##.jsViewer_overlay-dialogAd
-curazy.com##.jsViewer_dialog-ad
-curazy.com##.viewer_controller_footer_ad
-curazy.com##.viewer_controller_footer:style(height: auto !important;)
 cyclesports.jp##.adBanner
 cyclesports.jp##.banner01
 cyclesports.jp##.feature
