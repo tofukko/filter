@@ -1893,8 +1893,6 @@ hdouga.com##.w-singleTop
 headline.mtfj.net###header_adv
 headline.mtfj.net###middle_adv
 headline.mtfj.net##.sub_adv
-healthpress.jp###adFooter
-healthpress.jp###entryBottomAd
 heim.jp##.p-article__adTop
 hello-work.info##.search-top-mobile-ads
 hentai-covers.site##.ad-banner
