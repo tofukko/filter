@@ -5,6 +5,10 @@
 ! 最終更新 2026/06/06 21:52
 !
 
+! 2026/06/06 2026年9月30日 サ終
+! https://comici.jp/comici/news/info?id=1443
+comici.jp##.a-banner-box
+
 kyuzerogo.sakura.ne.jp##.pe_1
 patriot-e.com##.thread_1
 patriot-e.com##.H
@@ -1469,7 +1473,6 @@ color-sample.com##.ads
 column.asken.jp##.primary-ad
 comic-walker.com##div[class^="AdSection_"]
 comic-walker.com#?#section[class^="ContentsDetailPage_noBackground__"]:-abp-has(div[class^="AdSection_list__"])
-comici.jp##.a-banner-box
 comix.fyi##[id^="ad-"]
 cookien.com##.pr_content
 cocktaillog.com##app-adsense-display-ads
