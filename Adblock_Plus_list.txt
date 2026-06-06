@@ -6120,8 +6120,8 @@ youtube.com#?#ytd-rich-item-renderer:-abp-has(> #content > ytd-ad-slot-renderer)
 ###matomeSiteHeaderArea
 
 ! アルファルファモザイク https://alfalfalfa.com/
-||blogmaterial.nicoblomaga.jp/material/279/SP300x250-$script,domain=alfalfalfa.com
-alfalfalfa.com##[href^="https://www.amazon.co.jp"]
+||alfalfalfa.com/js/ads/
+alfalfalfa.com##[id^="im_interstitial_"]
 
 ! BIPブログ http://bipblog.com
 ||bipblog.com/js/amatop.js
