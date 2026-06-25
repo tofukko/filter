@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/06/06 21:52
+! 最終更新 2026/06/25 21:27
 !
 
 ! 2026/06/06 2026年9月30日 サ終
@@ -665,7 +665,6 @@ _ads.js.
 /access.cgi
 /access.php
 /access_check.cgi?
-/access?
 /access2.cgi?
 /accesslog/*
 /accessLog.
@@ -3911,12 +3910,6 @@ web.fc2.com##.ad-inactive
 ||media5.fc2.com^
 ||search.fc2.com/fc2se.js
 
-!アルバムメーカー
-@@||vip.chps-api.fc2.com/apis/imageViewer/access?
-@@||vip-chps-api.fc2.com/apis/imageViewer/access?
-@@||vip.chps-api.2nt.com/apis/imageViewer/access?
-@@||vip-chps-api.2nt.com/apis/imageViewer/access?
-
 ! --- fc2hub.com --- !
 ||xadsmart.com^
 ||d11enq2rymy0yl.cloudfront.net^
@@ -6655,8 +6648,6 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .t
 @@||tm.r-ad.ne.jp^$script,domain=hpdsp.net
 	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment892
 @@||trj.valuecommerce.com/vcushion.js
-	!ロックされたときとか
-@@||twitter.com/account/access?
 	!動画見れない
 @@||tsyndicate.com/sdk/v1/n.js
 	! https://github.com/tofukko/filter/issues/109
