@@ -1197,6 +1197,8 @@ aeoncinema.com##.side > .prime
 afpbb.com##.bnr
 afsgames.com##.ad970x250:style(height: 0 !important;margin-top: 45px !important;)
 ai-crafts.com###custom_html-2
+ai-ssr.com##section:has(> div > h2:has-text(FANZA ランキング(PR)))
+ai-ssr.com##.mt-\[15px\].md\:mt-\[10px\] > div:has(> a.text-\[12px\][href^="https://al.fanza.co.jp/?lurl="])
 aikatu.jp###custom_html-2
 aikatu.jp##.main_ad
 allcinema.net###area-site-header-ad
