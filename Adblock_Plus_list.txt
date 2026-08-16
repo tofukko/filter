@@ -4366,6 +4366,7 @@ webtan.impress.co.jp###webtan_adsense_nodefooter
 ||itmedia.co.jp/js/adRequest.js
 ||itmedia.jp/adsv/
 ! toppage
+itmedia.co.jp###ArticleText
 itmedia.co.jp###BelowArtLink
 itmedia.co.jp###BelowArtRectangle
 itmedia.co.jp###GeneralAD
