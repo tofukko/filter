@@ -2856,6 +2856,7 @@ suki-kira.com##table[style="margin:0 auto;min-height:250px;"]
 suki-kira.com###comment-top[style="min-height:250px;"]
 sukusuku.com##.ad
 sukusuku.com##.aside_ad_pr
+sundryst.com##.ad-instream
 supercoloring.com#?#div[id^="block-block-"]:-abp-has(div[id^="adngin-"])
 supersolenoid.jp,supersolenoid.blog.fc2.com##.wboxlink
 supersolenoid.jp,supersolenoid.blog.fc2.com##.krb-amzlt-box
