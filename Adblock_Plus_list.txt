@@ -4267,6 +4267,7 @@ hitomi.la##.top-content:style(margin-top: 0px !important;)
 ||hobby.dengeki.com/wp-content/themes/hobby2021/common/js/jack_ad.js
 hobby.dengeki.com##.ad_column
 hobby.dengeki.com##.afbox
+hobby.dengeki.com###kyujinboxMount
 
 ! --- home.kingsoft.jp --- !
 home.kingsoft.jp###article-list > .col-md-3.col-12:nth-of-type(12n+4)
