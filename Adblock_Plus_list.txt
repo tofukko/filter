@@ -1544,10 +1544,7 @@ dengekionline.com##div[class^="RightColumn_rectangleBanner__"]
 dengekionline.com##div[class^="SecondRectangle_"]
 dengekionline.com##div[class^="TopHeaderBanner_wrapper__"]
 dev-dev.net,nanigoto.net##.header-widgets
-diamond.jp###piano-cframe
-diamond.jp##.ad-related
-diamond.jp##.gpt-ad
-diamond.jp##.sub-ad
+diamond.jp##[id^="gpt-"]
 diamond-fudosan.jp##.ad-header
 digiday.jp##.advertisement
 digimart.net##.adBnrBtmBlock
