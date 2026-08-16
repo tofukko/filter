@@ -1979,8 +1979,6 @@ iwate-np.co.jp##.ad
 iwate-np.co.jp#?#.article-list > li:-abp-contains(広告)
 iwate-np.co.jp#?#.article-list > li:-abp-has(> script)
 iza.ne.jp,sanspo.com,sankei.com,zakzak.co.jp##.gptAd
-! 求人ボックス
-iza.ne.jp##.kyujinbox
 izzetmtgnews.com###text-2
 izzetmtgnews.com###text-4
 izzetmtgnews.com###text-14
@@ -2229,8 +2227,6 @@ mag2.com##div[class*="ad-h"]
 maidonanews.jp##[class^="module-ad"]
 maidonanews.jp##.module-list-articles__ad
 maidonanews.jp##.module-list-articles__item--ad
-! 求人ボックス
-maidonanews.jp##.jobs-section
 mainichi.jp##.ad-side-1
 mainichi.jp##.ad-article-text
 mainichi.jp###pianoj_ribbon
@@ -2556,8 +2552,6 @@ oricon.co.jp##.block-sub-news tbody:nth-of-type(6n)
 oricon.co.jp##.block-sub.block-sub-ad + .block-sub:style(margin-top: 0px !important;)
 oricon.co.jp##.infeed
 	beauty.oricon.co.jp##.Billboard-ad
-! 求人ボックス
-oricon.co.jp###kyujinboxArea
 oricon.co.jp##.ttl-news-kjbox
 oricon.co.jp###news-kjbox
 orteil.dashnet.org###smallSupport
@@ -2825,7 +2819,8 @@ spaia.jp##.ad-wrapper
 sponichi.co.jp##[data-component="ad-basic"]
 sponichi.co.jp##[id^=space_shopping_]
 sponichi.co.jp##[style="width:298px;height:230px;border:1px #CCCCCC solid;margin-top:7px;"]
-! 求人ボックス
+maidonanews.jp##.jobs-section
+oricon.co.jp###kyujinboxArea
 sponichi.co.jp##.recruitment-list-header
 sponichi.co.jp##.recruitment-list-header + ul
 sponichi.co.jp##.sponsored-area
@@ -3619,8 +3614,6 @@ minkara.carview.co.jp##.formcolor > .contents div[style="clear:both;text-align:c
 
 ! --- cinematoday.jp --- !
 ||cinematoday.jp/widgets/
-! 求人ボックス
-||cinematoday.jp/api/v1.0/cache/kyujin-box/
 cinematoday.jp###ct-affiliate-box
 cinematoday.jp##.ct-ad
 ! news
@@ -4314,9 +4307,6 @@ i-bbs.sijex.net##span[style="display:block;margin:5px 0 0 0;padding:0;text-align
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.main-ad
 animeanime.jp,carcareplus.jp,cho-animedia.jp,cinemacafe.net,cyclestyle.net,gamebusiness.jp,gamespark.jp,inside-games.jp,manetatsu.com,mycar-life.com,newscafe.ne.jp,rbbtoday.com,resemom.jp,response.jp,scan.netsecurity.ne.jp,spyder7.com##.sidebox-ad
 
-! 求人ボックス
-/base/scripts/recruitmentBoxUpdater.js
-
 ||gamespark.jp/feature/advertising/
 gamespark.jp##.recruitmentBox
 gamespark.jp###ad_above_comment_html
@@ -4727,9 +4717,6 @@ nihonkuni.com##+js(nowoif)
 ! --- mangapedia.com --- !
 mangapedia.com##.contents-bottom-ads
 mangapedia.com##.description-bottom-ads
-! 求人ボックス
-||mangapedia.com/js/kyujinbox.js?
-mangapedia.com##.kyujinbox-ad
 
 ! --- mangaz.com --- !
 ||mangaz.com/js/ad_fix.js?
@@ -5093,8 +5080,6 @@ dic.nicovideo.jp##.adsense-728
 dic.nicovideo.jp##.kyujin-box-pc-container
 	!サイドバー
 dic.nicovideo.jp###right-column[style]:style(height: auto !important;)
-! 求人ボックス
-dic.nicovideo.jp##div[class^="kyujin-box-"]
 !コモンズ
 com.nicovideo.jp###community_pc_top
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150552
@@ -6171,6 +6156,20 @@ vipsister23.com#?#blockquote:-abp-has([href*="dmm.co.jp"])
 blog.livedoor.jp##:matches-path(/goldennews/)div[id^="random-product-"]
 blog.livedoor.jp##:matches-path(/goldennews/)#side-column[style^="position: fixed"]:style(position: static !important;)
 
+! --- 求人ボックス --- !
+iza.ne.jp##.kyujinbox
+kakakumag.com###kyujinbox
+maidonanews.jp##.jobs-section
+oricon.co.jp###kyujinboxArea
+sponichi.co.jp##.recruitment-list-header
+sponichi.co.jp##.recruitment-list-header + ul
+||cinematoday.jp/api/v1.0/cache/kyujin-box/
+! IID
+/base/scripts/recruitmentBoxUpdater.js
+||mangapedia.com/js/kyujinbox.js?
+mangapedia.com##.kyujinbox-ad
+dic.nicovideo.jp##div[class^="kyujin-box-"]
+kotobank.jp##.kyujinbox-ad
 
 
 
@@ -6892,8 +6891,6 @@ kotobank.jp##+js(no-setTimeout-if, return)
 kotobank.jp##.winpc .grid022leftwrap:style(margin-right: 0 !important;)
 kotobank.jp##div[class$="word-ad"]
 kotobank.jp##.header-ad
-! 求人ボックス
-kotobank.jp##.kyujinbox-ad
 
 ! modalina.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/85641
