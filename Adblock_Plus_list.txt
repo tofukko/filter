@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/08/16 21:21
+! 最終更新 2026/08/30 19:33
 !
 
 ! 2026/07/18 2026年9月30日 サ終
@@ -4040,6 +4040,8 @@ kantangame.com##.ad_super
 game.hiroba.dpoint.docomo.ne.jp##.ad_half
 game.hiroba.dpoint.docomo.ne.jp##.ad_rectangle
 game.hiroba.dpoint.docomo.ne.jp##.ad_super
+! https://tofukko.blog.fc2.com/blog-entry-405.html#comment1003
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=kantangame.com
 
 ! --- getnews.jp --- !
 getnews.jp###jp_gn_resp_article_inarticle_fundo
