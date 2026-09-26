@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/09/19 16:49
+! 最終更新 2026/09/27 0:19
 !
 
 ! 2026/07/18 2026年9月30日 サ終
@@ -6554,6 +6554,8 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .t
 @@||googletagmanager.com/gtm.js$script,domain=onlineshop.ocn.ne.jp
 	! https://github.com/AdguardTeam/AdguardFilters/issues/83956
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
+	! https://github.com/tofukko/filter/issues/112
+@@||googletagmanager.com/gtm.js$script,domain=shonenjumpplus.com
 	! https://github.com/AdguardTeam/AdguardFilters/issues/173780
 @@||googletagmanager.com/gtm.js$script,domain=sportingnews.com
 	! https://github.com/tofukko/filter/issues/92
