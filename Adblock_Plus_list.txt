@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/10/03 16:04
+! 最終更新 2026/10/09 13:43
 !
 
 ! 2026/07/18 2026年9月30日 サ終
@@ -475,7 +475,6 @@ _ads.js.
 ||ad999.biz^
 ||api.primecaster.net^
 ||assets-momentum.akamaized.net^
-||banners.itunes.apple.com^
 ||bbchat.tv^*/bannar/
 ||bitflyer.jp/Images/Affiliate/
 ||blogroll.livedoor.net/blogroll/banner/
@@ -6651,6 +6650,8 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .t
 @@||static.tacdn.com/components/dist/@ta/tracking.$script,domain=www.tripadvisor.jp
 	! 地図が無反応
 @@||stats.g.doubleclick.net/dc.js$domain=chintaistyle.jp
+	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment1011
+@@||store.storeimages.cdn-apple.com^*/analytics.js$script,domain=apple.com
 	! https://github.com/tofukko/filter/issues/37
 @@||strpf.net/ad/$xmlhttprequest,domain=big-up.style
 	! https://github.com/AdguardTeam/AdguardFilters/issues/131633
