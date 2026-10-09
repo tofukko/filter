@@ -6640,6 +6640,8 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .t
 	!申し込みランキング
 @@||rtoaster.jp/Rtoaster.js$domain=3ple.jp
 @@||rt.rtoaster.jp^$domain=3ple.jp
+	! https://github.com/tofukko/filter/issues/113
+@@||rtoaster.jp/$script,domain=nitori-net.jp
 	! https://github.com/tofukko/filter/issues/105
 @@||s.yimg.jp/images/listing/tool/cv/ytag.js$script,domain=redstoneonline.jp
 	!注目アバター
