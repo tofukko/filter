@@ -5,15 +5,6 @@
 ! 最終更新 2026/10/19 19:23
 !
 
-! 2026/07/18 2026年9月30日 サ終
-! https://bokete-photo.blogspot.com/2026/07/arigato.html
-bokete.jp##div[style="min-height:250px;width:100%"]
-bokete.jp##div:has(> div[style="width: auto; height: 100%;"] > div[id^="div-gpt-ad"])
-
-! 2026/06/06 2026年9月30日 サ終
-! https://comici.jp/comici/news/info?id=1443
-comici.jp##.a-banner-box
-
 kyuzerogo.sakura.ne.jp##.pe_1
 patriot-e.com##.thread_1
 patriot-e.com##.H
@@ -2449,9 +2440,8 @@ newser.cc##.ad
 newser.cc##.amazon
 newswitch.jp##.banner
 next2ch.net##.ad728
-nichinichi-magazine.com##.addHead
-nichinichi-magazine.com##.addSide
-nichinichi-magazine.com##.detailBottomAdWrap
+nichinichi-magazine.com##.adHead
+nichinichi-magazine.com##.adSide
 nicozon.net###ichiba
 niigata-nippo.co.jp##.m-ad
 niigata-nippo.co.jp##.m-ad-bg
