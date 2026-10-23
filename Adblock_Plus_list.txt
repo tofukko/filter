@@ -5,6 +5,10 @@
 ! 最終更新 2026/10/22 16:22
 !
 
+! 2026/10/23 2026年11月25日 サ終
+! https://x.com/uploader_jp/status/2113460461236830408
+getuploader.com###banner_eye_catch
+
 kyuzerogo.sakura.ne.jp##.pe_1
 patriot-e.com##.thread_1
 patriot-e.com##.H
@@ -1780,7 +1784,6 @@ getchu.com##.banner
 getnavi.jp##.ad
 getsuvolley.com##[class^="foot-gtp-ad-"]
 getsuvolley.com##[class^="top-gtp-adArea-"]
-getuploader.com###banner_eye_catch
 gigafree.net##.above-caption
 gigafree.net##.bottombox > .bottombox
 gigafree.net##.related-cate
