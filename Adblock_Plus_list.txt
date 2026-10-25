@@ -1067,6 +1067,7 @@ _analytics.js?
 
 ! ezoic
 ##span[data-ez-ph-id]
+##div[id^="ezoic-pub-ad-"]
 
 ! ameblo
 ! 	#freespace
@@ -2205,12 +2206,6 @@ loveh.org##.videobottompr320x100
 loveh.org##a[href=""]
 loveh.org##a[href^="https://www.dmm.co.jp/"]
 lurenewsr.com##.ad_square_sidebar
-lyrical-nonsense.com#?#.lyricside:-abp-has(> [id^="ezoic-pub-ad-placeholder-"])
-lyrical-nonsense.com##.playblockbtmcon
-lyrical-nonsense.com##.playblocktop
-lyrical-nonsense.com##.responsive0inc
-lyrical-nonsense.com##.responsive1inc
-lyrical-nonsense.com##.responsive3inc
 macsoft.jp##.freebox
 macsoft.jp##.home-post
 macsoft.jp##.post-widgets-top
@@ -2975,6 +2970,11 @@ utaten.com##.topBanner
 utaten.com##div[style="text-align: center; min-height: 100px; margin-top: 15px"]
 ! recommend
 utaten.com##.recommendAdTag
+utatime.com##.playblockbtmcon
+utatime.com##.playblocktop
+utatime.com##.responsive0inc
+utatime.com##.responsive1inc
+utatime.com##.responsive3inc
 valorantnews.jp##.header-cls
 vidoza.net##.pvr
 vipcle2.com###text-23
