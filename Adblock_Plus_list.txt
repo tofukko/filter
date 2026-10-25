@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/10/22 16:22
+! 最終更新 2026/10/25 22:12
 !
 
 ! 2026/10/23 2026年11月25日 サ終
@@ -142,7 +142,7 @@ _ads.js.
 ##AMP-AD
 
 !geniee
-!/\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script
+/\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script
 ||geniee.jp^$third-party
 ||glssp.net^$third-party
 ||ad-spire.net^$third-party
@@ -677,8 +677,10 @@ _ads.js.
 /analog/*
 /analys.js
 /analysis.js
+/analytics-events-
 /analytics.js
 _analytics.js?
+/analytics-sdk.
 /analytics?
 /analyze.cgi?
 !ログイン出来ぬ login.aliexpress.com Verification Codeがエラー
@@ -687,7 +689,6 @@ _analytics.js?
 /analyzer.js
 /apricot.php?
 /astrack.js
-/assets/analytics-
 /autotrack.js
 /autotrack.custom.js
 /bcn.gif?
@@ -6310,75 +6311,6 @@ xvideos.com##+js(nowoif)
 ||magsrv.com^
 ||orbsrv.com^
 ||exoclick.com^
-
-! regex
-/^https?:\/\/(?:www\.|[0-9a-z]{7,10}\.)?[-0-9a-z]{5,}\.com\/\/?(?:[0-9a-z]{2}\/){2,3}[0-9a-f]{32}\.js/$script,xmlhttprequest,third-party,redirect=noop.js,to=com
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,6}(?:\?[_a-z]=[-0-9a-z]+)?$/$script,third-party,match-case,redirect=noop.js
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.com\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,6}(?:\?[_a-z]=[-0-9a-z]+)?$/$subdocument,xmlhttprequest,popup,third-party,match-case,to=com
-/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{7,16}\.website\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{4,6}(?:\?[_a-z]=[-0-9a-z]+)?$/$subdocument,xmlhttprequest,popup,third-party,match-case
-/\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{4,9}\.js$/$script
-/^https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6,7}$/$script,xmlhttprequest,third-party
-/^https:\/\/[0-9a-f]{10}\.[0-9a-f]{10}\.com\/[0-9a-f]{32}\.js$/$script,third-party,to=com
-/^https:\/\/[0-9a-f]{10}\.[0-9a-f]{10}\.com\/[0-9a-f]{32}\/\d{6}\b/$xmlhttprequest,third-party,match-case,to=com
-! globalThis
-/^https?:\/\/[0-9a-f]{50,}\.s3\.amazonaws\.com\/[0-9a-f]{10}$/$xmlhttprequest,third-party
-/^https?:\/\/s3\.us-east-1\.amazonaws\.com\/[0-9a-f]{50,}\/[0-9a-f]{10}$/$xmlhttprequest,third-party
-! propeller new variants
-/^https?:\/\/[a-z]{8,15}\.top(\/(?:\d{1,5}|0NaN|articles?|browse|index|movie|news|pages?|static|view|web|wiki)){1,4}(?:\.html|\/)$/$subdocument,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.top\/(?!api|available|team)[a-z]{4,}\.json$/$xmlhttprequest,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.top\/[-a-z]{4,}\.css\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$stylesheet,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.top\/[a-z]{4,}\.png\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$image,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.xyz(\/(?:\d{1,5}|0NaN|articles?|browse|index|movie|news|pages?|static|view|web|wiki)){1,4}(?:\.html|\/)$/$subdocument,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.xyz\/(?!api|available|team)[a-z]{4,}\.json$/$xmlhttprequest,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.xyz\/[-a-z]{4,}\.css\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$stylesheet,third-party,match-case
-/^https?:\/\/[a-z]{8,15}\.xyz\/[a-z]{4,}\.png\?aHR0c[\/0-9a-zA-Z]{33,}=?=?$/$image,third-party,match-case
-.top/event|$xmlhttprequest,third-party
-.xyz/event|$xmlhttprequest,third-party
-! hilltopads
-/^https?:\/\/[-a-z]{6,}\.com?\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=co|com
-/^https?:\/\/[-a-z]{6,}\.info\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=info
-/^https?:\/\/[-a-z]{6,}\.pro\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=pro
-/^https?:\/\/[-a-z]{6,}\.xyz\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$script,xmlhttprequest,third-party,match-case,to=xyz
-
-! Mostly taken from AG and seen on various NSFW sites
-/_a_ta/s/s/*
-/a/ipn/js/*
-/a/pop/js/*
-/local_p.js^
-/local_ssu.js|
-/s/js/ssu.v2.js?v=
-/s/s/sui.php
-/s/s/suo.php
-/s/s/supc.php
-/s/s/supv.php
-/s/su.php?t=
-/javascript/fropo.js
-/s/s/js/m/custom.js?
-/s/s/js/m/custom_advanced.js?
-/s/s/js/m/im.js?
-/s/s/js/ssu.v2.
-/s/s/js/m/push.js?
-/a/na/js/*$third-party
-
-! pp server
-/^https?:\/\/[a-z]{8,15}\.xyz\/$/$xmlhttprequest,third-party,to=xyz,method=head,header=access-control-expose-headers:/X-DirectionPartner-Id/
-/^https?:\/\/[a-z]{8,15}\.com\/$/$xmlhttprequest,third-party,to=com,method=head,header=access-control-expose-headers:/X-DirectionPartner-Id/
-/^https?:\/\/[a-z]{6,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+|\/\??)?$/$script,xmlhttprequest,third-party
-/^https?:\/\/[-a-z]{8,15}\.(?:com|net)\/400\/\d{7}(?:\?v=\d+)?$/$script,third-party
-/^https?:\/\/[-a-z]{8,15}\.(?:com|net)\/401\/\d{7}(?:\?v=\d+)?$/$script,third-party
-/^https?:\/\/[-a-z]{8,15}\.(?:com|net)\/500\/\d{7}\?/$xmlhttprequest,third-party
-/^https?:\/\/[a-z]{8,15}\.(?:com|net)\/tag\.min\.js$/$script,third-party
-||dauhunecoag.net^
-||go.bundlebyte.net^
-||leewibaijoa.com^$doc,popup
-||ostupsaury.net^
-||higouckoavuck.net^$popup
-||raiphafimept.net^
-||souhoazapee.net^
-||zaisofohow.net^
-?oo=1^$xmlhttprequest,third-party
-
-/aas/r45d/vki/*$script,redirect=noop.js
 
 !easylist
 ! propu.sh variants
