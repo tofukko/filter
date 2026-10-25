@@ -5732,13 +5732,6 @@ posfie.com#?#[class="list_box"]:-abp-has(a[href^="https://www.amazon."])
 unityroom.com##.bl_adunit
 ||ad-virtua.net^
 
-! --- uraaka-joshi.com --- !
-||uraaka-joshi.com/ad-
-||uraaka-joshi.com/json/ad-
-uraaka-joshi.com#?##pickup-block > .grid:-abp-has(iframe[src*="/ad-d/"])
-uraaka-joshi.com#?##main-block > .grid > div[class^="grid-cell"]:-abp-has(iframe[src*="/ad-d/"])
-uraaka-joshi.com##+js(window.open-defuser)
-
 ! --- uranai.nosv.org --- !
 u.nosv.org###sidebar > div[style^="margin:0 auto;"]
 iralog.nosv.org###navigation > div[style^="margin-bottom:15px;"]
@@ -5778,6 +5771,7 @@ viet-jo.com##div[id^="master"]
 ! --- wav.tv --- !
 ||pokoran.com^
 ||wav.tv/support/adFrame?
+wav.tv##+js(nowoif)
 wav.tv##+js(ra, data-popup-url)
 
 ! --- weblio.jp --- !
