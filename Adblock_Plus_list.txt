@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/10/25 22:12
+! 最終更新 2026/10/28 13:38
 !
 
 ! 2026/10/23 2026年11月25日 サ終
@@ -5595,9 +5595,9 @@ thefastcode.com##body[style="margin-top: 90px; margin-bottom: 90px;"]:style(marg
 ||vlitag.com^
 
 ! --- tokyomotion.net --- !
-||d2swpuhpwp3khd.cloudfront.net^
-||tokyo-motion.net/bnr/
-||static.fc2.com/distribution/preroll/$script,domain=tokyomotion.net
+||ethnicexpressions.org^
+||vivodemisrentas.net^
+||yomeno.xyz^
 osakamotion.net,tokyomotion.net###nuevoa
 tokyomotion.net##+js(acs, document.querySelectorAll, popMagic)
 
@@ -6310,7 +6310,7 @@ xvideos.com##+js(nowoif)
 ! propu.sh variants
 /ntfc.php?
 ! Clickadu servers
-.com/src/ppu/
+.com/src/ppu/$third-party
 /aas/r45d/vki/*$third-party
 /bultykh/ipp24/7/*$third-party
 /ceef/gdt3g0/tbt/*$third-party
@@ -6320,7 +6320,7 @@ xvideos.com##+js(nowoif)
 /pn07uscr/f/tr/zavbn/*$third-party
 /q/tdl/95/dnt/*$third-party
 /sc4fr/rwff/f9ef/*$third-party
-/script/awesome.js
+/script/awesome.js$third-party
 /ssp/req/*/?pb=$third-party
 /t/9/heis/svewg/*$third-party
 
