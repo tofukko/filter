@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/10/28 13:38
+! 最終更新 2026/11/04 16:59
 !
 
 ! 2026/10/23 2026年11月25日 サ終
@@ -4733,6 +4733,10 @@ mapion.co.jp##.ad-728x250
 mapion.co.jp##.k-map-ad-wrap
 mapion.co.jp##.map-body:style(height: 100% !important;)
 mapion.co.jp##.menu-body:style(height: calc( 100% - 37px - 23px - 96px - 50px + 85px) !important;)
+
+! --- mario2-3ds.net --- !
+! https://github.com/tofukko/filter/issues/114
+doumori.com,mario2-3ds.net,mario-wiiu.net,mario3d-wiiu.net#@#script[src*="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]:first-child + .adsbygoogle + script:last-child:upward(1):style(all: initial !important;position: absolute !important;overflow: hidden !important;opacity: 0 !important;)
 
 ! --- mediaexceed.co.jp --- !
 shisha-press.com,conveni-now.com,discka.com,smopia.com###kakidashi-box-field
