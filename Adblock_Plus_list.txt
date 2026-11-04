@@ -634,7 +634,6 @@ _ads.js.
 ||tmp.sakura.tv/5chATR/ad/
 ||twoucan.com/ad?name=
 ||uta-net.com/user/phplib/js/view_jquery.js
-||utamap.com/banner/
 ||vcomi.jp/page_ad/
 ||vokka.jp/packs/js/ads-
 ||vsnp.up.seesaa.net/image/loopadpc$domain=vsnp.net
@@ -996,7 +995,6 @@ _analytics.js?
 ||tracer.jp^
 ||veritrans.co.jp/bcon/
 
-||access*.utamap.com^$script,~third-party
 ||analytics.edgekey.net^
 ||analyzer.wox.cc^
 ||bc.nhk.jp^
@@ -6596,9 +6594,6 @@ etude000.com##.thk_ps_widget:not(#thk_ps_widget-15) > .ps-wrap > .ps-widget > .t
 @@||tsyndicate.com/sdk/v1/n.js
 	! https://github.com/tofukko/filter/issues/109
 @@||umanity.jp/image/ad/
-	! https://github.com/tofukko/filter/issues/25
-@@||utamap.com/banner/dvd.jpg$image,domain=utamap.com
-@@||utamap.com/banner/y_ran_$image,domain=utamap.com
 	! キャンペーンバナー
 @@||vector.co.jp/img_cache/tq/p/service/special/sale/gachi/images/$image,domain=vector.co.jp
 @@||yimg.jp^*/lib2obf_*.js
