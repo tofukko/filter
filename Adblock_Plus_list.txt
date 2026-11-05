@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/11/04 16:59
+! 最終更新 2026/11/05 20:57
 !
 
 ! 2026/10/23 2026年11月25日 サ終
@@ -3223,6 +3223,8 @@ bbspink.com###bottomleft
 bbspink.com###bottomright
 bbspink.com##.adbanners
 bbspink.com###adoverlay
+bbspink.com##div[style="width: 300px; height: 250px;"]
+bbspink.com##div[style^="width:728px; height:90px;"]
 pinktower.com##div
 
 !Mobile
