@@ -1842,6 +1842,7 @@ h-pon.doorblog.jp##.right-container[style^="position: fixed"]:style(position: st
 h-pon.doorblog.jp##div[id^="imobile_ad_"]
 h1g.jp##div[style="height: 90px!important;"]
 h1g.jp##div[style*="width:300px;"][style*="height:250px;"]
+h1g.jp##div[style^="position:fixed;left:0;right:0;bottom:0;height:100px;"]
 h1g.jp##.upper-menu:style(height: auto !important;)
 h1g.jp###right-ad-bottom
 h1g.jp##+js(acs, document.referrer, gmo_bb)
