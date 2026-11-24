@@ -2,10 +2,11 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2026/11/05 20:57
+! 最終更新 2026/11/24 11:24
 !
 
 ! 2026/10/23 2026年11月25日 サ終
+! 2026年12月23日(水)まで延長
 ! https://x.com/uploader_jp/status/2113460461236830408
 getuploader.com###banner_eye_catch
 
@@ -3547,7 +3548,6 @@ benesse.ne.jp##[style="min-height: 300px;"]
 ! https://github.com/uBlockOrigin/uAssets/issues/12505
 bing.com##[onclick^="ad_choice"]:upward(3)
 bing.com###b_results > li[style]:not([class])
-bing.com#?#.b_algo:has(.b_caption>*:matches-css-before(display:inline-block))
 bing.com#?#.b_algo:-abp-has(.b_textAdTitleLink)
 bing.com##.ins_exp.tds
 bing.com#@#li.b_adBottom
